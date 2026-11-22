@@ -1,13 +1,704 @@
 {
- "generated_at": "2026-11-22T05:01:42.172355+00:00",
+ "generated_at": "2026-11-22T05:08:03.737971+00:00",
  "date_us": "2026-11-22",
  "per_site": {
-  "usmagazine.com": 0,
-  "news.meaww.com": 0,
-  "profiles.yahoo.com": 0,
-  "yahoo.com": 0,
-  "jang.com.pk": 0,
-  "collider.com": 0
+  "usmagazine.com": 16,
+  "news.meaww.com": 4,
+  "profiles.yahoo.com": 6,
+  "yahoo.com": 27,
+  "jang.com.pk": 8,
+  "collider.com": 8
  },
- "items": []
+ "items": [
+  {
+   "title": "Royal Family mourns personal loss as Princess Sophie's mother dies at 85",
+   "url": "https://jang.com.pk/en/76708-royal-family-mourns-personal-loss-as-princess-sophies-mother-dies-at-85-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76708_095129_eng.jpg",
+   "published": "2026-11-22T09:50:56+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Mark Hamill shares rare insight into 50-year friendship with 'Star Wars' co-star Harrison Ford",
+   "url": "https://news.meaww.com/mark-hamill-shares-rare-insight-into-50-year-friendship-with-star-wars-co-star-harrison-ford",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795321347449_08ee587bfb04.jpg",
+   "published": "2026-11-22T04:59:42+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Kim Kardashian rocks red-hot Ferrari fit supporting Lewis Hamilton at F1 Las Vegas GP",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kim-kardashian-rocks-red-hot-045425540.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/dbac747547081092ce77fb74dfb0a02257427f72f068ac5068792328514f9c1c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Feeadc4a304486959befc51aba138c0ef.jpg",
+   "published": "2026-11-22T04:54:25+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/bbc-apologises-offence-caused-strictly-044156112.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/827177c103605d3c09bbc4406d930cd7a358ce8d74a34f5756f889108c96acee/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd226fc6c9beede54bd3ea66cb0dbdfb1.jpg",
+   "published": "2026-11-22T04:41:56+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "5 Thriller Movies We Actually Want To See a Remake Of",
+   "url": "https://collider.com/thriller-movies-want-remake/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/dead-calm-1989.jpg",
+   "published": "2026-11-22T04:40:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Taylor Sheridan’s ‘Dutton Ranch’ Season 2 Has To Escape This ‘Yellowstone’ Trap",
+   "url": "https://collider.com/taylor-sheridan-dutton-ranch-yellowstone-beth-rip-change/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/dutton-ranch-christina-alexandra-voros-interview.jpg",
+   "published": "2026-11-22T04:38:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Juliet Mills Turns 85: Her 45-Year Marriage Defied the Odds of an 18-Year Age Gap",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/juliet-mills-turns-85-her-043420750.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/016595bfa737e97f34cda745747f3f20694db4de0e227a5c37914dfa7edecff2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2F3cc13593004d4630ee09d2105c559479.png",
+   "published": "2026-11-22T04:34:20+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "'RHOC' Star Shannon Beador Recalls Dog Archie's Final Day After He Became Too Weak to Stand",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/rhoc-star-shannon-beador-recalls-043011089.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c4b4af9740516ec87cc1a253f7edc467f11468c1e550739200be95482257051f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F4a22cf72790865066672de28770cfd55.jpg",
+   "published": "2026-11-22T04:30:11+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Meghan Markle Left US Because She Didn’t Want To Be Interviewed by FBI — Author",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-left-us-because-043000593.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8acb8a45e470771ad71adac404c349f4925530631d999682a6e21619304719cd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ff566ff1ca3d4abe07c4b562bfc4c25cf.jpg",
+   "published": "2026-11-22T04:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Meghan Markle Reportedly Floating ‘Divorce Book Idea Again’ As Insider Claims Duchess Is ‘Bored’ In The UK",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-reportedly-floating-divorce-043000094.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c607b48bc573c0ed9949b865263ef65827c48cd10f9a981741bf32abe44d0701/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F79e8747d243ba5bdcbd6d902d8a37e37.jpg",
+   "published": "2026-11-22T04:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Meghan Markle Left US Because She Didn’t Want To Be Interviewed by FBI — Author",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-left-us-because-043000756.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b9cc883343d9d7b626e1c91f9120e3d5e4ab165aef012f5eb7ecf1a481120856/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fbe46f50b431e58c3f3036eb5619b41bc.jpg",
+   "published": "2026-11-22T04:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "6ix9ine Sued by Kooda B Over Alleged Snitch Accusations",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/6ix9ine-sued-kooda-b-over-042542523.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1bf6432b3edca7fb721a288ecf72dfd714a769d1e307b850a48bf715ac720b6b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F70bfe1ee2d53ac230071e46df8e14e17.jpg",
+   "published": "2026-11-22T04:25:42+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Who Was Your Best Dressed This Week?",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/best-dressed-week-042243223.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/8dca3aec77e8bbcd5c8aa88fd5afa53246898fa7d7b22c3c4ecf9526f2232b9c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2F5eb7e44ede243ca4063fa9d89684a81e.jpg",
+   "published": "2026-11-22T04:22:43+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘American Psycho’ Gets Axed: Luca Guadagnino Confirms His Adaptation Is “Not Happening”",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/american-psycho-gets-axed-luca-042137102.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/7bf41cbea9357a935eb5f1bee17be7be4a8a79785aac514c1fbab262e4975157/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F2c9a01b928006f0846456141180a7ebc.jpg_up.jpg",
+   "published": "2026-11-22T04:21:37+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/week-sunday-morning-nov-22-225657531.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/c84feaba6d64659b8f5bc519c6ecf5e8a8d08965e28ea8900338a929d1db28eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fb624ee2a662d3ede31f0deae81dd69e2.jpg",
+   "published": "2026-11-22T04:18:51+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Alix Earle rocks bold sculpted black top at F1 Las Vegas Grand Prix",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/alix-earle-rocks-bold-sculpted-040613236.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/f44166ecf826d0a4b4353be7170f47ad2ac088c7100e69fd0e92f756643fd760/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F85bb720a92c1763d9c55a1037d80f2df",
+   "published": "2026-11-22T04:06:13+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Anya Taylor-Joy’s Sci-Fi Thriller Is Still Her Greatest Movie 2 Years Later",
+   "url": "https://collider.com/anya-taylor-joy-furiosa-streaming-hbo-max-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/split.jpg",
+   "published": "2026-11-22T04:03:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Meghan Trainor showcases 60lbs weight loss in plunging mini dress with showstopping bow",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/meghan-trainor-showcases-60lbs-weight-040129949.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/3522fd4f2ce8f5363d0efb01b174ad9073414f40682fe7eedee1f6681f9727dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F42e9e131e68bf0de4923c9598b53face.jpg",
+   "published": "2026-11-22T04:01:29+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "'Yes, Dear' Star Anthony Clark Died of Septic Shock, Death Certificate Reveals",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/yes-dear-star-anthony-clark-040023654.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d70cbdab4307a87ea7fdb146d76f9b4f07ccfad7b7631c79de41779edb03225c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fc4dc5798bb7f31955b79442eb9c28aa2.jpg",
+   "published": "2026-11-22T04:00:23+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus marries Maxx Morando in lavish Palm Springs poolside wedding: Report",
+   "url": "https://news.meaww.com/miley-cyrus-marries-maxx-morando-in-lavish-palm-springs-poolside-wedding-report",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795315424997_0397fbb4a419.jpg",
+   "published": "2026-11-22T03:31:25+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "First photos of Miley Cyrus' wedding dress reveal an unexpectedly elegant bridal look",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/first-photos-miley-cyrus-wedding-031431217.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/ce79fa39eb18235630a0c82fddfb04a23713ad4c9ff6eac9e12013fc8750c554/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F7f8f8aa84da156dc7e327555392577b2.jpg",
+   "published": "2026-11-22T03:14:31+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Kim Kardashian wows in sleek black leather outfit at F1 Las Vegas Grand Prix to support Lewis Hamilton",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kim-kardashian-wows-sleek-black-030433985.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/cbf1f9f728c36b1e00a8ecd338735db1be301b80644312f69c668fc57b8f5ccf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F28247ac320a67ebb8796f5c0984cd8bf",
+   "published": "2026-11-22T03:04:33+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Britney Spears says she misses family ‘like crazy’ in surprise apology after years of public feud",
+   "url": "https://news.meaww.com/britney-spears-says-she-misses-family-like-crazy-in-surprise-apology-after-years-of-public-feud",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795312650298_a673c393f8b6.jpg",
+   "published": "2026-11-22T02:56:52+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus Stuns in Backless Wedding Dress to Marry Maxx Morando in Intimate Ceremony",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/miley-cyrus-stuns-backless-wedding-025250030.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/a20cd1707c716817b728779f36d6d77fdd0e8c5c8fe32544e6d7a7b96d54f7bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fa7cc61ad1b4aa6fb5bcb3c6e5a2169c2.jpg",
+   "published": "2026-11-22T02:52:50+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Meghan Markle's cozy cream outfit is the star of her dreamy festive photo",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/meghan-markles-cozy-cream-outfit-021051120.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/bf4e7f94d42015824b3563774e8162c5311da12574da2de595a706c51cc78274/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F1412a9f088edaa328b9b33d758fffccf.jpg",
+   "published": "2026-11-22T02:10:51+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Tom Hardy's 142-Minute Near-Perfect Miniseries Still Has Not Been Beaten",
+   "url": "https://collider.com/tom-hardy-wuthering-heights-miniseries/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/img_1839.jpg",
+   "published": "2026-11-22T02:02:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Tom Hanks’ Holiday Fantasy Officially Refuses to Leave Streaming Charts",
+   "url": "https://collider.com/tom-hanks-the-polar-express-streaming-hit-100-days-hbo-max-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/tom-hanks.jpg",
+   "published": "2026-11-22T02:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jon Bernthal’s Taylor Sheridan Thriller Is Officially Leaving Netflix in 2 Weeks",
+   "url": "https://collider.com/taylor-sheridan-jon-bernthal-those-who-wish-me-dead-leaving-netflix-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/01/those-who-wish-me-dead-jon-bernthal.jpg",
+   "published": "2026-11-22T01:46:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "8 Books Like Harry Potter, but Better",
+   "url": "https://collider.com/books-like-harry-potter-but-better/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/harry-potter-2-1-1.avif",
+   "published": "2026-11-22T01:41:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus hosts lavish rehearsal dinner ahead of rumored weekend wedding to Maxx Morando",
+   "url": "https://news.meaww.com/miley-cyrus-hosts-lavish-rehearsal-dinner-ahead-of-rumored-weekend-wedding-to-maxx-morando",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795309533150_7d7f059fed0d.jpg",
+   "published": "2026-11-22T01:31:04+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "What Chicago Fire's Leading Ladies Look Like Without Makeup",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/chicago-fires-leading-ladies-look-013000420.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/c5604a11c6d60ff979aa780e9d29461ea19f527f4216d7bfa2f82c65686615c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglam_992%2F3cdbace01473c02ef8dffa6589eeb6c6.jpg",
+   "published": "2026-11-22T01:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Michael Bay’s Explosive Crime Thriller Is Officially Being Removed From Netflix",
+   "url": "https://collider.com/michael-bay-ambulance-leaving-netflix-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/11/Michael-Bay-Feature-Image-Sized.jpg",
+   "published": "2026-11-22T01:16:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus marries Maxx Morando in intimate Palm Springs wedding",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-marries-maxx-morando-004615228.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/812aeb46e7d153860d031e478f1ca4ab11c5ea16a0e71d983d212ff7da467995/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Fbcb5be14443cac9616ac6ffa9084e9bb.jpg",
+   "published": "2026-11-22T00:46:15+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/robert-pattinsons-bond-girl-does-000324233.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/98386c9c3589796a5b7bed89f967366f4603109da366b9fc293bbb2b9060eacf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0acbe9f481b49ea63c9eb8569c421cf5.png_up.jpg",
+   "published": "2026-11-21T23:53:44+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Inside Prince William, Kate Middleton's Australia trip with George, Charlotte, Louis",
+   "url": "https://jang.com.pk/en/76704-inside-prince-william-kate-middletons-australia-trip-with-george-charlotte-louis-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-21/76704_111611_eng.jpg",
+   "published": "2026-11-21T23:16:10+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Britney Spears Claims Her Exes 'Told Me to Get Surgery' on Her 'Big' Forehead",
+   "url": "https://www.usmagazine.com/celebrity-news/news/britney-spears-says-exes-told-me-to-get-surgery-on-forehead/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/britneyspearsforehead.jpg?crop=0px%2C66px%2C1329px%2C751px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-21T23:04:09+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus, Maxx Morando spark wedding buzz as they arrive for rehearsal dinner",
+   "url": "https://jang.com.pk/en/76702-miley-cyrus-maxx-morando-spark-wedding-buzz-as-they-arrive-for-rehearsal-dinner-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-21/76702_104316_eng.jpg",
+   "published": "2026-11-21T22:42:50+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "John Corbett and Bo Derek Adopted Late Gene Hackman's Dog After His Death",
+   "url": "https://www.usmagazine.com/celebrity-news/news/john-corbett-and-bo-derek-adopted-late-gene-hackmans-dog/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Gene-Hackman-1743126GettyImages-1743126.jpg",
+   "published": "2026-11-21T21:40:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "John Corbett and Bo Derek Adopted Late Gene Hackman’s Dog After His Death: ‘Perfect Gentleman’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/john-corbett-bo-derek-adopted-214000425.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1b2542197defe066ca018c95b0ebcfb01675398412409eee94184d522dc44d61/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F474a1f39aef8fa7921b909703c1c3f87.jpg",
+   "published": "2026-11-21T21:40:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Quinta Brunson Attends Abbott Elementary 100 Episode Celebration in Modified Magda Butrym x H&M Dress",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/quinta-brunson-attends-abbott-elementary-211146345.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/02a4e39458ba3e7464770bd600232323b3ad67ee9d2a1bc59c046f5c68f0bb95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2Fa3f7342c39c484b79eb7d8f633377b73.jpg",
+   "published": "2026-11-21T21:11:46+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "King Haakon issues new message after secret meeting with Prince Albert, Ingrid Alexandra",
+   "url": "https://jang.com.pk/en/76697-king-haakon-issues-new-message-after-secret-meeting-with-prince-albert-ingrid-alexandra-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-21/76697_090311_eng.jpg",
+   "published": "2026-11-21T21:03:09+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Britney Spears Apologizes to Her Family for 'Bringing Up Past Issues'",
+   "url": "https://www.usmagazine.com/celebrity-news/news/britney-spears-apologizes-to-family-for-past-issues/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Britney-Spears-GettyImages-533529024.jpg?crop=0px%2C117px%2C1329px%2C751px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-21T20:59:34+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Britney Spears Apologizes to Her Family for ‘Bringing Up Past Issues’: ‘Needed to Protect My Heart’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/britney-spears-apologizes-her-family-205934215.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3817bbe8cc31135f3bbb8b27be1a4fbd53115bc45fe7d43c3d0c2e497afd4bf4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fe9bdfb67892fce406b6812082ccc1cb9.jpg",
+   "published": "2026-11-21T20:59:34+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Bachelor's Vanessa Grimaldi and Husband Welcome 'Double Rainbow Baby'",
+   "url": "https://www.usmagazine.com/celebrity-moms/pictures/celebrity-babies-of-2026-stars-who-gave-birth-this-year/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Vanessa-Grimaldi.jpg?crop=0px%2C387px%2C1500px%2C847px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-21T20:58:56+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Titans' Jaylen Harrell, 24, Hospitalized After 'Serious Car Accident'",
+   "url": "https://www.usmagazine.com/sports/news/titans-jaylen-harrell-hospitalized-after-car-accident/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Jaylen-Harrell-GettyImages-2049065296.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-21T20:32:45+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Tabitha From Bewitched Is A Head-Turning Beauty Going Makeup-Free In Her 60s",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/tabitha-bewitched-head-turning-beauty-200000729.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/a1010e0c094e865948665c7b22bcd234b6559146e54cd332bae0d6716a29ddb1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnicki_swift_591%2F9e21d361b772032fd6339a1c1f402858.jpg",
+   "published": "2026-11-21T20:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jenny McCarthy Recalls Getting 'Cheap' Breast Augmentation at 19",
+   "url": "https://www.usmagazine.com/celebrity-body/news/jenny-mccarthy-recalls-cheap-1500-boob-job-at-19/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Jenny-McCarthy-GettyImages-2268524832.jpg?crop=0px%2C43px%2C1334px%2C754px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-21T19:42:56+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jenny McCarthy Recalls ‘Cheap’ Breast Augmentation at 19, Claims She ‘Woke Up’ Mid-Surgery",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jenny-mccarthy-recalls-cheap-breast-194256523.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8c20465896416a1454c590e8bfb45d60e1c03793c124586a93aed89910854b34/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fcff8a7d6165e693b82f450cfb7e61fd2.jpg",
+   "published": "2026-11-21T19:42:56+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "US flu cases surge early: An ER doctor’s guide to staying healthy this holiday season",
+   "url": "https://jang.com.pk/en/76688-us-flu-cases-surge-early-an-er-doctors-guide-to-staying-healthy-this-holiday-season-news",
+   "source": "jang.com.pk",
+   "category": "TV",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-21/76688_072008_eng.jpg",
+   "published": "2026-11-21T19:20:06+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "How the ‘Elsinore’ Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/elsinore-makeup-team-transformed-stars-190940455.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/b059f547ce456e765eac9a0ce2ad33036f8918f211d8e839d7c9908df188b48c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F6dcf7d04ef901c19214ad9951a3f14bf.jpg",
+   "published": "2026-11-21T19:09:40+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Taylor Swift Gifts Megan Moroney Personalized Letter After 2026 CMAs Return",
+   "url": "https://www.usmagazine.com/entertainment/news/taylor-swift-writes-megan-moroney-letter-after-2026-cmas/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Megan-Moroney-IG.jpg",
+   "published": "2026-11-21T19:06:20+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Taylor Swift Gifts Megan Moroney Signed Poster After Receiving Flowers for 2026 CMAs Return",
+   "url": "https://www.yahoo.com/entertainment/music/articles/taylor-swift-gifts-megan-moroney-190620888.html",
+   "source": "profiles.yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/77f2eeeb7b37fbb24678232d0a3ea1c88e9cf2d68826f6ad460e8a47a844d1ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fwww.usmagazine.com%2Fwp-content%2Fuploads%2F2026%2F11%2FTaylor-Swift-and-Megan-Moroney-CMAs.png%3Fquality%3D86%26strip%3Dall",
+   "published": "2026-11-21T19:06:20+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Donald Trump Reacts to Ex 'DOGE' Leader Elon Musk Claiming He's 'Not MAGA'",
+   "url": "https://www.usmagazine.com/celebrity-news/news/donald-trump-reacts-to-elon-musk-claiming-hes-not-maga/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/trumpelonmusknolongermaga.jpg?crop=0px%2C25px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-21T18:56:54+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Denmark thwarts Russian assassination plot against Ukrainian-American rapper Kyivstoner",
+   "url": "https://jang.com.pk/en/76686-denmark-thwarts-russian-assassination-plot-against-ukrainian-american-rapper-kyivstoner-news",
+   "source": "jang.com.pk",
+   "category": "Music",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-21/76686_070139_eng.jpg",
+   "published": "2026-11-21T18:50:27+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jennifer Lopez reveals surprising truth behind THIS film's marketing budget",
+   "url": "https://jang.com.pk/en/76687-jennifer-lopez-reveals-surprising-truth-behind-this-films-marketing-budget-news",
+   "source": "jang.com.pk",
+   "category": "Movies",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-21/76687_064418_eng.jpg",
+   "published": "2026-11-21T18:44:16+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Russell Brand Allegedly Struggled to Recall Katy Perry Marriage in Deposition",
+   "url": "https://www.usmagazine.com/celebrity-news/news/russell-brand-struggled-to-recall-katy-perry-marriage-dates/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Russell-Brand-and-Katy-Perry-GettyImages-112552598.jpg?crop=0px%2C281px%2C1500px%2C848px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-21T18:33:07+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Russell Brand Struggled to Recall When He Was Married to Katy Perry in 2025 Deposition: Court Docs",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/russell-brand-struggled-recall-married-183307255.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9740763496dad4fa8bce13a692b858217640e19297c8b9a82b6ea630be9e2a60/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F1809f521e04702bf6f4ec7a4c50ef933.jpg",
+   "published": "2026-11-21T18:33:07+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Florence Pugh Opens Up About the Importance of Setting Boundaries with Hollywood as an in-Demand Actress (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/florence-pugh-opens-importance-setting-183000218.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d6f23679dd040d1637543472116a7714fb178681603ceae64ca2c7b14b0282be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbd331dcef724c9ef8f9cf453e8481997.jpg",
+   "published": "2026-11-21T18:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Kate Middleton drops trailer of her secret documentary 'Heal' after cancer journey",
+   "url": "https://jang.com.pk/en/76683-kate-middleton-drops-trailer-of-her-secret-documentary-heal-after-cancer-journey-news",
+   "source": "jang.com.pk",
+   "category": "Movies",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-21/76683_053957_eng.jpg",
+   "published": "2026-11-21T17:39:56+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Candace Cameron Bure Teases 'Big Family' Holiday After Welcoming 2 Grandkids",
+   "url": "https://www.usmagazine.com/celebrity-news/news/candace-cameron-bure-teases-holidays-after-grandkids-births/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Candace-Cameron-Bure-and-Granddaughter-Winnie.jpg?crop=0px%2C455px%2C1500px%2C848px&resize=1000%2C563&quality=70&strip=all",
+   "published": "2026-11-21T17:34:43+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus' Stepsister Seemingly Shares Maxx Morando Rehearsal Dinner Pic",
+   "url": "https://www.usmagazine.com/celebrity-news/news/miley-cyrus-and-maxx-morando-hold-rehearsal-dinner-report/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/lilypurcell_4035035177938527652.jpg",
+   "published": "2026-11-21T17:06:24+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Grimes Addresses Elon Musk Criticism Over Alleged 'Fixation on Fake Women'",
+   "url": "https://www.usmagazine.com/celebrity-news/news/grimes-addresses-elon-musk-criticism-of-his-ai-fixation/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Elon-Musk-and-Grimes-GettyImages-955767200.jpg?crop=0px%2C68px%2C1333px%2C753px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-21T16:40:46+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "How did 'I Play Rocky' star Anthony Ippolito transform into Sylvester Stallone? Raw eggs, a 40-pound weight gain and some X-rated homework.",
+   "url": "https://www.yahoo.com/entertainment/movies/article/how-did-i-play-rocky-star-anthony-ippolito-transform-into-sylvester-stallone-raw-eggs-a-40-pound-weight-gain-and-some-x-rated-homework-171914757.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/1e61fa3be9fb6740cb3e6649fa53981d5fce7c492a1f27eaffd9dbe26caa0d36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-anthony-ippolito_3424.png",
+   "published": "2026-11-21T16:39:30+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "How The Valley's Kristen Doute Found 'Joy’ as a Mom Amid ‘Tough’ Postpartum",
+   "url": "https://www.usmagazine.com/celebrity-moms/news/how-the-valleys-kristen-doute-found-joy-in-new-motherhood/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/kristen-doute-james-mae.webp",
+   "published": "2026-11-21T16:14:01+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Britney Spears Offers Fans a Major Update About Long-Awaited Jewelry Line",
+   "url": "https://www.usmagazine.com/stylish/news/britney-spears-offers-major-update-about-jewelry-line/",
+   "source": "usmagazine.com",
+   "category": "Fashion",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Britney-Spears-GettyImages-597561960.jpg?crop=0px%2C90px%2C1510px%2C854px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-21T15:58:05+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jessica Simpson Debuts Brunette Hair Makeover: 'Have Fun and Then Some'",
+   "url": "https://www.usmagazine.com/stylish/news/jessica-simpson-debuts-brunette-hair-makeover-photo/",
+   "source": "usmagazine.com",
+   "category": "Fashion",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Ken-Paves-IG.png?crop=0px%2C482px%2C828px%2C468px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-21T15:28:44+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jessica Simpson Debuts Dark Hair Makeover, Says ‘Brunettes Have Fun and Then Some’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jessica-simpson-debuts-dark-hair-152844433.html",
+   "source": "profiles.yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/348a7b585bf6d215d59204e1def59a7a22559b923e4d93fe7b5efe990f062dfb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fd35babe77d6c865db2299f0fdfa0ba3b.png_up.jpg",
+   "published": "2026-11-21T15:28:44+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Beanie Feldstein Was Hospitalized 'With Complications' After C-Section",
+   "url": "https://www.usmagazine.com/celebrity-moms/news/beanie-feldstein-hospitalized-with-complications-after-birth/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Beanie-Feldstein-GettyImages-2305767500.jpg?crop=0px%2C260px%2C1333px%2C752px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-21T14:51:10+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Anthony Clark’s Official Cause Of Death Revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/anthony-clark-official-cause-death-133303912.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4bcdcfec082f46e57159421fa031958f7173f898696e45abff7aff94cc79511a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F92f253318908ee9d2075c1fb91bcc065.jpg",
+   "published": "2026-11-21T13:33:03+00:00",
+   "trending": false,
+   "trend_term": null
+  }
+ ]
 }
