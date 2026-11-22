@@ -193,6 +193,7 @@ def main():
     trends = trends_us()
     print("trending terms:", len(trends))
     today = dt.datetime.now(US_TZ).date()
+    now = dt.datetime.now(dt.timezone.utc)
     items, status, seen_urls = [], {}, set()
     for site in sites:
         if isinstance(site, dict):
@@ -208,7 +209,8 @@ def main():
             if not when:
                 continue
             dated += 1
-            if when.astimezone(US_TZ).date() != today:
+            # Rolling last 24 hours, so the page is not empty right after US midnight.
+            if now - when > dt.timedelta(hours=24) or when > now + dt.timedelta(hours=1):
                 continue
             url = e["url"]
             if not url or url in seen_urls or not e["title"]:
