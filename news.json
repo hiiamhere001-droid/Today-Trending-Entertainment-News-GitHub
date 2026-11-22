@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-22T10:44:10.909648+00:00",
+ "generated_at": "2026-11-22T11:41:16.238795+00:00",
  "date_us": "2026-11-22",
  "per_site": {
   "usmagazine.com": 16,
-  "news.meaww.com": 5,
+  "news.meaww.com": 4,
   "profiles.yahoo.com": 8,
   "yahoo.com": 27,
   "jang.com.pk": 8,
-  "collider.com": 8
+  "collider.com": 9
  },
  "items": [
   {
@@ -31,6 +31,106 @@
    "trend_term": null
   },
   {
+   "title": "Taylor Sheridan’s Best ‘Yellowstone’ Spin-Off Officially Won’t Return in 2026",
+   "url": "https://collider.com/taylor-sheridan-dutton-ranch-season-2-release-window-2027/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/yellowstone-cole-hauser-luke-grimes-kevin-costner.jpg",
+   "published": "2026-11-22T11:30:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus weds drummer Maxx Morando in California, People magazine reports",
+   "url": "https://www.yahoo.com/entertainment/articles/miley-cyrus-weds-drummer-maxx-110911233.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/57438e7cca620219120865885e2dafe723130a1917a381ad9d9c6d1b58001eae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F14b850136fcbf398cd9055dd2c606a91.jpg_up.jpg",
+   "published": "2026-11-22T11:09:11+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Mystery as member of the royal family makes weird food request",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/mystery-member-royal-family-makes-110243841.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/2adeb1b87aae0c7e2c4d39945cb7b665298313ca278511dda4d5af7f3e8f7360/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F70f439be20c70f2ce4187d80ae9ec6d3.jpg",
+   "published": "2026-11-22T11:02:43+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Recasting 10 ‘The Office’ Characters for 2026",
+   "url": "https://collider.com/perfect-the-office-cast-2026/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/the-office.jpg",
+   "published": "2026-11-22T11:01:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘The blind love era is over’: Taylor Swift superfan is done with ‘obsessive and compulsive devotion’",
+   "url": "https://www.yahoo.com/entertainment/music/articles/blind-love-era-over-taylor-110022800.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/d8855ccc4eadb1fad170eba32e6e410850e7688e5489027fdf2a1afbc14d233b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F8f48d2849b9246c23d92e28661e73812.jpg",
+   "published": "2026-11-22T11:00:22+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Anya Taylor-Joy’s New Netflix Thriller Officially Reveals First Look",
+   "url": "https://collider.com/anya-taylor-joy-netflix-how-to-kill-your-family-new-set-photos/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/furiosa-iii.jpg",
+   "published": "2026-11-22T11:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "These ‘60s Stars Left Hollywood. Here’s Why",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/60s-stars-left-hollywood-why-110000081.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7d4e7319847c22e2c6a6a2326a526ff30914ca59a75bb9651c81e51a76d43ae7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc4c28146a1b2bc47a61dd7995713ae58.jpg",
+   "published": "2026-11-22T11:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Ron Howard Takes Awards with a ‘Grain of Salt,’ but Says Oscar Win for “A Beautiful Mind” ‘Meant a Hell of a Lot to Me’ (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/ron-howard-takes-awards-grain-110000620.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/e0c9bc9264e59a82a3869181c45fa554c1e6b83a953db28d2c97e202985c873c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F19f3eb25381520ddfb6d85ee6522541b.jpg",
+   "published": "2026-11-22T11:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "America Ferrera Shines at the “Cat in the Hat” Photocall in London, Plus Hailee Steinfeld and More",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/america-ferrera-shines-cat-hat-110000857.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/1a9c8eaf9b193cf58ae5751a68bb6bf267f89317642892a0b98d41e87e006ab8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc40c83c90bbc8f5d8549ac6640cc3841.jpg_up.jpg",
+   "published": "2026-11-22T11:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "24 Cringey Images That'll Either Make You A Laugh Or Cry",
+   "url": "https://www.yahoo.com/entertainment/articles/24-cringey-images-thatll-either-110000183.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/aba1fd94ad412d1189f5103301da058e149cb9de039e0f6a3f2391a1fafc9a5f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fknow_your_meme_909%2F71fb5d87dd7da273b844a00cf7d06761.jpg",
+   "published": "2026-11-22T11:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Britney Spears makes emotional admission about family in now-deleted post",
    "url": "https://jang.com.pk/en/76712-britney-spears-makes-emotional-admission-about-family-in-now-deleted-post-news",
    "source": "jang.com.pk",
@@ -41,12 +141,32 @@
    "trend_term": null
   },
   {
-   "title": "20 Unexplained Images From The Depths Of The Internet",
-   "url": "https://www.yahoo.com/entertainment/articles/20-unexplained-images-depths-internet-103000442.html",
+   "title": "A DC Superhero Movie Made A Huge Impression On Christopher Nolan",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/dc-superhero-movie-made-huge-161800469.html",
    "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/eee52f2fcb13766b744447c30d851994a3bb7c6d5d98fc3c5e6a2aa4120119b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fknow_your_meme_909%2F20090f7442ae1cceb26a2688f65483b2.jpg",
-   "published": "2026-11-22T10:30:00+00:00",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/0ed25aec37515654c766f3a29714431f942ffc17aeda55451fbc1dc72621a2f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flooper_828%2F68872259dc24b567772344416e2a2f73.jpg",
+   "published": "2026-11-22T10:45:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "An upcoming music venue's AI flubs tell the story of a changing hipster neighborhood in Brooklyn",
+   "url": "https://www.yahoo.com/entertainment/music/articles/upcoming-music-venues-ai-flubs-103601638.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/5ee9b13fe5db4ac22aa0e5d632bccfae8c57ca892c96baa6aae3f24b5b18b97f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F1fde701528e27e0969c4e874247bd705.jpg",
+   "published": "2026-11-22T10:36:01+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "BBC Apologizes After ‘Strictly Come Dancing’ Is Interrupted By Sex Noises",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/bbc-apologizes-strictly-come-dancing-103600800.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/4716a089973712ccb0a4e29fb644e2989e2339a43d342f7f47f088c83d15e20e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fd285dfddcb3b7917eaaec57d8580b6c6.jpg_up.jpg",
+   "published": "2026-11-22T10:36:00+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -71,26 +191,6 @@
    "trend_term": null
   },
   {
-   "title": "10 Celebrities Who Got Candid About Becoming Empty Nesters",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/10-celebrities-got-candid-becoming-100000656.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9f1d4ee1e2164a6dd78241a9245fd005ea6f3299c32d4dabc4bfb89468730bfc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3a249a2f258dde46fd74e0059da3c170.jpg",
-   "published": "2026-11-22T10:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Japan: Mascot mania takes over Saitama with 200 colourful characters",
-   "url": "https://www.yahoo.com/entertainment/articles/japan-mascot-mania-takes-over-095523786.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/6961d8b695bd31f1783d32bb4440cd01ffcc456befa8d35726e5272977058a34/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fac06b855c42658791a2cdcfa4c4cfbc9.jpg_up.jpg",
-   "published": "2026-11-22T09:55:23+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Royal Family mourns personal loss as Princess Sophie's mother dies at 85",
    "url": "https://jang.com.pk/en/76708-royal-family-mourns-personal-loss-as-princess-sophies-mother-dies-at-85-news",
    "source": "jang.com.pk",
@@ -111,42 +211,12 @@
    "trend_term": null
   },
   {
-   "title": "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
-   "url": "https://www.yahoo.com/entertainment/articles/sxsw-forges-partnership-egypt-uth-094126227.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1ad365fbf5d4123a483a5f4404b9701279de4a8de73e36241937aea75463cdb2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fc6a48b8a9e6916f3866d47397a70b044.jpg",
-   "published": "2026-11-22T09:41:26+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Matt Damon’s $630M Sci-Fi Masterpiece Officially Reaches a Major Streaming Milestone",
    "url": "https://collider.com/ridley-scott-the-martian-streaming-success-100-days-apple-tv-november-2026/",
    "source": "collider.com",
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/matt-damon.jpg",
    "published": "2026-11-22T09:40:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-marries-maxx-morando-093329449.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/fbe578c68422b29fe83f7f2a0c312c8c02e41db2996d29fdd5a75ed70c423f98/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1d88f8b31911d397c7a2206cd050f54f.jpg",
-   "published": "2026-11-22T09:33:29+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Neon-Backed Biopic ‘Caesar,’ About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/neon-backed-biopic-caesar-syrian-092822695.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/9d5199733a08e143aab4291687fceb5b70c0415227d7682912b97cec768586a1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fab80032cc20997f1edce89802e451bfd.jpg_up.jpg",
-   "published": "2026-11-22T09:28:22+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -181,16 +251,6 @@
    "trend_term": null
   },
   {
-   "title": "12 of the funniest quotes in TV history - including Norm’s Cheers line that ‘hasn’t been beaten’ 36 years on, do you remember any?",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/12-funniest-quotes-tv-history-090000143.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/aafc6ac9a6be31bac9c5eb51d56c1b741c91ee25130ea257e2408cab3f57c5d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F72a04521ddbcc176bccfc978f604bae0.jpg",
-   "published": "2026-11-22T09:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Princess Beatrice's husband Edoardo Mapelli Mozzi unveils 'serene' residence where 'family can come together'",
    "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/princess-beatrices-husband-edoardo-mapelli-090000005.html",
    "source": "yahoo.com",
@@ -207,36 +267,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/bbba0191b8f8db4cf3d9b6da81a90bda94aed42e22bb68f314530144f328904d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ff1_chronicle_874%2Fe5e5c888a61ade3c18e38aa68c22e048.jpg",
    "published": "2026-11-22T08:43:55+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Sydney Sweeney’s Journey From 'Euphoria' to Hollywood Leading Lady",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/sydney-sweeney-journey-euphoria-hollywood-082600813.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/cd8ec7ddb16a9f7a2b15a3c2a0c3c78c8c29c8d389a441a2734924bd5d77cf66/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2Fc482627a96626f6f181256bd310618c1.jpg",
-   "published": "2026-11-22T08:26:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Cate Blanchett, The Queen of Red Carpet Rewears",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/cate-blanchett-queen-red-carpet-082600356.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/6364ac1973b7d17932668b1a2248ba89523c8f388e02522694e463dc91c3ddae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2F3a9a74f1a6d8a2d1952616d5525d6320.jpg",
-   "published": "2026-11-22T08:26:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Petal Power! Stars bringing flowers to the red carpet",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/petal-power-stars-bringing-flowers-082600545.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/a38b74e1902e23e4015899fcd0f3a4e92b4c6810b9c940bb72b6db034742fdce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2F4d62c179fb13136be78ee7f688a9df1a.jpg",
-   "published": "2026-11-22T08:26:00+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -291,6 +321,26 @@
    "trend_term": null
   },
   {
+   "title": "Miley Cyrus’ Dating History: A Look Back at Her Famous Exes and Marriages",
+   "url": "https://www.usmagazine.com/celebrity-news/pictures/miley-cyrus-dating-history-timeline-of-her-famous-exes-flings/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2025/12/Miley-Cyrus-Dating-History-From-Ex-Husband-Liam-Hemsworth-to-Fiance-Maxx-Morando-2197308888-2242842461-2202913017.jpg?crop=0px%2C28px%2C1690px%2C956px&resize=1000%2C563&quality=78&strip=all",
+   "published": "2026-11-22T04:40:32+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus’ Dating History: From Ex Liam Hemsworth to Husband Maxx Morando",
+   "url": "https://www.yahoo.com/entertainment/slideshows/miley-cyrus-dating-history-timeline-124235015.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/da3763f4128669e3ba339a5df0adc6b966c0419035fa80660392009a4f2cd8b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F8a9a7dd96ae1971c1967581f0fb734c5.jpg",
+   "published": "2026-11-22T04:40:32+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "5 Thriller Movies We Actually Want To See a Remake Of",
    "url": "https://collider.com/thriller-movies-want-remake/",
    "source": "collider.com",
@@ -301,22 +351,22 @@
    "trend_term": null
   },
   {
-   "title": "Taylor Sheridan’s ‘Dutton Ranch’ Season 2 Has To Escape This ‘Yellowstone’ Trap",
-   "url": "https://collider.com/taylor-sheridan-dutton-ranch-yellowstone-beth-rip-change/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/dutton-ranch-christina-alexandra-voros-interview.jpg",
-   "published": "2026-11-22T04:38:12+00:00",
+   "title": "Tallulah Willis Shares Rare Photo With Her Dad Bruce Willis",
+   "url": "https://www.usmagazine.com/celebrity-news/news/tallulah-willis-shares-rare-photo-with-her-dad-bruce-willis/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Tallulah-Willis-Shares-Rare-Photo-With-Her-Dad-Bruce-Willis-e1795321326211.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-22T04:30:06+00:00",
    "trending": false,
    "trend_term": null
   },
   {
-   "title": "Anya Taylor-Joy’s Sci-Fi Thriller Is Still Her Greatest Movie 2 Years Later",
-   "url": "https://collider.com/anya-taylor-joy-furiosa-streaming-hbo-max-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/split.jpg",
-   "published": "2026-11-22T04:03:12+00:00",
+   "title": "Tallulah Willis Shares Rare Photo With Her Dad Bruce Willis Amid His Health Struggles",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/tallulah-willis-shares-rare-photo-043006769.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/bdd270d1eadfe852f0084a0f5d5e67d360a9c347ddc16b4fa9c0a3f5564a76d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fced002456d3453172ff11dafbc2567e7.jpg",
+   "published": "2026-11-22T04:30:06+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -337,16 +387,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/4f1101999a73e8f70c0f021db9baef86ea9ead4dbc66a294779763efdc3498f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjust_jared_884%2F0562294225633413d5254f7c70008d99.jpg_up.jpg",
    "published": "2026-11-22T03:55:51+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Miley Cyrus marries Maxx Morando in lavish Palm Springs poolside wedding: Report",
-   "url": "https://news.meaww.com/miley-cyrus-marries-maxx-morando-in-lavish-palm-springs-poolside-wedding-report",
-   "source": "news.meaww.com",
-   "category": "Celebrity",
-   "image": "https://media.pubninja.com/articles/brand-5/covers/1795315424997_0397fbb4a419.jpg",
-   "published": "2026-11-22T03:31:25+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -591,16 +631,6 @@
    "trend_term": null
   },
   {
-   "title": "John Corbett and Bo Derek Adopted Late Gene Hackman’s Dog After His Death: ‘Perfect Gentleman’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/john-corbett-bo-derek-adopted-214000425.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1b2542197defe066ca018c95b0ebcfb01675398412409eee94184d522dc44d61/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F474a1f39aef8fa7921b909703c1c3f87.jpg",
-   "published": "2026-11-21T21:40:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "King Haakon issues new message after secret meeting with Prince Albert, Ingrid Alexandra",
    "url": "https://jang.com.pk/en/76697-king-haakon-issues-new-message-after-secret-meeting-with-prince-albert-ingrid-alexandra-news",
    "source": "jang.com.pk",
@@ -616,16 +646,6 @@
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Britney-Spears-GettyImages-533529024.jpg?crop=0px%2C117px%2C1329px%2C751px&resize=1000%2C563&quality=55&strip=all",
-   "published": "2026-11-21T20:59:34+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Britney Spears Apologizes to Her Family for ‘Bringing Up Past Issues’: ‘Needed to Protect My Heart’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/britney-spears-apologizes-her-family-205934215.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3817bbe8cc31135f3bbb8b27be1a4fbd53115bc45fe7d43c3d0c2e497afd4bf4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fe9bdfb67892fce406b6812082ccc1cb9.jpg",
    "published": "2026-11-21T20:59:34+00:00",
    "trending": false,
    "trend_term": null
@@ -671,32 +691,12 @@
    "trend_term": null
   },
   {
-   "title": "Donald Trump Reacts to Ex 'DOGE' Leader Elon Musk Claiming He's 'Not MAGA'",
-   "url": "https://www.usmagazine.com/celebrity-news/news/donald-trump-reacts-to-elon-musk-claiming-hes-not-maga/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/trumpelonmusknolongermaga.jpg?crop=0px%2C25px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-21T18:56:54+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Denmark thwarts Russian assassination plot against Ukrainian-American rapper Kyivstoner",
    "url": "https://jang.com.pk/en/76686-denmark-thwarts-russian-assassination-plot-against-ukrainian-american-rapper-kyivstoner-news",
    "source": "jang.com.pk",
    "category": "Music",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-21/76686_070139_eng.jpg",
    "published": "2026-11-21T18:50:27+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Russell Brand Allegedly Struggled to Recall Katy Perry Marriage in Deposition",
-   "url": "https://www.usmagazine.com/celebrity-news/news/russell-brand-struggled-to-recall-katy-perry-marriage-dates/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Russell-Brand-and-Katy-Perry-GettyImages-112552598.jpg?crop=0px%2C281px%2C1500px%2C848px&resize=1000%2C563&quality=55&strip=all",
-   "published": "2026-11-21T18:33:07+00:00",
    "trending": false,
    "trend_term": null
   },
