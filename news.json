@@ -1,15 +1,35 @@
 {
- "generated_at": "2026-11-22T11:41:16.238795+00:00",
+ "generated_at": "2026-11-22T12:48:23.228434+00:00",
  "date_us": "2026-11-22",
  "per_site": {
-  "usmagazine.com": 16,
+  "usmagazine.com": 17,
   "news.meaww.com": 4,
-  "profiles.yahoo.com": 8,
+  "profiles.yahoo.com": 9,
   "yahoo.com": 27,
-  "jang.com.pk": 8,
-  "collider.com": 9
+  "jang.com.pk": 10,
+  "collider.com": 10
  },
  "items": [
+  {
+   "title": "Elizabeth Hurley stuns with bold look at Miley Cyrus's intimate wedding: See photos",
+   "url": "https://jang.com.pk/en/76723-elizabeth-hurley-stuns-with-bold-look-at-miley-cyruss-intimate-wedding-see-photos-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76723_051212_eng.jpg",
+   "published": "2026-11-22T17:12:01+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Prince William mulls pivotal decision over Prince Harry's royal title",
+   "url": "https://jang.com.pk/en/76722-prince-william-mulls-pivotal-decision-over-prince-harrys-royal-title-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76722_045440_eng.jpg",
+   "published": "2026-11-22T16:51:00+05:00",
+   "trending": false,
+   "trend_term": null
+  },
   {
    "title": "Selena Gomez skips Miley Cyrus wedding to help Wembanyama score 50",
    "url": "https://jang.com.pk/en/76721-selena-gomez-skips-miley-cyrus-wedding-to-help-wembanyama-score-50-news",
@@ -17,6 +37,196 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76721_033844_eng.jpg",
    "published": "2026-11-22T15:28:38+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "India’s ‘Ramayana’ Officially Removed From Nearly 800 Theaters After Box Office Drop",
+   "url": "https://collider.com/ramayana-rise-of-a-legend-removed-from-800-theaters-box-office/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/world-of-ramayana-3.jpg",
+   "published": "2026-11-22T12:45:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "The 8 Best Miniseries of the Streaming Era, Ranked",
+   "url": "https://collider.com/best-miniseries-streaming-era-ranked/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/copy-of-collider-template-57.jpg",
+   "published": "2026-11-22T12:31:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "I'm Going To Hell For Laughing At These Unfortunate People, But I Can't Help Myself",
+   "url": "https://www.yahoo.com/entertainment/articles/im-going-hell-laughing-unfortunate-123103755.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9392161ecf7ec9317a61f39dd2d4a21bc089463a326951c1b9d57ffbde22bfba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F0b77f43353ff90960874fe3ad4787bc1.jpg",
+   "published": "2026-11-22T12:31:03+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "HBO’s Acclaimed Historical Masterpiece Is Officially Dominating Streaming Charts",
+   "url": "https://collider.com/the-gilded-age-streaming-hit-hbo-max-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/the-gilded-age-key-art-van-rhijn-family.jpg",
+   "published": "2026-11-22T12:30:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jennifer Lawrence and Josh Hutcherson’s Reunion for “Sunrise on the Reaping” Was ‘Really Special,’ Director Says (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/jennifer-lawrence-josh-hutcherson-reunion-123000856.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/b10a7834d3df899d1f93bd2c2bfa7f709049cdfe3326865c5b14ac057f1bc1e0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fef25585c3a42943e77b5480cecfb9e82.jpg",
+   "published": "2026-11-22T12:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Meet the Kids of the “9-1-1: Nashville” Cast",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/meet-kids-9-1-1-123000483.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/d16e9defb12c5b4edca42bbe6c2657f8a46d181f108b98643f8b59946e294eb6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F5ec8a084a872f5578e46265c2376b324.jpg",
+   "published": "2026-11-22T12:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "25 'Clever Comebacks' That Totally Owned Someone",
+   "url": "https://www.yahoo.com/entertainment/articles/25-clever-comebacks-totally-owned-123000314.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4467ccab50ebc9fbc5aad2546ef8d854191e5aacbe1eb069f25f36f8f885d99c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fknow_your_meme_909%2F2c244144083fda1b0350b84327d537f2.jpg",
+   "published": "2026-11-22T12:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "19 Rule-Breakers Who Proudly And Hilariously Defaced Something",
+   "url": "https://www.yahoo.com/entertainment/articles/19-rule-breakers-proudly-hilariously-121603168.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c40c62db6afc75b44377fc49b1361b9f9f812280904edea6089b5d2aeda4bed9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2Fe44ffb839f4cabc6adc2e1050c642d5b.jpg",
+   "published": "2026-11-22T12:16:03+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "5 Dystopian Shows Better Than The Hunger Games",
+   "url": "https://collider.com/dystopian-shows-better-than-the-hunger-games/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/president-snow-hunger-games-donald-sutherland-1.jpeg",
+   "published": "2026-11-22T12:09:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Forget 'Black Mirror,' These 10 Dark Sci-Fi Shows Take Dystopia Even Further",
+   "url": "https://collider.com/dark-sci-fi-shows-dystopian-like-black-mirror/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/john-turturro-adam-scott-britt-lower-and-zach-cherry-in-severance-2022.jpg",
+   "published": "2026-11-22T12:09:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "They’re not totally in control’: Joe Rogan ‘nervous’ about major ‘worldwide’ tech outage",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/not-totally-control-joe-rogan-120050317.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d41f0df1b02588aa0238376038ed3a4ae47988cbe09e154c835a67a1c603006d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2Fd28d92f4f9d8de5cf4816664c80024d1.jpg",
+   "published": "2026-11-22T12:00:50+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "The Next ‘The Witcher’ Book Is Officially Delayed",
+   "url": "https://collider.com/the-witcher-books-new-english-translations-delayed-2027/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/henry-cavill-as-geralt-of-rivia-in-the-witcher.jpg",
+   "published": "2026-11-22T12:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "HBO Max Officially Scores a Monster Streaming Hit With Anne Hathaway’s Sci-Fi Thriller",
+   "url": "https://collider.com/anne-hathaway-the-end-of-oak-street-streaming-hit-hbo-max-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-end-of-oak-street.jpg",
+   "published": "2026-11-22T12:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "10 Unexpected Rules the Royals Must Follow When Interacting with the Public",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/10-unexpected-rules-royals-must-120000937.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0571215a4d95a07c164fe7323bbd2c53cf5124cb3365ac6516f857a4227b2142/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F9f201e3972164f61801fc33ff972649c.jpg",
+   "published": "2026-11-22T12:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Billy Ray Cyrus Reunites With Miley Cyrus At Her Wedding After Years Of Family Feud As Elizabeth Hurley Joins Him",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/billy-ray-cyrus-reunites-miley-120000181.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/00d84e3c1e1e8d3c55def517397b7f4efd586a4051367f7b76003e0e3087be51/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fb14d2ff733b4b28f64a9730f9fd2d1a2.jpg",
+   "published": "2026-11-22T12:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "“Flashdance”’s Jennifer Beals Quit Dancing for Decades Due to Increased Scrutiny After the ‘80s Movie: ‘Joy Got Sucked Out of It’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/flashdance-jennifer-beals-quit-dancing-115900082.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/f4c8612ca16041fe22050f715531a1a77f0321881387e8c02901fa381214b193/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fda5cd2e02120184dfe9161445e80b7c2.jpg",
+   "published": "2026-11-22T11:59:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "'You've Got to Be Kitten Me': 35 Best Animal Memes of the Week to Make Your Weekend Un-fur-gettable (November 21, 2026)",
+   "url": "https://www.yahoo.com/entertainment/articles/youve-got-kitten-35-best-115800032.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0d80a4958680e10e00c40eb60074a073ae41c036d5550ad417b3b742a66580a1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcracked_901%2Fb0803ad23276730f0e23ae16c04bb830.jpg",
+   "published": "2026-11-22T11:58:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Mystery as member of the royal family makes weird food request",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/mystery-member-royal-family-makes-110243841.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/2adeb1b87aae0c7e2c4d39945cb7b665298313ca278511dda4d5af7f3e8f7360/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F70f439be20c70f2ce4187d80ae9ec6d3.jpg",
+   "published": "2026-11-22T11:53:48+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘Widow’s Bay’ Season 2 Is Changing the Show’s Formula in Exactly the Right Way",
+   "url": "https://collider.com/widows-bay-season-2-formula-change-pacing-katie-dippold-comments/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/widows-bay-3.jpg",
+   "published": "2026-11-22T11:44:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -41,26 +251,6 @@
    "trend_term": null
   },
   {
-   "title": "Miley Cyrus weds drummer Maxx Morando in California, People magazine reports",
-   "url": "https://www.yahoo.com/entertainment/articles/miley-cyrus-weds-drummer-maxx-110911233.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/57438e7cca620219120865885e2dafe723130a1917a381ad9d9c6d1b58001eae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F14b850136fcbf398cd9055dd2c606a91.jpg_up.jpg",
-   "published": "2026-11-22T11:09:11+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Mystery as member of the royal family makes weird food request",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/mystery-member-royal-family-makes-110243841.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/2adeb1b87aae0c7e2c4d39945cb7b665298313ca278511dda4d5af7f3e8f7360/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F70f439be20c70f2ce4187d80ae9ec6d3.jpg",
-   "published": "2026-11-22T11:02:43+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Recasting 10 ‘The Office’ Characters for 2026",
    "url": "https://collider.com/perfect-the-office-cast-2026/",
    "source": "collider.com",
@@ -71,41 +261,11 @@
    "trend_term": null
   },
   {
-   "title": "‘The blind love era is over’: Taylor Swift superfan is done with ‘obsessive and compulsive devotion’",
-   "url": "https://www.yahoo.com/entertainment/music/articles/blind-love-era-over-taylor-110022800.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/d8855ccc4eadb1fad170eba32e6e410850e7688e5489027fdf2a1afbc14d233b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F8f48d2849b9246c23d92e28661e73812.jpg",
-   "published": "2026-11-22T11:00:22+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Anya Taylor-Joy’s New Netflix Thriller Officially Reveals First Look",
-   "url": "https://collider.com/anya-taylor-joy-netflix-how-to-kill-your-family-new-set-photos/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/furiosa-iii.jpg",
-   "published": "2026-11-22T11:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "These ‘60s Stars Left Hollywood. Here’s Why",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/60s-stars-left-hollywood-why-110000081.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/7d4e7319847c22e2c6a6a2326a526ff30914ca59a75bb9651c81e51a76d43ae7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc4c28146a1b2bc47a61dd7995713ae58.jpg",
-   "published": "2026-11-22T11:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Ron Howard Takes Awards with a ‘Grain of Salt,’ but Says Oscar Win for “A Beautiful Mind” ‘Meant a Hell of a Lot to Me’ (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/ron-howard-takes-awards-grain-110000620.html",
-   "source": "yahoo.com",
-   "category": "Awards",
-   "image": "https://s.yimg.com/lo/mysterio/api/e0c9bc9264e59a82a3869181c45fa554c1e6b83a953db28d2c97e202985c873c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F19f3eb25381520ddfb6d85ee6522541b.jpg",
    "published": "2026-11-22T11:00:00+00:00",
    "trending": false,
    "trend_term": null
@@ -121,62 +281,12 @@
    "trend_term": null
   },
   {
-   "title": "24 Cringey Images That'll Either Make You A Laugh Or Cry",
-   "url": "https://www.yahoo.com/entertainment/articles/24-cringey-images-thatll-either-110000183.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/aba1fd94ad412d1189f5103301da058e149cb9de039e0f6a3f2391a1fafc9a5f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fknow_your_meme_909%2F71fb5d87dd7da273b844a00cf7d06761.jpg",
-   "published": "2026-11-22T11:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Britney Spears makes emotional admission about family in now-deleted post",
    "url": "https://jang.com.pk/en/76712-britney-spears-makes-emotional-admission-about-family-in-now-deleted-post-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76712_105209_eng.jpg",
    "published": "2026-11-22T10:52:39+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "A DC Superhero Movie Made A Huge Impression On Christopher Nolan",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/dc-superhero-movie-made-huge-161800469.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/0ed25aec37515654c766f3a29714431f942ffc17aeda55451fbc1dc72621a2f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flooper_828%2F68872259dc24b567772344416e2a2f73.jpg",
-   "published": "2026-11-22T10:45:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "An upcoming music venue's AI flubs tell the story of a changing hipster neighborhood in Brooklyn",
-   "url": "https://www.yahoo.com/entertainment/music/articles/upcoming-music-venues-ai-flubs-103601638.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/5ee9b13fe5db4ac22aa0e5d632bccfae8c57ca892c96baa6aae3f24b5b18b97f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F1fde701528e27e0969c4e874247bd705.jpg",
-   "published": "2026-11-22T10:36:01+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "BBC Apologizes After ‘Strictly Come Dancing’ Is Interrupted By Sex Noises",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/bbc-apologizes-strictly-come-dancing-103600800.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/4716a089973712ccb0a4e29fb644e2989e2339a43d342f7f47f088c83d15e20e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fd285dfddcb3b7917eaaec57d8580b6c6.jpg_up.jpg",
-   "published": "2026-11-22T10:36:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "30 Years Later, a Magical Adaptation Is Officially HBO’s Latest Hit Before ‘Harry Potter’",
-   "url": "https://collider.com/matilda-streaming-hit-hbo-max-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/hbo-max-logo-featured.jpg",
-   "published": "2026-11-22T10:20:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -191,72 +301,22 @@
    "trend_term": null
   },
   {
+   "title": "What watch will Robert Pattinson wear as the next James Bond? I did some sleuthing, and these are my two predictions",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/watch-robert-pattinson-wear-next-100000091.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/d3a564c4b047658f94f945f56ab48f7ae4b2b6a52a6af62316a8652dad73b0d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ft3_620%2F2ce742702e8b721eb41b5c9a6301b988.jpg",
+   "published": "2026-11-22T10:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Royal Family mourns personal loss as Princess Sophie's mother dies at 85",
    "url": "https://jang.com.pk/en/76708-royal-family-mourns-personal-loss-as-princess-sophies-mother-dies-at-85-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76708_095129_eng.jpg",
    "published": "2026-11-22T09:50:56+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Prince William will strip Prince Harry of his royal title - report",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-strip-prince-harry-094317946.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/4d0c565b5fecbba52d79063e8faa6f05c2384b71ca6235221fa0141e201ccf90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F49271fcafaee2e7f9c1152bfc949b0cc.jpg",
-   "published": "2026-11-22T09:43:17+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Matt Damon’s $630M Sci-Fi Masterpiece Officially Reaches a Major Streaming Milestone",
-   "url": "https://collider.com/ridley-scott-the-martian-streaming-success-100-days-apple-tv-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/matt-damon.jpg",
-   "published": "2026-11-22T09:40:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Guy Ritchie’s ‘The Gentlemen’ Season 3 Officially Lands Its First Major Update",
-   "url": "https://collider.com/guy-ritchie-the-gentlemen-robert-de-niro-inspiration-theo-james/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/the-gentlemen-theo-james-car.jpg",
-   "published": "2026-11-22T09:20:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Joanna Page says she nearly messed up Gavin and Stacey audition",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/joanna-page-says-she-nearly-090418762.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3dfcccb7d02120d1aa77ce650aeedf7317a91c90b7c46ac7181c4462b9f30bb8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd138e2ab9de7f1fe108a7c52db5c1884.jpg",
-   "published": "2026-11-22T09:04:18+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Guy Ritchie's 129-Minute Mystery Thriller Officially Returns to HBO Max",
-   "url": "https://collider.com/sherlock-holmes-game-of-shadows-hbo-max-streaming-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/sherlock-holmes-a-game-of-shadows-jared-harris.jpg",
-   "published": "2026-11-22T09:01:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Princess Beatrice's husband Edoardo Mapelli Mozzi unveils 'serene' residence where 'family can come together'",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/princess-beatrices-husband-edoardo-mapelli-090000005.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/459e6e094ad626d15165c9a639257191a8d5d75fd15eb965e00b164aae0f84e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fe6dcc81439fce7ec53c141b4db67616e.jpg",
-   "published": "2026-11-22T09:00:00+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -301,12 +361,22 @@
    "trend_term": null
   },
   {
-   "title": "The Masterpiece Heist Thriller That Inspired Michael B. Jordan’s New Film Officially Hits Free Streaming",
-   "url": "https://collider.com/the-thomas-crown-affair-michael-b-jordan-original-streaming-free-tubi-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/thomas-crown-affair-michael-b-jordan.jpg",
-   "published": "2026-11-22T05:29:20+00:00",
+   "title": "Rob Kardashian Shares Rare Photo With Daughter Dream, Blac Chyna Reacts",
+   "url": "https://www.usmagazine.com/celebrity-news/news/rob-kardashian-shares-rare-photo-with-dream-blac-chyna-reacts/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-530516214-Rob-Kardashian-Shares-Rare-Photo-With-Dream-Blac-Chyna-Reacts-e1795323885884.jpg?crop=0px%2C70px%2C1333px%2C753px&resize=1000%2C563&quality=70&strip=all",
+   "published": "2026-11-22T05:27:24+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Rob Kardashian Shares Rare Photo With Daughter Dream For Her Birthday, Blac Chyna Reacts",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/rob-kardashian-shares-rare-photo-052724452.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/17d187c9374cf9ad66f5d8a2a21f61da956ba8adb4f2aa539bd6fd10bf14d505/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fb2e7e9a977f2a19667786466ff9e339c.jpg",
+   "published": "2026-11-22T05:27:24+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -337,16 +407,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/da3763f4128669e3ba339a5df0adc6b966c0419035fa80660392009a4f2cd8b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F8a9a7dd96ae1971c1967581f0fb734c5.jpg",
    "published": "2026-11-22T04:40:32+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "5 Thriller Movies We Actually Want To See a Remake Of",
-   "url": "https://collider.com/thriller-movies-want-remake/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/dead-calm-1989.jpg",
-   "published": "2026-11-22T04:40:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -497,16 +557,6 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Actor-EJ-Carroll-Dies-Suddenly-at-66.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
    "published": "2026-11-22T01:30:08+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "What Chicago Fire's Leading Ladies Look Like Without Makeup",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/chicago-fires-leading-ladies-look-013000420.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/c5604a11c6d60ff979aa780e9d29461ea19f527f4216d7bfa2f82c65686615c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglam_992%2F3cdbace01473c02ef8dffa6589eeb6c6.jpg",
-   "published": "2026-11-22T01:30:00+00:00",
    "trending": false,
    "trend_term": null
   },
