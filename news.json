@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-22T20:41:11.742938+00:00",
+ "generated_at": "2026-11-22T21:38:59.562952+00:00",
  "date_us": "2026-11-22",
  "per_site": {
   "usmagazine.com": 15,
-  "news.meaww.com": 3,
+  "news.meaww.com": 2,
   "profiles.yahoo.com": 8,
   "yahoo.com": 27,
   "jang.com.pk": 10,
@@ -31,52 +31,172 @@
    "trend_term": null
   },
   {
-   "title": "Harry Jowsey Reveals Netflix's 'Let's Marry Harry' Paid Him More Than Any Other Reality Show",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/harry-jowsey-reveals-netflixs-lets-203020533.html",
+   "title": "‘Sunrise on the Reaping’ Officially Rebels Against Critics With Massive Audience Score",
+   "url": "https://collider.com/hunger-games-sunrise-on-the-reaping-rotten-tomatoes-audience-score/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hunger-games-sunrise-on-the-reaping-joseph-zada-2.jpg",
+   "published": "2026-11-22T21:31:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Prince Harry And Meghan Get Stern Warning Over Seemingly ‘Calculated’ Moves To Outshine Prince William And Kate",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-stern-warning-213000326.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/76eea69c1f448a96bec1371acd7d6f1c8f63b158775a94a3ba3bdac7c7eba6d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fbae601b1aceafe77d6ae404f8e99af30.png_up.jpg",
+   "published": "2026-11-22T21:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Kate Middleton Reveals Surprise Documentary: See the \"Heal\" Trailer",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-reveals-surprise-documentary-212941796.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/c041f81e7edf18a80590e5048feb46de2cadc5ea44aa18ff6bf9f23d3049df48/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkatie_couric_media_articles_233%2F1b1dd40e948274e31e3b31f706df36e4.jpg",
+   "published": "2026-11-22T21:29:41+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Sheila Mangubat, ‘90 Day Fiancé’ Reality Star, Dies At 35",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/sheila-mangubat-90-day-fianc-212648475.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/081fe7d8d82849cdec7a9a4d82e26e452921ce1ae84181652a157ae95f910c7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Fcf3b1d5dc5cbd53c4859b2e0171d3688.jpg_up.jpg",
+   "published": "2026-11-22T21:26:48+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Rachael Leigh Cook Plays Twins In Her New Hallmark Movie. I’m Surprised At What Weirded Her Out",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/rachael-leigh-cook-plays-twins-212605934.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/637bf3da85e4d12dae02c4699043bb6462d75e3b14583f140766df1c53a37e48/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F2a8bac42fb17b7d822ef5f4f3918d49c.jpg",
+   "published": "2026-11-22T21:26:05+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Before ‘Ted Lasso,’ HBO’s Forgotten 5-Part Sports Series Was Perfect From Start to Finish",
+   "url": "https://collider.com/before-ted-lasso-best-hbo-sports-series-ballers-dwayne-johnson/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/ted-lasso-apple-tv.jpeg",
+   "published": "2026-11-22T21:24:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+   "url": "https://www.yahoo.com/entertainment/articles/miley-cyrus-marries-maxx-morando-084737807.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e590e81c4d4dee61e4a2b5d141a6fb93f3cca56c6487f702dac51674a4fddb64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F4cddf7511f1ad85e732f59970e9298f7.jpg",
+   "published": "2026-11-22T21:22:45+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Cornell Young IV Opens Up About Homelessness Before Fame",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/cornell-young-iv-opens-homelessness-211624467.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7d756799bdc078c1c91adbad98a325a2b15d101ae1801d21fdae54bd0a14ca0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F97f03449c105209b69505e591af6dd8d.jpg",
+   "published": "2026-11-22T21:16:24+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "The Thomas Jane Horror Movie On Netflix Is Still Stephen King’s Scariest Story",
+   "url": "https://www.yahoo.com/entertainment/articles/thomas-jane-horror-movie-netflix-193142270.html",
    "source": "yahoo.com",
    "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/993f77a08af002690f5aa24fc39ce097b1dc8596e1645c43f96f1f817306d8b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F18ff082f824e1a14cb187a2d474bceac.jpg",
-   "published": "2026-11-22T20:30:20+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/9b6dbe0a44980143a21f5f516947b94d35667d609ff7a0b31ff2b6d7050aed06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgiant_freakin_robot_articles_628%2Fca02750dab6b47e09230a32b79cbef2e.png_up.jpg",
+   "published": "2026-11-22T21:11:05+00:00",
    "trending": false,
    "trend_term": null
   },
   {
-   "title": "Russell Brand’s Wife Stands By Him In New Video Despite Being Branded A ‘Monster’s Mouthpiece’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/russell-brand-wife-stands-him-203000948.html",
+   "title": "Huelva Ibero-American Film Festival Prizes: ‘After Elena,’ Alfredo Castro, Lucía Puenzo and ‘La Bola Negra’ Win Big",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/huelva-ibero-american-film-festival-210957995.html",
    "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/6b61ae153b515a9069ccb203b86e11422ca0d92eb7187d5332816bee3b0e8f9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fa5b7e22421040ef3f2b2f460d36c0231.jpg",
-   "published": "2026-11-22T20:30:00+00:00",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/066f1bc58ace733cf382e252227001360358e86c8ba5a966d5446803057343de/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F6db08cde0b1b8c740d88054bb22b8898.jpg",
+   "published": "2026-11-22T21:09:57+00:00",
    "trending": false,
    "trend_term": null
   },
   {
-   "title": "Travis Kelce Channels Justin Bieber with Smiley-Faced Look at Chiefs-Cardinals Game",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/travis-kelce-channels-justin-bieber-202715133.html",
+   "title": "The Hunger Games' Haymitch Actor Had A Hot Take About Sunrise On The Reaping Making Him Say 'Lenore Dove' Over And Over",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/hunger-games-haymitch-actor-had-210549827.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/92a3a4475bf23ce610aedb9a45e144ef4e89364a6faf0a3841da0605f06dde47/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F17ac56e62a234ed4938d61ce58749fa6.jpg",
+   "published": "2026-11-22T21:05:49+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Taylor Swift Wears $60 Chiefs Jacket from Friend Erin Andrews’ Line to Cheer on Husband Travis Kelce",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/taylor-swift-wears-60-chiefs-210301101.html",
    "source": "yahoo.com",
    "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/c6d043877b426b605fdc0daf59445dac3de0c3661996252313d7162b6a348f81/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F741587eecc62e6ac1c1b4414399de667.jpg",
-   "published": "2026-11-22T20:27:15+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/2b87eaa7e37819315ce63e97b058a9d27a356fd839973d468ed7ca0459754553/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F71502721d398c7f95b263f7b135ae350.jpg",
+   "published": "2026-11-22T21:03:01+00:00",
    "trending": false,
    "trend_term": null
   },
   {
-   "title": "Andrew Rannells Claims Kevin Spacey Asked Him on a Date After ‘Rubbing’ His Neck Backstage at “The Book of Mormon”",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/andrew-rannells-claims-kevin-spacey-202201570.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/61ad59b37ebf7d6b6b0ea79f6878654e41ff83fd798385670201949a665afad0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fe39679344e0766b9489e32749af2e9cb.jpg",
-   "published": "2026-11-22T20:22:01+00:00",
+   "title": "‘The Hunting Wives’ Author Officially Releases Another Twisted Texas Murder Mystery",
+   "url": "https://collider.com/the-hunting-wives-may-cobb-all-the-little-secrets-book-release/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/the-hunting-wives.jpg",
+   "published": "2026-11-22T21:00:12+00:00",
    "trending": false,
    "trend_term": null
   },
   {
-   "title": "Scott Wolf Announces the Death of His Dad, Says He’s Left ‘a Hole in the Center of Our Hearts’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/scott-wolf-announces-death-dad-202141143.html",
+   "title": "Kate Middleton Reportedly Has ‘No Preferential Treatment’ Rule For George, Charlotte, And Louis As They Make Their Own Beds And Breakfast",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-reportedly-no-preferential-210000152.html",
    "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e1e978a4a375c6268ec04209e7bd88fa6523f3d38038c322dd637840ee34da42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F1b2847c5c298e79774248828b5195043.jpg",
-   "published": "2026-11-22T20:21:41+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/200405c3567e34aa25ad9f46dd3387a91b6683031beba8703b6b4986b04a6db2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fca0f01db409bfe22eaabee62fad9a634.jpg",
+   "published": "2026-11-22T21:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘Squid Game’ Meets ‘The Running Man’ in Netflix’s Next Must-Watch Thriller",
+   "url": "https://collider.com/netflix-quiztopia-squid-game-running-man-japanese-thriller/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/07/the-running-man.jpg",
+   "published": "2026-11-22T20:55:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Famed Napa wine guru and ‘Somm’ doc breakout star dead at 46",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/famed-napa-wine-guru-somm-205349287.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f9511989f0f98ed4e4ae2c349bcfb400ef43f70c0052dc05769f7cb2d0aa99ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fd4eb613b5c3c127eb2c53a1506d45b4f.jpg",
+   "published": "2026-11-22T20:53:49+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "John Turturro Says ‘I Still Consider Myself a Beginner’ as He Gets Marrakech Film Festival Tribute Award: ‘Every Job Is Like a First Love’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/john-turturro-says-still-consider-203911352.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/7effb14ef00feee775fba80e820bf9e71f6a66ab22beab7d1b73ea18a4d52c47/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fcbfb9a49af5bb2b07e032091e1a75f58.jpg_up.jpg",
+   "published": "2026-11-22T20:39:11+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -87,46 +207,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/023caca7b35892ab6a64ee036695b83f1f3733f5bb9a87405475523545a82186/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F338fae06700f448ff7a86e1329a4066d.jpg",
    "published": "2026-11-22T20:20:26+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Bruce Willis’s daughter Tallulah apologizes for sharing ‘intimate’ photo of actor amid dementia diagnosis",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/bruce-willis-daughter-tallulah-apologizes-200921201.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/45b51650bc79b01d4728685e5667746f5294f217f498769550de3845e2d72357/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fecf9bafbc9b65d1c60dc1279310893df.jpg_up.jpg",
-   "published": "2026-11-22T20:18:42+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Meghan Markle Targeted By Email Campaign, Blogger Claims",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-targeted-email-campaign-201742279.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/6c8ba9867ac16284b7ba9b82ae3965ab8cf176e95a649118ce23f935b3b6feaa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F184c2867fa20313d36ef9c8f7bd9b027.jpg",
-   "published": "2026-11-22T20:17:42+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Ina Garten Says She Turned Down ‘Dancing With the Stars’ Because the Thought of Competing Gave Her ‘Nightmares’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ina-garten-says-she-turned-201453828.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/7f9b237f3242202c3673411ed80b25224d8aa296dfb9c44f6b8e2da9355087d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fb24e1558e579360cf219363540d6b12e.jpg",
-   "published": "2026-11-22T20:14:53+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Drake Says He’ll Release “Piece of Me” Once His Engineer Sends the Files",
-   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/drake-says-ll-release-piece-201107594.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/fd56df9bd525d284dedc0d8d2218e55ee8025f82c78a9a8d17996c81a448229a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fb8eda765e214e9a1daaa4d59e50a9969.jpg",
-   "published": "2026-11-22T20:11:07+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -147,26 +227,6 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/house-of-the-dragon-olivia-cooke-1.jpeg",
    "published": "2026-11-22T20:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "King Charles Is Allegedly ‘Punishing’ Prince William Out Of Jealousy As He Lets Prince Harry And Meghan Markle ‘Keep Doing What They’re Doing’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/king-charles-allegedly-punishing-prince-200000093.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8844865229e464bed60cbf1b3917db5f52faa6a773b11802730af832e87ae07c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fc8aa987da866e0491fae7eba8668991e.jpg_up.jpg",
-   "published": "2026-11-22T20:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Chad Michael Murray explains ‘massive love session’ with Jamie Lee Curtis in “Freaky Friday”",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/chad-michael-murray-explains-massive-200000468.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b96dd299f4c0a260d9ea3c30f4cc1ba5b4591cc9140152648039389e100dcdbc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2F909fba0ba4eda369375177dae5443eb7.jpg",
-   "published": "2026-11-22T20:00:00+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -197,16 +257,6 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76733_074720_eng.jpg",
    "published": "2026-11-22T19:47:18+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Taylor Swift wears windbreaker by Erin Andrews to Chiefs vs Cardinals game",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/taylor-swift-wears-windbreaker-erin-193340561.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/799d8231ccedb120ad77d5a080bfeb3525dd5fac2bcedc13cf235b7f61e5970d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F422fa8afa35a059dc710582524809400.jpg",
-   "published": "2026-11-22T19:33:40+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -251,36 +301,6 @@
    "trend_term": null
   },
   {
-   "title": "The 10 Best Documentaries in Cinema History, Ranked",
-   "url": "https://collider.com/best-documentaries-cinema-history-ranked/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/grizzly-man-2005-poster-crop.jpg",
-   "published": "2026-11-22T19:11:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Netflix’s Near-Perfect Sci-Fi Masterpiece Officially Confirms Reduced Episode Count",
-   "url": "https://collider.com/3-body-problem-season-2-official-episode-count-netflix/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/3-body-problem.jpg",
-   "published": "2026-11-22T19:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Jensen Ackles' #1 Prime Video Action Thriller Is a Masterclass in Pure Adrenaline",
-   "url": "https://collider.com/jensen-ackles-prime-video-action-thriller-countdown/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/countdown-feature.jpg",
-   "published": "2026-11-22T18:58:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Prince William has big decision to make after Princess Charlotte's surprise move",
    "url": "https://jang.com.pk/en/76729-prince-william-has-big-decision-to-make-after-princess-charlottes-surprise-move-news",
    "source": "jang.com.pk",
@@ -297,16 +317,6 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/c46a7e9066f2d3db6f7c74c91a0af803d032d9f4cae411a3d89488349d4e59bf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F9ea7cac59591e5714d575c92a1fb2998.jpg",
    "published": "2026-11-22T18:47:06+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "10 Greatest Mystery Shows With Detectives, Ranked",
-   "url": "https://collider.com/best-mystery-shows-detectives-ranked/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/woody-harrelson-true-detective.jpg",
-   "published": "2026-11-22T18:40:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -366,7 +376,47 @@
    "source": "yahoo.com",
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/bba2fdfce9d30bf9ba4268d77bfdfb57ecd145f2c1db66069617d9460931ab54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fe__181%2Fd5ff8dc21a3bc8c9298916b9a434e4c4.jpg",
-   "published": "2026-11-22T16:06:05+00:00",
+   "published": "2026-11-22T16:06:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "'90 Day Fiance' Tragedies: The Saddest and Most Shocking Deaths",
+   "url": "https://www.usmagazine.com/celebrity-news/pictures/90-day-fiance-tragedies-the-saddest-and-most-shocking-deaths-through-the-years/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2025/05/Feature-90-Day-Fiance-Deaths-and-Tragedies.jpg?crop=123px%2C0px%2C1766px%2C998px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-22T15:17:16+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "’90 Day Fiance’ Tragedies: The Saddest and Most Shocking Deaths Through the Years",
+   "url": "https://www.yahoo.com/entertainment/slideshows/90-day-fiance-tragedies-saddest-121319449.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e61d98f3c721c39bc29a27cfe7d068230e94867191fbe5f8d173bc6de5632992/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F226f048b90fe670e4b678c337cc36225.jpg",
+   "published": "2026-11-22T15:17:16+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "90 Day Fiance's Sheila Mangubat Dead at 35, Ex-Fiance David Breaks Silence",
+   "url": "https://www.usmagazine.com/celebrity-news/news/sheila-mangubat-dead-90-day-fiance-alum-was-35/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/90-Day-Sheila.png?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-22T15:16:34+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Rachael Leigh Cook Wants This 'She's All That' Costar as Hallmark Leading Man",
+   "url": "https://www.usmagazine.com/entertainment/news/shes-all-that-star-rachael-leigh-cook-wants-on-hallmark/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Rachael-Leigh-Cook-Shares-Which-Shes-All-That-Costar-She-Wants-as-Her-Next-Hallmark-Leading-Man-MSDSHAL_EC006.jpg",
+   "published": "2026-11-22T15:00:31+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -386,6 +436,16 @@
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Kaitlyn-Bristowe-and-Dog.jpg?crop=0px%2C8px%2C1500px%2C847px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-22T14:14:47+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Kaitlyn Bristowe Reveals Dog Pinot Is on Feeding Tubes Weeks After Medication Overdose: ‘My Fighter’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/kaitlyn-bristowe-reveals-dog-pinot-141447595.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3d1f1c46b75884905ec736b5c7e72fd868c39d719997e2110c5f019a25b7f8a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F86df6a476c985346bde94914a996d181.jpg",
    "published": "2026-11-22T14:14:47+00:00",
    "trending": false,
    "trend_term": null
@@ -467,16 +527,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/3ead63606747d1996eb586dca12bcc95f156485eecbe5d3940f8892dff33e3a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F5269198640f374c1bf72d5ca8c2b6103.jpg",
    "published": "2026-11-22T06:50:55+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Megan Moroney shares Taylor Swift’s handwritten note and surprise gift from CMA Awards backstage",
-   "url": "https://news.meaww.com/megan-moroney-shares-taylor-swifts-handwritten-note-and-surprise-gift-from-cma-awards-backstage",
-   "source": "news.meaww.com",
-   "category": "Awards",
-   "image": "https://media.pubninja.com/articles/brand-5/covers/1795322945683_f9215c4738bc.jpg",
-   "published": "2026-11-22T05:59:04+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -601,31 +651,11 @@
    "trend_term": null
   },
   {
-   "title": "Kim Kardashian wows in sleek black leather outfit at F1 Las Vegas Grand Prix to support Lewis Hamilton",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kim-kardashian-wows-sleek-black-030433985.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/cbf1f9f728c36b1e00a8ecd338735db1be301b80644312f69c668fc57b8f5ccf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F28247ac320a67ebb8796f5c0984cd8bf",
-   "published": "2026-11-22T03:04:33+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Miley Cyrus and Husband Maxx Morando’s Relationship Timeline",
    "url": "https://www.usmagazine.com/celebrity-news/pictures/miley-cyrus-maxx-morandos-relationship-timeline/",
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/02/GettyImages-2259474128-miley-cyrus-max-morrando-2026-grammys.jpg?crop=0px%2C0px%2C1800px%2C1018px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-22T03:04:01+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Miley Cyrus and Husband Maxx Morando’s Relationship Timeline: From a Blind Date to Wedding",
-   "url": "https://www.yahoo.com/entertainment/slideshows/miley-cyrus-maxx-morando-relationship-170621279.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/accc25683cc291c8babc49773cb6e86e4ee1af69620ae6a947bacbf865ea92c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F0298aaaafda89885ce979a9ba0be79be.jpg",
    "published": "2026-11-22T03:04:01+00:00",
    "trending": false,
    "trend_term": null
@@ -647,16 +677,6 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Actor-EJ-Carroll-Dies-Suddenly-at-66.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
    "published": "2026-11-22T01:30:08+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘Law & Order’ and ‘Boardwalk Empire’ Actor E.J. Carroll Dies Suddenly at 66 En Route to Voiceover Job",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/law-order-boardwalk-empire-actor-012908509.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/d1057ebe811c1931dca3f38852d4d747bcdb3688ff599f36dd47d28a443e7cac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F37f88d8628604301803ba36374e4c302.jpg",
-   "published": "2026-11-22T01:29:08+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -701,42 +721,12 @@
    "trend_term": null
   },
   {
-   "title": "Britney Spears Claims Her Exes 'Told Me to Get Surgery' on Her 'Big' Forehead",
-   "url": "https://www.usmagazine.com/celebrity-news/news/britney-spears-says-exes-told-me-to-get-surgery-on-forehead/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/britneyspearsforehead.jpg?crop=0px%2C66px%2C1329px%2C751px&resize=1000%2C563&quality=40&strip=all",
-   "published": "2026-11-21T23:04:09+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Britney Spears Claims Her Exes ‘Told Me to Get Surgery’ to Correct Her ‘Big’ Forehead",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/britney-spears-claims-her-exes-230409655.html",
    "source": "profiles.yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/44adf48ab3f39686e08ccecdf99a134d19af049b14217841d9573d21e469048a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fb57f5a4083d122620263c480b916af96.jpg",
    "published": "2026-11-21T23:04:09+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "John Corbett and Bo Derek Adopted Late Gene Hackman's Dog After His Death",
-   "url": "https://www.usmagazine.com/celebrity-news/news/john-corbett-and-bo-derek-adopted-late-gene-hackmans-dog/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Gene-Hackman-1743126GettyImages-1743126.jpg",
-   "published": "2026-11-21T21:40:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Britney Spears Apologizes to Her Family for 'Bringing Up Past Issues'",
-   "url": "https://www.usmagazine.com/celebrity-news/news/britney-spears-apologizes-to-family-for-past-issues/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Britney-Spears-GettyImages-533529024.jpg?crop=0px%2C117px%2C1329px%2C751px&resize=1000%2C563&quality=55&strip=all",
-   "published": "2026-11-21T20:59:34+00:00",
    "trending": false,
    "trend_term": null
   }
