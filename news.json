@@ -1,34 +1,24 @@
 {
- "generated_at": "2026-11-22T09:45:35.223802+00:00",
+ "generated_at": "2026-11-22T10:44:10.909648+00:00",
  "date_us": "2026-11-22",
  "per_site": {
   "usmagazine.com": 16,
   "news.meaww.com": 5,
-  "profiles.yahoo.com": 7,
+  "profiles.yahoo.com": 8,
   "yahoo.com": 27,
   "jang.com.pk": 8,
   "collider.com": 8
  },
  "items": [
   {
-   "title": "Why We Love Time-Travel Tales",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/why-love-time-travel-tales-083055326.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/921d8084dcfc3fc8543c7a30ad42d10d466f7a5c0341440eb314b6d22c117456/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faom_today_241%2Ff69251ec43219be10df6472801996dc4.jpg",
-   "published": "2026-11-22T08:30:55+00:00",
-   "trending": true,
-   "trend_term": "travel"
-  },
-  {
-   "title": "'Law & Order's E.J. Carroll Dies Suddenly at 66 While Traveling to New Job",
-   "url": "https://www.usmagazine.com/celebrity-news/news/law-order-and-boardwalk-empire-actor-e-j-carroll-dies-suddenly-at-66-en-route-to-voiceover-job/",
-   "source": "usmagazine.com",
+   "title": "Selena Gomez skips Miley Cyrus wedding to help Wembanyama score 50",
+   "url": "https://jang.com.pk/en/76721-selena-gomez-skips-miley-cyrus-wedding-to-help-wembanyama-score-50-news",
+   "source": "jang.com.pk",
    "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Actor-EJ-Carroll-Dies-Suddenly-at-66.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
-   "published": "2026-11-22T01:30:08+00:00",
-   "trending": true,
-   "trend_term": "travel"
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76721_033844_eng.jpg",
+   "published": "2026-11-22T15:28:38+05:00",
+   "trending": false,
+   "trend_term": null
   },
   {
    "title": "Meghan Markle unveils new portrait hours after Kate Middleton's surprising confession",
@@ -51,6 +41,56 @@
    "trend_term": null
   },
   {
+   "title": "20 Unexplained Images From The Depths Of The Internet",
+   "url": "https://www.yahoo.com/entertainment/articles/20-unexplained-images-depths-internet-103000442.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/eee52f2fcb13766b744447c30d851994a3bb7c6d5d98fc3c5e6a2aa4120119b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fknow_your_meme_909%2F20090f7442ae1cceb26a2688f65483b2.jpg",
+   "published": "2026-11-22T10:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "30 Years Later, a Magical Adaptation Is Officially HBO’s Latest Hit Before ‘Harry Potter’",
+   "url": "https://collider.com/matilda-streaming-hit-hbo-max-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/hbo-max-logo-featured.jpg",
+   "published": "2026-11-22T10:20:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "James Gray on Francis Ford Coppola’s Advice That Shaped His Career: ‘Be Personal. There’s Only One of You in This World’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/james-gray-francis-ford-coppola-101550985.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e585bad59a181a7d43a4aabfc7c9696bd5adb642ebf0af5803091a0e43aa5f57/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F661201170b59308f0117a138e03e7fc9.jpg_up.jpg",
+   "published": "2026-11-22T10:15:50+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "10 Celebrities Who Got Candid About Becoming Empty Nesters",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/10-celebrities-got-candid-becoming-100000656.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9f1d4ee1e2164a6dd78241a9245fd005ea6f3299c32d4dabc4bfb89468730bfc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3a249a2f258dde46fd74e0059da3c170.jpg",
+   "published": "2026-11-22T10:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Japan: Mascot mania takes over Saitama with 200 colourful characters",
+   "url": "https://www.yahoo.com/entertainment/articles/japan-mascot-mania-takes-over-095523786.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/6961d8b695bd31f1783d32bb4440cd01ffcc456befa8d35726e5272977058a34/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fac06b855c42658791a2cdcfa4c4cfbc9.jpg_up.jpg",
+   "published": "2026-11-22T09:55:23+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Royal Family mourns personal loss as Princess Sophie's mother dies at 85",
    "url": "https://jang.com.pk/en/76708-royal-family-mourns-personal-loss-as-princess-sophies-mother-dies-at-85-news",
    "source": "jang.com.pk",
@@ -61,12 +101,42 @@
    "trend_term": null
   },
   {
+   "title": "Prince William will strip Prince Harry of his royal title - report",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-strip-prince-harry-094317946.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4d0c565b5fecbba52d79063e8faa6f05c2384b71ca6235221fa0141e201ccf90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F49271fcafaee2e7f9c1152bfc949b0cc.jpg",
+   "published": "2026-11-22T09:43:17+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
+   "url": "https://www.yahoo.com/entertainment/articles/sxsw-forges-partnership-egypt-uth-094126227.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1ad365fbf5d4123a483a5f4404b9701279de4a8de73e36241937aea75463cdb2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fc6a48b8a9e6916f3866d47397a70b044.jpg",
+   "published": "2026-11-22T09:41:26+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Matt Damon’s $630M Sci-Fi Masterpiece Officially Reaches a Major Streaming Milestone",
    "url": "https://collider.com/ridley-scott-the-martian-streaming-success-100-days-apple-tv-november-2026/",
    "source": "collider.com",
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/matt-damon.jpg",
    "published": "2026-11-22T09:40:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-marries-maxx-morando-093329449.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/fbe578c68422b29fe83f7f2a0c312c8c02e41db2996d29fdd5a75ed70c423f98/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1d88f8b31911d397c7a2206cd050f54f.jpg",
+   "published": "2026-11-22T09:33:29+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -167,36 +237,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/a38b74e1902e23e4015899fcd0f3a4e92b4c6810b9c940bb72b6db034742fdce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2F4d62c179fb13136be78ee7f688a9df1a.jpg",
    "published": "2026-11-22T08:26:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Bob Dylan manuscripts and 'McKenzie Tape' to be auctioned",
-   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/bob-dylan-manuscripts-mckenzie-tape-081828186.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/262083840b163a52df0f7c9850acc2620369177d18b0ec304cf18a233f0b57a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fdacddc2a57904b4c57eb6c84894f1e99.jpg",
-   "published": "2026-11-22T08:18:28+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Andrew Mountbatten-Windsor 'could easily have been shot', says King Charles's friend",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/andrew-mountbatten-windsor-could-easily-081806173.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/97592ae12c7634ddafbc0e5131c191e52dc2ccdb3ef20e7541310a48601af517/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F58dc90ca28c4177dae2119350c37a4cf.jpg",
-   "published": "2026-11-22T08:18:06+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Karla Sofia Gascon Says ‘Emilia Perez’ Oscar Controversy Came From People Who ‘Didn’t Want Someone Like Me to Receive an Award’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/karla-sofia-gascon-says-emilia-073954022.html",
-   "source": "yahoo.com",
-   "category": "Awards",
-   "image": "https://s.yimg.com/lo/mysterio/api/06902272a2ed072297110eea5116243047ca95749fec6ca30a8ec3b260c76662/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F3adb6e463e84d74d5ed67b6e03ba9697.jpg_up.jpg",
-   "published": "2026-11-22T07:39:54+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -371,6 +411,16 @@
    "trend_term": null
   },
   {
+   "title": "Miley Cyrus and Husband Maxx Morando’s Relationship Timeline: From a Blind Date to Wedding",
+   "url": "https://www.yahoo.com/entertainment/slideshows/miley-cyrus-maxx-morando-relationship-170621279.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/accc25683cc291c8babc49773cb6e86e4ee1af69620ae6a947bacbf865ea92c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F0298aaaafda89885ce979a9ba0be79be.jpg",
+   "published": "2026-11-22T03:04:01+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Miley Cyrus Stuns in Backless Wedding Dress to Marry Maxx Morando in Intimate Ceremony",
    "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/miley-cyrus-stuns-backless-wedding-025250030.html",
    "source": "yahoo.com",
@@ -391,22 +441,22 @@
    "trend_term": null
   },
   {
-   "title": "Tom Hardy's 142-Minute Near-Perfect Miniseries Still Has Not Been Beaten",
-   "url": "https://collider.com/tom-hardy-wuthering-heights-miniseries/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/img_1839.jpg",
-   "published": "2026-11-22T02:02:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Celebrity Weddings of 2026: Miley Cyrus, Brielle Biermann and More",
    "url": "https://www.usmagazine.com/celebrity-news/pictures/celebrity-weddings-of-2026-stars-who-got-married-this-year/",
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2200082250-celebrity-weddings-of-2026-miley-cyrus-maxx-morando-e1795314219920.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
    "published": "2026-11-22T01:56:14+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "'Law & Order's E.J. Carroll Dies Suddenly at 66 While Traveling to New Job",
+   "url": "https://www.usmagazine.com/celebrity-news/news/law-order-and-boardwalk-empire-actor-e-j-carroll-dies-suddenly-at-66-en-route-to-voiceover-job/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Actor-EJ-Carroll-Dies-Suddenly-at-66.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-22T01:30:08+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -551,16 +601,6 @@
    "trend_term": null
   },
   {
-   "title": "Quinta Brunson Attends Abbott Elementary 100 Episode Celebration in Modified Magda Butrym x H&M Dress",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/quinta-brunson-attends-abbott-elementary-211146345.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/02a4e39458ba3e7464770bd600232323b3ad67ee9d2a1bc59c046f5c68f0bb95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2Fa3f7342c39c484b79eb7d8f633377b73.jpg",
-   "published": "2026-11-21T21:11:46+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "King Haakon issues new message after secret meeting with Prince Albert, Ingrid Alexandra",
    "url": "https://jang.com.pk/en/76697-king-haakon-issues-new-message-after-secret-meeting-with-prince-albert-ingrid-alexandra-news",
    "source": "jang.com.pk",
@@ -611,32 +651,12 @@
    "trend_term": null
   },
   {
-   "title": "Tabitha From Bewitched Is A Head-Turning Beauty Going Makeup-Free In Her 60s",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/tabitha-bewitched-head-turning-beauty-200000729.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/a1010e0c094e865948665c7b22bcd234b6559146e54cd332bae0d6716a29ddb1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnicki_swift_591%2F9e21d361b772032fd6339a1c1f402858.jpg",
-   "published": "2026-11-21T20:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Jenny McCarthy Recalls Getting 'Cheap' Breast Augmentation at 19",
    "url": "https://www.usmagazine.com/celebrity-body/news/jenny-mccarthy-recalls-cheap-1500-boob-job-at-19/",
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Jenny-McCarthy-GettyImages-2268524832.jpg?crop=0px%2C43px%2C1334px%2C754px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-21T19:42:56+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Jennifer Lopez Turns Heads In A Slip Dress Paired With A Shawl Coat At 'The JLo Show' Premiere",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jennifer-lopez-turns-heads-slip-193648890.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/1e727978a8580a980cc2c6d9b0b0a984ca7e0320bf371b0f36689bc01d84c74b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fshefinds_255%2F87e9135c8d44bd15ffb432f6e16c14e0.jpg",
-   "published": "2026-11-21T19:36:48+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -667,16 +687,6 @@
    "category": "Music",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-21/76686_070139_eng.jpg",
    "published": "2026-11-21T18:50:27+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Jennifer Lopez reveals surprising truth behind THIS film's marketing budget",
-   "url": "https://jang.com.pk/en/76687-jennifer-lopez-reveals-surprising-truth-behind-this-films-marketing-budget-news",
-   "source": "jang.com.pk",
-   "category": "Movies",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-21/76687_064418_eng.jpg",
-   "published": "2026-11-21T18:44:16+05:00",
    "trending": false,
    "trend_term": null
   },
