@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T04:49:16.089392+00:00",
+ "generated_at": "2026-11-22T04:57:40.133947+00:00",
  "date_us": "2026-11-21",
  "per_site": {
-  "usmagazine.com": 17,
+  "usmagazine.com": 16,
   "news.meaww.com": 3,
   "profiles.yahoo.com": 0,
   "yahoo.com": 0,
@@ -287,16 +287,6 @@
    "category": "Movies",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Kate-Middleton-Heal-55664349352_d3574f8fee_o.jpg?crop=0px%2C594px%2C1334px%2C754px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-21T14:12:03+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "25 Things You Don’t Know About Dorinda Medley",
-   "url": "https://www.usmagazine.com/celebrity-news/news/dorinda-medley-25-things-you-dont-know-about-me/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/25-Things-Dorinda-Medley-Alls-Fair.jpg",
-   "published": "2026-11-21T13:00:37+00:00",
    "trending": false,
    "trend_term": null
   }
