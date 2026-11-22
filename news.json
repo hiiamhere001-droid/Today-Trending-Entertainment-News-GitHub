@@ -1,35 +1,15 @@
 {
- "generated_at": "2026-11-22T16:42:25.056612+00:00",
+ "generated_at": "2026-11-22T17:39:29.897284+00:00",
  "date_us": "2026-11-22",
  "per_site": {
   "usmagazine.com": 16,
   "news.meaww.com": 4,
-  "profiles.yahoo.com": 10,
+  "profiles.yahoo.com": 9,
   "yahoo.com": 25,
-  "jang.com.pk": 9,
+  "jang.com.pk": 8,
   "collider.com": 10
  },
  "items": [
-  {
-   "title": "Rob Kardashian Shares Rare Photo With Daughter Dream, Blac Chyna Reacts",
-   "url": "https://www.usmagazine.com/celebrity-news/news/rob-kardashian-shares-rare-photo-with-dream-blac-chyna-reacts/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-530516214-Rob-Kardashian-Shares-Rare-Photo-With-Dream-Blac-Chyna-Reacts-e1795323885884.jpg?crop=0px%2C70px%2C1333px%2C753px&resize=1000%2C563&quality=70&strip=all",
-   "published": "2026-11-22T05:27:24+00:00",
-   "trending": true,
-   "trend_term": "rob kardashian"
-  },
-  {
-   "title": "Rob Kardashian Shares Rare Photo With Daughter Dream For Her Birthday, Blac Chyna Reacts",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/rob-kardashian-shares-rare-photo-052724452.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/17d187c9374cf9ad66f5d8a2a21f61da956ba8adb4f2aa539bd6fd10bf14d505/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fb2e7e9a977f2a19667786466ff9e339c.jpg",
-   "published": "2026-11-22T05:27:24+00:00",
-   "trending": true,
-   "trend_term": "rob kardashian"
-  },
   {
    "title": "Quentin Tarantino and Daniella Pick announce the arrival of baby no. 3",
    "url": "https://jang.com.pk/en/76733-quentin-tarantino-and-daniella-pick-announce-the-arrival-of-baby-no-3-news",
@@ -61,12 +41,192 @@
    "trend_term": null
   },
   {
+   "title": "‘Glee’ Co-Creator Officially Confirms Reboot Will Honor Cory Monteith and Naya Rivera",
+   "url": "https://collider.com/glee-reboot-cory-monteith-naya-rivera-deaths-ian-brennan-response/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/07/glee-finn-hudson.jpg",
+   "published": "2026-11-22T17:31:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "I’d Wondered How Lanterns’ Star Felt About The Show After James Gunn’s Exit. Someone Asked",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/d-wondered-lanterns-star-felt-171842839.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/14469519c1bc8a26e0a3f1a22722fc6599a8c0ee3f9d7bb24a9eabf0cd9e0042/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F5c913a7b243e72d1f61bad7c0d434152.jpg",
+   "published": "2026-11-22T17:18:42+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Kith Teases New 'Star Wars' Collection With Stop-Motion Lightsaber Video",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kith-teases-star-wars-collection-171300863.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/f4420b9f24798aa392bfc369fa888ce33f9c2e3dce28ff808fcdeec26755fcbb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F728f859fc52bcc4dae390e8e66ebaf63.jpg_up.jpg",
+   "published": "2026-11-22T17:13:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Elizabeth Hurley stuns with bold look at Miley Cyrus's intimate wedding: See photos",
    "url": "https://jang.com.pk/en/76723-elizabeth-hurley-stuns-with-bold-look-at-miley-cyruss-intimate-wedding-see-photos-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76723_051212_eng.jpg",
    "published": "2026-11-22T17:12:01+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Hunger Games prequel notches second-biggest debut behind Rogue One",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/hunger-games-prequel-notches-second-170921637.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/1087abb059bde384787a5f97416f6f68ab574cfb05a3a4db78f66ed77409197a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Fb87b8cb830309c3d1d41f8f8d55f5e3b.jpg",
+   "published": "2026-11-22T17:09:21+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Prince William plans to strip Prince Harry, Meghan Markle and their kids of royal titles when he ascends the throne: report",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-plans-strip-prince-170758049.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/55ad57b758395f30c6c898e47ba5bb3d73e332f878291362d386da5f189ae18b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F3bd500a8b36c2fe57b0dd7884d6b9c31.jpg",
+   "published": "2026-11-22T17:07:58+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "How Nintendo turned Mario into a movie star with two $1 billion hits after its 1993 Hollywood failure",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/nintendo-turned-mario-movie-star-170745243.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/445e8ef104727a84e65b3339c13f789dbf7cd7ccd98a147dc2cdf1b35b4e641d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcelebrity_gab_206%2Fe47854600516cc3cbf00ec45e1865ae7.jpg_up.jpg",
+   "published": "2026-11-22T17:07:45+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "6 Best Books From the Year 2020 That Are 10/10 Masterpieces",
+   "url": "https://collider.com/best-books-2020/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/tender-mother-son-bedtime-embrace-1.png",
+   "published": "2026-11-22T17:06:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "5 Upcoming Book-to-TV Adaptations You Cannot Miss This Winter",
+   "url": "https://collider.com/upcoming-book-to-tv-adaptations-winter/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/unaccustomed-earth.jpg",
+   "published": "2026-11-22T17:05:55+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus’ Family ‘Wanted Her to Feel Loved’ and ‘Have a Magical Wedding’ to Maxx Morando (Exclusive Source)",
+   "url": "https://www.yahoo.com/entertainment/articles/miley-cyrus-family-wanted-her-170500424.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1da3507734ebc9d3b58ab241bf4220f3089ad6eb660c36082f0bbaaa5a98919f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F0827eafaa065d5f9cd8d8a8c7508bdd1.jpg",
+   "published": "2026-11-22T17:05:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Rob Kardashian Shares Rare Photo with Daughter Dream, 10, at Her Leopard Print-Themed Birthday Party",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/rob-kardashian-shares-rare-photo-170447179.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a7e1b3e32ed97896a6aa98e8174c05d7bafbf943f1364d8a30441ca9d5d86662/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fe72b1bd9711a8c94fa0b179dc4fabf98.jpg",
+   "published": "2026-11-22T17:04:47+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "This 'Odyssey' actor transformed so completely he fooled Christopher Nolan",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/odyssey-actor-transformed-completely-fooled-170104244.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/469df4a068a08d9417f4f16fcc88fa92f29e376be3b0a61ab97ba37c85d170c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F7a2c6863e34942a530028b46feb36884.jpg",
+   "published": "2026-11-22T17:01:04+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Opera Singer Serenades Stranded Travelers During FAA Ground Stop, Dividing the Internet",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/opera-singer-serenades-stranded-travelers-170039302.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/87dc4d914a8c9bc64f1b44c4acb534ff3ffa0c83c48e3c62cda23361eda2b965/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbackyard_garden_lover_223%2Ff83fcc9e9f23c5f1d20651fd064ab924",
+   "published": "2026-11-22T17:00:39+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘In a Holidaze’: Christina Lauren Teases ‘Magical’ Rom-Com Adaptation",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/holidaze-christina-lauren-teases-magical-170016731.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/2dd4a557bfe34222e2c5e77817db218572d6197639e78c490c3482f6d4ff843b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fde3fc317ab277ea8a7335719cf36faca.jpg",
+   "published": "2026-11-22T17:00:16+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘Sunrise on the Reaping’ Officially Delivers the Hunger Games' 4th-Biggest Box Office Debut",
+   "url": "https://collider.com/sunrise-on-the-reaping-fourth-biggest-hunger-games-box-office-debut/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hunger-games-sunrise-on-the-reaping-joseph-zada-2.jpg",
+   "published": "2026-11-22T17:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Meghan Markle’s Missing $160K Engagement Ring Sparks Questions About Marriage To Prince Harry But Jeweler Suggests It ‘Snapped’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-missing-160k-engagement-170000085.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/2d93cb9aa3c0b7fc9aa4c68e6b360aabf0d8959ab90b90f6fcaae5b7513695ef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Faa53b0ff35d9af60e61a1f26b1c79711.jpg",
+   "published": "2026-11-22T17:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "How Oobah Butler Scammed His Way to HBO",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/oobah-butler-scammed-way-hbo-170000330.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/85576c83cbfe32dfba748d95d3207f7e1f42321b637131f452d120d0e6cafa5b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Ffd38be691274d540f5038ee634e2af8f.jpg",
+   "published": "2026-11-22T17:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Chris Colfer Says Reuniting with Darren Criss Was ‘Healing’ After Experiencing ‘Homophobia’ During “Glee ”(Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/chris-colfer-says-reuniting-darren-165900746.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f6b1ffa8061c60c5ced06a61eae3e3ed71599bf5a81cb9ab9e75f387878aa545/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F791f8e9057cbe34393727f3f9387eafe.jpg",
+   "published": "2026-11-22T16:59:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Forget ‘The Boys,’ All 4 Seasons of Netflix’s Sci-Fi Series Are Perfect From Start to Finish",
+   "url": "https://collider.com/umbrella-academy-netflix-the-boys-sci-fi-series/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/the-boys.jpg",
+   "published": "2026-11-22T16:54:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -81,22 +241,32 @@
    "trend_term": null
   },
   {
+   "title": "Hailey Bieber addresses backlash over viral New York Times interview",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/hailey-bieber-addresses-backlash-over-164958674.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/caf662c92302712c1c6781342d56dede74e179729bbec61715a950fc74cbb171/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fe0f425d1d819c6cac4878663707af07a.jpg",
+   "published": "2026-11-22T16:49:58+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "7 Things About Little Richard We Bet You Didn’t Know",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/7-things-little-richard-bet-164800275.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c50ef8666baef22a1c2253b91c1963d0a1feb2ee634176c110e9dad15837bf69/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmovie_maker_articles_831%2F05c0852f28c63963767607cfd4e1848a.jpg",
+   "published": "2026-11-22T16:48:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "The 10 Heaviest Revenge Movies of All Time, Ranked",
    "url": "https://collider.com/heaviest-revenge-movies-all-time-ranked/",
    "source": "collider.com",
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/05/oldboy-1.jpg",
    "published": "2026-11-22T16:37:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "90 Day Fiancé’s David Dangerfield Spoke Out After Former Fiancé Sheila Mangubat Died",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fianc-david-dangerfield-163444669.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/137086d748200ada278771d1fe44a7505afed610350d4184fe96732cd3ad29b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F7248054bdad9c5dae79265d5ff25449a.jpg",
-   "published": "2026-11-22T16:34:44+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -111,82 +281,12 @@
    "trend_term": null
   },
   {
-   "title": "Kate Reportedly Feels ‘Bullied’ by Harry as Sources Reveal Why She’s Become ‘Increasingly Frustrated’ by His ‘Embarrassing’ Behavior",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-reportedly-feels-bullied-harry-163000499.html",
+   "title": "Miley Cyrus’ Wedding Dress Revealed: Details on Her Backless Gown",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-wedding-dress-revealed-160605574.html",
    "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/bcf19e31e83dd348c21da5594c49d67c44d4dae7fb48ef3b2697620a0d783126/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2F918799bdba055c9d6255750328233e2a.jpg",
-   "published": "2026-11-22T16:30:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Al Roker Reveals Which Famous Person He Was Especially Excited to Interview (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/al-roker-reveals-famous-person-163000683.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/92dc73f2c948a02ba464cc6aac698359f7353c5cb82cdc5b3ce7f5ecb58d230f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F833dcb8f5fac1235b21e03b5d55d0314.jpg",
-   "published": "2026-11-22T16:30:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "BBC Apologizes After Sex Noises Interrupt ‘Strictly Come Dancing’",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/bbc-apologizes-sex-noises-interrupt-162958453.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/ee914760922d02c7cea21b74caeba7e9381484992413df59176ffa4f64ac8076/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F091b9106f047089a4f02454f999d9dc0.jpg",
-   "published": "2026-11-22T16:29:58+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘Hunger Games: Sunrise on the Reaping’ Deadlifts Box Office With $225 Million Global Opening",
-   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/hunger-games-sunrise-reaping-deadlifts-162317780.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/101a31d7ac41bfddf7e33ed3b0e4a5b4e848913c40edbfb4fc2d8d67f16df9b0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F2499eb0792f8f44d030346ecf7e90859.jpg",
-   "published": "2026-11-22T16:23:17+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Debuts to Mighty $120 Million, Reviving Lionsgate’s Most Important Franchise",
-   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/box-office-hunger-games-sunrise-161816465.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/102faa62121eb4a5d73bf7fc6b46c753edb9656fb48ef535f31fd6f4067a6207/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findiewire_268%2Fb32ac8f1e381d11a0c33c14ed9c7c104.jpg",
-   "published": "2026-11-22T16:18:16+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut",
-   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/box-office-sunrise-reaping-reignites-161628133.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/63858dec204c7a36001334763290bbb9e5a2c4dd4b9ac2d6f528c192049cc06d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F0bd079620cc19cd6292da49b02ee7802.jpg_up.jpg",
-   "published": "2026-11-22T16:16:28+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "The Sci-Fi Time Travel Movie That Needs More Attention On Free Streaming",
-   "url": "https://www.yahoo.com/entertainment/articles/sci-fi-time-travel-movie-014138669.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/d96e9d3ae3f31f793bc908df13fc59f1373c753dd3644144b7516d3c7093892d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgiant_freakin_robot_articles_628%2F7ea0ba4b40f038e6d26065c4d44eccbc.png_up.jpg",
-   "published": "2026-11-22T16:15:42+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Zendaya and Tom Holland Reportedly Pay Cash for $10.8 Million London Mansion, Nearly $1 Million Below Asking",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/zendaya-tom-holland-reportedly-pay-161232618.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/bcd9caf88277765057eaa074241f54592ecb545666a433050403148aac709aaf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fddf75b0877c259f258cc50700d90b6f1.jpg",
-   "published": "2026-11-22T16:12:32+00:00",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/bba2fdfce9d30bf9ba4268d77bfdfb57ecd145f2c1db66069617d9460931ab54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fe__181%2Fd5ff8dc21a3bc8c9298916b9a434e4c4.jpg",
+   "published": "2026-11-22T16:06:05+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -197,66 +297,6 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/harry-potter-2-1.jpg",
    "published": "2026-11-22T16:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Oliver Hudson jokes new ADHD medication makes him feel like a ‘drug addict’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/oliver-hudson-jokes-adhd-medication-160000821.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/bd90dd7aae3d00547b2212f8c53d35184197d3300ff1fe2e992b1be22b45289e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2Fae709e9dfa236243c55b160b32d76b05.jpg",
-   "published": "2026-11-22T16:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘Livid’ Charles Reportedly ‘Threatening’ Andrew After Report the Ex-Prince Is ‘Gleeful’ Over His Brother’s ‘Suffering’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/livid-charles-reportedly-threatening-andrew-160000378.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/939f6b551b8d4177150e35e2c670cc8797ace33f1b4a61046a6e31a86d4a70e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2F0a0ae60bb5e888655bfc67df95ac00ca.jpg",
-   "published": "2026-11-22T16:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Melania Trump Reveals Her Rare White House Dynamic With Donald & Barron",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/melania-trump-reveals-her-rare-160000736.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1325626ead33d6855db36238b1b0e192decee38cafc351e40be1bda0bbddb7c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2Fafad5229cf57d07e546a987face3ae18.jpg",
-   "published": "2026-11-22T16:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Prince William Reportedly Wants Prince Harry, Meghan Markle, And Kids Stripped Of Titles In ‘Massive Restructuring’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-reportedly-wants-prince-160000766.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/4548a1cd27fa24c6fb254a7c187b5a85c2d5c0f6ec57be9e4f6f07bb8d9ab0db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Febe3ed5e8bcf058b09fabcaaed4cec65.jpg",
-   "published": "2026-11-22T16:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "John Goodman Praises Peter O’Toole as ‘Smartest Man I’ve Ever Met,’ Says He Was ‘Constantly Amazed’ by Late Costar (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/john-goodman-praises-peter-o-160000162.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3d75ba9a6b6f797cb49a08bc2c209af68948dfe861860fec1fdbf3e62ea1a2af/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F280604269171da7746aa3c638ec56b7e.jpg",
-   "published": "2026-11-22T16:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/week-sunday-morning-nov-22-225657531.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/c84feaba6d64659b8f5bc519c6ecf5e8a8d08965e28ea8900338a929d1db28eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fb624ee2a662d3ede31f0deae81dd69e2.jpg",
-   "published": "2026-11-22T15:35:22+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -277,56 +317,6 @@
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/supergirl-milly-alcock-2.jpg",
    "published": "2026-11-22T15:30:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "10 HBO Crime Shows That Are Perfect Weekend Binges",
-   "url": "https://collider.com/hbo-crime-shows-perfect-weekend-binge/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/colin-farrell-as-oz-cobb-in-the-penguin-1.jpg",
-   "published": "2026-11-22T15:26:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Ridley Scott’s New Blade Runner Series Officially Hits Prime Video This Week",
-   "url": "https://collider.com/blade-runner-2099-prime-video-release-november-25-ridley-scott/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/blade-runner-harrison-ford-1.jpg",
-   "published": "2026-11-22T15:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Gemma Arterton's 'Secret Service' Is a Twisty Spy Thriller That Never Quite Sticks | Review",
-   "url": "https://collider.com/secret-service-mgm-plus-review-gemma-arterton/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/secret-service-gemma-arterton-2-1.jpeg",
-   "published": "2026-11-22T15:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Top 9 Hunger Games Book Names With Literary Origins",
-   "url": "https://collider.com/hunger-games-books-names-literary-origins/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-hunger-games-ballad-of-songbirds-and-snakes.jpeg",
-   "published": "2026-11-22T14:31:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Sylvester Stallone’s ‘Rocky’ Biopic Officially Adds Nearly 2,500 Theaters",
-   "url": "https://collider.com/i-play-rocky-box-office-expansion-2448-theaters/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/i-play-rocky-anthony-ippolito.jpg",
-   "published": "2026-11-22T14:30:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -427,6 +417,26 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/9dd77d27b82135efc5f0c64d42a6ef2a42158a81de350bb4104ce81898ca1324/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fshefinds_255%2F6d4888472fc70b821467c0c2556ebb19.jpg",
    "published": "2026-11-22T05:52:05+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Rob Kardashian Shares Rare Photo With Daughter Dream, Blac Chyna Reacts",
+   "url": "https://www.usmagazine.com/celebrity-news/news/rob-kardashian-shares-rare-photo-with-dream-blac-chyna-reacts/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-530516214-Rob-Kardashian-Shares-Rare-Photo-With-Dream-Blac-Chyna-Reacts-e1795323885884.jpg?crop=0px%2C70px%2C1333px%2C753px&resize=1000%2C563&quality=70&strip=all",
+   "published": "2026-11-22T05:27:24+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Rob Kardashian Shares Rare Photo With Daughter Dream For Her Birthday, Blac Chyna Reacts",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/rob-kardashian-shares-rare-photo-052724452.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/17d187c9374cf9ad66f5d8a2a21f61da956ba8adb4f2aa539bd6fd10bf14d505/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fb2e7e9a977f2a19667786466ff9e339c.jpg",
+   "published": "2026-11-22T05:27:24+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -571,16 +581,6 @@
    "trend_term": null
   },
   {
-   "title": "Miley Cyrus Stuns in Backless Wedding Dress to Marry Maxx Morando in Intimate Ceremony",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/miley-cyrus-stuns-backless-wedding-025250030.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/a20cd1707c716817b728779f36d6d77fdd0e8c5c8fe32544e6d7a7b96d54f7bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fa7cc61ad1b4aa6fb5bcb3c6e5a2169c2.jpg",
-   "published": "2026-11-22T02:52:50+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Celebrity Weddings of 2026: Miley Cyrus, Brielle Biermann and More",
    "url": "https://www.usmagazine.com/celebrity-news/pictures/celebrity-weddings-of-2026-stars-who-got-married-this-year/",
    "source": "usmagazine.com",
@@ -651,32 +651,12 @@
    "trend_term": null
   },
   {
-   "title": "Brielle Biermann Marries Billy Seidl During Family Troubles, Brothers Absent Amid KJ’s Assault Trial",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brielle-biermann-marries-billy-seidl-002617544.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/53245937311e04dd84af1558e8fd2e9ab09fba581c48f69ab8846d94aee53877/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fdff64682f95b65e9bb172859999de205.jpg_up.jpg",
-   "published": "2026-11-22T00:26:17+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/robert-pattinsons-bond-girl-does-000324233.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/98386c9c3589796a5b7bed89f967366f4603109da366b9fc293bbb2b9060eacf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0acbe9f481b49ea63c9eb8569c421cf5.png_up.jpg",
    "published": "2026-11-21T23:53:44+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Inside Prince William, Kate Middleton's Australia trip with George, Charlotte, Louis",
-   "url": "https://jang.com.pk/en/76704-inside-prince-william-kate-middletons-australia-trip-with-george-charlotte-louis-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-21/76704_111611_eng.jpg",
-   "published": "2026-11-21T23:16:10+05:00",
    "trending": false,
    "trend_term": null
   },
