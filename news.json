@@ -1,15 +1,25 @@
 {
- "generated_at": "2026-11-22T05:08:03.737971+00:00",
+ "generated_at": "2026-11-22T05:53:49.792917+00:00",
  "date_us": "2026-11-22",
  "per_site": {
   "usmagazine.com": 16,
   "news.meaww.com": 4,
   "profiles.yahoo.com": 6,
   "yahoo.com": 27,
-  "jang.com.pk": 8,
+  "jang.com.pk": 9,
   "collider.com": 8
  },
  "items": [
+  {
+   "title": "Britney Spears makes emotional admission about family in now-deleted post",
+   "url": "https://jang.com.pk/en/76712-britney-spears-makes-emotional-admission-about-family-in-now-deleted-post-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76712_105209_eng.jpg",
+   "published": "2026-11-22T10:52:39+05:00",
+   "trending": false,
+   "trend_term": null
+  },
   {
    "title": "Royal Family mourns personal loss as Princess Sophie's mother dies at 85",
    "url": "https://jang.com.pk/en/76708-royal-family-mourns-personal-loss-as-princess-sophies-mother-dies-at-85-news",
@@ -17,6 +27,66 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76708_095129_eng.jpg",
    "published": "2026-11-22T09:50:56+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "The Masterpiece Heist Thriller That Inspired Michael B. Jordan’s New Film Officially Hits Free Streaming",
+   "url": "https://collider.com/the-thomas-crown-affair-michael-b-jordan-original-streaming-free-tubi-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/thomas-crown-affair-michael-b-jordan.jpg",
+   "published": "2026-11-22T05:29:20+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus Marries Maxx Morando in Poolside Ceremony Led by the Flaming Lips’ Wayne Coyne",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-marries-maxx-morando-052442190.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/450f9f929fb07eb08e5f4ca99a4a3615a1c0b9b3ff8d6650c926e568e32a3633/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F31ed873614bf60b3e0069dd41e6d98db.jpg",
+   "published": "2026-11-22T05:24:42+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/week-sunday-morning-nov-22-225657531.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/c84feaba6d64659b8f5bc519c6ecf5e8a8d08965e28ea8900338a929d1db28eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fb624ee2a662d3ede31f0deae81dd69e2.jpg",
+   "published": "2026-11-22T05:20:05+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Inde Navarrette Plans a Mississippi Trip for ‘X-Men’: “Rogue Means a Lot to Me”",
+   "url": "https://www.yahoo.com/entertainment/articles/inde-navarrette-plans-mississippi-trip-050916668.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/274ebe2e17771aef4094de7314b7727defcbae87e716cc0058782d01e5ac4365/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwhere_is_the_buzz_814%2F85c9878c099101238a3ae283826959d2.jpg_up.jpg",
+   "published": "2026-11-22T05:09:16+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Conway The Machine Calls Cap on Westside Gunn Jay-Z Griselda Advice Denial",
+   "url": "https://www.yahoo.com/entertainment/music/articles/conway-machine-calls-cap-westside-050542743.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/8b64d227bcce2c19aead84b5e4c909c807f0d416b92af840969c667da3c31407/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F4478e7041ef68d7e7f55c42dd13fecda.jpg",
+   "published": "2026-11-22T05:05:42+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Megyn Kelly Calls Leonardo DiCaprio a 'Disgusting Slob' in Rant Over His 52nd Birthday Party",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/megyn-kelly-calls-leonardo-dicaprio-050045040.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/849949d830173f0c1100d0d9d61d1428bdb7b8f6d6033f539dc9e65893609b0e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F5c817344ba637d11bab515e05dc9389d.jpg",
+   "published": "2026-11-22T05:00:45+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -101,16 +171,6 @@
    "trend_term": null
   },
   {
-   "title": "Meghan Markle Reportedly Floating ‘Divorce Book Idea Again’ As Insider Claims Duchess Is ‘Bored’ In The UK",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-reportedly-floating-divorce-043000094.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/c607b48bc573c0ed9949b865263ef65827c48cd10f9a981741bf32abe44d0701/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F79e8747d243ba5bdcbd6d902d8a37e37.jpg",
-   "published": "2026-11-22T04:30:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Meghan Markle Left US Because She Didn’t Want To Be Interviewed by FBI — Author",
    "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-left-us-because-043000756.html",
    "source": "yahoo.com",
@@ -121,12 +181,12 @@
    "trend_term": null
   },
   {
-   "title": "6ix9ine Sued by Kooda B Over Alleged Snitch Accusations",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/6ix9ine-sued-kooda-b-over-042542523.html",
+   "title": "Meghan Markle Reportedly Floating ‘Divorce Book Idea Again’ As Insider Claims Duchess Is ‘Bored’ In The UK",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-reportedly-floating-divorce-043000094.html",
    "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1bf6432b3edca7fb721a288ecf72dfd714a769d1e307b850a48bf715ac720b6b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F70bfe1ee2d53ac230071e46df8e14e17.jpg",
-   "published": "2026-11-22T04:25:42+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/c607b48bc573c0ed9949b865263ef65827c48cd10f9a981741bf32abe44d0701/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F79e8747d243ba5bdcbd6d902d8a37e37.jpg",
+   "published": "2026-11-22T04:30:00+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -137,26 +197,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/8dca3aec77e8bbcd5c8aa88fd5afa53246898fa7d7b22c3c4ecf9526f2232b9c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2F5eb7e44ede243ca4063fa9d89684a81e.jpg",
    "published": "2026-11-22T04:22:43+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘American Psycho’ Gets Axed: Luca Guadagnino Confirms His Adaptation Is “Not Happening”",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/american-psycho-gets-axed-luca-042137102.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/7bf41cbea9357a935eb5f1bee17be7be4a8a79785aac514c1fbab262e4975157/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F2c9a01b928006f0846456141180a7ebc.jpg_up.jpg",
-   "published": "2026-11-22T04:21:37+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/week-sunday-morning-nov-22-225657531.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/c84feaba6d64659b8f5bc519c6ecf5e8a8d08965e28ea8900338a929d1db28eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fb624ee2a662d3ede31f0deae81dd69e2.jpg",
-   "published": "2026-11-22T04:18:51+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -321,16 +361,6 @@
    "trend_term": null
   },
   {
-   "title": "Michael Bay’s Explosive Crime Thriller Is Officially Being Removed From Netflix",
-   "url": "https://collider.com/michael-bay-ambulance-leaving-netflix-december-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/11/Michael-Bay-Feature-Image-Sized.jpg",
-   "published": "2026-11-22T01:16:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Miley Cyrus marries Maxx Morando in intimate Palm Springs wedding",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-marries-maxx-morando-004615228.html",
    "source": "yahoo.com",
@@ -366,6 +396,16 @@
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/britneyspearsforehead.jpg?crop=0px%2C66px%2C1329px%2C751px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-21T23:04:09+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Britney Spears Claims Her Exes ‘Told Me to Get Surgery’ to Correct Her ‘Big’ Forehead",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/britney-spears-claims-her-exes-230409655.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/44adf48ab3f39686e08ccecdf99a134d19af049b14217841d9573d21e469048a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fb57f5a4083d122620263c480b916af96.jpg",
    "published": "2026-11-21T23:04:09+00:00",
    "trending": false,
    "trend_term": null
@@ -461,16 +501,6 @@
    "trend_term": null
   },
   {
-   "title": "Tabitha From Bewitched Is A Head-Turning Beauty Going Makeup-Free In Her 60s",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/tabitha-bewitched-head-turning-beauty-200000729.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/a1010e0c094e865948665c7b22bcd234b6559146e54cd332bae0d6716a29ddb1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnicki_swift_591%2F9e21d361b772032fd6339a1c1f402858.jpg",
-   "published": "2026-11-21T20:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Jenny McCarthy Recalls Getting 'Cheap' Breast Augmentation at 19",
    "url": "https://www.usmagazine.com/celebrity-body/news/jenny-mccarthy-recalls-cheap-1500-boob-job-at-19/",
    "source": "usmagazine.com",
@@ -497,16 +527,6 @@
    "category": "TV",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-21/76688_072008_eng.jpg",
    "published": "2026-11-21T19:20:06+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "How the ‘Elsinore’ Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/elsinore-makeup-team-transformed-stars-190940455.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/b059f547ce456e765eac9a0ce2ad33036f8918f211d8e839d7c9908df188b48c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F6dcf7d04ef901c19214ad9951a3f14bf.jpg",
-   "published": "2026-11-21T19:09:40+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -566,16 +586,6 @@
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Russell-Brand-and-Katy-Perry-GettyImages-112552598.jpg?crop=0px%2C281px%2C1500px%2C848px&resize=1000%2C563&quality=55&strip=all",
-   "published": "2026-11-21T18:33:07+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Russell Brand Struggled to Recall When He Was Married to Katy Perry in 2025 Deposition: Court Docs",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/russell-brand-struggled-recall-married-183307255.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9740763496dad4fa8bce13a692b858217640e19297c8b9a82b6ea630be9e2a60/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F1809f521e04702bf6f4ec7a4c50ef933.jpg",
    "published": "2026-11-21T18:33:07+00:00",
    "trending": false,
    "trend_term": null
