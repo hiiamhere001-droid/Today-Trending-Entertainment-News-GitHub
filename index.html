@@ -40,11 +40,29 @@ aside .box{position:sticky;top:96px;max-height:calc(100vh - 116px);overflow:auto
 .fs h3{margin:0 0 3px;font-size:13.5px;line-height:1.35}
 .ago{color:var(--fresh);font-weight:700}
 .empty{padding:18px;color:var(--muted);text-align:center;border:1px dashed var(--line);border-radius:12px}
+.card{position:relative}
+.tick{position:absolute;top:8px;right:8px;z-index:2;width:30px;height:30px;padding:0;border-radius:50%;border:2px solid #fff;background:rgba(0,0,0,.55);color:transparent;font-size:16px;font-weight:700;line-height:1;display:flex;align-items:center;justify-content:center}
+.tick:hover,.tick:focus-visible{background:var(--fresh);border-color:var(--fresh);color:#fff}
+.fs{position:relative;padding-right:34px}
+.fs .tick{top:8px;right:0;width:26px;height:26px;font-size:14px;border-color:var(--muted);background:transparent}
+.fs .tick:hover{border-color:var(--fresh);background:var(--fresh)}
+.btn.ok{background:var(--accent2)}
+.btn.ok b{background:#fff;color:var(--accent2);border-radius:99px;padding:0 7px;margin-left:4px;font-size:12px}
+.panel{position:fixed;inset:0;z-index:20;background:rgba(0,0,0,.55);display:flex;justify-content:flex-end}
+.panel[hidden]{display:none}
+.pbox{width:min(440px,100%);height:100%;overflow:auto;background:var(--card);border-left:1px solid var(--line);padding:16px}
+.ph2{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:10px}
+.ph2 h2{margin:0}
+.ph2 .btn{background:var(--bg);color:var(--text);border:1px solid var(--line)}
+.okrow{display:flex;align-items:center;gap:8px;border-bottom:1px solid var(--line)}
+.okrow .fs{flex:1;border:0}
+.undo{border:1px solid var(--line);background:var(--bg);color:var(--text);border-radius:8px;padding:4px 10px;font-size:12px}
 </style></head><body>
 <header>
   <div class="top">
     <h1>US Entertainment <span>Trends Desk</span></h1>
     <span class="stat" id="stat">Loading…</span>
+    <button class="btn ok" id="okbtn">✓ Ok work <b id="okn">0</b></button>
     <button class="btn" id="refresh">⟳ Refresh</button>
   </div>
   <div class="row" id="filters"></div>
@@ -61,10 +79,38 @@ aside .box{position:sticky;top:96px;max-height:calc(100vh - 116px);overflow:auto
     </div>
   </aside>
 </div>
+<div class="panel" id="okpanel" hidden><div class="pbox">
+  <div class="ph2"><h2>Ok work <span class="count">(read stories, kept for 24 hours)</span></h2><button class="btn" id="okclose">Close</button></div>
+  <div id="oklist"></div>
+</div></div>
 <script>
 var FRESH_HOURS=3;
 var DATA=null,src="All",cat="All",onlyTrend=false;
 function $(i){return document.getElementById(i)}
+var DONE={};
+try{DONE=JSON.parse(localStorage.getItem("okwork")||"{}")||{}}catch(e){DONE={}}
+function saveDone(){try{localStorage.setItem("okwork",JSON.stringify(DONE))}catch(e){}}
+function isDone(i){return !!DONE[i.url]}
+function isFresh(i){return Date.now()-new Date(i.published)<=FRESH_HOURS*3600000}
+function prune(){var ch=false;for(var k in DONE){if(Date.now()-new Date(DONE[k].item.published)>864e5){delete DONE[k];ch=true}}if(ch)saveDone()}
+function markDone(i){DONE[i.url]={t:Date.now(),item:i};saveDone();render()}
+function undo(u){delete DONE[u];saveDone();render()}
+function tickBtn(i){var b=document.createElement("button");b.className="tick";b.textContent="✓";b.title="Mark as read";b.setAttribute("aria-label","Mark as read");
+  b.onclick=function(e){e.preventDefault();e.stopPropagation();markDone(i)};return b}
+function renderOk(){
+  var keys=Object.keys(DONE).sort(function(a,b){return DONE[b].t-DONE[a].t});
+  $("okn").textContent=keys.length;
+  var box=$("oklist");box.textContent="";
+  if(!keys.length){var e=document.createElement("div");e.className="empty";e.textContent="No read stories yet. Tick a story to move it here.";box.appendChild(e);return}
+  keys.forEach(function(k){var i=DONE[k].item;
+    var row=document.createElement("div");row.className="okrow";
+    var a=document.createElement("a");a.className="fs";a.href=i.url;a.target="_blank";a.rel="noopener noreferrer";
+    a.appendChild(img(i.image,""));
+    var d=document.createElement("div");var h=document.createElement("h3");h.textContent=i.title;d.appendChild(h);
+    var m=document.createElement("div");m.className="meta";m.textContent=i.source+" · "+ago(i.published);d.appendChild(m);
+    a.appendChild(d);row.appendChild(a);
+    var u=document.createElement("button");u.className="undo";u.textContent="Undo";u.onclick=function(){undo(k)};row.appendChild(u);
+    box.appendChild(row)})}
 function ago(iso){var m=Math.max(0,Math.round((Date.now()-new Date(iso))/60000));
   if(m<60)return m+" min ago";var h=Math.floor(m/60);return h+" h "+(m%60)+" min ago"}
 function chip(label,cls,on,fn){var b=document.createElement("button");b.className="chip "+cls+(on?" on":"");b.textContent=label;b.onclick=fn;return b}
@@ -76,15 +122,17 @@ function load(){
   $("stat").textContent="Loading…";
   fetch("news.json?t="+Date.now()).then(function(r){return r.json()}).then(function(d){DATA=d;render()})
   .catch(function(){$("stat").textContent="Could not load news.json"})}
-function pass(i){return(src==="All"||i.source===src)&&(cat==="All"||i.category===cat)&&(!onlyTrend||i.trending)}
+function pass(i){return !isDone(i)&&(src==="All"||i.source===src)&&(cat==="All"||i.category===cat)&&(!onlyTrend||i.trending)}
 function render(){
   var f=$("filters");f.textContent="";
   ["All"].concat(Object.keys(DATA.per_site)).forEach(function(s){f.appendChild(chip(s,"",s===src,function(){src=s;render()}))});
   var sp=document.createElement("span");sp.className="sep";sp.textContent="|";f.appendChild(sp);
   ["All","Celebrity","Music","Movies","TV","Streaming","Awards","Fashion"].forEach(function(c){f.appendChild(chip(c,"cat",c===cat,function(){cat=c;render()}))});
   f.appendChild(chip("🔥 Trending only","cat",onlyTrend,function(){onlyTrend=!onlyTrend;render()}));
-  var all=DATA.items.filter(pass);
-  var fresh=all.filter(function(i){return Date.now()-new Date(i.published)<=FRESH_HOURS*3600000})
+  prune();
+  var vis=DATA.items.filter(pass);
+  var all=vis.filter(function(i){return !isFresh(i)});
+  var fresh=vis.filter(function(i){return Date.now()-new Date(i.published)<=FRESH_HOURS*3600000})
     .sort(function(a,b){return new Date(b.published)-new Date(a.published)});
   $("stat").textContent="Updated "+ago(DATA.generated_at)+" · "+Object.entries(DATA.per_site).map(function(p){return p[0]+" "+p[1]}).join(" · ");
   $("n24").textContent="("+all.length+")";$("nfresh").textContent="last "+FRESH_HOURS+" h ("+fresh.length+")";
@@ -92,7 +140,7 @@ function render(){
   if(!all.length){g.className="";var e=document.createElement("div");e.className="empty";e.textContent="No stories match these filters.";g.appendChild(e)}
   else{g.className="grid";all.forEach(function(i){
     var a=document.createElement("a");a.className="card";a.href=i.url;a.target="_blank";a.rel="noopener noreferrer";
-    a.appendChild(img(i.image,"im"));
+    a.appendChild(img(i.image,"im"));a.appendChild(tickBtn(i));
     var b=document.createElement("div");b.className="bd";
     var t=document.createElement("span");t.className="tag";t.textContent=i.category;b.appendChild(t);
     var h=document.createElement("h3");h.textContent=i.title;b.appendChild(h);
@@ -103,14 +151,20 @@ function render(){
   if(!fresh.length){var e2=document.createElement("div");e2.className="empty";e2.textContent="Nothing new in the last "+FRESH_HOURS+" hours.";fl.appendChild(e2)}
   fresh.forEach(function(i){
     var a=document.createElement("a");a.className="fs";a.href=i.url;a.target="_blank";a.rel="noopener noreferrer";
-    a.appendChild(img(i.image,""));
+    a.appendChild(img(i.image,""));a.appendChild(tickBtn(i));
     var d=document.createElement("div");
     var h=document.createElement("h3");h.textContent=i.title;d.appendChild(h);
     var m=document.createElement("div");m.className="meta";
     var s=document.createElement("span");s.className="ago";s.textContent=ago(i.published);
     m.appendChild(s);m.appendChild(document.createTextNode(" · "+i.source+" · "+i.category+(i.trending?" · 🔥":"")));
-    d.appendChild(m);a.appendChild(d);fl.appendChild(a)})}
+    d.appendChild(m);a.appendChild(d);fl.appendChild(a)});
+  renderOk()}
 $("refresh").onclick=load;
+$("okbtn").onclick=function(){$("okpanel").hidden=false};
+$("okclose").onclick=function(){$("okpanel").hidden=true};
+$("okpanel").onclick=function(e){if(e.target===this)this.hidden=true};
+document.addEventListener("keydown",function(e){if(e.key==="Escape")$("okpanel").hidden=true});
+renderOk();
 load();setInterval(load,10*60*1000);
 setInterval(function(){if(DATA)render()},60*1000);
 </script></body></html>
