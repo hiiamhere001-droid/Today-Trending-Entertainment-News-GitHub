@@ -1,15 +1,25 @@
 {
- "generated_at": "2026-11-22T14:46:05.745012+00:00",
+ "generated_at": "2026-11-22T15:41:10.154863+00:00",
  "date_us": "2026-11-22",
  "per_site": {
   "usmagazine.com": 17,
   "news.meaww.com": 4,
   "profiles.yahoo.com": 10,
   "yahoo.com": 26,
-  "jang.com.pk": 9,
+  "jang.com.pk": 10,
   "collider.com": 10
  },
  "items": [
+  {
+   "title": "Quentin Tarantino and Daniella Pick announce the arrival of baby no. 3",
+   "url": "https://jang.com.pk/en/76733-quentin-tarantino-and-daniella-pick-announce-the-arrival-of-baby-no-3-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76733_074720_eng.jpg",
+   "published": "2026-11-22T19:47:18+05:00",
+   "trending": false,
+   "trend_term": null
+  },
   {
    "title": "Prince William has big decision to make after Princess Charlotte's surprise move",
    "url": "https://jang.com.pk/en/76729-prince-william-has-big-decision-to-make-after-princess-charlottes-surprise-move-news",
@@ -51,12 +61,192 @@
    "trend_term": null
   },
   {
+   "title": "The 8 Grittiest Hard Sci-Fi Movies, Ranked",
+   "url": "https://collider.com/grittiest-hard-sci-fi-movies-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/europa-report.jpg",
+   "published": "2026-11-22T15:33:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/week-sunday-morning-nov-22-225657531.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/c84feaba6d64659b8f5bc519c6ecf5e8a8d08965e28ea8900338a929d1db28eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fb624ee2a662d3ede31f0deae81dd69e2.jpg",
+   "published": "2026-11-22T15:32:17+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Luca Guadagnino Says He's No Longer Directing 'American Psycho': 'It's Not Happening for Me'",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/luca-guadagnino-says-hes-no-153056055.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/8601eec59fac296e4fec31d66046df6ecb62060698329e11ac26d3d42665ab8e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F8144e79fd19e53e8a4714c3e62dd26b9.jpg",
+   "published": "2026-11-22T15:30:56+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "DC’s ‘Supergirl’ Officially Falls Behind New 3-Hour Mythological Fantasy Blockbuster",
+   "url": "https://collider.com/ramayana-box-office-overtakes-dc-supergirl-worldwide-170-million/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/supergirl-milly-alcock-2.jpg",
+   "published": "2026-11-22T15:30:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Sarah Michelle Gellar’s 2 Kids Didn’t Realize for Years That Macaulay Culkin, Their ‘Uncle Mac,’ Is in “Home Alone” (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/sarah-michelle-gellar-2-kids-153000630.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e19f61cd010a2c5897f2dbbec064255e857aa8aa4ea8c9fd8b7ae7763c395b74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F22de4084878455b91e60b35f6ce76463.jpg",
+   "published": "2026-11-22T15:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Selena Gomez skips Miley Cyrus wedding to help Wembanyama score 50",
    "url": "https://jang.com.pk/en/76721-selena-gomez-skips-miley-cyrus-wedding-to-help-wembanyama-score-50-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76721_033844_eng.jpg",
    "published": "2026-11-22T15:28:38+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Boy George on His Israel Trip: ‘I Wasn’t Able to Not Say Something’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/boy-george-israel-trip-wasn-152836969.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5da63931521f17fffcc88bcf82ca69d540d9c7d03eaab05b0e4a909f247a5cdf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F7f801684ffe9cfde7d331a612e072d75.jpg",
+   "published": "2026-11-22T15:28:36+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Minutes Before Macaulay Culkin’s Home Alone Sequel News, The OG Director Said It Couldn’t Happen",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/minutes-macaulay-culkin-home-alone-152715136.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/1108fda4bf9c8996197c3979d8cd226609a9147079e3d8e71cd6773270b0ccb9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F424cba0ad6467dbf311f8b2f4bc3a6e5.jpg",
+   "published": "2026-11-22T15:27:15+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "10 HBO Crime Shows That Are Perfect Weekend Binges",
+   "url": "https://collider.com/hbo-crime-shows-perfect-weekend-binge/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/colin-farrell-as-oz-cobb-in-the-penguin-1.jpg",
+   "published": "2026-11-22T15:26:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "’90 Day Fiancé’ Star Sheila Mangubat Dies at 35",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fianc-star-sheila-152602100.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a4d576347a911f9b3d02987d74115bd211cde45853848f5c4a0053f99ea1e845/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F31f9ac92c68c950a0f7c478ee11e5320.jpg_up.jpg",
+   "published": "2026-11-22T15:26:02+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Lisa Kudrow Responds Thoughtfully To Critics Who Call \"Friends\" Problematic",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/lisa-kudrow-responds-thoughtfully-critics-151602436.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/5592d0124bbfc32ad44d827b095c093a66f4cf10a620d09fd0cf376c79a9e6d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F5f9fb8c61ed536d2a2e42c7039c78b95.jpg",
+   "published": "2026-11-22T15:16:02+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Tony Shalhoub on food, family, and his book, \"We Thought They'd Never Leave\"",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/tony-shalhoub-food-family-book-150856309.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/47590f27eb1b21d7ca1db8780d19eb763427107cecfde9f88f4feb041904f8dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fbfad953cafba2c53e84879230ff5fb80.jpg",
+   "published": "2026-11-22T15:08:56+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/unknown-director-arthur-harari-says-150250388.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/5e5026701261302bb89b337c47ffdc2535bbae7142ed43271e38518a00e823d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F4cb262cf31620dd7e35ef920602e451f.jpg_up.jpg",
+   "published": "2026-11-22T15:02:50+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Kim Kardashian Slips On Two Slinky Plunging Leather Looks in Red and Black at F1 Las Vegas Grand Prix",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kim-kardashian-slips-two-slinky-150121504.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/5a1611784ebd31348a3cd1a2b3d038bb138a5d17616c63965f876fd71d747fb4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F471a9015d2f32f45a55958f98adf94ed.jpg",
+   "published": "2026-11-22T15:01:21+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Tony Hawk Recalls Working ‘Odd Jobs’ After Being Deemed ‘Too Old’ to Pursue Skating Full-Time in His 20s (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/tony-hawk-recalls-working-odd-150100271.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/dfaf8852ac3f9cc7923673b53fcbc64a0b9112b61571b54d38ac69b894534b5a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F090bffbf59f2c8c5dc2317c57d1d7798.jpg",
+   "published": "2026-11-22T15:01:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jodie Foster Says She's Watched 'The Lion King' Over 100 Times: 'My Favorite Movie Ever'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jodie-foster-says-shes-watched-150020561.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/c32f74472b391686c7477193ba3c31318d7b6b09b4da9f44c177a441054390b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F44f94c0d2670b1fd7ed24c328a8bd2c9.jpg",
+   "published": "2026-11-22T15:00:20+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Ridley Scott’s New Blade Runner Series Officially Hits Prime Video This Week",
+   "url": "https://collider.com/blade-runner-2099-prime-video-release-november-25-ridley-scott/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/blade-runner-harrison-ford-1.jpg",
+   "published": "2026-11-22T15:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Gemma Arterton's 'Secret Service' Is a Twisty Spy Thriller That Never Quite Sticks | Review",
+   "url": "https://collider.com/secret-service-mgm-plus-review-gemma-arterton/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/secret-service-gemma-arterton-2-1.jpeg",
+   "published": "2026-11-22T15:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Meghan Markle’s Father’s Relative Exposes His ‘Girls Trips’ To Asia As An ‘Open Family Secret’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-father-relative-exposes-150000503.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8a839edadbc3aefb7011a64d3c748e980f600a31aa2b20a04b73885e51633ce1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F52f5f6be56bf7a9116f630b65c8d33b4.jpg",
+   "published": "2026-11-22T15:00:00+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -71,36 +261,6 @@
    "trend_term": null
   },
   {
-   "title": "25 Trivia Nuggets From Pop Culture History About Movies For Sunday, November 22nd",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/25-trivia-nuggets-pop-culture-143100736.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/af775318926043c367d36bc4822b79966a9547d3731ed5cef1f84acff7083223/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcracked_901%2Fcd7d0ccf5af52d7cbc82d014ed56b6de.jpg",
-   "published": "2026-11-22T14:31:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "'7th Heaven' Star Mackenzie Rosman Says Her 'Maxim' Photos Got Her in Trouble With Conservative Relatives",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/7th-heaven-star-mackenzie-rosman-143028906.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/0ef79a2f198642aad33f1664ca3b5bc9d9288a3fd672834334c40e52c7d9bc05/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fd58512ebd867abaaf07cf0952613d892.jpg",
-   "published": "2026-11-22T14:30:28+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "HGTV’s Erin Napier Celebrates Her & Ben’s Major Milestone With Sweet Throwback Photos",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/hgtv-erin-napier-celebrates-her-143026206.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/733cd594ec4674a0da3c8ca27de274e751ad20cbb056f6effa5c88532a25e117/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fead8cebec99aaf3eacd6f0cbfe14dea4.jpg",
-   "published": "2026-11-22T14:30:26+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Sylvester Stallone’s ‘Rocky’ Biopic Officially Adds Nearly 2,500 Theaters",
    "url": "https://collider.com/i-play-rocky-box-office-expansion-2448-theaters/",
    "source": "collider.com",
@@ -111,122 +271,12 @@
    "trend_term": null
   },
   {
-   "title": "Prince William Reportedly Giving His Kids A Choice He May Deny Prince Harry’s Children With Shock Move",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-reportedly-giving-kids-143000069.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/d1676210a8dc4ce41222646275c6f1ffaa821e0389319bce85bd848da51cd5e7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fd5b30da4bb78f46dccf72747fe60919e.jpg",
-   "published": "2026-11-22T14:30:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "“Heated Rivalry”’s Robbie G.K. Reflects on One Year Since the Series Premiered, Describes the Past 365 Days in 3 Words (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/heated-rivalry-robbie-g-k-143000622.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/7ca70bd2f83dcc6c102552169ec0bf8db92eb4d58f05bbd3af909eaa3ad2b35b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F60e4691e1068d5e3ecd7953e2fc6078d.jpg",
-   "published": "2026-11-22T14:30:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/week-sunday-morning-nov-22-225657531.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/c84feaba6d64659b8f5bc519c6ecf5e8a8d08965e28ea8900338a929d1db28eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fb624ee2a662d3ede31f0deae81dd69e2.jpg",
-   "published": "2026-11-22T14:28:46+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "“90 Day Fiancé” Star Sheila Mangubat Dies at 35, Days Before Her Birthday",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fianc-star-sheila-142802145.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/bca909b0aa2350cde07fdc65d198e7ce6b69fe5b0a601aa900025e7a7a62f5e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F1040de36f56902065f271873afb80eb0.jpg",
-   "published": "2026-11-22T14:28:02+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner ‘The Dragon Letter’ as Director Plans Feature Version (EXCLUSIVE)",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/j-bayona-guneet-monga-kapoor-142529491.html",
-   "source": "yahoo.com",
-   "category": "Awards",
-   "image": "https://s.yimg.com/lo/mysterio/api/779e41aaf28d4aa5be8d18e3d844f0afb869a48ee95162b81b54aa809e28b739/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fe9ee8ff125cd9b82923c3066cafaf9fd.jpg_up.jpg",
-   "published": "2026-11-22T14:25:29+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Quentin Tarantino, wife Daniella welcome baby No. 3",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/quentin-tarantino-wife-daniella-welcome-142441111.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/2bda183754598ba754263918b55a3710239260e6764cd458d6276472e23ded9c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Ffe006c483397837500a814d177805c9c.jpg_up.jpg",
-   "published": "2026-11-22T14:24:41+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘90 Day Fiancé’ star Sheila Mangubat dead at 35",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fianc-star-sheila-142027684.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b410b8e8ed03140f54c9f424a5443dad0cd1a2b99b454689c3291807eb379455/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F5620e4d5d8c87ed26376a246d854727e.jpg",
-   "published": "2026-11-22T14:20:27+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Hunger Games Director Officially Teases the Franchise’s Future Beyond ‘Sunrise on the Reaping’",
    "url": "https://collider.com/hunger-games-sunrise-on-the-reaping-ending-explained-francis-lawrence-interview/",
    "source": "collider.com",
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hunger-games-sunrise-on-the-reaping-jesse-plemons-francis-lawrence.jpg",
    "published": "2026-11-22T14:03:26+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Zendaya Says Tom Holland Came to 'The Odyssey' Set Just to Support Her on Her Nerve-Racking First Day",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/zendaya-says-tom-holland-came-140054553.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/37cf4042e122a60dc622904587bebc89b6bc263699dd35ded3e02218674645ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F82d50fe4435e8f369229e0a019691679.jpg",
-   "published": "2026-11-22T14:00:54+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Melania Reveals She Used An Ultimatum To Push Trump To Run Again Despite Reports She Dreaded First Lady Return",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/melania-reveals-she-used-ultimatum-140000455.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/06ceca415f7a99a89166995778185944c185a43045e83ffae9bdc566c3cc1edd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fa04097bcded9596ff25ceebfb4b81d44.jpg",
-   "published": "2026-11-22T14:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Meghan Accused of Trying to Upstage Kate by ‘Turning Everything into a Competition’—She’s ‘Showing Her How It’s Done’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-accused-trying-upstage-kate-140000513.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/4ed633329de46798a57333d106a3b27d6d51a61909057bb84983f6524452e1aa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2Fedfd5ed14bc9fd3a0fb398db99525335.jpg",
-   "published": "2026-11-22T14:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Barbara Eden reveals what she’d want from a new ‘I Dream of Jeannie’ star",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/barbara-eden-reveals-she-d-140000576.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/eb4bd621474a61b0320ca552f16bbf55e88e981195360475dab24dfa64916ff7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2Fdc63d2c0454fa2653f3a33010d969bf9.jpg",
-   "published": "2026-11-22T14:00:00+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -247,56 +297,6 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/how-to-make-a-killing-topher-grace-jessica-henwick-glen-powell-interview-1.jpg",
    "published": "2026-11-22T13:30:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "The 10 Greatest '90s TV Pilots, Ranked",
-   "url": "https://collider.com/best-90s-tv-pilots-ranked/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/friends.jpg",
-   "published": "2026-11-22T13:21:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "9 Essential Movies to Watch Before 'The Further Mis-Adventures of Cliff Booth'",
-   "url": "https://collider.com/movies-to-watch-before-brad-pitt-david-fincher-further-mis-adventures-of-cliff-booth/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/brad-pitt-cliff-booth.jpg",
-   "published": "2026-11-22T13:18:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "HBO’s ‘Harry Potter’ Officially Changes a Classic Book Moment in First Full Scene Release",
-   "url": "https://collider.com/harry-potter-hbo-reboot-first-scene-dumbledore-book-change/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/harry-potter-2-1-1.avif",
-   "published": "2026-11-22T13:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Forget 'Bosch,' Netflix's 5-Part Detective Drama Is a Perfect Binge",
-   "url": "https://collider.com/netflix-southland-detective-drama-binge/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/bosch-legacy-titus-welliver-1.jpg",
-   "published": "2026-11-22T12:57:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "India’s ‘Ramayana’ Officially Removed From Nearly 800 Theaters After Box Office Drop",
-   "url": "https://collider.com/ramayana-rise-of-a-legend-removed-from-800-theaters-box-office/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/world-of-ramayana-3.jpg",
-   "published": "2026-11-22T12:45:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -707,6 +707,16 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Gene-Hackman-1743126GettyImages-1743126.jpg",
    "published": "2026-11-21T21:40:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Quinta Brunson Attends Abbott Elementary 100 Episode Celebration in Modified Magda Butrym x H&M Dress",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/quinta-brunson-attends-abbott-elementary-211146345.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/02a4e39458ba3e7464770bd600232323b3ad67ee9d2a1bc59c046f5c68f0bb95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2Fa3f7342c39c484b79eb7d8f633377b73.jpg",
+   "published": "2026-11-21T21:11:46+00:00",
    "trending": false,
    "trend_term": null
   },
