@@ -1,7 +1,5 @@
-"""Collect today's US entertainment stories from the sites in sites.json,
-match them to Google Trends (US), and write news.json.
+"""Collect today's US entertainment stories, match Google Trends (US), write news.json.
 Install: pip install feedparser requests beautifulsoup4
-Run:     python fetch_news.py
 """
 import json, re, time, datetime as dt
 from urllib.parse import urljoin, urlparse
@@ -11,43 +9,65 @@ from bs4 import BeautifulSoup
 
 UA = {"User-Agent": "Mozilla/5.0 (compatible; EntertainmentTrendsBot/1.0)"}
 US_TZ = ZoneInfo("America/New_York")
-ENT_WORDS = re.compile(
-    r"celebrit|entertain|movie|film|tv|series|show|music|singer|album|concert|"
-    r"actor|actress|star|hollywood|netflix|streaming|oscar|emmy|grammy|award|"
-    r"reality|royal|trailer|box office|red carpet|couple|dating|divorce", re.I)
-CATEGORIES = {
-    "Music": r"music|singer|album|concert|tour|song|grammy|rapper",
-    "Movies": r"movie|film|box office|trailer|oscar|director",
-    "TV": r"\btv\b|series|season|episode|reality|sitcom|emmy",
-    "Streaming": r"netflix|hulu|disney\+|prime video|apple tv|max\b|streaming",
-    "Awards": r"award|oscar|emmy|grammy|golden globe|nominat",
-    "Fashion": r"fashion|red carpet|dress|outfit|style",
-}
 
-def get(url, **kw):
+# Feed addresses to try first for sites where homepage discovery is unreliable.
+# These are unverified guesses; the script falls back to auto-discovery.
+FEED_HINTS = {
+    "yahoo.com": ["https://www.yahoo.com/entertainment/rss", "https://www.yahoo.com/news/rss"],
+    "profiles.yahoo.com": [],
+    "usmagazine.com": ["https://www.usmagazine.com/feed/"],
+    "collider.com": ["https://collider.com/feed/"],
+    "news.meaww.com": ["https://news.meaww.com/feed"],
+}
+# Sites that publish only entertainment: accept everything except the block list.
+ENT_ONLY = {"usmagazine.com", "collider.com"}
+
+STRONG = re.compile(
+    r"\b(movie|movies|film|films|trailer|box office|netflix|hulu|disney\+?|hbo|peacock|"
+    r"prime video|apple tv|streaming|series|season|episode|sitcom|reality tv|bachelor|"
+    r"singer|rapper|album|concert|tour|song|single|grammys?|oscars?|emmys?|golden globes?|"
+    r"awards?|actor|actress|hollywood|red carpet|celebrity|celebs?|kardashian|"
+    r"divorce|engaged|engagement|wedding|marries|dating|pregnant|baby|split|breakup|"
+    r"spotted|premiere|cast|director|sequel|star wars|marvel|taylor swift|beyonc[eé]|"
+    r"britney|royal|late[- ]night|talk show|snl|broadway)\b", re.I)
+BLOCK = re.compile(
+    r"\b(politic\w*|election|senate|congress|nfl|nba|mlb|nhl|stocks?|crypto|recipe|"
+    r"shopping|deals?|amazon|walmart|bigfoot|ufo|weather|crash|shooting|war)\b", re.I)
+
+CATEGORIES = [
+    ("Awards", r"\b(awards?|oscars?|emmys?|grammys?|golden globes?|nominat\w*)\b"),
+    ("Streaming", r"\b(netflix|hulu|disney\+?|hbo|peacock|prime video|apple tv|streaming|paramount\+)\b"),
+    ("Movies", r"\b(movie|movies|film|films|box office|trailer|sequel|director)\b"),
+    ("TV", r"\b(tv|series|season|episode|sitcom|reality|bachelor|talk show|snl)\b"),
+    ("Music", r"\b(singer|rapper|album|concert|tour|song|single|band|music)\b"),
+    ("Fashion", r"\b(fashion|red carpet|dress|outfit|met gala|style)\b"),
+]
+
+def get(url):
     try:
-        r = requests.get(url, headers=UA, timeout=20, **kw)
+        r = requests.get(url, headers=UA, timeout=20)
         r.raise_for_status()
         return r
     except Exception as e:
-        print("  fail", url, e)
+        print("   fail:", url, str(e)[:80])
         return None
 
-def discover_feeds(site):
-    feeds = []
+def candidate_feeds(site, host):
+    out = list(FEED_HINTS.get(host, []))
     r = get(site)
     if r:
         soup = BeautifulSoup(r.text, "html.parser")
         for l in soup.find_all("link", rel="alternate"):
-            if "rss" in (l.get("type") or "") or "atom" in (l.get("type") or ""):
-                feeds.append(urljoin(site, l.get("href")))
+            t = (l.get("type") or "")
+            if "rss" in t or "atom" in t:
+                out.append(urljoin(site, l.get("href")))
     base = f"{urlparse(site).scheme}://{urlparse(site).netloc}"
-    feeds += [base + p for p in ("/feed/", "/rss", "/rss.xml", "/feed")]
-    seen, out = set(), []
-    for f in feeds:
+    out += [base + p for p in ("/feed/", "/rss", "/rss.xml", "/feed")]
+    seen, res = set(), []
+    for f in out:
         if f not in seen:
-            seen.add(f); out.append(f)
-    return out
+            seen.add(f); res.append(f)
+    return res
 
 def entry_image(e):
     for k in ("media_content", "media_thumbnail"):
@@ -63,59 +83,71 @@ def entry_image(e):
 
 def entry_time(e):
     t = e.get("published_parsed") or e.get("updated_parsed")
-    if not t:
-        return None
-    return dt.datetime.fromtimestamp(time.mktime(t), dt.timezone.utc)
+    return dt.datetime.fromtimestamp(time.mktime(t), dt.timezone.utc) if t else None
 
 def trends_us():
     r = get("https://trends.google.com/trending/rss?geo=US")
     if not r:
         return []
-    f = feedparser.parse(r.content)
-    return [e.get("title", "").lower() for e in f.entries if e.get("title")]
+    return [e.get("title", "").lower() for e in feedparser.parse(r.content).entries if e.get("title")]
 
 def classify(text):
-    for name, pat in CATEGORIES.items():
+    for name, pat in CATEGORIES:
         if re.search(pat, text, re.I):
             return name
     return "Celebrity"
+
+def is_entertainment(host, title, tags, url):
+    text = f"{title} {tags} {urlparse(url).path.replace('-', ' ').replace('/', ' ')}"
+    if BLOCK.search(text):
+        return False
+    if host in ENT_ONLY:
+        return True
+    return bool(STRONG.search(text)) or "/entertainment/" in url
 
 def main():
     sites = json.load(open("sites.json"))
     trends = trends_us()
     print("trending terms:", len(trends))
     today = dt.datetime.now(US_TZ).date()
-    items, status = [], {}
+    items, status, seen_urls = [], {}, set()
     for site in sites:
+        if isinstance(site, dict):
+            site = site["url"]
         host = urlparse(site).netloc.replace("www.", "")
-        got = 0
-        for feed_url in discover_feeds(site):
+        kept = total = 0
+        used = None
+        for feed_url in candidate_feeds(site, host):
             r = get(feed_url)
             if not r:
                 continue
             feed = feedparser.parse(r.content)
             if not feed.entries:
                 continue
+            used = feed_url
             for e in feed.entries:
+                total += 1
                 when = entry_time(e)
                 if not when or when.astimezone(US_TZ).date() != today:
                     continue
+                url = e.get("link")
+                if not url or url in seen_urls:
+                    continue
                 title = e.get("title", "").strip()
                 tags = " ".join(t.get("term", "") for t in e.get("tags", []))
-                blob = f"{title} {tags} {e.get('link','')} {e.get('summary','')[:300]}"
-                if not ENT_WORDS.search(blob):
+                if not is_entertainment(host, title, tags, url):
                     continue
-                low = blob.lower()
+                seen_urls.add(url)
+                low = f"{title} {e.get('summary','')[:300]}".lower()
                 hit = next((t for t in trends if len(t) > 3 and t in low), None)
-                items.append({"title": title, "url": e.get("link"), "source": host,
-                              "category": classify(blob), "image": entry_image(e),
-                              "published": when.isoformat(), "trending": bool(hit),
-                              "trend_term": hit})
-                got += 1
-            break  # first working feed is enough
-        status[host] = got
-        print(host, "->", got, "stories today")
-    items.sort(key=lambda i: (not i["trending"], i["published"]), reverse=False)
+                items.append({"title": title, "url": url, "source": host,
+                              "category": classify(f"{title} {tags} {url}"),
+                              "image": entry_image(e), "published": when.isoformat(),
+                              "trending": bool(hit), "trend_term": hit})
+                kept += 1
+            break
+        status[host] = kept
+        print(f"{host}: feed={used} entries={total} kept_today={kept}")
     items.sort(key=lambda i: i["published"], reverse=True)
     items.sort(key=lambda i: not i["trending"])
     out = {"generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
