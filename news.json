@@ -1,15 +1,35 @@
 {
- "generated_at": "2026-11-22T15:41:10.154863+00:00",
+ "generated_at": "2026-11-22T16:42:25.056612+00:00",
  "date_us": "2026-11-22",
  "per_site": {
-  "usmagazine.com": 17,
+  "usmagazine.com": 16,
   "news.meaww.com": 4,
   "profiles.yahoo.com": 10,
-  "yahoo.com": 26,
-  "jang.com.pk": 10,
+  "yahoo.com": 25,
+  "jang.com.pk": 9,
   "collider.com": 10
  },
  "items": [
+  {
+   "title": "Rob Kardashian Shares Rare Photo With Daughter Dream, Blac Chyna Reacts",
+   "url": "https://www.usmagazine.com/celebrity-news/news/rob-kardashian-shares-rare-photo-with-dream-blac-chyna-reacts/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-530516214-Rob-Kardashian-Shares-Rare-Photo-With-Dream-Blac-Chyna-Reacts-e1795323885884.jpg?crop=0px%2C70px%2C1333px%2C753px&resize=1000%2C563&quality=70&strip=all",
+   "published": "2026-11-22T05:27:24+00:00",
+   "trending": true,
+   "trend_term": "rob kardashian"
+  },
+  {
+   "title": "Rob Kardashian Shares Rare Photo With Daughter Dream For Her Birthday, Blac Chyna Reacts",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/rob-kardashian-shares-rare-photo-052724452.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/17d187c9374cf9ad66f5d8a2a21f61da956ba8adb4f2aa539bd6fd10bf14d505/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fb2e7e9a977f2a19667786466ff9e339c.jpg",
+   "published": "2026-11-22T05:27:24+00:00",
+   "trending": true,
+   "trend_term": "rob kardashian"
+  },
   {
    "title": "Quentin Tarantino and Daniella Pick announce the arrival of baby no. 3",
    "url": "https://jang.com.pk/en/76733-quentin-tarantino-and-daniella-pick-announce-the-arrival-of-baby-no-3-news",
@@ -61,12 +81,172 @@
    "trend_term": null
   },
   {
-   "title": "The 8 Grittiest Hard Sci-Fi Movies, Ranked",
-   "url": "https://collider.com/grittiest-hard-sci-fi-movies-ranked/",
+   "title": "The 10 Heaviest Revenge Movies of All Time, Ranked",
+   "url": "https://collider.com/heaviest-revenge-movies-all-time-ranked/",
    "source": "collider.com",
    "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/europa-report.jpg",
-   "published": "2026-11-22T15:33:12+00:00",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/05/oldboy-1.jpg",
+   "published": "2026-11-22T16:37:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "90 Day Fiancé’s David Dangerfield Spoke Out After Former Fiancé Sheila Mangubat Died",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fianc-david-dangerfield-163444669.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/137086d748200ada278771d1fe44a7505afed610350d4184fe96732cd3ad29b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F7248054bdad9c5dae79265d5ff25449a.jpg",
+   "published": "2026-11-22T16:34:44+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘The Social Network’ Sequel Comes Home After Being Officially Removed From 2,600 Theaters",
+   "url": "https://collider.com/the-social-reckoning-digital-release-date-removed-2600-theaters/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/the-social-reckoning-jeremy-strong.jpg",
+   "published": "2026-11-22T16:30:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Kate Reportedly Feels ‘Bullied’ by Harry as Sources Reveal Why She’s Become ‘Increasingly Frustrated’ by His ‘Embarrassing’ Behavior",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-reportedly-feels-bullied-harry-163000499.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/bcf19e31e83dd348c21da5594c49d67c44d4dae7fb48ef3b2697620a0d783126/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2F918799bdba055c9d6255750328233e2a.jpg",
+   "published": "2026-11-22T16:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Al Roker Reveals Which Famous Person He Was Especially Excited to Interview (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/al-roker-reveals-famous-person-163000683.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/92dc73f2c948a02ba464cc6aac698359f7353c5cb82cdc5b3ce7f5ecb58d230f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F833dcb8f5fac1235b21e03b5d55d0314.jpg",
+   "published": "2026-11-22T16:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "BBC Apologizes After Sex Noises Interrupt ‘Strictly Come Dancing’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/bbc-apologizes-sex-noises-interrupt-162958453.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/ee914760922d02c7cea21b74caeba7e9381484992413df59176ffa4f64ac8076/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F091b9106f047089a4f02454f999d9dc0.jpg",
+   "published": "2026-11-22T16:29:58+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘Hunger Games: Sunrise on the Reaping’ Deadlifts Box Office With $225 Million Global Opening",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/hunger-games-sunrise-reaping-deadlifts-162317780.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/101a31d7ac41bfddf7e33ed3b0e4a5b4e848913c40edbfb4fc2d8d67f16df9b0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F2499eb0792f8f44d030346ecf7e90859.jpg",
+   "published": "2026-11-22T16:23:17+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Debuts to Mighty $120 Million, Reviving Lionsgate’s Most Important Franchise",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/box-office-hunger-games-sunrise-161816465.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/102faa62121eb4a5d73bf7fc6b46c753edb9656fb48ef535f31fd6f4067a6207/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findiewire_268%2Fb32ac8f1e381d11a0c33c14ed9c7c104.jpg",
+   "published": "2026-11-22T16:18:16+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/box-office-sunrise-reaping-reignites-161628133.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/63858dec204c7a36001334763290bbb9e5a2c4dd4b9ac2d6f528c192049cc06d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F0bd079620cc19cd6292da49b02ee7802.jpg_up.jpg",
+   "published": "2026-11-22T16:16:28+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "The Sci-Fi Time Travel Movie That Needs More Attention On Free Streaming",
+   "url": "https://www.yahoo.com/entertainment/articles/sci-fi-time-travel-movie-014138669.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/d96e9d3ae3f31f793bc908df13fc59f1373c753dd3644144b7516d3c7093892d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgiant_freakin_robot_articles_628%2F7ea0ba4b40f038e6d26065c4d44eccbc.png_up.jpg",
+   "published": "2026-11-22T16:15:42+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Zendaya and Tom Holland Reportedly Pay Cash for $10.8 Million London Mansion, Nearly $1 Million Below Asking",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/zendaya-tom-holland-reportedly-pay-161232618.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/bcd9caf88277765057eaa074241f54592ecb545666a433050403148aac709aaf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fddf75b0877c259f258cc50700d90b6f1.jpg",
+   "published": "2026-11-22T16:12:32+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "HBO's Harry Potter Officially Returns to Hogwarts in Just Over a Month",
+   "url": "https://collider.com/harry-potter-hbo-series-christmas-premiere-30-day-countdown/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/harry-potter-2-1.jpg",
+   "published": "2026-11-22T16:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Oliver Hudson jokes new ADHD medication makes him feel like a ‘drug addict’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/oliver-hudson-jokes-adhd-medication-160000821.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/bd90dd7aae3d00547b2212f8c53d35184197d3300ff1fe2e992b1be22b45289e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2Fae709e9dfa236243c55b160b32d76b05.jpg",
+   "published": "2026-11-22T16:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘Livid’ Charles Reportedly ‘Threatening’ Andrew After Report the Ex-Prince Is ‘Gleeful’ Over His Brother’s ‘Suffering’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/livid-charles-reportedly-threatening-andrew-160000378.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/939f6b551b8d4177150e35e2c670cc8797ace33f1b4a61046a6e31a86d4a70e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2F0a0ae60bb5e888655bfc67df95ac00ca.jpg",
+   "published": "2026-11-22T16:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Melania Trump Reveals Her Rare White House Dynamic With Donald & Barron",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/melania-trump-reveals-her-rare-160000736.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1325626ead33d6855db36238b1b0e192decee38cafc351e40be1bda0bbddb7c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2Fafad5229cf57d07e546a987face3ae18.jpg",
+   "published": "2026-11-22T16:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Prince William Reportedly Wants Prince Harry, Meghan Markle, And Kids Stripped Of Titles In ‘Massive Restructuring’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-reportedly-wants-prince-160000766.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4548a1cd27fa24c6fb254a7c187b5a85c2d5c0f6ec57be9e4f6f07bb8d9ab0db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Febe3ed5e8bcf058b09fabcaaed4cec65.jpg",
+   "published": "2026-11-22T16:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "John Goodman Praises Peter O’Toole as ‘Smartest Man I’ve Ever Met,’ Says He Was ‘Constantly Amazed’ by Late Costar (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/john-goodman-praises-peter-o-160000162.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3d75ba9a6b6f797cb49a08bc2c209af68948dfe861860fec1fdbf3e62ea1a2af/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F280604269171da7746aa3c638ec56b7e.jpg",
+   "published": "2026-11-22T16:00:00+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -76,17 +256,17 @@
    "source": "yahoo.com",
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/c84feaba6d64659b8f5bc519c6ecf5e8a8d08965e28ea8900338a929d1db28eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fb624ee2a662d3ede31f0deae81dd69e2.jpg",
-   "published": "2026-11-22T15:32:17+00:00",
+   "published": "2026-11-22T15:35:22+00:00",
    "trending": false,
    "trend_term": null
   },
   {
-   "title": "Luca Guadagnino Says He's No Longer Directing 'American Psycho': 'It's Not Happening for Me'",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/luca-guadagnino-says-hes-no-153056055.html",
-   "source": "yahoo.com",
+   "title": "The 8 Grittiest Hard Sci-Fi Movies, Ranked",
+   "url": "https://collider.com/grittiest-hard-sci-fi-movies-ranked/",
+   "source": "collider.com",
    "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/8601eec59fac296e4fec31d66046df6ecb62060698329e11ac26d3d42665ab8e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F8144e79fd19e53e8a4714c3e62dd26b9.jpg",
-   "published": "2026-11-22T15:30:56+00:00",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/europa-report.jpg",
+   "published": "2026-11-22T15:33:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -101,122 +281,12 @@
    "trend_term": null
   },
   {
-   "title": "Sarah Michelle Gellar’s 2 Kids Didn’t Realize for Years That Macaulay Culkin, Their ‘Uncle Mac,’ Is in “Home Alone” (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/sarah-michelle-gellar-2-kids-153000630.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e19f61cd010a2c5897f2dbbec064255e857aa8aa4ea8c9fd8b7ae7763c395b74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F22de4084878455b91e60b35f6ce76463.jpg",
-   "published": "2026-11-22T15:30:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Selena Gomez skips Miley Cyrus wedding to help Wembanyama score 50",
-   "url": "https://jang.com.pk/en/76721-selena-gomez-skips-miley-cyrus-wedding-to-help-wembanyama-score-50-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76721_033844_eng.jpg",
-   "published": "2026-11-22T15:28:38+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Boy George on His Israel Trip: ‘I Wasn’t Able to Not Say Something’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/boy-george-israel-trip-wasn-152836969.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/5da63931521f17fffcc88bcf82ca69d540d9c7d03eaab05b0e4a909f247a5cdf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F7f801684ffe9cfde7d331a612e072d75.jpg",
-   "published": "2026-11-22T15:28:36+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Minutes Before Macaulay Culkin’s Home Alone Sequel News, The OG Director Said It Couldn’t Happen",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/minutes-macaulay-culkin-home-alone-152715136.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/1108fda4bf9c8996197c3979d8cd226609a9147079e3d8e71cd6773270b0ccb9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F424cba0ad6467dbf311f8b2f4bc3a6e5.jpg",
-   "published": "2026-11-22T15:27:15+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "10 HBO Crime Shows That Are Perfect Weekend Binges",
    "url": "https://collider.com/hbo-crime-shows-perfect-weekend-binge/",
    "source": "collider.com",
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/colin-farrell-as-oz-cobb-in-the-penguin-1.jpg",
    "published": "2026-11-22T15:26:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "’90 Day Fiancé’ Star Sheila Mangubat Dies at 35",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fianc-star-sheila-152602100.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/a4d576347a911f9b3d02987d74115bd211cde45853848f5c4a0053f99ea1e845/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F31f9ac92c68c950a0f7c478ee11e5320.jpg_up.jpg",
-   "published": "2026-11-22T15:26:02+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Lisa Kudrow Responds Thoughtfully To Critics Who Call \"Friends\" Problematic",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/lisa-kudrow-responds-thoughtfully-critics-151602436.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/5592d0124bbfc32ad44d827b095c093a66f4cf10a620d09fd0cf376c79a9e6d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F5f9fb8c61ed536d2a2e42c7039c78b95.jpg",
-   "published": "2026-11-22T15:16:02+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Tony Shalhoub on food, family, and his book, \"We Thought They'd Never Leave\"",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/tony-shalhoub-food-family-book-150856309.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/47590f27eb1b21d7ca1db8780d19eb763427107cecfde9f88f4feb041904f8dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fbfad953cafba2c53e84879230ff5fb80.jpg",
-   "published": "2026-11-22T15:08:56+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/unknown-director-arthur-harari-says-150250388.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/5e5026701261302bb89b337c47ffdc2535bbae7142ed43271e38518a00e823d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F4cb262cf31620dd7e35ef920602e451f.jpg_up.jpg",
-   "published": "2026-11-22T15:02:50+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Kim Kardashian Slips On Two Slinky Plunging Leather Looks in Red and Black at F1 Las Vegas Grand Prix",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kim-kardashian-slips-two-slinky-150121504.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/5a1611784ebd31348a3cd1a2b3d038bb138a5d17616c63965f876fd71d747fb4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F471a9015d2f32f45a55958f98adf94ed.jpg",
-   "published": "2026-11-22T15:01:21+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Tony Hawk Recalls Working ‘Odd Jobs’ After Being Deemed ‘Too Old’ to Pursue Skating Full-Time in His 20s (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/tony-hawk-recalls-working-odd-150100271.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/dfaf8852ac3f9cc7923673b53fcbc64a0b9112b61571b54d38ac69b894534b5a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F090bffbf59f2c8c5dc2317c57d1d7798.jpg",
-   "published": "2026-11-22T15:01:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Jodie Foster Says She's Watched 'The Lion King' Over 100 Times: 'My Favorite Movie Ever'",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jodie-foster-says-shes-watched-150020561.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/c32f74472b391686c7477193ba3c31318d7b6b09b4da9f44c177a441054390b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F44f94c0d2670b1fd7ed24c328a8bd2c9.jpg",
-   "published": "2026-11-22T15:00:20+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -241,16 +311,6 @@
    "trend_term": null
   },
   {
-   "title": "Meghan Markle’s Father’s Relative Exposes His ‘Girls Trips’ To Asia As An ‘Open Family Secret’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-father-relative-exposes-150000503.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8a839edadbc3aefb7011a64d3c748e980f600a31aa2b20a04b73885e51633ce1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F52f5f6be56bf7a9116f630b65c8d33b4.jpg",
-   "published": "2026-11-22T15:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Top 9 Hunger Games Book Names With Literary Origins",
    "url": "https://collider.com/hunger-games-books-names-literary-origins/",
    "source": "collider.com",
@@ -267,36 +327,6 @@
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/i-play-rocky-anthony-ippolito.jpg",
    "published": "2026-11-22T14:30:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Hunger Games Director Officially Teases the Franchise’s Future Beyond ‘Sunrise on the Reaping’",
-   "url": "https://collider.com/hunger-games-sunrise-on-the-reaping-ending-explained-francis-lawrence-interview/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hunger-games-sunrise-on-the-reaping-jesse-plemons-francis-lawrence.jpg",
-   "published": "2026-11-22T14:03:26+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘The Matrix’ Star’s Supernatural Series Is Officially Breaking Records",
-   "url": "https://collider.com/yaga-carrie-anne-moss-amc-plus-biggest-exclusive-series-debut/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/yaga-sheila-mccarthy.jpg",
-   "published": "2026-11-22T13:45:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Glen Powell’s Savage Thriller Officially Takes Over Streaming",
-   "url": "https://collider.com/glen-powell-how-to-make-a-killing-streaming-hit-hbo-max-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/how-to-make-a-killing-topher-grace-jessica-henwick-glen-powell-interview-1.jpg",
-   "published": "2026-11-22T13:30:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -391,22 +421,12 @@
    "trend_term": null
   },
   {
-   "title": "Rob Kardashian Shares Rare Photo With Daughter Dream, Blac Chyna Reacts",
-   "url": "https://www.usmagazine.com/celebrity-news/news/rob-kardashian-shares-rare-photo-with-dream-blac-chyna-reacts/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-530516214-Rob-Kardashian-Shares-Rare-Photo-With-Dream-Blac-Chyna-Reacts-e1795323885884.jpg?crop=0px%2C70px%2C1333px%2C753px&resize=1000%2C563&quality=70&strip=all",
-   "published": "2026-11-22T05:27:24+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Rob Kardashian Shares Rare Photo With Daughter Dream For Her Birthday, Blac Chyna Reacts",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/rob-kardashian-shares-rare-photo-052724452.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/17d187c9374cf9ad66f5d8a2a21f61da956ba8adb4f2aa539bd6fd10bf14d505/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fb2e7e9a977f2a19667786466ff9e339c.jpg",
-   "published": "2026-11-22T05:27:24+00:00",
+   "title": "Melania Trump Steps Out In A Sweetheart-Neck Dress And Blazer At 'Melania: The Series' Premiere",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/melania-trump-steps-sweetheart-neck-055205275.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/9dd77d27b82135efc5f0c64d42a6ef2a42158a81de350bb4104ce81898ca1324/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fshefinds_255%2F6d4888472fc70b821467c0c2556ebb19.jpg",
+   "published": "2026-11-22T05:52:05+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -561,16 +581,6 @@
    "trend_term": null
   },
   {
-   "title": "Meghan Markle's cozy cream outfit is the star of her dreamy festive photo",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/meghan-markles-cozy-cream-outfit-021051120.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/bf4e7f94d42015824b3563774e8162c5311da12574da2de595a706c51cc78274/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F1412a9f088edaa328b9b33d758fffccf.jpg",
-   "published": "2026-11-22T02:10:51+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Celebrity Weddings of 2026: Miley Cyrus, Brielle Biermann and More",
    "url": "https://www.usmagazine.com/celebrity-news/pictures/celebrity-weddings-of-2026-stars-who-got-married-this-year/",
    "source": "usmagazine.com",
@@ -587,16 +597,6 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Actor-EJ-Carroll-Dies-Suddenly-at-66.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
    "published": "2026-11-22T01:30:08+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "What Chicago Fire's Leading Ladies Look Like Without Makeup",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/chicago-fires-leading-ladies-look-013000420.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/c5604a11c6d60ff979aa780e9d29461ea19f527f4216d7bfa2f82c65686615c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglam_992%2F3cdbace01473c02ef8dffa6589eeb6c6.jpg",
-   "published": "2026-11-22T01:30:00+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -711,16 +711,6 @@
    "trend_term": null
   },
   {
-   "title": "Quinta Brunson Attends Abbott Elementary 100 Episode Celebration in Modified Magda Butrym x H&M Dress",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/quinta-brunson-attends-abbott-elementary-211146345.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/02a4e39458ba3e7464770bd600232323b3ad67ee9d2a1bc59c046f5c68f0bb95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2Fa3f7342c39c484b79eb7d8f633377b73.jpg",
-   "published": "2026-11-21T21:11:46+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Britney Spears Apologizes to Her Family for 'Bringing Up Past Issues'",
    "url": "https://www.usmagazine.com/celebrity-news/news/britney-spears-apologizes-to-family-for-past-issues/",
    "source": "usmagazine.com",
@@ -751,32 +741,12 @@
    "trend_term": null
   },
   {
-   "title": "Jenny McCarthy Recalls Getting 'Cheap' Breast Augmentation at 19",
-   "url": "https://www.usmagazine.com/celebrity-body/news/jenny-mccarthy-recalls-cheap-1500-boob-job-at-19/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Jenny-McCarthy-GettyImages-2268524832.jpg?crop=0px%2C43px%2C1334px%2C754px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-21T19:42:56+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Florence Pugh Opens Up About the Importance of Setting Boundaries with Hollywood as an in-Demand Actress (Exclusive)",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/florence-pugh-opens-importance-setting-183000218.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/d6f23679dd040d1637543472116a7714fb178681603ceae64ca2c7b14b0282be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbd331dcef724c9ef8f9cf453e8481997.jpg",
    "published": "2026-11-21T18:30:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "How did 'I Play Rocky' star Anthony Ippolito transform into Sylvester Stallone? Raw eggs, a 40-pound weight gain and some X-rated homework.",
-   "url": "https://www.yahoo.com/entertainment/movies/article/how-did-i-play-rocky-star-anthony-ippolito-transform-into-sylvester-stallone-raw-eggs-a-40-pound-weight-gain-and-some-x-rated-homework-171914757.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/1e61fa3be9fb6740cb3e6649fa53981d5fce7c492a1f27eaffd9dbe26caa0d36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-anthony-ippolito_3424.png",
-   "published": "2026-11-21T16:39:30+00:00",
    "trending": false,
    "trend_term": null
   }
