@@ -1,15 +1,25 @@
 {
- "generated_at": "2026-11-22T05:53:49.792917+00:00",
+ "generated_at": "2026-11-22T07:00:12.921103+00:00",
  "date_us": "2026-11-22",
  "per_site": {
-  "usmagazine.com": 16,
-  "news.meaww.com": 4,
-  "profiles.yahoo.com": 6,
+  "usmagazine.com": 15,
+  "news.meaww.com": 5,
+  "profiles.yahoo.com": 5,
   "yahoo.com": 27,
-  "jang.com.pk": 9,
+  "jang.com.pk": 10,
   "collider.com": 8
  },
  "items": [
+  {
+   "title": "Meghan Markle unveils new portrait hours after Kate Middleton's surprising confession",
+   "url": "https://jang.com.pk/en/76714-meghan-markle-unveils-new-portrait-hours-after-kate-middletons-surprising-confession-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76714_114401_eng.jpg",
+   "published": "2026-11-22T11:42:11+05:00",
+   "trending": false,
+   "trend_term": null
+  },
   {
    "title": "Britney Spears makes emotional admission about family in now-deleted post",
    "url": "https://jang.com.pk/en/76712-britney-spears-makes-emotional-admission-about-family-in-now-deleted-post-news",
@@ -27,6 +37,36 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76708_095129_eng.jpg",
    "published": "2026-11-22T09:50:56+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "The night Sid Vicious asked me: 'Do you want a fight?'",
+   "url": "https://www.yahoo.com/entertainment/music/articles/night-sid-vicious-asked-want-064250319.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/89e6a83b782f34a1f6822b0294a76b67473699c831ad77299105117e151c3a46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2bf7a55d1b286873d05a88f734b0922a.jpg",
+   "published": "2026-11-22T06:42:50+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "New Photo Offers Bittersweet Look Into Bruce Willis’ Private Life 4 Years After Retiring",
+   "url": "https://www.yahoo.com/entertainment/articles/photo-offers-bittersweet-look-bruce-060746141.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9f10bcb926ea43efa0e23b6427148fe020373a83798ed98143e8c70c9b2f991c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F7ab5df9c6036087ff6eff656d9042340.jpg",
+   "published": "2026-11-22T06:07:46+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Megan Moroney shares Taylor Swift’s handwritten note and surprise gift from CMA Awards backstage",
+   "url": "https://news.meaww.com/megan-moroney-shares-taylor-swifts-handwritten-note-and-surprise-gift-from-cma-awards-backstage",
+   "source": "news.meaww.com",
+   "category": "Awards",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795322945683_f9215c4738bc.jpg",
+   "published": "2026-11-22T05:59:04+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -162,16 +202,6 @@
   },
   {
    "title": "Meghan Markle Left US Because She Didn’t Want To Be Interviewed by FBI — Author",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-left-us-because-043000593.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8acb8a45e470771ad71adac404c349f4925530631d999682a6e21619304719cd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ff566ff1ca3d4abe07c4b562bfc4c25cf.jpg",
-   "published": "2026-11-22T04:30:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Meghan Markle Left US Because She Didn’t Want To Be Interviewed by FBI — Author",
    "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-left-us-because-043000756.html",
    "source": "yahoo.com",
    "category": "Celebrity",
@@ -237,6 +267,16 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/d70cbdab4307a87ea7fdb146d76f9b4f07ccfad7b7631c79de41779edb03225c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fc4dc5798bb7f31955b79442eb9c28aa2.jpg",
    "published": "2026-11-22T04:00:23+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus’ Breathtaking Wedding Dress Revealed in First Photos With Maxx Morando",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-breathtaking-wedding-dress-035551190.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/4f1101999a73e8f70c0f021db9baef86ea9ead4dbc66a294779763efdc3498f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjust_jared_884%2F0562294225633413d5254f7c70008d99.jpg_up.jpg",
+   "published": "2026-11-22T03:55:51+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -351,22 +391,22 @@
    "trend_term": null
   },
   {
-   "title": "What Chicago Fire's Leading Ladies Look Like Without Makeup",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/chicago-fires-leading-ladies-look-013000420.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/c5604a11c6d60ff979aa780e9d29461ea19f527f4216d7bfa2f82c65686615c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglam_992%2F3cdbace01473c02ef8dffa6589eeb6c6.jpg",
-   "published": "2026-11-22T01:30:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Miley Cyrus marries Maxx Morando in intimate Palm Springs wedding",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-marries-maxx-morando-004615228.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/812aeb46e7d153860d031e478f1ca4ab11c5ea16a0e71d983d212ff7da467995/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Fbcb5be14443cac9616ac6ffa9084e9bb.jpg",
    "published": "2026-11-22T00:46:15+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Brielle Biermann Marries Billy Seidl, Brothers Absent Amid KJ's Assault Trial",
+   "url": "https://www.usmagazine.com/celebrity-news/news/brielle-biermann-marries-billy-seidl-amid-family-legal-issues/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/09/brielle-biermann-billy-seidl2.jpg",
+   "published": "2026-11-22T00:26:17+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -437,16 +477,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/1b2542197defe066ca018c95b0ebcfb01675398412409eee94184d522dc44d61/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F474a1f39aef8fa7921b909703c1c3f87.jpg",
    "published": "2026-11-21T21:40:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Quinta Brunson Attends Abbott Elementary 100 Episode Celebration in Modified Magda Butrym x H&M Dress",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/quinta-brunson-attends-abbott-elementary-211146345.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/02a4e39458ba3e7464770bd600232323b3ad67ee9d2a1bc59c046f5c68f0bb95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2Fa3f7342c39c484b79eb7d8f633377b73.jpg",
-   "published": "2026-11-21T21:11:46+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -667,36 +697,6 @@
    "category": "Fashion",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Britney-Spears-GettyImages-597561960.jpg?crop=0px%2C90px%2C1510px%2C854px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-21T15:58:05+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Jessica Simpson Debuts Brunette Hair Makeover: 'Have Fun and Then Some'",
-   "url": "https://www.usmagazine.com/stylish/news/jessica-simpson-debuts-brunette-hair-makeover-photo/",
-   "source": "usmagazine.com",
-   "category": "Fashion",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Ken-Paves-IG.png?crop=0px%2C482px%2C828px%2C468px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-21T15:28:44+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Jessica Simpson Debuts Dark Hair Makeover, Says ‘Brunettes Have Fun and Then Some’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jessica-simpson-debuts-dark-hair-152844433.html",
-   "source": "profiles.yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/348a7b585bf6d215d59204e1def59a7a22559b923e4d93fe7b5efe990f062dfb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fd35babe77d6c865db2299f0fdfa0ba3b.png_up.jpg",
-   "published": "2026-11-21T15:28:44+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Beanie Feldstein Was Hospitalized 'With Complications' After C-Section",
-   "url": "https://www.usmagazine.com/celebrity-moms/news/beanie-feldstein-hospitalized-with-complications-after-birth/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Beanie-Feldstein-GettyImages-2305767500.jpg?crop=0px%2C260px%2C1333px%2C752px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-21T14:51:10+00:00",
    "trending": false,
    "trend_term": null
   },
