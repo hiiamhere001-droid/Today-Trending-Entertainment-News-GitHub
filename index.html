@@ -31,7 +31,9 @@ h2{margin:0 0 12px;font-size:16px;display:flex;align-items:center;gap:8px}
 .tag{display:inline-block;padding:1px 8px;border-radius:99px;border:1px solid var(--line);font-size:11px;color:var(--muted)}
 .meta{font-size:12px;color:var(--muted)}
 .hot{color:var(--accent);font-weight:700;font-size:12px}
-aside .box{position:sticky;top:96px;max-height:calc(100vh - 116px);overflow:auto;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px}
+aside .box{position:sticky;top:calc(var(--hh,84px) + 12px);max-height:calc(100vh - var(--hh,84px) - 24px);overflow:auto;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:0 14px 14px}
+aside .box h2{position:sticky;top:0;z-index:3;background:var(--card);margin:0;padding:14px 0 10px}
+main>h2{position:sticky;top:var(--hh,84px);z-index:4;background:var(--bg);margin:0 0 4px;padding:10px 0}
 .dot{width:9px;height:9px;border-radius:50%;background:var(--fresh);box-shadow:0 0 0 0 var(--fresh);animation:p 1.8s infinite}
 @keyframes p{70%{box-shadow:0 0 0 8px transparent}100%{box-shadow:0 0 0 0 transparent}}
 .fs{display:flex;gap:10px;padding:8px 0;border-bottom:1px solid var(--line);color:inherit;text-decoration:none}
@@ -56,17 +58,34 @@ aside .box{position:sticky;top:96px;max-height:calc(100vh - 116px);overflow:auto
 .ph2 .btn{background:var(--bg);color:var(--text);border:1px solid var(--line)}
 .okrow{display:flex;align-items:center;gap:8px;border-bottom:1px solid var(--line)}
 .okrow .fs{flex:1;border:0}
-.total{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:99px;background:var(--accent);color:#fff;font-weight:700;font-size:14px}
-.total small{font-weight:500;opacity:.9;font-size:12px}
 .btn.lost{background:var(--card);color:var(--text);border:1px solid var(--accent)}
 .btn.lost b{background:var(--accent);color:#fff;border-radius:99px;padding:0 7px;margin-left:4px;font-size:12px}
+.dd{position:relative;display:inline-block}
+.ddm{position:absolute;top:calc(100% + 6px);left:0;z-index:30;min-width:260px;max-height:70vh;overflow:auto;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:6px;box-shadow:0 10px 30px rgba(0,0,0,.35)}
+.mi{display:flex;align-items:center;justify-content:space-between;gap:12px;width:100%;padding:8px 10px;border:0;border-radius:8px;background:transparent;color:var(--text);text-align:left;font-size:14px}
+.mi:hover{background:var(--bg)}.mi.on{background:var(--accent2);color:#fff}
+.mi b{font-size:12px;opacity:.8}.mi.pend{color:var(--muted);cursor:default}
+.mi.add{margin-top:6px;border-top:1px solid var(--line);border-radius:0 0 8px 8px;color:var(--accent);font-weight:700}
+.fld{display:block;margin:12px 0 4px;font-size:13px;color:var(--muted)}
+.pbox input,.pbox textarea{font:inherit;width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--text)}
+.pbox textarea{height:200px;font:12px/1.4 ui-monospace,monospace;margin-top:10px}
+.pbox details{margin:14px 0;font-size:13px}.pbox summary{cursor:pointer;color:var(--accent2);font-weight:600}
+.pbox .hint{font-size:12px;color:var(--muted);margin:6px 0}
+#addmsg{margin-top:12px;font-size:13px}#addmsg.good{color:var(--fresh)}#addmsg.bad{color:#f04438}
 .undo{border:1px solid var(--line);background:var(--bg);color:var(--text);border-radius:8px;padding:4px 10px;font-size:12px}
+.top .btn{padding:4px 10px;font-size:12px;border-radius:7px}
+.top .btn b{padding:0 6px;margin-left:3px;font-size:11px}
+.ibtn{width:28px;height:28px;padding:0;border-radius:50%;border:1px solid var(--line);background:var(--bg);color:var(--text);font-size:15px;line-height:1;display:inline-flex;align-items:center;justify-content:center}
+.ibtn:hover{border-color:var(--accent2);color:var(--accent2)}
+#stat{left:auto;right:0;font-size:13px;color:var(--text)}
+.srow{display:flex;justify-content:space-between;gap:16px;padding:6px 10px}
+.srow b{font-size:12px;opacity:.8}
+.sup{padding:6px 10px 8px;margin-bottom:4px;border-bottom:1px solid var(--line);color:var(--muted);font-size:12px}
 </style></head><body>
 <header>
   <div class="top">
     <h1>US Entertainment <span>Trends Desk</span></h1>
-    <span class="total" id="total">📰 …</span>
-    <span class="stat" id="stat">Loading…</span>
+    <span class="dd"><button class="ibtn" id="statbtn" title="Update info" aria-label="Update info">ⓘ</button><div class="ddm" id="stat" hidden>Loading…</div></span>
     <button class="btn lost" id="lostbtn">🕘 Lost news 24 h <b id="lostn">0</b></button>
     <button class="btn ok" id="okbtn">✓ Ok work <b id="okn">0</b></button>
     <button class="btn" id="refresh">⟳ Refresh</button>
@@ -85,6 +104,21 @@ aside .box{position:sticky;top:96px;max-height:calc(100vh - 116px);overflow:auto
     </div>
   </aside>
 </div>
+<div class="panel" id="addpanel" hidden><div class="pbox">
+  <div class="ph2"><h2>Add new website</h2><button class="btn" id="addclose">Close</button></div>
+  <label class="fld" for="addurl">Website address</label>
+  <input id="addurl" placeholder="https://example.com" autocomplete="off">
+  <p class="hint">Works best with sites that have an RSS feed (found automatically).</p>
+  <details id="ghbox"><summary>Auto-add settings (GitHub)</summary>
+    <label class="fld" for="ghrepo">Repository (owner/name)</label><input id="ghrepo" placeholder="yourname/your-repo" autocomplete="off">
+    <label class="fld" for="ghtoken">Access token</label><input id="ghtoken" type="password" placeholder="github_pat_..." autocomplete="off">
+    <p class="hint">Create a fine-grained token for this one repository only, with Contents and Actions set to read &amp; write. It is saved only in this browser. Leave empty to add sites by copy and paste instead.</p>
+  </details>
+  <button class="btn" id="addgo">Add website</button>
+  <div id="addmsg"></div>
+  <textarea id="addjson" readonly hidden></textarea>
+  <button class="btn" id="addcopy" hidden style="margin-top:8px">Copy text</button>
+</div></div>
 <div class="panel" id="lostpanel" hidden><div class="pbox">
   <div class="ph2"><h2>Lost news 24 h <span class="count">(published 24–48 hours ago)</span></h2><button class="btn" id="lostclose">Close</button></div>
   <div id="lostlist"></div>
@@ -146,13 +180,24 @@ function load(){
   fetch("news.json?t="+Date.now()).then(function(r){return r.json()}).then(function(d){DATA=d;if(!pressing)render()})
   .catch(function(){$("stat").textContent="Could not load news.json"})}
 function pass(i){return !isDone(i)&&(src==="All"||i.source===src)&&(cat==="All"||i.category===cat)&&(!onlyTrend||i.trending)}
+function statRender(){var s=$("stat");s.textContent="";
+  function row(a,b,cls){var d=document.createElement("div");d.className=cls||"srow";var x=document.createElement("span");x.textContent=a;d.appendChild(x);if(b!=null){var y=document.createElement("b");y.textContent=b;d.appendChild(y)}s.appendChild(d)}
+  if(!STORE_OK)row("⚠ Browser storage blocked: read marks will not be saved",null,"sup");
+  row("Updated "+ago(DATA.generated_at),null,"sup");
+  Object.keys(DATA.per_site).forEach(function(k){row(k,DATA.per_site[k])})}
+$("statbtn").onclick=function(e){e.stopPropagation();$("stat").hidden=!$("stat").hidden};
+$("stat").onclick=function(e){e.stopPropagation()};
+document.addEventListener("click",function(){$("stat").hidden=true});
+document.addEventListener("keydown",function(e){if(e.key==="Escape")$("stat").hidden=true});
+function setHH(){document.documentElement.style.setProperty("--hh",document.querySelector("header").offsetHeight+"px")}
+window.addEventListener("resize",setHH);
 function render(){
   var f=$("filters");f.textContent="";
-  ["All"].concat(Object.keys(DATA.per_site)).forEach(function(s){f.appendChild(chip(s,"",s===src,function(){src=s;render()}))});
+  f.appendChild(dropdown());
   var sp=document.createElement("span");sp.className="sep";sp.textContent="|";f.appendChild(sp);
   ["All","Celebrity","Music","Movies","TV","Streaming","Awards","Fashion"].forEach(function(c){f.appendChild(chip(c,"cat",c===cat,function(){cat=c;render()}))});
   f.appendChild(chip("🔥 Trending only","cat",onlyTrend,function(){onlyTrend=!onlyTrend;render()}));
-  prune();
+  prune();setHH();
   var vis=DATA.items.filter(pass);
   var H=3600000,age=function(i){return Date.now()-new Date(i.published)};
   var recent=vis.filter(function(i){return age(i)<=24*H});
@@ -161,10 +206,8 @@ function render(){
   var all=recent.filter(function(i){return !isFresh(i)});
   var fresh=recent.filter(isFresh)
     .sort(function(a,b){return new Date(b.published)-new Date(a.published)});
-  var t24=DATA.items.filter(function(i){return age(i)<=24*H}).length,t3=DATA.items.filter(isFresh).length;
-  $("total").innerHTML="📰 "+t24+" stories <small>last 24 h · "+t3+" new in "+FRESH_HOURS+" h</small>";
   renderLost(old);
-  $("stat").textContent=(STORE_OK?"":"⚠ Browser storage blocked: read marks will not be saved · ")+"Updated "+ago(DATA.generated_at)+" · "+Object.entries(DATA.per_site).map(function(p){return p[0]+" "+p[1]}).join(" · ");
+  statRender();
   $("n24").textContent="("+all.length+")";$("nfresh").textContent="last "+FRESH_HOURS+" h ("+fresh.length+")";
   var g=$("grid");g.textContent="";
   if(!all.length){g.className="";var e=document.createElement("div");e.className="empty";e.textContent="No stories match these filters.";g.appendChild(e)}
@@ -196,7 +239,75 @@ $("lostclose").onclick=function(){$("lostpanel").hidden=true};
 $("lostpanel").onclick=function(e){if(e.target===this)this.hidden=true};
 $("okclose").onclick=function(){$("okpanel").hidden=true};
 $("okpanel").onclick=function(e){if(e.target===this)this.hidden=true};
-document.addEventListener("keydown",function(e){if(e.key==="Escape"){$("okpanel").hidden=true;$("lostpanel").hidden=true}});
+document.addEventListener("keydown",function(e){if(e.key==="Escape"){$("okpanel").hidden=true;$("lostpanel").hidden=true;$("addpanel").hidden=true;if(ddOpen){ddOpen=false;if(DATA)render()}}});
+var ddOpen=false;
+function srcCounts(){var c={};DATA.items.forEach(function(i){c[i.source]=(c[i.source]||0)+1});return c}
+function pendSites(){try{return JSON.parse(localStorage.getItem("pendsites")||"[]")||[]}catch(e){return[]}}
+function dropdown(){
+  var w=document.createElement("span");w.className="dd";
+  w.appendChild(chip((src==="All"?"All":src)+" ▾","",true,function(e){e.stopPropagation();ddOpen=!ddOpen;render()}));
+  if(!ddOpen)return w;
+  var m=document.createElement("div");m.className="ddm";var c=srcCounts();
+  function item(label,count,on,fn,cls){var x=document.createElement("button");x.className="mi"+(on?" on":"")+(cls?" "+cls:"");
+    var s=document.createElement("span");s.textContent=label;x.appendChild(s);
+    if(count!=null){var n=document.createElement("b");n.textContent=count;x.appendChild(n)}
+    x.onclick=function(e){e.stopPropagation();fn()};m.appendChild(x)}
+  item("All sources",DATA.items.length,src==="All",function(){src="All";ddOpen=false;render()});
+  Object.keys(DATA.per_site).forEach(function(s){item(s,c[s]||0,src===s,function(){src=s;ddOpen=false;render()})});
+  pendSites().filter(function(h){return !(h in DATA.per_site)}).forEach(function(h){item(h+" (waiting for update)",null,false,function(){},"pend")});
+  item("＋ Add new website",null,false,function(){ddOpen=false;render();openAdd()},"add");
+  w.appendChild(m);return w}
+function ghCfg(){try{return JSON.parse(localStorage.getItem("ghcfg")||"{}")||{}}catch(e){return{}}}
+function guessRepo(){var h=location.hostname;if(/\.github\.io$/.test(h)){var p=location.pathname.split("/")[1];return h.split(".")[0]+"/"+(p||h)}return""}
+function msg(t,ok){var m=$("addmsg");m.textContent=t;m.className=ok===false?"bad":(ok?"good":"")}
+function openAdd(){msg("");$("addjson").hidden=true;$("addcopy").hidden=true;var c=ghCfg();
+  $("ghrepo").value=c.repo||guessRepo();$("ghtoken").value=c.token||"";$("ghbox").open=!c.token;$("addpanel").hidden=false;$("addurl").focus()}
+function normSite(u){u=u.trim();if(!u)return null;if(!/^https?:\/\//i.test(u))u="https://"+u;
+  try{var p=new URL(u);if(p.hostname.indexOf(".")<0)return null;return p.href.replace(/\/$/,"")}catch(e){return null}}
+function b64e(s){return btoa(unescape(encodeURIComponent(s)))}
+function b64d(s){return decodeURIComponent(escape(atob(s.replace(/\n/g,""))))}
+function hostOf(u){return new URL(u).hostname.replace(/^www\./,"")}
+function exists(list,u){return list.some(function(x){return hostOf(typeof x==="string"?x:x.url)===hostOf(u)})}
+async function gh(repo,path,token,method,body){
+  var o={method:method||"GET",headers:{"Authorization":"Bearer "+token,"Accept":"application/vnd.github+json"}};
+  if(body){o.body=JSON.stringify(body);o.headers["Content-Type"]="application/json"}
+  var r=await fetch("https://api.github.com/repos/"+repo+path,o);
+  if(r.status===204)return{};
+  var j=await r.json().catch(function(){return{}});
+  if(!r.ok){var hint=r.status===401?"Token is invalid or expired.":(r.status===403||r.status===404)?"Repository not found, or the token lacks permission (needs Contents and Actions: read & write).":(r.status===409||r.status===422)?"The file changed, please try again.":"";
+    throw new Error("GitHub error "+r.status+". "+hint)}
+  return j}
+async function ghAdd(url,repo,token){
+  var info=await gh(repo,"",token);
+  var f=await gh(repo,"/contents/sites.json?ref="+encodeURIComponent(info.default_branch),token);
+  var list=JSON.parse(b64d(f.content));
+  if(exists(list,url))return msg("This website is already in the list.",false);
+  list.push(url);
+  await gh(repo,"/contents/sites.json",token,"PUT",{message:"Add site "+hostOf(url),content:b64e(JSON.stringify(list,null,2)+"\n"),sha:f.sha,branch:info.default_branch});
+  var ran=true;try{await gh(repo,"/actions/workflows/hourly.yml/dispatches",token,"POST",{ref:info.default_branch})}catch(e){ran=false}
+  var P=pendSites();P.push(hostOf(url));try{localStorage.setItem("pendsites",JSON.stringify(P))}catch(e){}
+  msg("✓ "+hostOf(url)+" added to sites.json."+(ran?" Update started. Its stories should appear in 1–3 minutes, then press Refresh.":" Now run the hourly-news workflow from the Actions tab to fetch its stories."),true);
+  $("addurl").value="";if(DATA)render()}
+async function manualAdd(url){
+  var r=await fetch("sites.json?t="+Date.now());if(!r.ok)throw new Error("Could not load sites.json from this site.");
+  var list=await r.json();
+  if(exists(list,url))return msg("This website is already in the list.",false);
+  list.push(url);
+  $("addjson").value=JSON.stringify(list,null,2)+"\n";$("addjson").hidden=false;$("addcopy").hidden=false;
+  msg("No GitHub token is set. Copy the text below, open sites.json in your repository, replace its content and commit. Then run the hourly-news workflow.")}
+async function addGo(){
+  var url=normSite($("addurl").value);
+  if(!url)return msg("Enter a valid website address, for example https://example.com",false);
+  var repo=$("ghrepo").value.trim(),token=$("ghtoken").value.trim();
+  try{localStorage.setItem("ghcfg",JSON.stringify({repo:repo,token:token}))}catch(e){}
+  $("addjson").hidden=true;$("addcopy").hidden=true;msg("Working…");
+  try{if(repo&&token)await ghAdd(url,repo,token);else await manualAdd(url)}catch(e){msg(e.message||String(e),false)}}
+$("addgo").onclick=addGo;
+$("addurl").onkeydown=function(e){if(e.key==="Enter")addGo()};
+$("addclose").onclick=function(){$("addpanel").hidden=true};
+$("addpanel").onclick=function(e){if(e.target===this)this.hidden=true};
+$("addcopy").onclick=function(){var t=$("addjson");t.select();try{navigator.clipboard.writeText(t.value)}catch(e){document.execCommand("copy")}};
+document.addEventListener("click",function(){if(ddOpen){ddOpen=false;if(DATA)render()}});
 DONE=readDone();reindex();
 function safeRender(){if(DATA&&!pressing)render()}
 document.addEventListener("pointerdown",function(e){if(e.target.closest&&e.target.closest(".tick"))pressing=true},true);
