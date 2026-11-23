@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-23T19:59:25.677407+00:00",
+ "generated_at": "2026-11-23T20:49:42.586768+00:00",
  "date_us": "2026-11-23",
  "per_site": {
   "usmagazine.com": 15,
   "news.meaww.com": 3,
-  "profiles.yahoo.com": 8,
-  "yahoo.com": 30,
+  "profiles.yahoo.com": 9,
+  "yahoo.com": 29,
   "jang.com.pk": 6,
-  "collider.com": 8
+  "collider.com": 9
  },
  "items": [
   {
@@ -39,6 +39,28 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/d256bdeb147befa5dff9a1752c3cc11793abcc1345d9a48d005d021a89106385/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc94165f0f338bc9b5fc8ff08d770a996.jpg",
    "published": "2026-11-23T17:38:33+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Mary Bonnet Reveals Plans to Move Out of L.A After 'Selling Sunset' Exit",
+   "url": "https://www.usmagazine.com/entertainment/news/selling-sunsets-mary-bonnet-will-move-out-of-l-a-after-show-exit/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/01/Selling_Sunset_n_S9_E11_00_44_22_03R-Mary-Selling-Sunset.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-23T14:00:57+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Mary Bonnet Reveals Plans to Move Out of Los Angeles After ‘Selling Sunset’ Exit",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/mary-bonnet-reveals-plans-move-140057485.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9767c30135160e8851cace5c026b7a85e1b6e32c3c5998158a0a5d49796ba5bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F03874395d671cbe900357949feb3af6a.jpg",
+   "published": "2026-11-23T14:00:57+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -231,22 +253,22 @@
    "trend_score": 2000
   },
   {
-   "title": "Justin Hartley's 'Tracker' Kills [Spoiler] in Shocking Twist Before Finale",
-   "url": "https://www.usmagazine.com/entertainment/news/justin-hartleys-tracker-kills-surprise-character-in-shocking-twist/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/3250994_TRKR_S4_0661b.jpg",
+   "title": "Justin Hartley’s ‘Tracker’ Kills Off Surprise Character in Shocking Twist Before Fall Finale",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/justin-hartley-tracker-kills-off-033625302.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/1b5c999354c35e150e058bd1eda1d0f02b36a8f3b3bfdfed56799d187c1f230d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fadc5d44cf918c1d679ffaa5916c712fc.jpg",
    "published": "2026-11-23T03:36:25+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
   },
   {
-   "title": "Justin Hartley’s ‘Tracker’ Kills Off Surprise Character in Shocking Twist Before Fall Finale",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/justin-hartley-tracker-kills-off-033625302.html",
-   "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/1b5c999354c35e150e058bd1eda1d0f02b36a8f3b3bfdfed56799d187c1f230d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fadc5d44cf918c1d679ffaa5916c712fc.jpg",
+   "title": "Justin Hartley's 'Tracker' Kills [Spoiler] in Shocking Twist Before Finale",
+   "url": "https://www.usmagazine.com/entertainment/news/justin-hartleys-tracker-kills-surprise-character-in-shocking-twist/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/3250994_TRKR_S4_0661b.jpg",
    "published": "2026-11-23T03:36:25+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
@@ -284,6 +306,17 @@
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
+  },
+  {
+   "title": "Marvel’s Spider-Man Officially Gets Stunning Makeover For New Release",
+   "url": "https://collider.com/marvel-spider-man-peach-momoko-art-book-exclusive/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/spiderman_exclusive_1024.jpg",
+   "published": "2026-11-23T17:00:12+00:00",
+   "trending": true,
+   "trend_term": "tom holland new spider-man look",
+   "trend_score": 1000
   },
   {
    "title": "Steven Spielberg to make a western written by Paul Thomas Anderson",
@@ -330,6 +363,193 @@
    "trend_score": 0
   },
   {
+   "title": "Michele Obama wears edgy denim look – See the photo",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/michele-obama-wears-edgy-denim-204228197.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/7f59b143fad50380cb39e6a4bd8a05297f8e5db7d01449e5f2b829e6aa5ced39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F7c95d7479b119a24ceafd8e632de83d2.jpg",
+   "published": "2026-11-23T20:42:28+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 8 Greatest Zombie Movies of the 2020s, Ranked",
+   "url": "https://collider.com/best-zombie-movies-2020s-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/resident-evil.jpg",
+   "published": "2026-11-23T20:41:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Gabriel Iglesias improving after falling ill during standup show",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/gabriel-iglesias-improving-falling-ill-204034645.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/a9e732e7ec525f14c58d42b22be20e7d061bd4c0c76824b93e9b8e7ca1be08c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F3899ae0dd6e47fc884da85305ff9e2af.jpg",
+   "published": "2026-11-23T20:40:34+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/week-sunday-morning-nov-22-225657531.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/c84feaba6d64659b8f5bc519c6ecf5e8a8d08965e28ea8900338a929d1db28eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fb624ee2a662d3ede31f0deae81dd69e2.jpg",
+   "published": "2026-11-23T20:36:11+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "“My Big Fat Fabulous Life”’s Whitney Thore Talks Future Baby Plans with  Fiancé Jake Beaudoin (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/big-fat-fabulous-life-whitney-203357772.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/b2ec5e264f24690802a16d269433d548ffdc774fb7b7d7bedcb39e013bfa7660/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F911112a9e375f99d6c8fa6c495579e83.jpg",
+   "published": "2026-11-23T20:33:57+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Rita Wilson, 70, Breaks Silence After Copying Son Chet Hanks’ Huge Back Tattoo in Viral Post",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/rita-wilson-70-breaks-silence-203355181.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/43ed64ae94c591e31496b0756385be47bfb674d091e6fbed2635d9aa58f5b867/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffirst_for_women_articles_145%2F1364b0f76cfe6b8582a4597cf03baaac.jpg",
+   "published": "2026-11-23T20:33:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "All About Sarah Jane Nader’s Rumored Pete Davidson Romance & More",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/dwts-celeb-sarah-jane-nader-183242769.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/92c1b8bea41b418b0b87cff6b0049384e57ff33d2f0e6195eecae69a3fbb19e8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fd6eb2e92fbc3711b16923c720a86f398.jpg",
+   "published": "2026-11-23T20:32:42+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Georgina Rodríguez’s unexpected photo goes viral: “Eating pizza while doing my skincare routine”",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/georgina-rodr-guez-unexpected-photo-203216470.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/06f897972dbfac6a424cd48dcf3ec3cc2d4de55ea1ac70495e83496264218740/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fc6bb94564fc09a83def195e6a752d6a0.jpg",
+   "published": "2026-11-23T20:32:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Billy Corgan’s Supergroup Zwan to Reissue Debut Album With 19 Unreleased Tracks",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/billy-corgan-supergroup-zwan-reissue-203145668.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/0dfbac0d6c4f2485d54ff599482e50d09b04978d886bc9332db21767bd9b2179/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fca4f949de75061d9c6ced391d11b0dfd.jpg",
+   "published": "2026-11-23T20:31:45+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Britney Spears Says 'Every Guy' She's Dated Told Her to Get Hair Implants Because of Her Forehead",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/britney-spears-says-every-guy-203028063.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/92dc9a7e3cf41a41efe65b9f767cf162bcd126a50b73bae515e8fe97a8d953eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F36669ec2e6498aa68fe426db61d82cf8.jpg",
+   "published": "2026-11-23T20:30:28+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Prince William’s Alleged Plans To Strip Harry Of HRH Status Have ‘No Factual Basis,’ Kensington Palace Says",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-alleged-plans-strip-203000368.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b5fd0a8b54c662a08d7fe8768a1c701f434bd73d0e0d023d3f2d3f65f1ad9f2f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F894ecad02c93e63eac6d4edf9ce4d2bc.jpg",
+   "published": "2026-11-23T20:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The Smosh Cast plays Make Me Laugh!",
+   "url": "https://collider.com/video/the-smosh-cast-plays-make-me-laugh/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/smosh-make-me-laugh1.jpg",
+   "published": "2026-11-23T20:23:17+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "EXCLUSIVE: Rizzoli to Release ‘Kiss & Cry: Virgil Abloh: A Working Archive’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/exclusive-rizzoli-release-kiss-cry-202219419.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/52dd13fb947832628f5b81a774a9dd7ac3694436c5ed6564cb3442952d9dffb9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F59e1482caf089d021272b090fcab4296.jpg",
+   "published": "2026-11-23T20:22:19+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘General Hospital’ Alum Gregory Harrison Was 15 When Doris Day Did Something He Never Expected",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/general-hospital-alum-gregory-harrison-202210742.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e298822f9a0770e692ef5628af2f9cbecf0f8528a909394449ffe1ea3d29f183/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2F6aabeab013a5b0a6a42cd7be039f7a12.png",
+   "published": "2026-11-23T20:22:10+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "David Fincher Exposes His Own Ben Affleck Lie After 12 Years",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/david-fincher-exposes-own-ben-202135325.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/729cc25d9fbaa74b2c0c756abdd5fef0b413220026fc33c1be26b688c8273e2a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fd20e6bb59c4e086de90cc5ed6f8345e1.jpg",
+   "published": "2026-11-23T20:21:35+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "3 Best Netflix Movies To Watch This Week (Nov 23-27)",
+   "url": "https://collider.com/best-netflix-movies-watch-week-november-23-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/caught-stealing-regina-king-matt-smith-interview.jpg",
+   "published": "2026-11-23T20:19:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Charlie Cox Was Told He Was ‘Too Old’ to Audition for James Bond",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/charlie-cox-told-too-old-201834292.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0164f4f61df62690926d0807c39db3b819825f4da03703e0a6fb47bc83437e10/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2Fd8dc53cb942de55a3e73f31fc6af812a.jpg",
+   "published": "2026-11-23T20:18:34+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "'Avengers Doomsday' final trailer out: Steve Rogers faces off Thor in epic clash",
    "url": "https://jang.com.pk/en/76782-avengers-doomsday-final-trailer-out-steve-rogers-faces-off-thor-in-epic-clash-news",
    "source": "jang.com.pk",
@@ -347,6 +567,28 @@
    "category": "Movies",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76782_081522_eng.jpg",
    "published": "2026-11-23T20:15:19+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Nicole Richie’s Lookalike Model Daughter Kate Madden, 18, Recreates Her Old Paparazzi Photos for Balenciaga Campaign",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/nicole-richie-lookalike-model-daughter-201458882.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/3b17088117e1aa89017f65f75fc4505ef5cd260d6d09f7338a87f6c6a7b45fd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbf3ca59d98608cc845108746d93c31b4.jpg",
+   "published": "2026-11-23T20:14:58+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Bosch Officially Returns With a Dark New Murder Mystery",
+   "url": "https://collider.com/titus-welliver-bosch-michael-connelly-the-hollow-new-book/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/bosch-legacy-titus-welliver.jpg",
+   "published": "2026-11-23T20:00:12+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -550,6 +792,17 @@
    "trend_score": 0
   },
   {
+   "title": "Everything You Need to Know About Amal Clooney’s Oscar de la Renta Wedding Dress",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/everything-know-amal-clooney-oscar-192208525.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/f03ad8c83d4a9a76ddf707d12ebbac1ee3540ef3c21436abf2b5dd54b8b1e898/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fe8ebd6c6597347918f9673d45f23ece9.jpg",
+   "published": "2026-11-23T19:22:08+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "'Dancing with the Stars' judge Derek Hough reveals childhood sexual abuse",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dancing-stars-judge-derek-hough-191659911.html",
    "source": "yahoo.com",
@@ -567,6 +820,17 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/c681c17a781df9096d822536be02dd7a2acccdd69f0a60123631e894504b3ba9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootwear_news_642%2F9798835ee3a542eaef8925507aba664c.jpg",
    "published": "2026-11-23T19:05:53+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Taylor Swift slammed as real-life ‘Regina George’ by classmates and acquaintances in brutal Vanity Fair hit piece",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-slammed-real-life-190118182.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a5afbfdaac999879f053b78827a038bd51f3f06faf02ed52606e47634edffc80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F4bf34d7fd4e24baf84f5a9420b383e46.jpg",
+   "published": "2026-11-23T19:01:18+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -1342,17 +1606,6 @@
    "trend_score": 0
   },
   {
-   "title": "Marvel’s Spider-Man Officially Gets Stunning Makeover For New Release",
-   "url": "https://collider.com/marvel-spider-man-peach-momoko-art-book-exclusive/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/spiderman_exclusive_1024.jpg",
-   "published": "2026-11-23T17:00:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "32 Years Later, ‘Clerks’ Stars Reunite for a Surprising Disney+ Appearance",
    "url": "https://collider.com/big-city-greens-season-5-episode-8-jason-mewes-kevin-smith-alfred-molina/",
    "source": "collider.com",
@@ -1513,6 +1766,17 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/f14d7fcdced40f752f1ff92447180a704cf0d10ace68d1675980c102e64fe1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2F0fd913b7d3c622490c153918f7436aab.jpg",
    "published": "2026-11-23T15:12:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "How to Watch the 'DWTS' Season 35 Finale After Surprise Episode Change",
+   "url": "https://www.usmagazine.com/entertainment/news/how-to-watch-dancing-with-the-stars-season-35-finale/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183939_EM107185.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-23T14:36:46+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
