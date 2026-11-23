@@ -1,22 +1,232 @@
 {
- "generated_at": "2026-11-23T00:59:13.432706+00:00",
+ "generated_at": "2026-11-23T02:14:02.680724+00:00",
  "date_us": "2026-11-22",
  "per_site": {
-  "usmagazine.com": 14,
-  "news.meaww.com": 2,
-  "profiles.yahoo.com": 8,
+  "usmagazine.com": 15,
+  "news.meaww.com": 3,
+  "profiles.yahoo.com": 9,
   "yahoo.com": 28,
   "jang.com.pk": 9,
   "collider.com": 9
  },
  "items": [
   {
-   "title": "‘The Wonder Years’ Mom Who’s Spending Thanksgiving on ‘The Bold and the Beautiful’",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/wonder-years-mom-spending-thanksgiving-005139078.html",
+   "title": "Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-manchester-concert-evacuated-020046933.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/6206dca2a1d7ff6cc03800e504a24d39eb0cf92130ec376da21b8d35c819e8aa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F4a7b8b28ec3a369bdf5fb43ccafedfc5.jpg",
+   "published": "2026-11-23T02:00:46+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "10 Classic Sitcoms That Are Better Than Modern Streaming Originals",
+   "url": "https://collider.com/classic-sitcoms-better-than-modern-streaming-series/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/friends-cast-1.jpg",
+   "published": "2026-11-23T02:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Sarah Paulson Backs Childfree Woman Asked to Raise Her Two Nieces if Their Parents Die",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/sarah-paulson-backs-childfree-woman-020010661.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c4d802adcb84156c95a9202591e5a9546b13e6354958626eadf50608847b856f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fdd78f8ac8c5d894ce9795af16ba97467.jpg",
+   "published": "2026-11-23T02:00:10+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus marries rock drummer Maxx Morando in an intimate Palm Springs wedding",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-marries-rock-drummer-015354061.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b53f3f53e9f2a81c038e5eb1c454ca8d41b30a306b2ca3461634472536ac0cce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7a9817c7922d84bb026ec8d792bb0cb1.jpg",
+   "published": "2026-11-23T01:53:54+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Ina Garten Reveals Why She Will Never Do ‘Dancing With The Stars’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ina-garten-reveals-why-she-015345776.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/01aaba6ee7bc1fabfdac81e417b2d50084ab97e280a54fb92bf63022f6d798dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fbcd7683ff3f85cf2c316f75c40c925a7.jpg_up.jpg",
+   "published": "2026-11-23T01:53:45+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Directors push back on ‘You Can See Everything’ reporting",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/directors-push-back-see-everything-015256701.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/29b21807acaa44ce00cbea4f14dc8fc455fb7d3c4a6dc5effa7bc8112ea4f4f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F8f423c57063efb1cff213130520dc976.png",
+   "published": "2026-11-23T01:52:56+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "49ers WAG Kristin Juszczyk ‘sidelined’ for Mexico City game but still repping team",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/49ers-wag-kristin-juszczyk-sidelined-015036509.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/774edb89c358e0d7b350c9c83d9192bf996ac883b52ce3cfb68bae4ae8f0891f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F1cc6a1bfe85f71ff48b21ea88a56e5e3.jpg",
+   "published": "2026-11-23T01:50:36+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Sandra Bullock Gives Fans Rare Glimpse of Her Kids in New Photos",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/sandra-bullock-gives-fans-rare-015035547.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/2f4cda04bd6f126cedf83021dfabc0c2be9378b3fd72964f1c1cfdaf36194538/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2F74150388fcecbd11163d557f6dad61f4.png",
+   "published": "2026-11-23T01:50:35+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Marvel Studios Confirms Hailee Steinfeld’s Return as Hawkeye in ‘Avengers: Doomsday’",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/marvel-studios-confirms-hailee-steinfeld-014731172.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/61992956281e4f2244fe0738795d1cacd20ee908a58f6ad08e3b4505aacb16ee/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2Fdfc5626a67bdbe23488b4709313b7186.jpg",
+   "published": "2026-11-23T01:47:31+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus and Maxx Morando share a kiss in first official wedding photos after intimate ceremony",
+   "url": "https://news.meaww.com/miley-cyrus-and-maxx-morando-share-a-kiss-in-first-official-wedding-photos-after-intimate-ceremony",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795393256401_6558d2f1798f.jpg",
+   "published": "2026-11-23T01:35:37+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/hailee-steinfeld-confirms-avengers-doomsday-013226299.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/bae8f70aabeca34290c2bf229418e9f5142c69ee955e5c53ceb53cba5a32bc30/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Ff4f3190a07f54de580be553f3ff81ff4.jpg",
+   "published": "2026-11-23T01:32:26+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "The Reality TV Juggernaut That Changed Music Forever Is Officially Returning",
+   "url": "https://collider.com/the-x-factor-usa-reboot-fox-november-2026/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/x-factor-simon-cowell.jpg",
+   "published": "2026-11-23T01:31:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Malin Akerman Says“ The Hunting Wives” Cast Was Shocked by Who Lives and Who Dies in Season 2 (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/malin-akerman-says-hunting-wives-013100260.html",
    "source": "yahoo.com",
    "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/24a26da0aba828f2b684c27cd1219ec14bcded28478974e1b75796eeb653ba39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2Fd2f9e2f4389a9ba18217f317aebc6789.jpg",
-   "published": "2026-11-23T00:51:39+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/d254c97750e27d510811980503d2c74ecd28afd834b6d34e7228cc329bd171f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb88be3d102976b12e4d96d8082827a83.jpg",
+   "published": "2026-11-23T01:31:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jennifer Beals Says 'Flashdance' Fame Made Her Stop Dancing for Decades: 'The Joy Got Sucked Out of It'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennifer-beals-says-flashdance-fame-013037606.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/819ea849982ac9afec1a46b3659b0a15549d8ce6b2f8a6c91b7b60d900828ebf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F0374e9b6c2d8f1f0ada9038ccca0f7ea.jpg",
+   "published": "2026-11-23T01:30:37+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Marvel Officially Confirms Hawkeye’s Replacement in ‘Avengers: Doomsday’",
+   "url": "https://collider.com/avengers-doomsday-cast-hailee-steinfeld-kate-bishop/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/hawkeye-1.jpg",
+   "published": "2026-11-23T01:20:49+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Chris Pratt’s Oscar-Winning Manhunt Thriller Is Officially Being Removed From Netflix",
+   "url": "https://collider.com/chris-pratt-zero-dark-thirty-leaving-netflix-december-2026/",
+   "source": "collider.com",
+   "category": "Awards",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/zero-dark-thirty-joel-edgerton.jpg",
+   "published": "2026-11-23T01:16:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "10 Crime Thrillers That Hooked Me From the First 10 Minutes",
+   "url": "https://collider.com/crime-thrillers-hooked-me-first-10-minutes/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/the-dark-knight-2008-opening-scene-1.jpg",
+   "published": "2026-11-23T01:11:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "'90 Day Fiancé' star announces partner Sheila Mangubat has died",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fianc-star-announces-010724155.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/08dcdbae270250811d1c7d5d8d2909396697040ca949b1e02612aab9bf154867/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F75b61f11d5bb63c3acd2c9fc899db867.png_up.jpg",
+   "published": "2026-11-23T01:07:24+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Australian music legend Molly Meldrum dies aged 83",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/australian-music-legend-molly-meldrum-235152003.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/90dfb78860f6a559d1127f7923b57c23f512bf80d7b11cb35de2924fa990a291/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fed719041b99a4f05b658f4f7d5965253.jpg_up.jpg",
+   "published": "2026-11-23T01:03:47+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "The 10 Best Books for 'Sopranos' Fans, Ranked According to Goodreads",
+   "url": "https://collider.com/books-like-the-sopranos-ranked-goodreads/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-sopranos-he-is-risen-james-gandolfini.jpg",
+   "published": "2026-11-23T01:03:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘Stranger Things’ Officially Sets 2028 Netflix Return",
+   "url": "https://collider.com/stranger-things-other-worlds-spin-off-release-window-2028/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/stranger-things-s5e1.jpg",
+   "published": "2026-11-23T01:01:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Hayden Panettiere’s “Nashville” costar opens up about working with her through ‘troubles and traumas’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-nashville-costar-opens-005825853.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5fdff8fc74757286d8c3d6ca26e84182946edb63cb12fa7b8e63c30ba6ff0307/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2F0063d98bae8d47063b7addf51a29b757.jpg",
+   "published": "2026-11-23T00:58:25+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -31,6 +241,16 @@
    "trend_term": null
   },
   {
+   "title": "Ashanti Says She Agreed to Take Nelly’s Last Name: ‘Don’t Get It Twisted’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ashanti-says-she-agreed-nelly-004606067.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/37c5f1654b9063c749f3eff9c0a56ef6d7e289e150b1e27322f4537765d1ad2b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F07b14c7c77130cfb5991fd77a62fe9b9.jpg",
+   "published": "2026-11-23T00:46:06+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "‘Street Fighter’ Officially Removed From Over 3,000 Theaters as Digital Release Nears",
    "url": "https://collider.com/street-fighter-removed-from-3000-theaters-box-office-digital-debut/",
    "source": "collider.com",
@@ -41,222 +261,12 @@
    "trend_term": null
   },
   {
-   "title": "Scott Wolf announces father's death: 'He was my hero'",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/scott-wolf-announces-fathers-death-220124153.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e35a0a827947e6d9fbedf2c905607b6c65aab72d3fade5c6dfb63c8ff7a68503/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F746cc21140724d43b9f6f9de842b4c9b.jpg_up.jpg",
-   "published": "2026-11-23T00:36:27+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/italian-jeweller-businessman-paolo-bulgari-071246039.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b2838ecc814368da5c154ce860651e3579d02c47676840e66c4d76515c8d106e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F84d77ad9fb6275b0a6dfaa8f41416eaf.jpg_up.jpg",
-   "published": "2026-11-23T00:33:47+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Molly Meldrum, Australian Music Broadcaster and ‘Countdown’ Host, Dies at 83",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/molly-meldrum-australian-music-broadcaster-003036652.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/0de4005728398602988367693194e6c9423101b9d2d448ea3e3f7b60f64e687c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F75d2ba368fd96861d8dc0b96751e4d4f.jpg",
-   "published": "2026-11-23T00:30:36+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Arielle Kebbel Says She Needs a 3-Minute Ritual to Leave Her 'Marshals' Character Behind",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/arielle-kebbel-says-she-needs-003014450.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/439228a79f4c52641d351558b0938f3d0aab2b9e7e75159e612451cd33c6beba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F8027e4ec01ac3a50987330c55b5dba59.jpg",
-   "published": "2026-11-23T00:30:14+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "HBO Officially Makes Severus Snape the New Harry Potter",
-   "url": "https://collider.com/hbo-harry-potter-severus-snape-forehead-scar-new-posters/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/harry-potter-paapa-essiedu-severus-snape-1.jpeg",
-   "published": "2026-11-23T00:30:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Ben Affleck Concerned Over Jennifer Lopez’s Rumored Plans To Torch Him With ‘Revenge Songs’ As Divorce Takes New Turn",
-   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/ben-affleck-reportedly-concerned-jennifer-003000701.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/dc8fdaff786094d7a0f9fc0d8613f1be21584eb08f96c0f7f680c1892e0d8824/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F42796139d36b93478c67464a58fead47.jpg_up.jpg",
-   "published": "2026-11-23T00:30:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Newlyweds Miley Cyrus and Maxx Morando reveal matching tattoos",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/newlyweds-miley-cyrus-maxx-morando-002850749.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/4f5bb16eaf3352e8932cdbc9c4a2351d07ae8c03d8674210f9baeea9b808d33d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fa6789842ac2fb87da29fa338f611522d.jpg_up.jpg",
-   "published": "2026-11-23T00:28:50+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Brighter Than The Sun: How Lionsgate Marketing & PR Turned B.O. Around For ‘Sunrise On The Reaping’",
-   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/brighter-sun-lionsgate-marketing-pr-002435569.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/fa0c08578c5bceb2e8e2919a86575d44b72c04975c3e28eedc0b78b4c8f4b4be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F2411ea1b7f42328b75f17a58852b36e8.jpg",
-   "published": "2026-11-23T00:24:35+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Pop star Miley Cyrus weds drummer Maxx Morando in California",
-   "url": "https://www.yahoo.com/entertainment/articles/miley-cyrus-weds-drummer-maxx-110911233.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ef990f7380a16ec8935d828770c39c77c7a74bbeec79e6dde27b98067628a1af/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F7de3d8c8709af7d9c9ceaa39f3376164.jpg_up.jpg",
-   "published": "2026-11-23T00:23:18+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "10 Crime Thriller Shows Where Every Episode Is a 10/10",
-   "url": "https://collider.com/crime-thriller-shows-every-episode-perfect/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/breaking-bad-1.jpg",
-   "published": "2026-11-23T00:21:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "The ‘Young and the Restless’ Star You Might Recognize in the New ‘Rocky’ Movie",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/young-restless-star-might-recognize-001822816.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/2be4ac6f1e08effc792900c1c60125a457f23bc395eb4a4b557df3c44badc863/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2F8c349cd7faa53c3d28ba3181092b44d4.jpg",
-   "published": "2026-11-23T00:18:22+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Inside Miley Cyrus and Maxx Morando's wedding: First photos revealed",
    "url": "https://jang.com.pk/en/76748-inside-miley-cyrus-and-maxx-morandos-wedding-first-photos-revealed-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76748_121532_eng.jpg",
    "published": "2026-11-23T00:15:28+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Forget 'Euphoria,' Drake's Apple TV Sci-Fi Thriller Sets Premiere Date",
-   "url": "https://collider.com/neuromancer-drake-ep-apple-tv-release-date/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/aubrey-graham-drake.jpg",
-   "published": "2026-11-23T00:15:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Nick Bosa’s girlfriend Ella Ailiff stuns in custom 49ers fit at Mexico City game amid controversy",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/nick-bosa-girlfriend-ella-ailiff-001216246.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/312d38b8618985589771d6bb9131eb10c412c99e64823b7db25586c930b4662f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Ff783be0540cef09024aa2d67a2f7400c.png",
-   "published": "2026-11-23T00:12:16+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Guy Ritchie’s Sherlock Holmes Crime Series Officially Won’t Return in 2026",
-   "url": "https://collider.com/guy-ritchie-young-sherlock-season-2-release-window-2027/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/img_7264-1.jpg",
-   "published": "2026-11-23T00:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Britney Spears Rethinks 'B Tiny' Jewelry Name Over Body-Size Concerns, Plans Miniature Sword Gifts",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/britney-spears-rethinks-b-tiny-000003328.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/ea944512c6e441089d26e64a22cba0650ac16a6dacdbf92e04b7b46b62db66b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F9020f369c963e32395bcf748b077140a.jpg",
-   "published": "2026-11-23T00:00:03+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Australian music legend Molly Meldrum dies aged 83",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/australian-music-legend-molly-meldrum-235152003.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/90dfb78860f6a559d1127f7923b57c23f512bf80d7b11cb35de2924fa990a291/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fed719041b99a4f05b658f4f7d5965253.jpg_up.jpg",
-   "published": "2026-11-22T23:51:52+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "A24's Viral Breakout Hit Officially Faces a Major Theatrical Exit Ahead of Home Release",
-   "url": "https://collider.com/you-can-see-everything-a24-elizabeth-holmes-documentary-removed-from-2000-theaters-box-office-digital-debut/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/you-can-see-everything.jpg",
-   "published": "2026-11-22T23:46:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Young Dolph’s Widow Remembers Him Five Years After Murder",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/young-dolph-widow-remembers-him-234548004.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/466d52a900c8132377434fa9abf4b1c41bb30b10d2e5c9499548e9921d5b8895/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fc79531fd59c492b3c5a2852ecd8dfd75.jpg",
-   "published": "2026-11-22T23:45:48+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Miley Cyrus Ties the Knot in Classically Elegant Saint Laurent Gown and Matching Silk Pumps",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-ties-knot-classically-233404078.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/4d6eb5d9d2fb8a0a099b258fd86c2877d2621159ff2f2ec33194bc14269c4a04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F330b98e5d2af40a412a5c6556d161637.png",
-   "published": "2026-11-22T23:34:04+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Warner Bros.' Latest Box Office Flop Officially Removed From Over 700 Theaters",
-   "url": "https://collider.com/cat-in-the-hat-removed-from-700-theaters-box-office/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/warner-bro-logo.jpg",
-   "published": "2026-11-22T23:15:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "7 Masterpiece Fantasy Book Series, Ranked",
-   "url": "https://collider.com/fantasy-book-series-masterpieces-ranked/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/the-lord-of-the-rings-the-rings-of-power-galadriel.jpg",
-   "published": "2026-11-22T23:03:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -281,7 +291,7 @@
    "trend_term": null
   },
   {
-   "title": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning 2 Oscars",
+   "title": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning Two Oscars",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/mahershala-ali-says-not-roles-214146441.html",
    "source": "yahoo.com",
    "category": "Awards",
@@ -305,7 +315,7 @@
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/first-photos-miley-cyrus-wedding-031431217.html",
    "source": "yahoo.com",
    "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/ce79fa39eb18235630a0c82fddfb04a23713ad4c9ff6eac9e12013fc8750c554/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F7f8f8aa84da156dc7e327555392577b2.jpg",
+   "image": "https://s.yimg.com/lo/mysterio/api/40dfe4e70cb325211c498e58f37df84d7bdd03604b2043611a2ea7861d842c7f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fd7ceb873ed49baa91d2bbfc70060c28e.png",
    "published": "2026-11-22T19:55:18+00:00",
    "trending": false,
    "trend_term": null
@@ -351,6 +361,46 @@
    "trend_term": null
   },
   {
+   "title": "Sarah Paulson Explains Why She Doesn’t Live With Partner Holland Taylor",
+   "url": "https://www.usmagazine.com/celebrity-news/news/why-sarah-paulson-doesnt-live-with-partner-holland-taylor/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2295839793-Sarah-Paulson-Explains-Holland-Taylor-Living-Arrangements.jpg?crop=0px%2C190px%2C1333px%2C752px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-22T19:09:37+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Sarah Paulson Explains Why She Doesn’t Live With ‘Really Independent’ Partner Holland Taylor: ‘Feels Really Good to Me’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/sarah-paulson-explains-why-she-190937372.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0abdec5e0a85bcee1bc1eb57f096b84092280360d5d78f1583dcf5992d4e6cbc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F90f3254615affc86f7f188eefa5a8d4c.jpg",
+   "published": "2026-11-22T19:09:37+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Taylor Swift Cheers on Travis Kelce's Chiefs Game With Her Parents, In-Laws",
+   "url": "https://www.usmagazine.com/sports/news/taylor-swift-cheers-on-travis-kelce-at-chiefs-cardinals-game/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Taylor-Swift-GettyImages-2305903402.jpg",
+   "published": "2026-11-22T19:01:21+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Taylor Swift Cheers on Husband Travis Kelce’s Chiefs Game Days After 2026 CMAs Return",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-cheers-husband-travis-190121636.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c6d7963dbf893c32e5cee317c829b95af73ccffe7d2820b70d0796246b3f7d77/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4d97b459cd1dcc2a6594cd1b7c32f9af.jpg",
+   "published": "2026-11-22T19:01:21+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Prince William has big decision to make after Princess Charlotte's surprise move",
    "url": "https://jang.com.pk/en/76729-prince-william-has-big-decision-to-make-after-princess-charlottes-surprise-move-news",
    "source": "jang.com.pk",
@@ -381,11 +431,31 @@
    "trend_term": null
   },
   {
+   "title": "Bruce Willis’ Daughter Tallulah Apologizes for Sharing ‘Intimate’ Photo From Recent Visit",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/bruce-willis-daughter-tallulah-apologizes-184543439.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/15b98b4c5eae27be8172ace4c22ff31a0603cefb1f88306d28199fbb0866b6b0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff5f8dfcc47ac871a511a611c2ff36d50.jpg",
+   "published": "2026-11-22T18:45:43+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Mia Thornton and More Former 'RHOP' Stars: Where Are They Now?",
    "url": "https://www.usmagazine.com/entertainment/pictures/former-rhop-stars-where-are-they-now/",
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2024/04/Former-Real-Housewives-of-Potomac-Stars-Where-Are-They-Now-feature.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-22T18:15:24+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Former ‘Real Housewives of Potomac’ Stars: Where Are They Now? Monique Samuels and More",
+   "url": "https://www.yahoo.com/entertainment/slideshows/former-real-housewives-potomac-stars-150356532.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/08f64b34aead9b163d6de9b513c85e2ea3232c9119b3214de6cf2797f716c67e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fbfad5061c050f8dabd7dc7a52ffa068c.jpg",
    "published": "2026-11-22T18:15:24+00:00",
    "trending": false,
    "trend_term": null
@@ -551,16 +621,6 @@
    "trend_term": null
   },
   {
-   "title": "Russell Brand’s Wellness Shop Launches ‘Free Russell Brand’ Merch After Comedian’s Rape Conviction",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/russell-brand-wellness-shop-launches-162050352.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/75408d56b1d7e04200bdc7ee16ea7b2d42762eaffd3b47bfb69e8302a0b91b14/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fd36426c3110539402b44d926c9339647.jpg",
-   "published": "2026-11-22T16:20:50+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Miley Cyrus’ Wedding Dress Revealed: Details on Her Backless Gown",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-wedding-dress-revealed-160605574.html",
    "source": "yahoo.com",
@@ -581,31 +641,11 @@
    "trend_term": null
   },
   {
-   "title": "Kim Kardashian Wows in Plunging Leather Look at F1 Academy Before Lewis Hamilton’s Vegas Grand Prix",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kim-kardashian-wows-plunging-leather-154807155.html",
-   "source": "profiles.yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/5ce923d3d1634e3876e525d6ca02e1d62e20864dfc98a93d5a9de6946eef38b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff37c4aab647765d5fa7d5506e1b5d7d7.jpg",
-   "published": "2026-11-22T15:48:07+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "'90 Day Fiance' Tragedies: The Saddest and Most Shocking Deaths",
    "url": "https://www.usmagazine.com/celebrity-news/pictures/90-day-fiance-tragedies-the-saddest-and-most-shocking-deaths-through-the-years/",
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2025/05/Feature-90-Day-Fiance-Deaths-and-Tragedies.jpg?crop=123px%2C0px%2C1766px%2C998px&resize=1000%2C563&quality=40&strip=all",
-   "published": "2026-11-22T15:17:16+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "’90 Day Fiance’ Tragedies: The Saddest and Most Shocking Deaths Through the Years",
-   "url": "https://www.yahoo.com/entertainment/slideshows/90-day-fiance-tragedies-saddest-121319449.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e61d98f3c721c39bc29a27cfe7d068230e94867191fbe5f8d173bc6de5632992/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F226f048b90fe670e4b678c337cc36225.jpg",
    "published": "2026-11-22T15:17:16+00:00",
    "trending": false,
    "trend_term": null
@@ -697,16 +737,6 @@
    "category": "Celebrity",
    "image": "https://media.pubninja.com/articles/brand-6/covers/1795329690682_f486ff3e6544.jpg",
    "published": "2026-11-22T07:12:38+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Miley Cyrus and Maxx Morando’s Wedding Guest List Revealed",
-   "url": "https://www.usmagazine.com/celebrity-news/news/celebrities-who-attended-miley-cyrus-maxx-morando-wedding/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305169586-Celebrities-Who-Attended-Miley-Cyrus-Maxx-Morando-Wedding-billy-ray-liz-hurley-damian-e1795329395387.jpg",
-   "published": "2026-11-22T06:50:55+00:00",
    "trending": false,
    "trend_term": null
   }
