@@ -7,6 +7,7 @@ import json, re, time, datetime as dt
 from urllib.parse import urljoin, urlparse
 from zoneinfo import ZoneInfo
 import feedparser, requests
+import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -169,11 +170,90 @@ def scrape_entries(cfg):
     return "scraped", out
 
 # ---------- Shared ----------
+STOP = set("""the and but for from with that this these those his her their our your you they new newest
+first last after before about over into out than then just now today tonight latest says say said reveals
+reveal shares share show shows see watch here what why how who when where will would could should can may
+might has have had does did get gets got more most all every any one two three star stars celebrity celebs
+news big full inside everything know need things thing look looks back set sets takes take make makes made
+going gone amid against via per""".split())
+
+def norm(text):
+    return re.sub(r"[^a-z0-9]+", " ", (text or "").lower()).strip()
+
+def toks(text):
+    return {w for w in norm(text).split() if len(w) >= 3 and w not in STOP}
+
+def overlap(a, b):
+    """Two headlines are about the same story if they share 3+ key words (and half of the shorter one)."""
+    if not a or not b:
+        return False
+    s = len(a & b)
+    return s >= 3 and s / min(len(a), len(b)) >= 0.5
+
+def traffic_num(txt):
+    m = re.match(r"\s*(\d[\d,]*)\s*([KkMm]?)", txt or "")
+    if not m:
+        return 0
+    n = int(m.group(1).replace(",", ""))
+    return n * {"": 1, "k": 1000, "m": 1000000}[m.group(2).lower()]
+
 def trends_us():
+    """Google Trends (US): each trend has a term, approx. traffic and related news headlines."""
     r = get("https://trends.google.com/trending/rss?geo=US")
+    out = []
     if not r:
-        return []
-    return [e.get("title", "").lower() for e in feedparser.parse(r.content).entries if e.get("title")]
+        return out
+    try:
+        root = ET.fromstring(r.content)
+    except Exception:
+        return out
+    for item in root.iter("item"):
+        term, traffic, news = "", 0, []
+        for ch in item:
+            tag = ch.tag.split("}")[-1]
+            if tag == "title":
+                term = (ch.text or "").strip()
+            elif tag == "approx_traffic":
+                traffic = traffic_num(ch.text)
+            elif tag == "news_item":
+                for n in ch:
+                    if n.tag.split("}")[-1] == "news_item_title" and n.text:
+                        news.append(toks(n.text))
+        if term:
+            out.append({"term": term, "traffic": traffic, "low": norm(term),
+                        "tokens": toks(term), "news": news})
+    return out
+
+def match_trend(text, tset, trends):
+    """Best Google trend for a story: phrase match, all key words present, or same headline as a trend's news."""
+    best = None
+    padded = f" {text} "
+    for t in trends:
+        hit = False
+        if len(t["low"]) > 3 and f" {t['low']} " in padded:
+            hit = True
+        elif len(t["tokens"]) >= 2 and t["tokens"] <= tset:
+            hit = True
+        elif len(t["tokens"]) == 1 and len(next(iter(t["tokens"]))) >= 5 and t["tokens"] <= tset:
+            hit = True
+        elif any(overlap(tset, n) for n in t["news"]):
+            hit = True
+        if hit and (best is None or t["traffic"] > best["traffic"]):
+            best = t
+    return best
+
+def fam(source):
+    return "yahoo.com" if source.endswith("yahoo.com") else source
+
+def add_buzz(items):
+    """it['buzz'] = number of different sites covering the same story."""
+    sets = [toks(i["title"]) for i in items]
+    for a, it in enumerate(items):
+        srcs = {fam(it["source"])}
+        for b, o in enumerate(items):
+            if a != b and overlap(sets[a], sets[b]):
+                srcs.add(fam(o["source"]))
+        it["buzz"] = len(srcs)
 
 def norm_url(u):
     q = urlparse(u or "")
@@ -223,12 +303,10 @@ def main():
             if not is_entertainment(host, e["title"], e["tags"], url):
                 continue
             seen_urls.add(norm_url(url))
-            low = f"{e['title']} {e['summary']}".lower()
-            hit = next((t for t in trends if len(t) > 3 and t in low), None)
             items.append({"title": e["title"], "url": url, "source": host,
                           "category": classify(f"{e['title']} {e['tags']} {url}"),
                           "image": e["image"], "published": when.isoformat(),
-                          "trending": bool(hit), "trend_term": hit})
+                          "trending": False, "trend_term": None, "_s": e["summary"]})
             kept += 1
         status[host] = kept
         print(f"{host}: source={used} entries={len(entries)} with_date={dated} kept_today={kept}")
@@ -245,8 +323,29 @@ def main():
             continue
         seen_urls.add(norm_url(o["url"]))
         items.append(o)
+    # Trending = matches a Google Trends (US) topic, OR the same story is covered by 2+ of our sites.
+    for it in items:
+        was = (it.get("trending"), it.get("trend_term"))
+        text = norm(f"{it['title']} {it.get('_s', '')}")
+        t = match_trend(text, toks(text), trends)
+        it["trending"], it["trend_term"], it["trend_score"] = False, None, 0
+        if t:
+            it["trending"], it["trend_term"], it["trend_score"] = True, t["term"], t["traffic"]
+        elif was[0] and was[1] and not str(was[1]).startswith("covered by"):
+            it["trending"], it["trend_term"] = True, was[1]   # was trending in an earlier run, keep it
+    add_buzz(items)
+    for it in items:
+        n = it.pop("buzz", 1)
+        if n >= 2:
+            it["trend_score"] = it.get("trend_score", 0) + n * 1000
+            label = f"covered by {n} sites"
+            it["trend_term"] = f"{it['trend_term']} · {label}" if it["trending"] else label
+            it["trending"] = True
+        it.pop("_s", None)
     items.sort(key=lambda i: i["published"], reverse=True)
+    items.sort(key=lambda i: -i.get("trend_score", 0))
     items.sort(key=lambda i: not i["trending"])
+    print("trending stories:", sum(1 for i in items if i["trending"]))
     out = {"generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
            "date_us": str(today), "per_site": status, "items": items}
     json.dump(out, open("news.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
