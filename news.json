@@ -1,15 +1,25 @@
 {
- "generated_at": "2026-11-23T16:57:53.786346+00:00",
+ "generated_at": "2026-11-23T17:56:35.186855+00:00",
  "date_us": "2026-11-23",
  "per_site": {
-  "usmagazine.com": 17,
+  "usmagazine.com": 16,
   "news.meaww.com": 3,
   "profiles.yahoo.com": 7,
   "yahoo.com": 30,
   "jang.com.pk": 6,
-  "collider.com": 10
+  "collider.com": 9
  },
  "items": [
+  {
+   "title": "David Fincher Officially Reveals Real Budget for His New Quentin Tarantino Movie",
+   "url": "https://collider.com/cliff-booth-netflix-movie-real-budget-david-fincher/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-further-mis-adventures-of-cliff-booth-brad-pitt-2.jpg",
+   "published": "2026-11-23T17:17:29+00:00",
+   "trending": true,
+   "trend_term": "brad pitt"
+  },
   {
    "title": "'Avengers Doomsday' final trailer out: Steve Rogers, Thor face off in epic clash",
    "url": "https://jang.com.pk/en/76782-avengers-doomsday-final-trailer-out-steve-rogers-thor-face-off-in-epic-clash-news",
@@ -41,102 +51,232 @@
    "trend_term": null
   },
   {
-   "title": "“The Waltons” Mom Michael Learned Says She Was Once Bullied in an Elevator by Two A-List Actresses: ‘I Still Haven’t Gotten Over It’",
-   "url": "https://www.yahoo.com/entertainment/articles/waltons-mom-michael-learned-says-164625749.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/4dc507b04abe15564a12712dc8a3dcd48ac542ba61e3cebbb2864b0dd726afb4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fe04a552c07926f3a5191bd5393995a78.jpg",
-   "published": "2026-11-23T16:46:25+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Wayne Coyne Was Miley Cyrus and Maxx Morando’s Wedding Officiant and His Sons Were ‘Cutest Little Flower Boys,’ Wife Katy Says",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/wayne-coyne-miley-cyrus-maxx-164614526.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/11dd2ae53a2029a48a3c8a0ba047bff6e4a71660cdc436f770e50892ea15307c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ffa907573d5bbcbdb5d573081d73601b9.jpg",
-   "published": "2026-11-23T16:46:14+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Sandra Bullock & Josh Holloway’s Families Have Sweet Disneyland Trip",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/sandra-bullock-josh-holloway-families-163809901.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9535d5fc70c37b5b5313765008a63b8f60524432f241801a1b2eaa249b75b47a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F41c729427469508dec56846e7ead0ac1.jpg",
-   "published": "2026-11-23T16:38:09+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘Avengers: Doomsday’ final trailer features return of iconic X-Men line",
-   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/avengers-doomsday-final-trailer-features-163723391.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/a052a3fb017a230f5a022a61d6986bccf5dfb3f67cedd842da7d62a8f5a07c02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fftw_outdoors_usa_today_article_609%2Fdedc2b9e27d68fc741d9ae8907e76183.jpg",
-   "published": "2026-11-23T16:37:23+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "All The K-Pop Cameos In ‘K-POP: THE DEBUT’",
-   "url": "https://www.yahoo.com/entertainment/music/articles/k-pop-cameos-k-pop-163649320.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/7bda9d2ae734dfede93f2fcef89036630fae66fc2a798e2669c23932da967e70/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F37de522b28bb74b9d27abe33ddc760a8.jpg_up.jpg",
-   "published": "2026-11-23T16:36:49+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Justin Timberlake Documentary Trailer Explores Janet Jackson and Britney Spears Scandals, DWI Arrest",
-   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/justin-timberlake-documentary-trailer-explores-163629444.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/77f25eab61c866ccfb0dac3f3dbba02540318967033a8422265fa51084e4f3f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2Fa183b97ee5f10401608ae6baa6de00d8.jpg",
-   "published": "2026-11-23T16:36:29+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Spike Lee and Willem Dafoe Board Short Film ‘Pankaja’ as Exec Producers (EXCLUSIVE)",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/spike-lee-willem-dafoe-board-163448413.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/7284e4530c7b0c960f491dca7cfc6fc46854b36fb75c9156f561854f1e0cad47/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F9b89ecbe81b82a6ac69fb52d542e6a99.jpg_up.jpg",
-   "published": "2026-11-23T16:34:48+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "All About ‘The Voice’ Contestant Connor Closs",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/voice-contestant-connor-closs-163336911.html",
+   "title": "There’s An Insane Yellowjackets Theory About Akilah I Need To Talk Out After The Premiere",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/insane-yellowjackets-theory-akilah-talk-174855673.html",
    "source": "yahoo.com",
    "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/9ff45091640e6e87855f4d5a1ab8ae530dce49e8ac08bc52c370261741deb796/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fea5820705af8beca01ae8afc3cdecee4.jpg",
-   "published": "2026-11-23T16:33:36+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/d6a6c4281ccaacba8b96e225882ca2b71a70b186c0e02dc30550aa26473ad480/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2Fb1b4db4c5b828ed437ca56136cb90337.jpg",
+   "published": "2026-11-23T17:48:55+00:00",
    "trending": false,
    "trend_term": null
   },
   {
-   "title": "Watch Taylor Swift Surprise Brenda Lee With an RIAA Diamond Plaque for This ‘Incredible Song’",
-   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/watch-taylor-swift-surprise-brenda-163315947.html",
+   "title": "'Stranger Things' star makes surprise appearance at college football game",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/stranger-things-star-makes-surprise-174716502.html",
    "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/ba598885bc541813e25ba849be5e9de0de26dd7c485d8c531212439e33f38ef6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F7d0ade241981dd889db6ed169a598bad.jpg",
-   "published": "2026-11-23T16:33:15+00:00",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5c62181a5cefe5388fec58974abd087224f1d2223400fc9c882d44fa97197e4b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fa0ef4b10a64ccf560f2eba199b842124.jpg",
+   "published": "2026-11-23T17:47:16+00:00",
    "trending": false,
    "trend_term": null
   },
   {
-   "title": "Will ‘Dig’ Return for Season 2?",
-   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/dig-return-season-2-163241501.html",
+   "title": "‘The View’: Alyssa Farah Griffin Questions Whether Jensen Huang Was Reinstated in Exchange for No Investigation",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/view-alyssa-farah-griffin-questions-174702865.html",
    "source": "yahoo.com",
    "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/7260f8410a0576e57a92747d40703542cb8dccd4808dd92aeb43d58ef02ad35c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F88add760d3e32d3851e3cbf1bda43173.jpg",
-   "published": "2026-11-23T16:32:41+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/381997c952ec704926cbe987c1f836ade4a75f6f0a4532e21be123e79703d12d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F12446defba9056b62d731a623869764b.jpg",
+   "published": "2026-11-23T17:47:02+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "James Gunn Officially Reveals His Plan for Robert Pattinson’s Batman Before DC Studios Firing",
+   "url": "https://collider.com/james-gunn-robert-pattinson-the-batman-2/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/the-batman-robert-pattinson-3.jpg",
+   "published": "2026-11-23T17:45:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Celebrities at the ‘Hexed’ London Premiere",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/celebrities-hexed-london-premiere-174441721.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/337f4fa9f4531bade63595057ccc2a28a500ae67c3c1439de63bf628e6e53516/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2F5e8a6fe3a5072738eabad0831ea42914.jpg",
+   "published": "2026-11-23T17:44:41+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "How ‘General Hospital’ Is Honoring Tristan Rogers This Thanksgiving",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/general-hospital-honoring-tristan-rogers-174421510.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/2587514716ecb98657e1550202334b06189c92134f6a4c74d2724161d6178693/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2Fdd016b34c6d95f2f87f63a91ed38bc6f.jpg",
+   "published": "2026-11-23T17:44:21+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Familiar Faces Return for General Hospital’s Quartermaine Thanksgiving",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/familiar-faces-return-general-hospital-174148364.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/44c5535c59b59bde219ec4fc879772d542843d2a31bf513d7cf37df9b2502ab9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2Fd0dfebf2c8e949fb8002f1b0d67dc218.jpg",
+   "published": "2026-11-23T17:41:48+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Rachel Lindsay Confirms ‘Fresh’ Split from Country Singer Willie Jones After Nearly 2 Years of Dating",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/rachel-lindsay-confirms-fresh-split-173851119.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/e819498e3574d25c5cf77dcc72b37df7d80e24e298aa4cacf98682a08f721cbe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F80d76ab30eff37148793f99e9b6bbe71.jpg",
+   "published": "2026-11-23T17:38:51+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Donny Osmond Addresses Sexual Abuse Allegations Against ‘Dear Friend’ Michael Jackson",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/donny-osmond-addresses-sexual-abuse-173833799.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d256bdeb147befa5dff9a1752c3cc11793abcc1345d9a48d005d021a89106385/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc94165f0f338bc9b5fc8ff08d770a996.jpg",
+   "published": "2026-11-23T17:38:33+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Made By All Hires Ex-Spotter & Rolling Stone Exec Christina Tom",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/made-hires-ex-spotter-rolling-173754430.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/32d33864416d3ec02fe280ec8c152ebdec1d8cf964eaf50a4201120b46f0cba2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F5320ed6a351af4cb0a3083c557ecbd5f.jpg_up.jpg",
+   "published": "2026-11-23T17:37:54+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Fans Are Shocked to Learn This “Beauty and the Beast” Character Was Voiced by ‘The “Law & Order” Guy’ as Disney Marks Film’s 35th Anniversary",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/fans-shocked-learn-beauty-beast-173552080.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/a49f13f6f8d67a4ea79c16eeaa2fccfde016ec60b3c0d7f98d62cc6b8ffd2bd1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fd9e5cf7bf882cd6b1d0f74d7ee45c296.jpg",
+   "published": "2026-11-23T17:35:52+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Quinta Brunson Is Ready to Play Betty Boop",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/quinta-brunson-ready-play-betty-173423690.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/5ac367b93c1a2b7e81c465d275bd5466fd69ac5c752f8f2850e5ed2caf0a03be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F5ce09b3c01352316ecbffe81b01bf967.jpg",
+   "published": "2026-11-23T17:34:23+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "The Most Faithful Stephen King Adaptation Just Got Much Easier To Watch",
+   "url": "https://collider.com/the-green-mile-stephen-king-adaptation-free-streaming-fandango/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/graham-greene-the-green-mile-1.avif",
+   "published": "2026-11-23T17:30:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Anna and Jackson Klem Reflect on the ‘Best Parts’ of Parenthood So Far as They Share a Peek at Son’s ‘Dream’ Nursery (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/anna-jackson-klem-reflect-best-173000546.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f137c0fafd95304c62bf69ea17cca6f52f00a7105a6be73d768779be55acacde/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F8d000862f5cf954c305b7f4829379f60.jpg",
+   "published": "2026-11-23T17:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Courtney B. Vance on Taking Over Late Lance Reddick’s “Percy Jackson” Role: ‘Making Sure That I’m Doing Right by Him’ (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/courtney-b-vance-taking-over-172926142.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c450e3ab2f99226e6b60fa576de8a72572edbd52f6664f8835e4870955a5b0d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc3839a2ac0b27b874bb2b0f8f0766a08.jpg",
+   "published": "2026-11-23T17:29:26+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Teyana Taylor and More Gather at Nike's F1 Celebration [PHOTOS]",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/teyana-taylor-more-gather-nikes-172601944.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/8bb1285fb65cf08c6205251f0206991e101288e0cbd3c31ac99e085f35cbcb19/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootwear_news_642%2F8bc1f1c63a6e90ee494b71927b5bd304.jpg",
+   "published": "2026-11-23T17:26:01+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "'Avengers: Doomsday' final trailer reveals key X-Men moment and Hailee Steinfeld's return. Plus, 4 other things we spotted.",
+   "url": "https://www.yahoo.com/entertainment/movies/article/avengers-doomsday-final-trailer-gives-first-look-at-hailee-steinfeld-plus-3-other-things-we-spotted-144448737.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/1b61f765684bf7accb5d18bc78d14fa8b043f1294136310479a53042069b2061/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Favengers-doomsday_5494.png",
+   "published": "2026-11-23T17:25:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Meghan Markle’s Hairstylist Spills Secrets About Life With Prince Harry",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-hairstylist-spills-secrets-172445112.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
+   "published": "2026-11-23T17:24:45+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Gordon Ramsay, Joe Amabile, Hailee Steinfeld and More!",
+   "url": "https://www.usmagazine.com/hot-pics/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/gordon-ramsay-hot-pics.jpg?crop=0px%2C18px%2C2000px%2C1130px&resize=800%2C450&quality=86&strip=all",
+   "published": "2026-11-23T17:00:32+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Marvel’s Spider-Man Officially Gets Stunning Makeover For New Release",
+   "url": "https://collider.com/marvel-spider-man-peach-momoko-art-book-exclusive/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/spiderman_exclusive_1024.jpg",
+   "published": "2026-11-23T17:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "32 Years Later, ‘Clerks’ Stars Reunite for a Surprising Disney+ Appearance",
+   "url": "https://collider.com/big-city-greens-season-5-episode-8-jason-mewes-kevin-smith-alfred-molina/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/jay-and-silent-bob-exclusive.jpg",
+   "published": "2026-11-23T17:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Elizabeth Hurley Sparks Outrage Over ‘Wholly Inappropriate’ Dress at Miley Cyrus’ Wedding",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/elizabeth-hurley-sparks-outrage-over-165923818.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/3d37516928a3d0f693d9560d66495b1d3bb60520257e2b37cb8884423c1e9c27/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F98af50621e64d86c69673bf687087549.jpg_up.jpg",
+   "published": "2026-11-23T16:59:23+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus Puts an Edgy Twist on Classic Bridal Hairstyle for Her Wedding to Maxx Morando",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-puts-edgy-twist-164150945.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/af84af71d779fabcee1ac6498298dfb4462cbd6d81ee067131c807475842bd76/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F51590074b283ed036c451e364916bce3.jpg",
+   "published": "2026-11-23T16:41:50+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -161,92 +301,12 @@
    "trend_term": null
   },
   {
-   "title": "Justin Timberlake Will Open Up About Highs and Lows of Stardom on Four-Part Documentary",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-open-highs-lows-162832468.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1a3f7e8d29270366d3125662e0221ee712907aae0ef49922008b9304c24bd728/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F6e20f9df699c840252c15fbc6a1f83f8.jpg",
-   "published": "2026-11-23T16:28:32+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "'The Gilded Age' Just Made Larian's Love Story More Complicated Than Ever",
    "url": "https://collider.com/the-gilded-age-season-4-episode-4-marian-pregnant/",
    "source": "collider.com",
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-gilded-age-season-4-episode-4-harry-richardson-louisa-jacobson.jpg",
    "published": "2026-11-23T16:27:13+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "“Law & Order” Actor E.J. Carroll’s Cause of Death Revealed After He Died Suddenly at 66",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/law-order-actor-e-j-162611298.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/47e63cda6f46b8c4d9100a2e6bf38550c218c93ac0161b48213eb462e7bf96a1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F6cdf2cc04fbb152d8f82fb99b893f9a4.jpg",
-   "published": "2026-11-23T16:26:11+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Miss Universe 2026: Contestants dazzle in the national costume show",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/d821049e09b0a8f13ff68927bdf0c4af2d9dd46ac24822e9b4edae69b5130573/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
-   "published": "2026-11-23T16:26:01+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Justin Timberlake Confronts His Legacy In Apple TV Doc Trailer",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-confronts-legacy-apple-151715417.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/829fc54e40748ce00f9f7fd7963cd1f0e5e9e4a56098fd7475b6bd7bf58b2614/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspin_digital_media%2Fad0f39cc8c2a983133e7ac8d06ff601a.jpg",
-   "published": "2026-11-23T16:23:15+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Undressed Connor Storrie lands Vogue’s Best Dressed cover",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/undressed-connor-storrie-lands-vogue-162026896.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/783a5cbf5e15eb63200c723c2d23e6882b288d0654d2827bf1cd2fdfd59d15e3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F94816d63408200e4de5effc0b0f33539.jpg",
-   "published": "2026-11-23T16:20:26+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Televangelist Jim Bakker’s Son Jay Opens Up About How the Relationship Between Them Changed After the Pastor Went to Prison in 1989",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/televangelist-jim-bakker-son-jay-161954897.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/cddcefcb4afae427d74519e3016723aebce0a37705e9b5adc4ef7517db2783ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fce4f1baed4f3586f4cb239665f6884a1.jpg",
-   "published": "2026-11-23T16:19:54+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Kate Middleton Hinted at Her Surprise Documentary During Mountain Climbing Challenge",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-hinted-her-surprise-161807194.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/6197871bdff5e3f23e8c5c255a1a1b8152eda9c9e4717d891342574e637fa8d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbd44932acd1a7482b9c3246f32da4a69.jpg",
-   "published": "2026-11-23T16:18:07+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "David Fincher details experience with ‘tricky’ Val Kilmer: ‘Not really what I’m looking for’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/david-fincher-details-experience-tricky-161613696.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/2bcfa59093946956754068e8765358169d88520f08d9c9e088074ff11291743b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2Fc525ada8fc6931617e97b29f9887e3b7.jpg",
-   "published": "2026-11-23T16:16:13+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -301,22 +361,22 @@
    "trend_term": null
   },
   {
+   "title": "Miley Cyrus Just Revealed Her Wedding Dress—and It's Not What I Expected",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-just-revealed-her-154838104.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/b760b86fcbf4f78c97ed4ea7aaa63ddc3fc598d754521665674a7b63190b3c9a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpurewow_185%2F4e907381568265a9326437af614f307e.jpg_up.jpg",
+   "published": "2026-11-23T15:48:38+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Princess Charlene attends special ceremony with brother Gareth Wittstock",
    "url": "https://jang.com.pk/en/76766-princess-charlene-attends-special-ceremony-with-brother-gareth-wittstock-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76766_033632_eng.jpg",
    "published": "2026-11-23T15:36:04+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Tom Holland Officially Returns as Spider-Man in Stunning New Look",
-   "url": "https://collider.com/spider-man-brand-new-day-screenx-exclusive-variant-posters/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/copy-of-collider-template-2026-11-23t080727-454.jpg",
-   "published": "2026-11-23T15:19:02+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -341,72 +401,12 @@
    "trend_term": null
   },
   {
-   "title": "Kevin Hart's Animated Comedy Officially Reveals Star-Studded Season 2 in New Trailer",
-   "url": "https://collider.com/lil-kev-season-2-trailer-kevin-hart-guest-stars/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/kevin-hart.jpg",
-   "published": "2026-11-23T15:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "'Avengers: Doomsday' final trailer gives first look at Hailee Steinfeld. Plus, 3 other things we spotted.",
-   "url": "https://www.yahoo.com/entertainment/movies/article/avengers-doomsday-final-trailer-gives-first-look-at-hailee-steinfeld-plus-3-other-things-we-spotted-144448737.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/9b0ffa6a2776c237452439b7f2d22317a7216ebcb45226969f90add0fd109a3d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-avengers-doomsday-trailer_8757.jpg",
-   "published": "2026-11-23T14:44:48+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "'Avengers: Doomsday's Final Trailer Signals the End of an Era for the MCU",
-   "url": "https://collider.com/avengers-doomsday-new-trailer-robert-downey-jr-doctor-doom/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/avengers-doomsday-chris-hemsworth.jpg",
-   "published": "2026-11-23T14:16:18+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘Dungeon Crawler Carl’ Is Officially Changing Fantasy TV’s Winning Formula",
-   "url": "https://collider.com/dungeon-crawler-carl-litrpg-fantasy-tv-genre/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/dungeon-crawler-carl-comic.jpg",
-   "published": "2026-11-23T14:12:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Princess Charlotte set to replace Eugenie at Kate's 2026 Christmas Carol service?",
    "url": "https://jang.com.pk/en/76759-princess-charlotte-set-to-replace-eugenie-at-kates-2026-christmas-carol-service-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76759_010927_eng.jpg",
    "published": "2026-11-23T13:09:24+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Apple TV Officially Scores a Worldwide No. 1 With Its New Crime Thriller",
-   "url": "https://collider.com/12-12-12-apple-tv-streaming-success-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hildegard-schroedter-12-1-2-12.jpg",
-   "published": "2026-11-23T13:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "7 Western Movies That Hooked Me From the First 10 Minutes",
-   "url": "https://collider.com/western-movies-hooked-me-first-10-minutes/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/3-10-to-yuma-2007.jpg",
-   "published": "2026-11-23T12:51:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -421,12 +421,42 @@
    "trend_term": null
   },
   {
+   "title": "Donny Osmond Makes Rare Comment About Michael Jackson Child Abuse Claims",
+   "url": "https://www.usmagazine.com/celebrity-news/news/donny-osmond-addresses-michael-jackson-child-abuse-allegations/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Donny-Osmond-Makes-Rare-Comment-About-Michael-Jackson-Child-Abuse-Claims.jpg?crop=0px%2C70px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T11:23:08+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Here's Why A Woman Broke Miley Cyrus's Strict Black-Tie Wedding Dress Code",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/heres-why-woman-broke-miley-112220536.html",
    "source": "yahoo.com",
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/7d173dd954f46baac4882fea66c0ef690a3abd6b574972996308882c64fe7d42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F8f8457537872fcaf0cb766923250fcf6.jpg",
    "published": "2026-11-23T11:22:20+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jason Tartick Teases Holiday Plans With Fiancee Kathryn After Engagement",
+   "url": "https://www.usmagazine.com/celebrity-news/news/jason-tartick-teases-holiday-plans-with-fiancee-kathryn-hurley/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2302612913-Jason-Tartick-Teases-Holiday-Plans-With-Fiancee-Kathryn-After-Engagement-e1795209515262.jpg",
+   "published": "2026-11-23T11:00:56+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Bachelor Nation’s Jason Tartick Teases Holiday Plans With Fiancee Kathryn Hurley After Engagement",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/bachelor-nation-jason-tartick-teases-110056569.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/0be231e20b99ea6de1b5cd8ca622778850c054015689cc2a1607afe135a24e9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fa7d05a87a144b26d1c9f0cf99182fee4.jpg",
+   "published": "2026-11-23T11:00:56+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -591,16 +621,6 @@
    "trend_term": null
   },
   {
-   "title": "Brooks Nader’s Savage Response to Rumors About Her Sister Sarah Jane Nader Dating Pete Davidson",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brooks-nader-savage-response-rumors-025748275.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/2341b6a9e1a65754a9da71623be857c4b40b848537856905707ede31bc6190fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F9ef479a524c8f1c4da8c93f1e652e521.jpg",
-   "published": "2026-11-23T02:57:48+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Don Toliver Concert Evacuated After ‘Substance Believed to Be Tear Gas’ Was Released into Arena Crowd",
    "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-concert-evacuated-substance-024617016.html",
    "source": "yahoo.com",
@@ -687,46 +707,6 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/brookewilliamsonexclusive.jpg?crop=0px%2C256px%2C1333px%2C753px&resize=1000%2C563&quality=40&strip=all",
    "published": "2026-11-22T23:11:11+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Kaitlyn Bristowe Shares Affirmations She Tells Dog Amid Pooch’s Health Battle",
-   "url": "https://www.usmagazine.com/celebrity-news/news/kaitlyn-bristowe-shares-affirmations-she-says-to-dog-pinot/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2215323961-Kaitlyn-Bristowe-Shares-Daily-Affirmations-With-Dog-Pinot.jpg?crop=0px%2C141px%2C1333px%2C752px&resize=1000%2C563&quality=40&strip=all",
-   "published": "2026-11-22T22:22:24+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Kate Middleton's Candid Quotes About Cancer Recovery: 'It Will Take Time'",
-   "url": "https://www.usmagazine.com/celebrity-news/news/kate-middletons-candid-quotes-about-cancer-recovery/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Kate-Middleton-Cancer-Recovery-Quotes-GettyImages-2305162238.jpg?crop=0px%2C180px%2C1335px%2C753px&resize=1000%2C563&quality=76&strip=all",
-   "published": "2026-11-22T21:55:43+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Inside Taylor Swift’s Relationship With Travis Kelce’s 4 Nieces",
-   "url": "https://www.usmagazine.com/celebrity-moms/news/taylor-swifts-relationship-with-travis-kelces-nieces/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/07/kykelce_660954724_17967870057030142_6732481096092161996_n.jpg",
-   "published": "2026-11-22T21:25:31+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Taylor Swift Adorably Celebrates Travis Kelce's Touchdowns With Nieces",
-   "url": "https://www.usmagazine.com/sports/news/taylor-swift-nieces-celebrate-travis-kelces-2-touchdowns/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Taylor-Swift-GettyImages-2305903402.jpg",
-   "published": "2026-11-22T21:22:00+00:00",
    "trending": false,
    "trend_term": null
   },
