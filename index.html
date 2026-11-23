@@ -56,12 +56,18 @@ aside .box{position:sticky;top:96px;max-height:calc(100vh - 116px);overflow:auto
 .ph2 .btn{background:var(--bg);color:var(--text);border:1px solid var(--line)}
 .okrow{display:flex;align-items:center;gap:8px;border-bottom:1px solid var(--line)}
 .okrow .fs{flex:1;border:0}
+.total{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;border-radius:99px;background:var(--accent);color:#fff;font-weight:700;font-size:14px}
+.total small{font-weight:500;opacity:.9;font-size:12px}
+.btn.lost{background:var(--card);color:var(--text);border:1px solid var(--accent)}
+.btn.lost b{background:var(--accent);color:#fff;border-radius:99px;padding:0 7px;margin-left:4px;font-size:12px}
 .undo{border:1px solid var(--line);background:var(--bg);color:var(--text);border-radius:8px;padding:4px 10px;font-size:12px}
 </style></head><body>
 <header>
   <div class="top">
     <h1>US Entertainment <span>Trends Desk</span></h1>
+    <span class="total" id="total">📰 …</span>
     <span class="stat" id="stat">Loading…</span>
+    <button class="btn lost" id="lostbtn">🕘 Lost news 24 h <b id="lostn">0</b></button>
     <button class="btn ok" id="okbtn">✓ Ok work <b id="okn">0</b></button>
     <button class="btn" id="refresh">⟳ Refresh</button>
   </div>
@@ -79,22 +85,29 @@ aside .box{position:sticky;top:96px;max-height:calc(100vh - 116px);overflow:auto
     </div>
   </aside>
 </div>
+<div class="panel" id="lostpanel" hidden><div class="pbox">
+  <div class="ph2"><h2>Lost news 24 h <span class="count">(published 24–48 hours ago)</span></h2><button class="btn" id="lostclose">Close</button></div>
+  <div id="lostlist"></div>
+</div></div>
 <div class="panel" id="okpanel" hidden><div class="pbox">
-  <div class="ph2"><h2>Ok work <span class="count">(read stories, kept for 24 hours)</span></h2><button class="btn" id="okclose">Close</button></div>
+  <div class="ph2"><h2>Ok work <span class="count">(read stories, kept for 48 hours)</span></h2><button class="btn" id="okclose">Close</button></div>
   <div id="oklist"></div>
 </div></div>
 <script>
 var FRESH_HOURS=3;
 var DATA=null,src="All",cat="All",onlyTrend=false;
 function $(i){return document.getElementById(i)}
-var DONE={};
-try{DONE=JSON.parse(localStorage.getItem("okwork")||"{}")||{}}catch(e){DONE={}}
-function saveDone(){try{localStorage.setItem("okwork",JSON.stringify(DONE))}catch(e){}}
-function isDone(i){return !!DONE[i.url]}
+var DONE={},IDX={},STORE_OK=true,pressing=false;
+function nu(u){try{var p=new URL(u);return "u:"+p.hostname.replace(/^www\./,"").toLowerCase()+p.pathname.replace(/\/+$/,"").toLowerCase()}catch(e){return "u:"+String(u||"").toLowerCase()}}
+function nt(t){var s=String(t||"").toLowerCase().replace(/[^a-z0-9]+/g,"");return s.length>15?"t:"+s:""}
+function readDone(){try{var s=localStorage.getItem("okwork");return s?(JSON.parse(s)||{}):{}}catch(e){STORE_OK=false;return DONE}}
+function writeDone(){try{localStorage.setItem("okwork",JSON.stringify(DONE))}catch(e){STORE_OK=false}}
+function reindex(){IDX={};for(var k in DONE){var it=DONE[k].item||{};IDX[k]=1;IDX[nu(it.url)]=1;var t=nt(it.title);if(t)IDX[t]=1}}
+function isDone(i){return !!(IDX[nu(i.url)]||IDX[i.url]||(nt(i.title)&&IDX[nt(i.title)]))}
 function isFresh(i){return Date.now()-new Date(i.published)<=FRESH_HOURS*3600000}
-function prune(){var ch=false;for(var k in DONE){if(Date.now()-new Date(DONE[k].item.published)>864e5){delete DONE[k];ch=true}}if(ch)saveDone()}
-function markDone(i){DONE[i.url]={t:Date.now(),item:i};saveDone();render()}
-function undo(u){delete DONE[u];saveDone();render()}
+function prune(){DONE=readDone();var ch=false;for(var k in DONE){var p=new Date((DONE[k].item||{}).published);if(!isNaN(p)&&Date.now()-p>1728e5){delete DONE[k];ch=true}}if(ch)writeDone();reindex()}
+function markDone(i){DONE=readDone();DONE[nu(i.url)]={t:Date.now(),item:i};writeDone();reindex();render()}
+function undo(u){DONE=readDone();delete DONE[u];writeDone();reindex();render()}
 function tickBtn(i){var b=document.createElement("button");b.className="tick";b.textContent="✓";b.title="Mark as read";b.setAttribute("aria-label","Mark as read");
   b.onclick=function(e){e.preventDefault();e.stopPropagation();markDone(i)};return b}
 function renderOk(){
@@ -111,6 +124,16 @@ function renderOk(){
     a.appendChild(d);row.appendChild(a);
     var u=document.createElement("button");u.className="undo";u.textContent="Undo";u.onclick=function(){undo(k)};row.appendChild(u);
     box.appendChild(row)})}
+function renderLost(list){
+  $("lostn").textContent=list.length;
+  var box=$("lostlist");box.textContent="";
+  if(!list.length){var e=document.createElement("div");e.className="empty";e.textContent="No stories from 24–48 hours ago.";box.appendChild(e);return}
+  list.forEach(function(i){
+    var a=document.createElement("a");a.className="fs";a.href=i.url;a.target="_blank";a.rel="noopener noreferrer";
+    a.appendChild(img(i.image,""));a.appendChild(tickBtn(i));
+    var d=document.createElement("div");var h=document.createElement("h3");h.textContent=i.title;d.appendChild(h);
+    var m=document.createElement("div");m.className="meta";m.textContent=i.source+" · "+i.category+" · "+ago(i.published)+(i.trending?" · 🔥":"");d.appendChild(m);
+    a.appendChild(d);box.appendChild(a)})}
 function ago(iso){var m=Math.max(0,Math.round((Date.now()-new Date(iso))/60000));
   if(m<60)return m+" min ago";var h=Math.floor(m/60);return h+" h "+(m%60)+" min ago"}
 function chip(label,cls,on,fn){var b=document.createElement("button");b.className="chip "+cls+(on?" on":"");b.textContent=label;b.onclick=fn;return b}
@@ -120,7 +143,7 @@ function img(url,cls){
   i.onerror=function(){i.style.visibility="hidden"};return i}
 function load(){
   $("stat").textContent="Loading…";
-  fetch("news.json?t="+Date.now()).then(function(r){return r.json()}).then(function(d){DATA=d;render()})
+  fetch("news.json?t="+Date.now()).then(function(r){return r.json()}).then(function(d){DATA=d;if(!pressing)render()})
   .catch(function(){$("stat").textContent="Could not load news.json"})}
 function pass(i){return !isDone(i)&&(src==="All"||i.source===src)&&(cat==="All"||i.category===cat)&&(!onlyTrend||i.trending)}
 function render(){
@@ -131,10 +154,17 @@ function render(){
   f.appendChild(chip("🔥 Trending only","cat",onlyTrend,function(){onlyTrend=!onlyTrend;render()}));
   prune();
   var vis=DATA.items.filter(pass);
-  var all=vis.filter(function(i){return !isFresh(i)});
-  var fresh=vis.filter(function(i){return Date.now()-new Date(i.published)<=FRESH_HOURS*3600000})
+  var H=3600000,age=function(i){return Date.now()-new Date(i.published)};
+  var recent=vis.filter(function(i){return age(i)<=24*H});
+  var old=vis.filter(function(i){return age(i)>24*H&&age(i)<=48*H})
     .sort(function(a,b){return new Date(b.published)-new Date(a.published)});
-  $("stat").textContent="Updated "+ago(DATA.generated_at)+" · "+Object.entries(DATA.per_site).map(function(p){return p[0]+" "+p[1]}).join(" · ");
+  var all=recent.filter(function(i){return !isFresh(i)});
+  var fresh=recent.filter(isFresh)
+    .sort(function(a,b){return new Date(b.published)-new Date(a.published)});
+  var t24=DATA.items.filter(function(i){return age(i)<=24*H}).length,t3=DATA.items.filter(isFresh).length;
+  $("total").innerHTML="📰 "+t24+" stories <small>last 24 h · "+t3+" new in "+FRESH_HOURS+" h</small>";
+  renderLost(old);
+  $("stat").textContent=(STORE_OK?"":"⚠ Browser storage blocked: read marks will not be saved · ")+"Updated "+ago(DATA.generated_at)+" · "+Object.entries(DATA.per_site).map(function(p){return p[0]+" "+p[1]}).join(" · ");
   $("n24").textContent="("+all.length+")";$("nfresh").textContent="last "+FRESH_HOURS+" h ("+fresh.length+")";
   var g=$("grid");g.textContent="";
   if(!all.length){g.className="";var e=document.createElement("div");e.className="empty";e.textContent="No stories match these filters.";g.appendChild(e)}
@@ -161,10 +191,18 @@ function render(){
   renderOk()}
 $("refresh").onclick=load;
 $("okbtn").onclick=function(){$("okpanel").hidden=false};
+$("lostbtn").onclick=function(){$("lostpanel").hidden=false};
+$("lostclose").onclick=function(){$("lostpanel").hidden=true};
+$("lostpanel").onclick=function(e){if(e.target===this)this.hidden=true};
 $("okclose").onclick=function(){$("okpanel").hidden=true};
 $("okpanel").onclick=function(e){if(e.target===this)this.hidden=true};
-document.addEventListener("keydown",function(e){if(e.key==="Escape")$("okpanel").hidden=true});
+document.addEventListener("keydown",function(e){if(e.key==="Escape"){$("okpanel").hidden=true;$("lostpanel").hidden=true}});
+DONE=readDone();reindex();
+function safeRender(){if(DATA&&!pressing)render()}
+document.addEventListener("pointerdown",function(e){if(e.target.closest&&e.target.closest(".tick"))pressing=true},true);
+["pointerup","pointercancel","click"].forEach(function(ev){document.addEventListener(ev,function(){setTimeout(function(){pressing=false},0)},true)});
+window.addEventListener("storage",function(e){if(e.key==="okwork")safeRender()});
 renderOk();
 load();setInterval(load,10*60*1000);
-setInterval(function(){if(DATA)render()},60*1000);
+setInterval(safeRender,60*1000);
 </script></body></html>

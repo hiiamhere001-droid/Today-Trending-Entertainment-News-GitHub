@@ -32,6 +32,7 @@ SCRAPE = {
 }
 ENT_ONLY = {"usmagazine.com", "collider.com", "yahoo.com", "profiles.yahoo.com"}
 MAX_ARTICLES = 30
+KEEP_HOURS = 48   # how long a story stays in news.json (24h main page + 24h "Lost news")
 
 STRONG = re.compile(
     r"\b(movie|movies|film|films|trailer|box office|netflix|hulu|disney\+?|hbo|peacock|"
@@ -174,6 +175,10 @@ def trends_us():
         return []
     return [e.get("title", "").lower() for e in feedparser.parse(r.content).entries if e.get("title")]
 
+def norm_url(u):
+    q = urlparse(u or "")
+    return (q.netloc.lower().replace("www.", "") + q.path.rstrip("/")).lower()
+
 def classify(text):
     for name, pat in CATEGORIES:
         if re.search(pat, text, re.I):
@@ -209,15 +214,15 @@ def main():
             if not when:
                 continue
             dated += 1
-            # Rolling last 24 hours, so the page is not empty right after US midnight.
-            if now - when > dt.timedelta(hours=24) or when > now + dt.timedelta(hours=1):
+            # Rolling last 48 hours.
+            if now - when > dt.timedelta(hours=KEEP_HOURS) or when > now + dt.timedelta(hours=1):
                 continue
             url = e["url"]
-            if not url or url in seen_urls or not e["title"]:
+            if not url or norm_url(url) in seen_urls or not e["title"]:
                 continue
             if not is_entertainment(host, e["title"], e["tags"], url):
                 continue
-            seen_urls.add(url)
+            seen_urls.add(norm_url(url))
             low = f"{e['title']} {e['summary']}".lower()
             hit = next((t for t in trends if len(t) > 3 and t in low), None)
             items.append({"title": e["title"], "url": url, "source": host,
@@ -227,11 +232,24 @@ def main():
             kept += 1
         status[host] = kept
         print(f"{host}: source={used} entries={len(entries)} with_date={dated} kept_today={kept}")
+    # Keep stories saved by earlier runs (feeds only show the newest posts), drop anything older than 48h.
+    try:
+        old_items = json.load(open("news.json", encoding="utf-8")).get("items", [])
+    except Exception:
+        old_items = []
+    for o in old_items:
+        w = parse_dt(o.get("published", ""))
+        if not w or not o.get("url") or norm_url(o["url"]) in seen_urls:
+            continue
+        if now - w > dt.timedelta(hours=KEEP_HOURS):
+            continue
+        seen_urls.add(norm_url(o["url"]))
+        items.append(o)
     items.sort(key=lambda i: i["published"], reverse=True)
     items.sort(key=lambda i: not i["trending"])
     out = {"generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
            "date_us": str(today), "per_site": status, "items": items}
-    json.dump(out, open("news.json", "w"), ensure_ascii=False, indent=1)
+    json.dump(out, open("news.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print("saved", len(items), "stories")
 
 if __name__ == "__main__":
