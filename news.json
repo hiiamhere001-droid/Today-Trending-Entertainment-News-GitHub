@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-23T18:56:25.471911+00:00",
+ "generated_at": "2026-11-23T19:59:25.677407+00:00",
  "date_us": "2026-11-23",
  "per_site": {
-  "usmagazine.com": 16,
+  "usmagazine.com": 15,
   "news.meaww.com": 3,
-  "profiles.yahoo.com": 7,
+  "profiles.yahoo.com": 8,
   "yahoo.com": 30,
   "jang.com.pk": 6,
   "collider.com": 8
@@ -33,45 +33,78 @@
    "trend_score": 2000
   },
   {
-   "title": "Steven Spielberg to make a western written by Paul Thomas Anderson",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/steven-spielberg-western-written-paul-181031261.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/97793cf178cd4fe7d7c4b982fccbd610c1532e80e0099f6d935e8abd4cfc86e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F47cdeecefaf9b45e1aea1379543b0fe2.jpg",
-   "published": "2026-11-23T18:10:31+00:00",
-   "trending": true,
-   "trend_term": "the heart in winter",
-   "trend_score": 2000
-  },
-  {
-   "title": "Steven Spielberg Teams With Paul Thomas Anderson on Western ‘The Heart in Winter’",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/steven-spielberg-teams-paul-thomas-180846808.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/ad79a6ccbfdc4fef198ac829fde0b2d739380b46f6406ca06c5e9b05b37877c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F3bd121b899be16a1b71ee9ece35c118d.jpg",
-   "published": "2026-11-23T18:08:46+00:00",
-   "trending": true,
-   "trend_term": "the heart in winter",
-   "trend_score": 2000
-  },
-  {
-   "title": "Steven Spielberg’s First Western Movie Officially Reveals All-Star Irish Cast",
-   "url": "https://collider.com/steven-spielberg-western-cillian-murphy-paul-thomas-anderson/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/steven-spielberg.jpg",
-   "published": "2026-11-23T17:58:20+00:00",
-   "trending": true,
-   "trend_term": "the heart in winter",
-   "trend_score": 2000
-  },
-  {
    "title": "Donny Osmond Addresses Sexual Abuse Allegations Against ‘Dear Friend’ Michael Jackson",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/donny-osmond-addresses-sexual-abuse-173833799.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/d256bdeb147befa5dff9a1752c3cc11793abcc1345d9a48d005d021a89106385/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc94165f0f338bc9b5fc8ff08d770a996.jpg",
    "published": "2026-11-23T17:38:33+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Sharna Burgess Claims 'DWTS' Fans Use Votes to 'Manipulate the Show'",
+   "url": "https://www.usmagazine.com/entertainment/news/sharna-burgess-calls-out-dwts-voting-system-before-finale/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183136_05554_v1.jpg?crop=0px%2C152px%2C1500px%2C848px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-23T13:03:01+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "‘DWTS’ Pro Sharna Burgess Claims Fans ‘Manipulate the Show’ With Votes: ‘So Insanely Negative’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/dwts-pro-sharna-burgess-claims-130301252.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/b0c18e5e25a15fb69167d38ff09c95c288bb47a99b3c5daed00e3771e51699f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F29db0fc09c00a5f02e888ad1739d594a.jpg",
+   "published": "2026-11-23T13:03:01+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Fina Strazza Calls Amy Poehler ‘Dig’ Audition a ‘Dream Come True’",
+   "url": "https://www.usmagazine.com/celebrity-news/news/fina-strazza-on-auditioning-with-amy-poehler-for-dig/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Fina-Strazza-Dig-2.jpg",
+   "published": "2026-11-23T13:00:32+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Fina Strazza Says Auditioning With Amy Poehler for ‘Dig’ Was a ‘Dream Come True’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/fina-strazza-says-auditioning-amy-130032614.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/7895be71b939269ddbc0d2e32a3fffdb0513149555249acd789cf4883a2b36e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F38e458f71d1c71d15e81cfa99f694c79.jpg",
+   "published": "2026-11-23T13:00:32+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Bachelor's Emily Ferguson Welcomes 3rd Baby With Husband William Karlsson",
+   "url": "https://www.usmagazine.com/celebrity-news/pictures/emily-ferguson-and-william-karlssons-relationship-timeline/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2022/07/Emily-Ferguson-William-Karlsson-Relationship-Timeline-0002.jpg?crop=0px%2C309px%2C1200px%2C677px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T12:25:42+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "‘Bachelor’ Alum Emily Ferguson and William Karlsson’s Relationship Timeline",
+   "url": "https://www.yahoo.com/entertainment/slideshows/bachelor-alum-emily-ferguson-william-130127846.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/53327434e34b94f506fb6aea1d3bae8e351a6c19a2c7e085c9316320fef89a46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F67482b1c7c67bfbfe0a00e78cf2e7e70.jpg",
+   "published": "2026-11-23T12:25:42+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -220,22 +253,22 @@
    "trend_score": 2000
   },
   {
-   "title": "Marshals' Kayce Shares Shocking Kiss With [Spoiler] After Multiple Deaths",
-   "url": "https://www.usmagazine.com/entertainment/news/marshals-kayce-shares-shocking-belle-kiss-after-multiple-deaths/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/3241956_YMAR_S2_0445bc.jpg",
+   "title": "Yellowstone’s ‘Marshals’ Complicates Relationships by Having Kayce Kiss Someone After Multiple Deaths",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/yellowstone-marshals-complicates-relationships-having-022921811.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/2bef6d2e02505cf1459a9a45913fa392019a97364c0c7a468d10f369f2e8fd04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff9a733b45b6fcc80ad220bbdb7052630.jpg",
    "published": "2026-11-23T02:29:21+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
   },
   {
-   "title": "Yellowstone’s ‘Marshals’ Complicates Relationships by Having Kayce Kiss Someone After Multiple Deaths",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/yellowstone-marshals-complicates-relationships-having-022921811.html",
-   "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/2bef6d2e02505cf1459a9a45913fa392019a97364c0c7a468d10f369f2e8fd04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff9a733b45b6fcc80ad220bbdb7052630.jpg",
+   "title": "Marshals' Kayce Shares Shocking Kiss With [Spoiler] After Multiple Deaths",
+   "url": "https://www.usmagazine.com/entertainment/news/marshals-kayce-shares-shocking-belle-kiss-after-multiple-deaths/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/3241956_YMAR_S2_0445bc.jpg",
    "published": "2026-11-23T02:29:21+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
@@ -251,6 +284,50 @@
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
+  },
+  {
+   "title": "Steven Spielberg to make a western written by Paul Thomas Anderson",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/steven-spielberg-western-written-paul-181031261.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/97793cf178cd4fe7d7c4b982fccbd610c1532e80e0099f6d935e8abd4cfc86e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F47cdeecefaf9b45e1aea1379543b0fe2.jpg",
+   "published": "2026-11-23T18:10:31+00:00",
+   "trending": true,
+   "trend_term": "the heart in winter",
+   "trend_score": 0
+  },
+  {
+   "title": "Steven Spielberg Teams With Paul Thomas Anderson on Western ‘The Heart in Winter’",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/steven-spielberg-teams-paul-thomas-180846808.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/ad79a6ccbfdc4fef198ac829fde0b2d739380b46f6406ca06c5e9b05b37877c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F3bd121b899be16a1b71ee9ece35c118d.jpg",
+   "published": "2026-11-23T18:08:46+00:00",
+   "trending": true,
+   "trend_term": "the heart in winter",
+   "trend_score": 0
+  },
+  {
+   "title": "Steven Spielberg’s First Western Movie Officially Reveals All-Star Irish Cast",
+   "url": "https://collider.com/steven-spielberg-western-cillian-murphy-paul-thomas-anderson/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/steven-spielberg.jpg",
+   "published": "2026-11-23T17:58:20+00:00",
+   "trending": true,
+   "trend_term": "the heart in winter",
+   "trend_score": 0
+  },
+  {
+   "title": "Royal steps out solo for her first engagement since marrying Crown Prince",
+   "url": "https://jang.com.pk/en/76786-royal-steps-out-solo-for-her-first-engagement-since-marrying-crown-prince-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76786_121624_eng.jpg",
+   "published": "2026-11-24T00:16:21+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
   },
   {
    "title": "'Avengers Doomsday' final trailer out: Steve Rogers faces off Thor in epic clash",
@@ -275,12 +352,243 @@
    "trend_score": 0
   },
   {
+   "title": "29 Pictures That Have Never ONCE Failed To Make Me Completely Lose It",
+   "url": "https://www.yahoo.com/entertainment/articles/29-pictures-never-once-failed-194804068.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0b21902a76f28ebbacd985866ff9688aca06dcc9f79219a69f3fc79409ea6b33/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2Fcdb9076f1b4e28868eac6c0b58b9dc7f.jpg",
+   "published": "2026-11-23T19:48:04+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Meet the Real-Life Partners of “The Hunger Games:” “Sunrise on the Reaping” Cast",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/meet-real-life-partners-hunger-194659611.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/dbe88fd7ff76d55f2a9262b94a341ad5d46fb0546df18246d5d1d1179d302232/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F658769c14eec7812738ff66ea90f9661.jpg",
+   "published": "2026-11-23T19:46:59+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "CNN’s Phil Mattingly Nerds Out On Complicated Topics On His Show ‘CNN Breaks It Down’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/cnn-phil-mattingly-nerds-complicated-194539200.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/0a70e753738f1b62aecb35d25df0fed85faf6e7703c1591b182960a9ef3f1a60/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Faa19a61dedafa378ac97b683a824c96e.jpg_up.jpg",
+   "published": "2026-11-23T19:45:39+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Miley Cyrus’ Reaction To Guest Who Broke Wedding Dress Code Revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-reaction-guest-broke-194500523.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/ba085a906c68b289a0fdb8dace950108b5d5834f1c59f32f6bd6e3937e8a1892/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fcb3da3f80c3a12687b3a42b57c5eeda4.jpg",
+   "published": "2026-11-23T19:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "What Is The 'Jupiter Incident 2011' Meme? The Viral Memes About IShowSpeed, CaseOh And Joe Bartolozzi's Disastrous Trip To Space Explained",
+   "url": "https://www.yahoo.com/entertainment/articles/jupiter-incident-2011-meme-viral-194500860.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b0d1421703db936e4d9ad4e393b94bf6d9463f59e25720b831042d18e5beba62/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fknow_your_meme_909%2F3472ea99ca5c321bc7da5c844cd425d8.jpg",
+   "published": "2026-11-23T19:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "“The Secret Lives of Mormon Wives”: “Orange County” Renewed for 20 Episodes Following Explosive First Season",
+   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/secret-lives-mormon-wives-orange-194344176.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/97fa7c910d060de6996da27a5c382d6e073ca4fb3e5210a55ebd029bf2e7afd6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F6759e3427588d95691f4100e4cc92f19.jpg",
+   "published": "2026-11-23T19:43:44+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Barbara Eden, 95, Shares What a Potential ‘I Dream of Jeannie’ Reboot Would Need to Get Right",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/barbara-eden-95-shares-potential-194148080.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d78e15686974184123a0779f560b3967e95c0fc964e8cf5dfc123accb41ee589/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2F29f1ffd5f48100052487a6852b8d6878.jpg",
+   "published": "2026-11-23T19:41:48+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Toy Story 5, ‘Super Mario Galaxy Movie’ Among a Record 38 Films Eligible for 2027 Oscar for Animated Feature Film: Full List",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/toy-story-5-super-mario-193737467.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/7830ebea7aac23d7c493dd51e195d87bf8490445687a04e7a42ec44673efb657/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F85c657b11c75e458b1078ba2cfcc7328.jpg",
+   "published": "2026-11-23T19:37:37+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Prince William shares powerful message about new mental health initiative",
    "url": "https://jang.com.pk/en/76778-prince-william-shares-powerful-message-about-new-mental-health-initiative-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76778_075237_eng.jpg",
    "published": "2026-11-23T19:35:34+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Raiders’ Mark Davis baffled by Nicolas Cage’s Madden movie that’s part Pulp Fiction, SNL – and it’s easy to see why",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/raiders-mark-davis-baffled-nicolas-193500168.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/68942bac6ce1477680f8264c856f0f0829053b59067c1878b3263656e754abc0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2F76f089d47f5715f3e1d3ade31b8bdcce.jpg_up.jpg",
+   "published": "2026-11-23T19:35:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "These traditions built Macy's Thanksgiving Day Parade over 100 marches",
+   "url": "https://www.yahoo.com/entertainment/articles/traditions-built-macys-thanksgiving-day-193447763.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c455eeeaa88a22ae1775dc0e25f01a97c9485aa79734508894b69990cc777810/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fd307dc9b0468dc84c27adb8c37aafdde.jpg",
+   "published": "2026-11-23T19:34:47+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "How Roger Ebert’s Wife Chaz is Carrying On His Legacy of Film Criticism",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/roger-ebert-wife-chaz-carrying-193340296.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/83415e1d944834a2a3e0423da319d03d3824586b8998974385e0c795a29aceaf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ffab004859e01d0a80c42fdc561f9c182.jpg",
+   "published": "2026-11-23T19:33:40+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ashley Judd Says Mom Naomi Wrote 'Trump' on Her Inner Thigh Before Surgery, Sparking Disagreement",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/ashley-judd-says-mom-naomi-193016645.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/bb5b6b87c4df096c72f9825ce50a8faa25e2f4b32e741f013f4e4fa6c2583430/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fc49a0bea5069b87c74834440a84a534f.jpg",
+   "published": "2026-11-23T19:30:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Marvel Officially Unmasks Doctor Doom Ahead of Robert Downey Jr.’s Return in ‘Avengers: Doomsday’",
+   "url": "https://collider.com/marvel-doctor-doom-unmasked-secret-wars/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
+   "published": "2026-11-23T19:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Seth Rogen says starring in hit ’90s show was so bad he had a ‘nervous breakdown’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/seth-rogen-says-starring-hit-193008720.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9338b62974dd13e72f3b3febb8395b5bb5e5a7840fb171cf070ed5bd15e50784/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F8f6ddf342262acea077a9001e15a5786.jpg",
+   "published": "2026-11-23T19:30:08+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The Macy's hippo balloon isn't Fiona. Here's the backstory",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/macys-hippo-balloon-isnt-fiona-192527680.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e960737d345e0266a95995f902ff43b47221330bcd8b3a03c769b713bd09d174/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fcb41bf16e24b20a11bd0ab878bd7bb6f.jpg",
+   "published": "2026-11-23T19:25:27+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Rob Lowe Defends Working With Ben Shapiro Amid Backlash",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rob-lowe-defends-working-ben-192334999.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/af18696b7233043350c3784da39d7555be047b9ee921f91da724bc7c08f76644/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F91c8871d5003776dd94453033b6315fb.jpg",
+   "published": "2026-11-23T19:23:34+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "7 Forgotten Detective Shows That Are Perfect From Start to Finish",
+   "url": "https://collider.com/forgotten-detective-shows-perfect-start-to-finish/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/columbo-peter-falk-1.jpg",
+   "published": "2026-11-23T19:22:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "'Dancing with the Stars' judge Derek Hough reveals childhood sexual abuse",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dancing-stars-judge-derek-hough-191659911.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f105208e6553f3754f09d97f439e27ba9122c9bb8126bac0d83424a47ca5abf8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fb26fd210aa2bf766fe9dd5021367ba73.jpg",
+   "published": "2026-11-23T19:16:59+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Rei Ami Supports the Sneaker Heel Comeback With Archival Dsquared2 Style at Las Vegas Grand Prix",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/rei-ami-supports-sneaker-heel-190553723.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/c681c17a781df9096d822536be02dd7a2acccdd69f0a60123631e894504b3ba9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootwear_news_642%2F9798835ee3a542eaef8925507aba664c.jpg",
+   "published": "2026-11-23T19:05:53+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Netflix Officially Removes Gilmore Girls Revival in 48 Hours",
+   "url": "https://collider.com/gilmore-girls-a-year-in-the-life-leaving-netflix-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/gilmore-girls-lauren-graham-alexis-bledel.jpg",
+   "published": "2026-11-23T19:01:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Fans gushed over Jessica Biel’s toned body in a white dress. Then she gave a reality check.",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/fans-gushed-over-jessica-biel-185937302.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/310dad1c8203f9e1f1fb6c0a5e37f26e49d22dd59b96c1a8bbdd2b2da550b475/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fupworthy_219%2F28a818ea32acba06c8539633d78f6d9d.jpg_up.jpg",
+   "published": "2026-11-23T18:59:37+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -946,6 +1254,17 @@
    "trend_score": 0
   },
   {
+   "title": "Steven Spielberg Sets Adaptation Of ‘The Heart In Winter’ As Next Film At Focus With Jessie Buckley, Cillian Murphy And Mark Rylance Starring And Paul Thomas Anderson Adapting The Script",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/steven-spielberg-sets-adaptation-heart-173000389.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/5ae649da967cf1291ff814722895d3d06462c97ad39a01ab96c8740fa42a8a67/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F3582753253b6b480bb8358508d4eadba.jpg",
+   "published": "2026-11-23T17:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Anna and Jackson Klem Reflect on the ‘Best Parts’ of Parenthood So Far as They Share a Peek at Son’s ‘Dream’ Nursery (Exclusive)",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/anna-jackson-klem-reflect-best-173000546.html",
    "source": "yahoo.com",
@@ -1199,6 +1518,39 @@
    "trend_score": 0
   },
   {
+   "title": "'Dancing With the Stars' has delivered some fierce fashion in Season 35. We asked kids to rate the best looks.",
+   "url": "https://www.yahoo.com/entertainment/tv/article/dancing-with-the-stars-has-delivered-some-fierce-fashion-in-season-35-we-asked-kids-to-rate-the-best-looks-140000376.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/795f28dc4e1426a3a14d2841d112b67e36d21846b65901dc70d0d9900358d29b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-dwts-kids-rate_7442.jpg",
+   "published": "2026-11-23T14:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Stars — They're Just Like Us!",
+   "url": "https://www.usmagazine.com/celebrity-news/pictures/stars-theyre-just-like-us-20131610/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Jenna-Dewan-They-Eat-Ice-Cream-Year-Round-Just-Like-Us.jpg?crop=0px%2C240px%2C1500px%2C848px&resize=800%2C450&quality=40&strip=all",
+   "published": "2026-11-23T13:51:09+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Brielle Biermann Wants to Break Out From Behind Mom Kim Zolciak’s Shadow",
+   "url": "https://www.usmagazine.com/celebrity-news/news/brielle-biermann-addresses-challenges-of-having-famous-family/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/WL-S2_209_TG_0088_f.jpg",
+   "published": "2026-11-23T13:37:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Princess Charlotte set to replace Eugenie at Kate's 2026 Christmas Carol service?",
    "url": "https://jang.com.pk/en/76759-princess-charlotte-set-to-replace-eugenie-at-kates-2026-christmas-carol-service-news",
    "source": "jang.com.pk",
@@ -1216,17 +1568,6 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
    "published": "2026-11-23T12:28:40+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Bachelor's Emily Ferguson Welcomes 3rd Baby With Husband William Karlsson",
-   "url": "https://www.usmagazine.com/celebrity-news/pictures/emily-ferguson-and-william-karlssons-relationship-timeline/",
-   "source": "usmagazine.com",
-   "category": "TV",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2022/07/Emily-Ferguson-William-Karlsson-Relationship-Timeline-0002.jpg?crop=0px%2C309px%2C1200px%2C677px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T12:25:42+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
