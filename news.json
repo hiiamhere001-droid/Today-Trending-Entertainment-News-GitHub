@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T17:56:35.186855+00:00",
+ "generated_at": "2026-11-23T18:23:30.726191+00:00",
  "date_us": "2026-11-23",
  "per_site": {
   "usmagazine.com": 16,
@@ -7,18 +7,18 @@
   "profiles.yahoo.com": 7,
   "yahoo.com": 30,
   "jang.com.pk": 6,
-  "collider.com": 9
+  "collider.com": 7
  },
  "items": [
   {
-   "title": "David Fincher Officially Reveals Real Budget for His New Quentin Tarantino Movie",
-   "url": "https://collider.com/cliff-booth-netflix-movie-real-budget-david-fincher/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-further-mis-adventures-of-cliff-booth-brad-pitt-2.jpg",
-   "published": "2026-11-23T17:17:29+00:00",
-   "trending": true,
-   "trend_term": "brad pitt"
+   "title": "'Avengers Doomsday' final trailer out: Steve Rogers faces off Thor in epic clash",
+   "url": "https://jang.com.pk/en/76782-avengers-doomsday-final-trailer-out-steve-rogers-faces-off-thor-in-epic-clash-news",
+   "source": "jang.com.pk",
+   "category": "Movies",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76782_081522_eng.jpg",
+   "published": "2026-11-23T20:15:19+05:00",
+   "trending": false,
+   "trend_term": null
   },
   {
    "title": "'Avengers Doomsday' final trailer out: Steve Rogers, Thor face off in epic clash",
@@ -41,12 +41,192 @@
    "trend_term": null
   },
   {
+   "title": "This Classic ‘Cheers’ Thanksgiving Episode Sparked Major Controversy",
+   "url": "https://collider.com/cheers-thanksgiving-episode-controversy-food-fight/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/11/this-classic-cheers-thanksgiving-episode-sparked-controversy.jpg",
+   "published": "2026-11-23T18:23:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Hulu and Disney+ fully integrating. What that means for GA viewers",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/hulu-disney-fully-integrating-means-181528249.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/fa50812eedacd88bad3f63fadf38f0dca0e80d5a9861f2b067546aa907895702/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F35b85cf1668ffcdd7a887d3a0f8b4f34.jpg",
+   "published": "2026-11-23T18:15:28+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Pregnant Jen Affleck Shares Painful ‘Mixed Emotions’ As Solo Babymoon Takes Unexpected Turn",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/pregnant-jen-affleck-shares-painful-181500365.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/40c59663e598a3bece95a38745a215aa7dd3fb4effdc994b42989cd2398d5e41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F4fb662ba2516b7c6b9a1d8dc95254191.jpg",
+   "published": "2026-11-23T18:15:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "10 Harrowing Miniseries Where Every Episode Is a Masterpiece",
+   "url": "https://collider.com/most-harrowing-miniseries-masterpieces-ranked/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/chernobyl-hbo-1.jpg",
+   "published": "2026-11-23T18:12:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Every time Diplo has talked about his gay sexual experiences",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/every-time-diplo-talked-gay-181127730.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9652c8c9bf8d5080aac21f388658b06a2e7f99e9394fefca2a99aa625ac5a569/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fout_articles_481%2Fdb653e827d257f2d662f914b4506e46f.jpg",
+   "published": "2026-11-23T18:11:27+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Steven Spielberg to make a western written by Paul Thomas Anderson",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/steven-spielberg-western-written-paul-181031261.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/97793cf178cd4fe7d7c4b982fccbd610c1532e80e0099f6d935e8abd4cfc86e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F47cdeecefaf9b45e1aea1379543b0fe2.jpg",
+   "published": "2026-11-23T18:10:31+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Every Year Where All Grammy Record of the Year Nominees Were No. 1 Hits",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/every-where-grammy-record-nominees-181009882.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/8a8c9100c782571fd501abfb89061c522840838c5dd562ec127daee79111e625/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F721c79de6ff284b8c0e5bcff6621102e.jpg",
+   "published": "2026-11-23T18:10:09+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Avengers: Doomsday trailer leaves the internet divided over its take on X-Men rallying cry",
+   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/avengers-doomsday-trailer-leaves-internet-180912151.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/059dcb95e91c49b2a2a1555e1aeca340a20147954e154b62573449c4c60bf45c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fb682d672aa9a06af8a06bb1749f1b09f.png",
+   "published": "2026-11-23T18:09:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Michelle Randolph Praises ‘Incredible’ TCU Cheerleaders After Filming “Landman” Scenes Together (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/michelle-randolph-praises-incredible-tcu-180908525.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a512dd9cf02cc4e309ae2246a8e0770fec60e17af8ca87beb7f73db721f2fc55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F2290cd5e388d61f347f7669076afce18.jpg",
+   "published": "2026-11-23T18:09:08+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Steven Spielberg Teams With Paul Thomas Anderson on Western ‘The Heart in Winter’",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/steven-spielberg-teams-paul-thomas-180846808.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/ad79a6ccbfdc4fef198ac829fde0b2d739380b46f6406ca06c5e9b05b37877c2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F3bd121b899be16a1b71ee9ece35c118d.jpg",
+   "published": "2026-11-23T18:08:46+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "One Way Jimmy Fallon Is Differentiating Himself From Jimmy Kimmel This Holiday TV Season",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/one-way-jimmy-fallon-differentiating-180845818.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/1ee72491ba1b1f0b3ea486e2c7d48cebf7e9754498445bfe32d3ed042cd3e40f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F494749192c05d45427d6cfbf029b465d.jpg",
+   "published": "2026-11-23T18:08:45+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jimmy Jenkins’s ‘God With Us,’ Starring Rotimi & Lil Rel Howery, Lands PVOD Release",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/jimmy-jenkins-god-us-starring-180808733.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/a6fb9e0723900b48d233bba9da83dfe3bef160f90ef9e6a61579923d322b5c3c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F0b134af99f0a859d0061ea48ea0272ab.jpg",
+   "published": "2026-11-23T18:08:08+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Billie Jean King Says Friend Chris Evert Has Been ‘Through Hell and Back’ Amid Third Ovarian Cancer Diagnosis (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/billie-jean-king-says-friend-180433485.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/6c05cb5b76ad435c8d37fbd3d0003d67495d804ede4897a391d67dcd30daa10c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F5db783c2dbc4d3d3e39e84145ea9d3ba.jpg",
+   "published": "2026-11-23T18:04:33+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘90 Day Fiance’ Interpreter Shares Tribute to Sheila Mangubat After Her Death at Age 35",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fiance-interpreter-shares-180322690.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/476ad51f17286f18043ba46b2d9ab212b25944f978bf8619b13a32a85bc4c60b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2Feeaa25ded9442d716311029d5180021e.jpg",
+   "published": "2026-11-23T18:03:22+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Kensington Palace hit back at Tom Skyes' Harry, Meghan's Royal titles claims: 'no factual basis'",
    "url": "https://jang.com.pk/en/76770-kensington-palace-hit-back-at-tom-skyes-harry-meghans-royal-titles-claims-no-factual-basis-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76770_060125_eng.jpg",
    "published": "2026-11-23T18:00:57+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Harry & Meghan’s Kids’ Faces Finally Revealed as Sources Accuse Them of Using Their Children for ‘Calculated PR Fodder’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/harry-meghan-kids-faces-finally-175913892.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/01f83b2c5ecafff39e8c81dd3206d65322221b76cba37fe0e602f005a5a45532/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstylecaster_935%2F05255628a71d72bb066fb962c96f88ef.jpg",
+   "published": "2026-11-23T17:59:13+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘RHOP’ Star Tia Glover Isn’t Here for the Marriage Advice",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rhop-star-tia-glover-isn-175850017.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a0353ff2163950b37c9504582c48ef754a5816d0da433f36d0778f85aefe47d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Faf7987e36f744aae756c909fa68742a0.png",
+   "published": "2026-11-23T17:58:50+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Steven Spielberg’s First Western Movie Officially Reveals All-Star Irish Cast",
+   "url": "https://collider.com/steven-spielberg-western-cillian-murphy-paul-thomas-anderson/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/steven-spielberg.jpg",
+   "published": "2026-11-23T17:58:20+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Kim Kardashian supports boyfriend Lewis Hamilton at the Las Vegas F1 Grand Prix in two striking leather looks",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kim-kardashian-supports-boyfriend-lewis-175351992.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/ee2820560fff694c64a9ecd7036325c4058aa401b027ad5c3a2540fa148636c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F19975074cf4c48c40603260c2fe627c0.jpg",
+   "published": "2026-11-23T17:53:51+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -91,6 +271,16 @@
    "trend_term": null
   },
   {
+   "title": "Kate Middleton Could Offer Harry And Meghan A Christmas Olive Branch, But William May Stand In The Way, Ex-Butler Says",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-could-offer-harry-174500127.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a9d2e992add4c02b6c559d6a81a8571be038a89b8b89f6a28390f6cd91559728/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F4f79fc25513615d2c55d26cddec8bc96.jpg",
+   "published": "2026-11-23T17:45:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Celebrities at the ‘Hexed’ London Premiere",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/celebrities-hexed-london-premiere-174441721.html",
    "source": "yahoo.com",
@@ -107,6 +297,26 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/2587514716ecb98657e1550202334b06189c92134f6a4c74d2724161d6178693/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2Fdd016b34c6d95f2f87f63a91ed38bc6f.jpg",
    "published": "2026-11-23T17:44:21+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Hollywood legend Kim Novak, 93, details very unique plans for her body after death",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hollywood-legend-kim-novak-93-174357152.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/34e44e6145ce86af2fa37ddaedf443eac098a4bdb05fc83ace9ee471d1dfda5d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F693014ea278192da9e91603e71fdf18a.jpg",
+   "published": "2026-11-23T17:43:57+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Elizabeth Hurley’s Sheer Dress for Miley Cyrus’ Wedding Packs Unexpected High Slit",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/elizabeth-hurley-sheer-dress-miley-174211393.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/5325766b06809037a52072c7f8b45dceb4ac3396cb37db2eb50fc520b98cbb0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F9945d9d0ebe0a503b607b590e3e2a191.jpg",
+   "published": "2026-11-23T17:42:11+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -227,6 +437,16 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
    "published": "2026-11-23T17:24:45+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "David Fincher Officially Reveals Real Budget for His New Quentin Tarantino Movie",
+   "url": "https://collider.com/cliff-booth-netflix-movie-real-budget-david-fincher/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-further-mis-adventures-of-cliff-booth-brad-pitt-2.jpg",
+   "published": "2026-11-23T17:17:29+00:00",
    "trending": false,
    "trend_term": null
   },
