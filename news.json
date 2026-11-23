@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:23:30.726191+00:00",
+ "generated_at": "2026-11-23T18:43:40.310347+00:00",
  "date_us": "2026-11-23",
  "per_site": {
   "usmagazine.com": 16,
@@ -7,9 +7,19 @@
   "profiles.yahoo.com": 7,
   "yahoo.com": 30,
   "jang.com.pk": 6,
-  "collider.com": 7
+  "collider.com": 8
  },
  "items": [
+  {
+   "title": "Steven Spielberg’s First Western Movie Officially Reveals All-Star Irish Cast",
+   "url": "https://collider.com/steven-spielberg-western-cillian-murphy-paul-thomas-anderson/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/steven-spielberg.jpg",
+   "published": "2026-11-23T17:58:20+00:00",
+   "trending": true,
+   "trend_term": "the heart in winter"
+  },
   {
    "title": "'Avengers Doomsday' final trailer out: Steve Rogers faces off Thor in epic clash",
    "url": "https://jang.com.pk/en/76782-avengers-doomsday-final-trailer-out-steve-rogers-faces-off-thor-in-epic-clash-news",
@@ -41,12 +51,182 @@
    "trend_term": null
   },
   {
+   "title": "Britain's Got Talent winner almost missed audition due to Carphone Warehouse shift",
+   "url": "https://www.yahoo.com/entertainment/articles/britains-got-talent-winner-almost-183402050.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9cbfa9c99736929d070fa0c29961d3320fc57731f0e88e71eae8f8f5cb4f187a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd9e64c58dc72a5918272858122bb625d.jpg_up.jpg",
+   "published": "2026-11-23T18:34:02+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Tyson and Paris Fury Share Throwback Photos as They Celebrate 18 Years of Marriage and 21 Years Together",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/tyson-paris-fury-share-throwback-183142049.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b0fa68c9298a0f519d806e6f16e5985a8af0d6030e2a840767c054eec49aa313/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fd2d91e6a98153f55c9c7059346f0bcf3.jpg",
+   "published": "2026-11-23T18:31:42+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Prime Video’s Biggest Fantasy Hit Officially Defeated By New Nicolas Cage Movie",
+   "url": "https://collider.com/madden-overtakes-rings-of-power-prime-video-streaming-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/nicolas-cage.jpg",
+   "published": "2026-11-23T18:31:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jamie Lee Curtis Marks First Birthday Since Sister Kelly's Death: 'The Last in the Line'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/jamie-lee-curtis-marks-first-183047470.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d85739627fece103c42e04df2cb9235ae02b12f1d5b0e819b2f8a74e396af0df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F0f45e64bd03ef7635f701d2839f605a7.jpg",
+   "published": "2026-11-23T18:30:47+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Barbara Eden Reveals 1 Key Quality ‘I Dream of Jeannie’ Reboot Star Must Have",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/barbara-eden-reveals-1-key-183001193.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1a78679f437561babb8471e2808783ecd7e2f7dd24efe56e81378fa6404e73fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F678b9d11319afe5b8f91a3455fcf241a.jpg",
+   "published": "2026-11-23T18:30:01+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘Cliff Booth’ Star Elizabeth Debicki on Slapping Brad Pitt, ‘The Movie Critic,’ and the Rom-Com Question",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/cliff-booth-star-elizabeth-debicki-183000176.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/2888157f845b496f1ca4f744a4a6dba269f5658e2642b739be656c52c06e2244/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Findiewire_268%2F761f8b22a4c2a1b9fc4b5d053dc5f6d4.jpg",
+   "published": "2026-11-23T18:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Will Smith’s $42M Estate Fire Dispatch Audio Reveals What Firefighters Found After Midnight",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/smith-42m-estate-fire-dispatch-183000570.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1ed7db1600e65b176cc77d0be92c4d5678c66738f4578192792f4e4b7ab2a098/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F52b4f93ad5034fb0780065d01c510911.jpg",
+   "published": "2026-11-23T18:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "With ‘Bitter Christmas,’ Pedro Almodóvar Looks Back",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/bitter-christmas-pedro-almod-var-182938435.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/2b685b5a3e18ec8497521e7e3982311916cac0f45ac48aeddf3da6fca3458cbe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F2b1881c9887cabe74d5952838cb99897.jpg",
+   "published": "2026-11-23T18:29:38+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Forget 'The Staircase,' Netflix's 7-Episode True-Crime-Inspired Thriller Gets Under Your Skin",
+   "url": "https://collider.com/the-staircase-true-crime-series-replacement-netflix-the-watcher/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/tcdwatc_zx014-1.jpg",
+   "published": "2026-11-23T18:28:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "All About Jason Kelce’s 4 Kids, Wyatt, Elliotte, Bennett and Finnley",
+   "url": "https://www.yahoo.com/entertainment/articles/jason-kelce-4-kids-wyatt-182803419.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f4ae8c63cd1b3441b277d476d39482bbf97f77c9533b617fdf7371a67b8d27ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc041f507bbec99227feaa55bacfe79c3.jpg",
+   "published": "2026-11-23T18:28:03+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "'Naruto’ Live-Action Movie Officially Casts ‘Shōgun’ Star",
+   "url": "https://collider.com/naruto-live-action-movie-cast-hiroyuki-sanada/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hiroyuki-sanada-and-hiroto-kanai-in-sho-gun-2024-1.jpg",
+   "published": "2026-11-23T18:27:46+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Ray Nicholson Reveals He Did Not Watch Dad Jack Nicholson’s Movies Until He Was 18",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ray-nicholson-reveals-did-not-182622244.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/5486997f99c0fe08023cf854e792e543649ffe8cb918e27727ea75aa2ef7836a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbc5376825da205376899e940d31b2977.jpg",
+   "published": "2026-11-23T18:26:22+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Cate Blanchett Lights Up the Champs-Élysées Christmas Celebrations",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/cate-blanchett-lights-champs-lys-182603163.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/8e0e439007e97f1141fe340181ee2b589704371d1773401775acc14b0fdf9ed5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2F0367aa37f3b807b1d520b7fb2e6d99b7.jpg_up.jpg",
+   "published": "2026-11-23T18:26:03+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "This Classic ‘Cheers’ Thanksgiving Episode Sparked Major Controversy",
    "url": "https://collider.com/cheers-thanksgiving-episode-controversy-food-fight/",
    "source": "collider.com",
    "category": "TV",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/11/this-classic-cheers-thanksgiving-episode-sparked-controversy.jpg",
    "published": "2026-11-23T18:23:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Rita Wilson, 70, Reveals the Truth Behind Her Viral Back Tattoo: ‘Definitely a Different Look’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/rita-wilson-70-reveals-truth-182043993.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/8ebadcc5f32d5c4780d90b90de66d3ccbecc6a20621f9f4d97b4ae2a797199b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F786c31c07415350d50a815fa805e6610.jpg",
+   "published": "2026-11-23T18:20:43+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Ashanti Reveals Why She’s Waiting to Have a Second Child with Husband Nelly (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ashanti-reveals-why-she-waiting-181724486.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c8d23e07f383dc4ef30c73f488208b3792dded3ea17f9e41bb3dff93d48733c8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F7dd9b21b3bf9d6256439facd57ffd70b.jpg",
+   "published": "2026-11-23T18:17:24+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "John Bishop surprises Sean Styles during final radio show",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/john-bishop-surprises-sean-styles-181617851.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/2230cc80205a3e7d8106221bc8d7ca371e2346d42a29da1877daf5152893d7b0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F85629854968479819cc8519ae14133cf.png",
+   "published": "2026-11-23T18:16:17+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Connor Storrie Doesn’t ‘Pay Attention’ to What Anyone Says About His Fashion or Hair Choices",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/connor-storrie-doesn-t-pay-181607303.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/c144a64a234d00a98a6136a120970f7f58e8f38095344a80fa44da54d166a4cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F321e77bdef0f3f27a4793e30646586c8.jpg",
+   "published": "2026-11-23T18:16:07+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -67,6 +247,16 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/40c59663e598a3bece95a38745a215aa7dd3fb4effdc994b42989cd2398d5e41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F4fb662ba2516b7c6b9a1d8dc95254191.jpg",
    "published": "2026-11-23T18:15:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "For Yahya Abdul-Mateen II, ‘Cliff Booth’ Closes Out a Massive Year in Wild Style",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/yahya-abdul-mateen-ii-cliff-181403319.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/446720cde80569d00195b15cc460f9cc84c70ce07ed2e89d1efd84bca8895f53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F2626ec3292b2095240bc94e899c14669.jpg",
+   "published": "2026-11-23T18:14:03+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -211,16 +401,6 @@
    "trend_term": null
   },
   {
-   "title": "Steven Spielberg’s First Western Movie Officially Reveals All-Star Irish Cast",
-   "url": "https://collider.com/steven-spielberg-western-cillian-murphy-paul-thomas-anderson/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/steven-spielberg.jpg",
-   "published": "2026-11-23T17:58:20+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Kim Kardashian supports boyfriend Lewis Hamilton at the Las Vegas F1 Grand Prix in two striking leather looks",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kim-kardashian-supports-boyfriend-lewis-175351992.html",
    "source": "yahoo.com",
@@ -307,6 +487,16 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/34e44e6145ce86af2fa37ddaedf443eac098a4bdb05fc83ace9ee471d1dfda5d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F693014ea278192da9e91603e71fdf18a.jpg",
    "published": "2026-11-23T17:43:57+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Tish Cyrus Breaks Tradition With Unexpected Mother-of-the-Bride Dress at Miley Cyrus’s Wedding",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/tish-cyrus-breaks-tradition-unexpected-174219691.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/0a217f327f0128f918350dd82f8051fb0ffa8bccfc9652b1b8564dbab62b339a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Ffb60c527515b60e9f34d54f194ed83e9.jpg",
+   "published": "2026-11-23T17:42:19+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -637,6 +827,16 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
    "published": "2026-11-23T12:28:40+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Bachelor's Emily Ferguson Welcomes 3rd Baby With Husband William Karlsson",
+   "url": "https://www.usmagazine.com/celebrity-news/pictures/emily-ferguson-and-william-karlssons-relationship-timeline/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2022/07/Emily-Ferguson-William-Karlsson-Relationship-Timeline-0002.jpg?crop=0px%2C309px%2C1200px%2C677px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T12:25:42+00:00",
    "trending": false,
    "trend_term": null
   },
