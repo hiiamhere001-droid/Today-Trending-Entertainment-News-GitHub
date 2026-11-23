@@ -1,15 +1,37 @@
 {
- "generated_at": "2026-11-23T20:49:42.586768+00:00",
+ "generated_at": "2026-11-23T21:49:19.107628+00:00",
  "date_us": "2026-11-23",
  "per_site": {
   "usmagazine.com": 15,
-  "news.meaww.com": 3,
-  "profiles.yahoo.com": 9,
-  "yahoo.com": 29,
+  "news.meaww.com": 1,
+  "profiles.yahoo.com": 10,
+  "yahoo.com": 30,
   "jang.com.pk": 6,
   "collider.com": 9
  },
  "items": [
+  {
+   "title": "Sharna Burgess Claims 'DWTS' Fans Use Votes to 'Manipulate the Show'",
+   "url": "https://www.usmagazine.com/entertainment/news/sharna-burgess-calls-out-dwts-voting-system-before-finale/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183136_05554_v1.jpg?crop=0px%2C152px%2C1500px%2C848px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-23T13:03:01+00:00",
+   "trending": true,
+   "trend_term": "dwts finale · covered by 2 sites",
+   "trend_score": 4000
+  },
+  {
+   "title": "‘DWTS’ Pro Sharna Burgess Claims Fans ‘Manipulate the Show’ With Votes: ‘So Insanely Negative’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/dwts-pro-sharna-burgess-claims-130301252.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/b0c18e5e25a15fb69167d38ff09c95c288bb47a99b3c5daed00e3771e51699f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F29db0fc09c00a5f02e888ad1739d594a.jpg",
+   "published": "2026-11-23T13:03:01+00:00",
+   "trending": true,
+   "trend_term": "dwts finale · covered by 2 sites",
+   "trend_score": 4000
+  },
   {
    "title": "Jamie Lee Curtis Marks First Birthday Since Sister Kelly's Death: 'The Last in the Line'",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/jamie-lee-curtis-marks-first-183047470.html",
@@ -44,6 +66,83 @@
    "trend_score": 2000
   },
   {
+   "title": "Inside Chris Brown and Usher's 'Tension' on Tour: 'Egos Started to Show'",
+   "url": "https://www.usmagazine.com/celebrity-news/news/inside-chris-brown-and-ushers-tension-on-the-rb-tour/",
+   "source": "usmagazine.com",
+   "category": "Music",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Chris-Brown-Usher.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-23T15:16:34+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Inside Chris Brown and Usher’s ‘Tension’ on ‘The R&B Tour’: ‘Their Egos Started to Show’",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/inside-chris-brown-usher-tension-151634502.html",
+   "source": "profiles.yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/7bf1cd7bc2ecf5188835d61dc378a6d3316fa6cde3a94cbb63540dadc734ba1d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4e4edbaa47f45db12b3cbb72b32a8432.jpg",
+   "published": "2026-11-23T15:16:34+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Dancing With the Stars’ Ezra Frech Addresses Hailey Bills Dating Rumors",
+   "url": "https://www.usmagazine.com/entertainment/news/dwts-ezra-frech-addresses-hailey-bills-dating-rumors/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Ezra-Frech-Reacts-to-Hailey-Bills-Dating-Rumors.png?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T15:13:16+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Dancing With the Stars’ Ezra Frech Addresses Hailey Bills Dating Rumors: ‘Internet Is Crazy’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dancing-stars-ezra-frech-addresses-151316645.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a9d5e3a94541572a0523928c660884b1b0694a6b60591a61d7b9790fc4c651f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Feaf8554207cb8680dfdf7160714f4f43.png",
+   "published": "2026-11-23T15:13:16+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "TSITP's Chris Briney Addresses [Spoiler]'s Surprise Cameo in Christmas Movie",
+   "url": "https://www.usmagazine.com/entertainment/news/tsitps-chris-briney-details-knicks-cameo-in-christmas-movie/",
+   "source": "usmagazine.com",
+   "category": "Movies",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Image_1_3000.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-23T15:00:52+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "TSITP’s Chris Briney Breaks Silence on Surprise Cameo in His Christmas Movie: ‘Wish I Made It Happen’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/tsitp-chris-briney-breaks-silence-150052752.html",
+   "source": "profiles.yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/df3bdd93c3df98766def045714f48b72a4eee4ee52246dac92a4609a8082c54b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F954dbe33e388165dce4f9b346aac6399.jpg",
+   "published": "2026-11-23T15:00:52+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "How to Watch the 'DWTS' Season 35 Finale After Surprise Episode Change",
+   "url": "https://www.usmagazine.com/entertainment/news/how-to-watch-dancing-with-the-stars-season-35-finale/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183939_EM107185.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-23T14:36:46+00:00",
+   "trending": true,
+   "trend_term": "dwts finale",
+   "trend_score": 2000
+  },
+  {
    "title": "Mary Bonnet Reveals Plans to Move Out of L.A After 'Selling Sunset' Exit",
    "url": "https://www.usmagazine.com/entertainment/news/selling-sunsets-mary-bonnet-will-move-out-of-l-a-after-show-exit/",
    "source": "usmagazine.com",
@@ -61,28 +160,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/9767c30135160e8851cace5c026b7a85e1b6e32c3c5998158a0a5d49796ba5bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F03874395d671cbe900357949feb3af6a.jpg",
    "published": "2026-11-23T14:00:57+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Sharna Burgess Claims 'DWTS' Fans Use Votes to 'Manipulate the Show'",
-   "url": "https://www.usmagazine.com/entertainment/news/sharna-burgess-calls-out-dwts-voting-system-before-finale/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183136_05554_v1.jpg?crop=0px%2C152px%2C1500px%2C848px&resize=1000%2C563&quality=40&strip=all",
-   "published": "2026-11-23T13:03:01+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "‘DWTS’ Pro Sharna Burgess Claims Fans ‘Manipulate the Show’ With Votes: ‘So Insanely Negative’",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/dwts-pro-sharna-burgess-claims-130301252.html",
-   "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/b0c18e5e25a15fb69167d38ff09c95c288bb47a99b3c5daed00e3771e51699f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F29db0fc09c00a5f02e888ad1739d594a.jpg",
-   "published": "2026-11-23T13:03:01+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -308,17 +385,6 @@
    "trend_score": 2000
   },
   {
-   "title": "Marvel’s Spider-Man Officially Gets Stunning Makeover For New Release",
-   "url": "https://collider.com/marvel-spider-man-peach-momoko-art-book-exclusive/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/spiderman_exclusive_1024.jpg",
-   "published": "2026-11-23T17:00:12+00:00",
-   "trending": true,
-   "trend_term": "tom holland new spider-man look",
-   "trend_score": 1000
-  },
-  {
    "title": "Steven Spielberg to make a western written by Paul Thomas Anderson",
    "url": "https://www.yahoo.com/entertainment/movies/articles/steven-spielberg-western-written-paul-181031261.html",
    "source": "yahoo.com",
@@ -352,12 +418,298 @@
    "trend_score": 0
   },
   {
+   "title": "Marvel’s Spider-Man Officially Gets Stunning Makeover For New Release",
+   "url": "https://collider.com/marvel-spider-man-peach-momoko-art-book-exclusive/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/spiderman_exclusive_1024.jpg",
+   "published": "2026-11-23T17:00:12+00:00",
+   "trending": true,
+   "trend_term": "tom holland new spider-man look",
+   "trend_score": 0
+  },
+  {
    "title": "Royal steps out solo for her first engagement since marrying Crown Prince",
    "url": "https://jang.com.pk/en/76786-royal-steps-out-solo-for-her-first-engagement-since-marrying-crown-prince-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76786_121624_eng.jpg",
    "published": "2026-11-24T00:16:21+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "3 Elite Netflix Series to Binge This Week (Nov 23-27)",
+   "url": "https://collider.com/netflix-shows-binge-week-november-23-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/sam-neill-peaky-blinders4.jpg",
+   "published": "2026-11-23T21:47:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Ted Lasso’ Is Coming Back for Season Five",
+   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/ted-lasso-coming-back-season-214229549.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/a21cb26a1da118525d62ef152f52b17819d4948ca8327a6efbe00a8565e928bf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F0ab72053e165bf4d04aaf5c7d58afdb8.jpg",
+   "published": "2026-11-23T21:42:29+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "28 Years Later, This Paramount+ Sitcom’s Thanksgiving Episode Still Raises Eyebrows",
+   "url": "https://collider.com/hey-arnold-thanksgiving-episode-disturbing-scene/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/paramount-plus-streaming-service-logo.jpg",
+   "published": "2026-11-23T21:38:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "New Report Alludes to Taylor Swift Being Comparable to ‘Mean Girls’ Villain Regina George",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/report-alludes-taylor-swift-being-213412603.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/52ed9ca9b18a66fb02719adf8d7200a4e740cfcd7c67ba090855a45254d14f8c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2Fbfc73abf798486c76adc30355e9ee1dd.jpg",
+   "published": "2026-11-23T21:34:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Mariah Carey breaks silence after mounting health speculation",
+   "url": "https://www.yahoo.com/entertainment/articles/mariah-carey-breaks-silence-mounting-213337591.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f152cc52d844949dda107b360648fbd7550544867cf8866c3e9fd98dcdc0b12a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fb997b039a93846f4ac0fd8ce2523c4e1.jpg_up.jpg",
+   "published": "2026-11-23T21:33:37+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "'Focker-in-Law' Review: Meet the New Focker, Same As the Old Focker",
+   "url": "https://collider.com/focker-in-law-ariana-grande-ben-stiller-robert-deniro-review/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/focker-in-law-ben-stiller-ariana-grande-2.jpg",
+   "published": "2026-11-23T21:33:18+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Gabriel Iglesias’ Comedy Show Takes Scary Turn as He Calls for Help",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/gabriel-iglesias-comedy-show-takes-213102252.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/548164e48a868bd7e44b776c58c90797642f22577ff0658cd3b4d3341081c625/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F1b1d88267bc3901ce6902a6af3787e23.png",
+   "published": "2026-11-23T21:31:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Prime Video’s ‘Blade Runner 2099’ Was Never Meant To Be a TV Show | Review",
+   "url": "https://collider.com/blade-runner-2099-review-prime-video-michelle-yeoh-hunter-schafer/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/blade-runner-2099-hunter-schafer.jpg",
+   "published": "2026-11-23T21:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "New Hunger Games Movie Officially Passes Three 2026 Hits in Just One Weekend",
+   "url": "https://collider.com/hunger-games-sunrise-on-the-reaping-box-office-overtakes-anne-hathaway-verity/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/maysilee.jpg",
+   "published": "2026-11-23T21:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Hailey Bieber Turns 30 in Plunging Green Top Laced With Gold Chains and Animal-Print Pants",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/hailey-bieber-turns-30-plunging-213000335.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/12328cdbb35f2adc1f237393698d4c8a7756cade7ce67a384a72a5e72eeef425/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F04d1cb68b88e67582d05413deac472d7.jpg",
+   "published": "2026-11-23T21:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jessica Alba Told To Cough Up Over Half A Million From Her Pension To Ex-Husband Cash Warren In New Divorce Blow",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jessica-alba-told-cough-over-213000205.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/16b8d61292bdb24f03a326df717a1d38e7cd525f45e0afd19c587aa91e37149c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F2c73fd87907732e02adb589d0ba6341f.jpg",
+   "published": "2026-11-23T21:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Don Toliver postpones London gig after Manchester show evacuated",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-postpones-london-gig-212943715.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/31ee4f47cc55d5a731754b740bf49fca075b8cf55f9760628ce752f5f42057fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F471e23d6c6eb929a13e7c6ce1c8837dc.jpg_up.jpg",
+   "published": "2026-11-23T21:29:43+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "SNL will welcome two hosts to the 4-timers club in December",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/snl-welcome-two-hosts-4-212910918.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/8eeb2acc2b5b5c6ad4349656c6450fca966bcaa1cc3e20f6612afe1468db93d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fav_club_632%2F31f0c079ee121fdffe9391d685f6c8da.jpg",
+   "published": "2026-11-23T21:29:10+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Lauren Sánchez Bezos wraps her book tour in Miami with a heartfelt ‘Gracias’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/lauren-nchez-bezos-wraps-her-212822735.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/9417f210200ec7a5b6fcb6ebbeaeaf61a3ee54d54071f3e5f7b704bbca90b752/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fb644b17e6f03d67fdd2c3c6eac2f6ec0.jpg",
+   "published": "2026-11-23T21:28:22+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Go Behind the Scenes of Maitreyi Ramakrishnan’s “People” “StyleWatch” Holiday Shoot",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/behind-scenes-maitreyi-ramakrishnan-people-212741206.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/eb2fb42e79bbc73dda0ef779b3af66bfde43ac8d606f28d1df5d17035576e91a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F45b87f5f79efa566815b7e2421fdf388.jpg",
+   "published": "2026-11-23T21:27:41+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Justin Timberlake’s mom calls relationship with Britney Spears the ‘definition of insanity’ in new doc trailer",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-mom-calls-relationship-212651740.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
+   "published": "2026-11-23T21:26:51+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Never Have You Ever Seen Maitreyi Ramakrishnan Like This Before: She’s Grown Up, Glammed Up and Still Hilarious",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/never-ever-seen-maitreyi-ramakrishnan-212639437.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/04becf91c3d17a89b0a35f4454d1e358ba32e80af41ad15c9fb61a99a1875e73/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fa09db1ff2c8aa709c7419eaf6586d8ed.jpg_up.jpg",
+   "published": "2026-11-23T21:26:39+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Last Look: Mandy Moore",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/last-look-mandy-moore-212449112.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f106eeef01785c643bd82656a273158326133ad82ee0883612b9d7f833bac817/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F27781b7f9e1ec9b5fe977cbf8201929f.jpg",
+   "published": "2026-11-23T21:24:49+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Derek Hough alludes to childhood sexual abuse",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/derek-hough-alludes-childhood-sexual-212309172.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/844a1953e457c646b1cac192cd0e78eb629f0cf1f6eef5c9fb5fcb3948cf9e0e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fac326727979d966973e1993e34e6b0a3.jpg_up.jpg",
+   "published": "2026-11-23T21:23:09+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Elizabeth Debicki Takes Centre Stage in London",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/elizabeth-debicki-takes-centre-stage-211605469.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/d53093383a81d62f870ccd1aaf9be342e336a143abc56b52aafffd94aabc3951/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2F12bffca4ccfd5870f3f15a4a4dcc54a5.jpg_up.jpg",
+   "published": "2026-11-23T21:16:05+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 8 Coziest Anime of All Time, Ranked",
+   "url": "https://collider.com/coziest-anime-shows-all-time-ranked/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/laid-back-camp-anime.jpg",
+   "published": "2026-11-23T21:05:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Netflix’s ‘Extraction’ Meets ‘John Wick’ Action Thriller Hits Top 10 in 83 Countries",
+   "url": "https://collider.com/netflix-never-surrender-top-10-83-countries/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/extraction-chris-hemsworth-1.jpg",
+   "published": "2026-11-23T21:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Bella Hadid Says She Felt ‘Strong’ Opening 2026 Victoria’s Secret Fashion Show After Setting ‘Boundaries’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bella-hadid-says-she-felt-205207910.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/aa7c31d11aeef2a1ca448e0c132c22d6085010fd673d38c5e258c954ccf9ca80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F9821a179957c4c6bccb5e85e71fd961f.jpg",
+   "published": "2026-11-23T20:52:07+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The Fate of Apple TV’s Original Hit Series Confirmed",
+   "url": "https://collider.com/ted-lasso-season-5-renewed-apple-tv/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/apple-tv-logo.jpg",
+   "published": "2026-11-23T20:50:51+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Miley Cyrus shows off second daring wedding dress and unseen moment with dad Billy Ray in new photos",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-shows-off-second-204849942.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/07388dd3183fe6e5c7a45d2d79be89917db4ac8d3a43f6a39c8dfe7c0f073b32/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fc4d8b9265dbab9a64282119ee24ca72f.jpg",
+   "published": "2026-11-23T20:48:49+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -1766,17 +2118,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/f14d7fcdced40f752f1ff92447180a704cf0d10ace68d1675980c102e64fe1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2F0fd913b7d3c622490c153918f7436aab.jpg",
    "published": "2026-11-23T15:12:06+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "How to Watch the 'DWTS' Season 35 Finale After Surprise Episode Change",
-   "url": "https://www.usmagazine.com/entertainment/news/how-to-watch-dancing-with-the-stars-season-35-finale/",
-   "source": "usmagazine.com",
-   "category": "TV",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183939_EM107185.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
-   "published": "2026-11-23T14:36:46+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
