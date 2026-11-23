@@ -1,15 +1,155 @@
 {
- "generated_at": "2026-11-22T23:39:19.919206+00:00",
+ "generated_at": "2026-11-23T00:59:13.432706+00:00",
  "date_us": "2026-11-22",
  "per_site": {
   "usmagazine.com": 14,
   "news.meaww.com": 2,
-  "profiles.yahoo.com": 6,
-  "yahoo.com": 30,
+  "profiles.yahoo.com": 8,
+  "yahoo.com": 28,
   "jang.com.pk": 9,
-  "collider.com": 8
+  "collider.com": 9
  },
  "items": [
+  {
+   "title": "‘The Wonder Years’ Mom Who’s Spending Thanksgiving on ‘The Bold and the Beautiful’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/wonder-years-mom-spending-thanksgiving-005139078.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/24a26da0aba828f2b684c27cd1219ec14bcded28478974e1b75796eeb653ba39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2Fd2f9e2f4389a9ba18217f317aebc6789.jpg",
+   "published": "2026-11-23T00:51:39+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Prime Video’s Eerie 2-Part Sci-Fi Series Is Perfect From Start to Finish",
+   "url": "https://collider.com/life-on-mars-sci-fi-tv-show/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/06/life-on-mars-john-simm-sam-tyler-leaning-against-a-car-hood.jpg",
+   "published": "2026-11-23T00:48:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘Street Fighter’ Officially Removed From Over 3,000 Theaters as Digital Release Nears",
+   "url": "https://collider.com/street-fighter-removed-from-3000-theaters-box-office-digital-debut/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/street-fighter-callianna-lang-as-chun-li.png",
+   "published": "2026-11-23T00:45:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Scott Wolf announces father's death: 'He was my hero'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/scott-wolf-announces-fathers-death-220124153.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e35a0a827947e6d9fbedf2c905607b6c65aab72d3fade5c6dfb63c8ff7a68503/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F746cc21140724d43b9f6f9de842b4c9b.jpg_up.jpg",
+   "published": "2026-11-23T00:36:27+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/italian-jeweller-businessman-paolo-bulgari-071246039.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b2838ecc814368da5c154ce860651e3579d02c47676840e66c4d76515c8d106e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F84d77ad9fb6275b0a6dfaa8f41416eaf.jpg_up.jpg",
+   "published": "2026-11-23T00:33:47+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Molly Meldrum, Australian Music Broadcaster and ‘Countdown’ Host, Dies at 83",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/molly-meldrum-australian-music-broadcaster-003036652.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/0de4005728398602988367693194e6c9423101b9d2d448ea3e3f7b60f64e687c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F75d2ba368fd96861d8dc0b96751e4d4f.jpg",
+   "published": "2026-11-23T00:30:36+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Arielle Kebbel Says She Needs a 3-Minute Ritual to Leave Her 'Marshals' Character Behind",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/arielle-kebbel-says-she-needs-003014450.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/439228a79f4c52641d351558b0938f3d0aab2b9e7e75159e612451cd33c6beba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F8027e4ec01ac3a50987330c55b5dba59.jpg",
+   "published": "2026-11-23T00:30:14+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "HBO Officially Makes Severus Snape the New Harry Potter",
+   "url": "https://collider.com/hbo-harry-potter-severus-snape-forehead-scar-new-posters/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/harry-potter-paapa-essiedu-severus-snape-1.jpeg",
+   "published": "2026-11-23T00:30:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Ben Affleck Concerned Over Jennifer Lopez’s Rumored Plans To Torch Him With ‘Revenge Songs’ As Divorce Takes New Turn",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/ben-affleck-reportedly-concerned-jennifer-003000701.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/dc8fdaff786094d7a0f9fc0d8613f1be21584eb08f96c0f7f680c1892e0d8824/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F42796139d36b93478c67464a58fead47.jpg_up.jpg",
+   "published": "2026-11-23T00:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Newlyweds Miley Cyrus and Maxx Morando reveal matching tattoos",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/newlyweds-miley-cyrus-maxx-morando-002850749.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4f5bb16eaf3352e8932cdbc9c4a2351d07ae8c03d8674210f9baeea9b808d33d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fa6789842ac2fb87da29fa338f611522d.jpg_up.jpg",
+   "published": "2026-11-23T00:28:50+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Brighter Than The Sun: How Lionsgate Marketing & PR Turned B.O. Around For ‘Sunrise On The Reaping’",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/brighter-sun-lionsgate-marketing-pr-002435569.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/fa0c08578c5bceb2e8e2919a86575d44b72c04975c3e28eedc0b78b4c8f4b4be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F2411ea1b7f42328b75f17a58852b36e8.jpg",
+   "published": "2026-11-23T00:24:35+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Pop star Miley Cyrus weds drummer Maxx Morando in California",
+   "url": "https://www.yahoo.com/entertainment/articles/miley-cyrus-weds-drummer-maxx-110911233.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ef990f7380a16ec8935d828770c39c77c7a74bbeec79e6dde27b98067628a1af/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F7de3d8c8709af7d9c9ceaa39f3376164.jpg_up.jpg",
+   "published": "2026-11-23T00:23:18+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "10 Crime Thriller Shows Where Every Episode Is a 10/10",
+   "url": "https://collider.com/crime-thriller-shows-every-episode-perfect/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/breaking-bad-1.jpg",
+   "published": "2026-11-23T00:21:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "The ‘Young and the Restless’ Star You Might Recognize in the New ‘Rocky’ Movie",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/young-restless-star-might-recognize-001822816.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/2be4ac6f1e08effc792900c1c60125a457f23bc395eb4a4b557df3c44badc863/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2F8c349cd7faa53c3d28ba3181092b44d4.jpg",
+   "published": "2026-11-23T00:18:22+00:00",
+   "trending": false,
+   "trend_term": null
+  },
   {
    "title": "Inside Miley Cyrus and Maxx Morando's wedding: First photos revealed",
    "url": "https://jang.com.pk/en/76748-inside-miley-cyrus-and-maxx-morandos-wedding-first-photos-revealed-news",
@@ -21,62 +161,82 @@
    "trend_term": null
   },
   {
-   "title": "Melania Trump Mocked For ‘Using’ Husband Donald’s ‘Hair Dye’ After Debuting New Look At NYC Event",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/melania-trump-mocked-using-husband-233000841.html",
+   "title": "Forget 'Euphoria,' Drake's Apple TV Sci-Fi Thriller Sets Premiere Date",
+   "url": "https://collider.com/neuromancer-drake-ep-apple-tv-release-date/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/aubrey-graham-drake.jpg",
+   "published": "2026-11-23T00:15:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Nick Bosa’s girlfriend Ella Ailiff stuns in custom 49ers fit at Mexico City game amid controversy",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/nick-bosa-girlfriend-ella-ailiff-001216246.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/312d38b8618985589771d6bb9131eb10c412c99e64823b7db25586c930b4662f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Ff783be0540cef09024aa2d67a2f7400c.png",
+   "published": "2026-11-23T00:12:16+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Guy Ritchie’s Sherlock Holmes Crime Series Officially Won’t Return in 2026",
+   "url": "https://collider.com/guy-ritchie-young-sherlock-season-2-release-window-2027/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/img_7264-1.jpg",
+   "published": "2026-11-23T00:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Britney Spears Rethinks 'B Tiny' Jewelry Name Over Body-Size Concerns, Plans Miniature Sword Gifts",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/britney-spears-rethinks-b-tiny-000003328.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/ea944512c6e441089d26e64a22cba0650ac16a6dacdbf92e04b7b46b62db66b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F9020f369c963e32395bcf748b077140a.jpg",
+   "published": "2026-11-23T00:00:03+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Australian music legend Molly Meldrum dies aged 83",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/australian-music-legend-molly-meldrum-235152003.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/90dfb78860f6a559d1127f7923b57c23f512bf80d7b11cb35de2924fa990a291/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fed719041b99a4f05b658f4f7d5965253.jpg_up.jpg",
+   "published": "2026-11-22T23:51:52+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "A24's Viral Breakout Hit Officially Faces a Major Theatrical Exit Ahead of Home Release",
+   "url": "https://collider.com/you-can-see-everything-a24-elizabeth-holmes-documentary-removed-from-2000-theaters-box-office-digital-debut/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/you-can-see-everything.jpg",
+   "published": "2026-11-22T23:46:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Young Dolph’s Widow Remembers Him Five Years After Murder",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/young-dolph-widow-remembers-him-234548004.html",
    "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/7e2c693d70538329c794ddc996eaa35150bef590c18c28210950994b3eb7c0c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F272cc89b13b8feba8df535876f232869.jpg",
-   "published": "2026-11-22T23:30:00+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/466d52a900c8132377434fa9abf4b1c41bb30b10d2e5c9499548e9921d5b8895/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fc79531fd59c492b3c5a2852ecd8dfd75.jpg",
+   "published": "2026-11-22T23:45:48+00:00",
    "trending": false,
    "trend_term": null
   },
   {
-   "title": "Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2’s ‘Carnaval de Luz’ Bows at No. 4",
-   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/ateez-debuts-no-1-billboard-232732095.html",
+   "title": "Miley Cyrus Ties the Knot in Classically Elegant Saint Laurent Gown and Matching Silk Pumps",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-ties-knot-classically-233404078.html",
    "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/67d0655e743e76dd6b914b9fbc70fe4bb1b14da4b7f3f5e70faecedaeaad8282/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F0f11fd6394b01660049cb8e1bb2a8a91.jpg_up.jpg",
-   "published": "2026-11-22T23:27:32+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Fire Performer at Usher and Chris Brown Concert Falls Off Stage and Is Surrounded by Flames in Scary Moment",
-   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/fire-performer-usher-chris-brown-232729072.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/647974d87bb2f82e038cbf68bac14efa932ba87a4e18942b38210fee006a510c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb2bb2a52b4a74584cf3e68d3e177bfcd.jpg",
-   "published": "2026-11-22T23:27:29+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Lizzo explains why she unfollowed everyone on Instagram",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/lizzo-explains-why-she-unfollowed-232551241.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/faeb19f594f6df4b397e9256d17f79892e6fa1cb25a90580e1a3a75aa5ec3804/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F290df49522ad93723cca65282d5b0cc1.jpg_up.jpg",
-   "published": "2026-11-22T23:25:51+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "I’ve Been Worried About 9-1-1’s Buck And Eddie, And The EP Explained Where They Stand After The Latest Midseason Finale",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/ve-worried-9-1-1-232100725.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/77e49f07db77866cf03b375fe224ba1463413ff8dd01080a1e270081a3fad124/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F8ca03378ee69766edb19666aae9243e1.jpg",
-   "published": "2026-11-22T23:21:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Fans Choose LISA’s ‘Leave With Me’ as This Week’s Favorite New Music",
-   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/fans-choose-lisa-leave-week-231825806.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/daca9f606cb1f045cd8659bb85c6616be982ce96de1fcc1764a1d7a83821795a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F6c5fdd1e585fffc1a8661cfd14eda443.png",
-   "published": "2026-11-22T23:18:25+00:00",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/4d6eb5d9d2fb8a0a099b258fd86c2877d2621159ff2f2ec33194bc14269c4a04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F330b98e5d2af40a412a5c6556d161637.png",
+   "published": "2026-11-22T23:34:04+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -91,72 +251,12 @@
    "trend_term": null
   },
   {
-   "title": "Sandra Bullock Shares Rare Photos of Her 2 Kids from Disneyland Visit with“ Lost ”Star Josh Holloway and His 2 Kids",
-   "url": "https://www.yahoo.com/entertainment/articles/sandra-bullock-shares-rare-photos-230822652.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3769ed7ea0542abcd6360c5fce52eb6e2cb849b1e30a47bd35d86c091acb437e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbf85c28094fd4d51a4c69908cdde856b.jpg",
-   "published": "2026-11-22T23:08:22+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Offset Says He Has 'No Hard Feelings' Toward Stefon Diggs",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/offset-says-no-hard-feelings-230632524.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/65941708b244367cd030c560630d5fdf78daf371565441e266e98ba87dd34337/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F3990d210bb9d858781ad75209e885206.jpg_up.jpg",
-   "published": "2026-11-22T23:06:32+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "I Just Found Out Sylvester Stallone Caused Some DRAMA After I Play Rocky Got Announced",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/just-found-sylvester-stallone-caused-230600923.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/7598a05999f7ba0511239b1f84a225b30026a1b00f98dd72987368d71add50f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2Fc7ba8820de8e6fe3bfa5ad52b7051003.jpg",
-   "published": "2026-11-22T23:06:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "7 Masterpiece Fantasy Book Series, Ranked",
    "url": "https://collider.com/fantasy-book-series-masterpieces-ranked/",
    "source": "collider.com",
    "category": "TV",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/the-lord-of-the-rings-the-rings-of-power-galadriel.jpg",
    "published": "2026-11-22T23:03:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Mahershala Ali Says Having 2 Oscars “Doesn’t Matter” When Getting Cast: “It Doesn’t Translate To Anything Real”",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/mahershala-ali-says-having-2-230158040.html",
-   "source": "yahoo.com",
-   "category": "Awards",
-   "image": "https://s.yimg.com/lo/mysterio/api/4d22d7b1cf7104d15b40c93cad42b328cf5d64480731fe6e3f42913555533a87/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Feaf565a291927f9d6851eb6ea87ab760.jpg",
-   "published": "2026-11-22T23:01:58+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "“The Deuce”, “Law & Order” actor E.J. Carroll’s cause of death revealed",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/deuce-law-order-actor-e-230139773.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b6b8a013a0fc2d02d777b2aafb53cbbb075650be5d9e5f56d0ae867006388a37/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2Fc41ac5f5620852290ccc0028830a56d2.jpg",
-   "published": "2026-11-22T23:01:39+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Martin Short’s Go-To Comfort Food Makes Us Love Him Even More",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/martin-short-comfort-food-makes-230000142.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/0ac2d43e3c644ac86525ba11bc05ae2758825b6c365e64ac4594909bfa4fddcb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fall_recipes_969%2F999fc82bfadd43a4f1c2cfde6899d203.jpg",
-   "published": "2026-11-22T23:00:00+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -181,102 +281,12 @@
    "trend_term": null
   },
   {
-   "title": "Australian music legend dies as extraordinary career remembered",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/australian-music-legend-dies-extraordinary-224035450.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/d89a502c9674dd49d8e042680ccab1518b910aec38f25800ca977f8e84e14def/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F9990525f285008bdaf574d835355ba15.jpg",
-   "published": "2026-11-22T22:40:35+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "I Never Knew Patrick Stewart Called Up Kyle MacLachlan For Advice Before Joining Star Trek",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/never-knew-patrick-stewart-called-223113020.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/cf1aba1d62166afdcdcac60ac8b116db6abd2b13255774df3b55c2485cceaad8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F4e14e7ba7629c61556101593a9ce2073.jpg",
-   "published": "2026-11-22T22:31:13+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Hilary Duff Talks Singing About Estrangement From Sister Haylie",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/hilary-duff-talks-singing-estrangement-223101824.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9cbb356e5c6bddb05df6ddb5c48d48679a83036674ede284a52ee799817f69d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fcb53f44f442c579ccbeaeb2723dd7035.jpg",
-   "published": "2026-11-22T22:31:01+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "James Bond Director’s Psychological Thriller Is Officially an Apple TV Streaming Smash",
-   "url": "https://collider.com/denis-villeneuve-prisoners-streaming-success-apple-tv-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/prisoners-terrence-howard.jpg",
-   "published": "2026-11-22T22:30:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Robert Pattinson's Heist Thriller Officially Sets Netflix Release Date",
-   "url": "https://collider.com/robert-pattinson-the-take-netflix-release-date-january-2027/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/aaaaqroqqfe1xfn3vpph559geamxcf2brjtwhsl1vyvy5t1cqinephujvzhrtqjrlewmimyrtmjmflzbcx84rhzq-132mvdgdrlvzx0pxg2nn_ofo1v0vosfavpkxsspx-gi0hwf12docwpz1laxovixakx1.jpg",
-   "published": "2026-11-22T22:15:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Peacock’s 9-Episode Thriller Miniseries Is a Masterpiece Worth the Binge",
-   "url": "https://collider.com/brave-new-world-demi-tv-show-peacock/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/11/brave-new-world-demi-moore.jpg",
-   "published": "2026-11-22T22:15:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘Harry Potter’ Star’s Agatha Christie Mystery Officially Finds a New Streaming Home",
-   "url": "https://collider.com/tommy-and-tuppence-5-festive-season-agatha-christie/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/tommy-tuppence-imelda-staunton-antonia-thomas-josh-dylan.jpeg",
-   "published": "2026-11-22T22:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "DC’s ‘Clayface’ Officially Removed From 2,300 Theaters Ahead of Digital Release",
-   "url": "https://collider.com/dc-clayface-removed-from-2300-theaters-box-office-digital-debut/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/clayface-tom-rhys-harries-2.jpg",
-   "published": "2026-11-22T21:45:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning 2 Oscars",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/mahershala-ali-says-not-roles-214146441.html",
    "source": "yahoo.com",
    "category": "Awards",
    "image": "https://s.yimg.com/lo/mysterio/api/bb25a56d17fc9631c389ee993d245eaa7b09377c3eff49086a2737f7676c7f22/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F73020af6df60a86518742e6921e8632a.png",
    "published": "2026-11-22T21:41:46+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘Sunrise on the Reaping’ Officially Rebels Against Critics With Massive Audience Score",
-   "url": "https://collider.com/hunger-games-sunrise-on-the-reaping-rotten-tomatoes-audience-score/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hunger-games-sunrise-on-the-reaping-joseph-zada-2.jpg",
-   "published": "2026-11-22T21:31:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -341,16 +351,6 @@
    "trend_term": null
   },
   {
-   "title": "Tallulah Willis apologizes for sharing ‘intimate’ photo with dad Bruce: ‘I can do better’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/tallulah-willis-apologizes-sharing-intimate-190631378.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/403bebcf39ce19327a2593aaa81ba4066b06e62b2cef6ee4a591e6549c322a31/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Ff6ab683631e2bac38b548dee9b798bb7.jpg",
-   "published": "2026-11-22T19:06:31+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Prince William has big decision to make after Princess Charlotte's surprise move",
    "url": "https://jang.com.pk/en/76729-prince-william-has-big-decision-to-make-after-princess-charlottes-surprise-move-news",
    "source": "jang.com.pk",
@@ -371,6 +371,26 @@
    "trend_term": null
   },
   {
+   "title": "Bruce Willis' Daughter Apologizes for Sharing 'Intimate' Photo From Visit",
+   "url": "https://www.usmagazine.com/celebrity-news/news/bruce-willis-daughter-tallulah-apologizes-for-intimate-pic/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Tallulah-and-Bruce-Willis-GettyImages-489210993.jpg?crop=0px%2C62px%2C1287px%2C727px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-22T18:45:43+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Mia Thornton and More Former 'RHOP' Stars: Where Are They Now?",
+   "url": "https://www.usmagazine.com/entertainment/pictures/former-rhop-stars-where-are-they-now/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2024/04/Former-Real-Housewives-of-Potomac-Stars-Where-Are-They-Now-feature.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-22T18:15:24+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "'Jo Bachay Hain Sang Samait Lo' first look out: Star-studded cast, release date revealed",
    "url": "https://jang.com.pk/en/76727-jo-bachay-hain-sang-samait-lo-first-look-out-star-studded-cast-release-date-revealed-news",
    "source": "jang.com.pk",
@@ -381,12 +401,82 @@
    "trend_term": null
   },
   {
-   "title": "Miley Cyrus Shares the First Photos of Her Stunning Backless Wedding Dress",
+   "title": "Miley Cyrus Breaks Silence After Intimate Wedding to Maxx Morando",
+   "url": "https://www.usmagazine.com/celebrity-news/news/miley-cyrus-breaks-silence-after-wedding-to-maxx-morando/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Miley-Cyrus-Wedding.jpg?crop=0px%2C607px%2C1500px%2C848px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-22T17:59:10+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus Breaks Silence After Intimate California Wedding to Maxx Morando: ‘M + M’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-breaks-silence-intimate-175910222.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b58161378b13d571f9b4456bfda00666bd796856e436e546f6619f9d77090fdf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fce666324d09e617f03e0d0e34b90ec9f.jpg",
+   "published": "2026-11-22T17:59:10+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Celeb Pregnancy Announcements of 2026: Matty Healy and Gabbriette Bechtel",
+   "url": "https://www.usmagazine.com/celebrity-moms/pictures/celebrity-pregnancy-announcements-of-2026-charles-melton-and-more/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Celebrity-Pregnancies-of-2026.png?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-22T17:58:21+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Matty Healy and Wife Gabbriette Bechtel's Relationship Timeline",
+   "url": "https://www.usmagazine.com/celebrity-news/news/matty-healy-and-gabbriette-bechtels-relationship-timeline/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2024/06/Feature-Matty-Healy-and-Fiancee-Gabbriette-Bechtel-Relationship-Timeline.jpg",
+   "published": "2026-11-22T17:55:53+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Matty Healy and Wife Gabbriette Bechtel: A Timeline of Their Low-Key Relationship",
+   "url": "https://www.yahoo.com/entertainment/articles/matty-healy-fiancee-gabbriette-bechtel-112553308.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/6bc40f031ca7ff03aa14c2eb09038af10849a9cffb4c935870c7f52e12b4ed43/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fc7e941839828794d476d9ed5fe21b58d.jpg",
+   "published": "2026-11-22T17:55:53+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus Gives a First Look at Her Backless Wedding Dress",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-shares-first-photos-175235863.html",
    "source": "yahoo.com",
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/d583aea19a7e1f9112ec702ea17513853f7a32a2d59471e70f00b514e1ab78ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Felle_570%2Fa7a4345611d442620793d4aa033c3b87.jpg",
    "published": "2026-11-22T17:52:35+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Brittany Mahomes' Daughter Sterling, 5, Commandeers Her Game Day Glam Team",
+   "url": "https://www.usmagazine.com/stylish/news/brittany-mahomes-daughter-5-took-her-game-day-glam-team/",
+   "source": "usmagazine.com",
+   "category": "Fashion",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Brittany-Mahomes-IG.png",
+   "published": "2026-11-22T17:39:51+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Brittany Mahomes Reveals Daughter Sterling, 5, Commandeered Her Game Day ‘Glam Team’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/brittany-mahomes-reveals-daughter-sterling-173951209.html",
+   "source": "profiles.yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/3f9ba5960a360a4ac73d95068f0f86b68a43e89902b70ee92a365a26cec5dbd9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F268a802cade7598316be67457063d788.jpg",
+   "published": "2026-11-22T17:39:51+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -401,12 +491,32 @@
    "trend_term": null
   },
   {
+   "title": "Matty Healy’s Wife Gabbriette Bechtel Is Pregnant, Expecting Their 1st Baby: Report",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/matty-healy-wife-gabbriette-bechtel-172028187.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/07b54c90541a7ee389eb151d51ba652bccb3602ee737dc74575e628173d8fe64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F482ff1a16d57ba9855e0141f57361ed2.png",
+   "published": "2026-11-22T17:20:28+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Elizabeth Hurley stuns with bold look at Miley Cyrus's intimate wedding: See photos",
    "url": "https://jang.com.pk/en/76723-elizabeth-hurley-stuns-with-bold-look-at-miley-cyruss-intimate-wedding-see-photos-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76723_051212_eng.jpg",
    "published": "2026-11-22T17:12:01+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Kate Gosselin Claps Back at ‘Haters’ Blocking Dog’s Wishlist: ‘You’re Disgusting’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/kate-gosselin-claps-back-haters-170141287.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f71077b870d9eb0d70c954b5b4d373a51a620652a4e474d55d6d9dfdfae58997/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F298cf7c5e92e40e5deb4289e4aad0cb9.png_up.jpg",
+   "published": "2026-11-22T17:01:41+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -511,31 +621,11 @@
    "trend_term": null
   },
   {
-   "title": "’90 Day Fiance’ Alum Sheila Mangubat Dead at 35, Ex-Fiance David Dangerfield Confirms",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fiance-alum-sheila-151634063.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/c78afadb0e43f6ad07bbc3a16fc5485195f68ef4cd32896efe160ec942fdf056/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fa16c0e7e0a33ac999a1c2c36bc66918c.png",
-   "published": "2026-11-22T15:16:34+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Rachael Leigh Cook Wants This 'She's All That' Costar as Hallmark Leading Man",
    "url": "https://www.usmagazine.com/entertainment/news/shes-all-that-star-rachael-leigh-cook-wants-on-hallmark/",
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Rachael-Leigh-Cook-Shares-Which-Shes-All-That-Costar-She-Wants-as-Her-Next-Hallmark-Leading-Man-MSDSHAL_EC006.jpg",
-   "published": "2026-11-22T15:00:31+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Rachael Leigh Cook Shares Which ‘She’s All That’ Costar She Wants as Her Next Hallmark Leading Man",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rachael-leigh-cook-shares-she-150031466.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/c6c607b986f036613a1e91b806aad48a77cbacb899a690fd3e4f88701e34f609/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Feca6826c34d546f0e0057ca0b1579593.jpg",
    "published": "2026-11-22T15:00:31+00:00",
    "trending": false,
    "trend_term": null
@@ -556,16 +646,6 @@
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Kaitlyn-Bristowe-and-Dog.jpg?crop=0px%2C8px%2C1500px%2C847px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-22T14:14:47+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Kaitlyn Bristowe Reveals Dog Pinot Is on Feeding Tubes Weeks After Medication Overdose: ‘My Fighter’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/kaitlyn-bristowe-reveals-dog-pinot-141447595.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3d1f1c46b75884905ec736b5c7e72fd868c39d719997e2110c5f019a25b7f8a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F86df6a476c985346bde94914a996d181.jpg",
    "published": "2026-11-22T14:14:47+00:00",
    "trending": false,
    "trend_term": null
@@ -627,76 +707,6 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305169586-Celebrities-Who-Attended-Miley-Cyrus-Maxx-Morando-Wedding-billy-ray-liz-hurley-damian-e1795329395387.jpg",
    "published": "2026-11-22T06:50:55+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Rob Kardashian Shares Rare Photo With Daughter Dream, Blac Chyna Reacts",
-   "url": "https://www.usmagazine.com/celebrity-news/news/rob-kardashian-shares-rare-photo-with-dream-blac-chyna-reacts/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-530516214-Rob-Kardashian-Shares-Rare-Photo-With-Dream-Blac-Chyna-Reacts-e1795323885884.jpg?crop=0px%2C70px%2C1333px%2C753px&resize=1000%2C563&quality=70&strip=all",
-   "published": "2026-11-22T05:27:24+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Miley Cyrus’ Dating History: A Look Back at Her Famous Exes and Marriages",
-   "url": "https://www.usmagazine.com/celebrity-news/pictures/miley-cyrus-dating-history-timeline-of-her-famous-exes-flings/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2025/12/Miley-Cyrus-Dating-History-From-Ex-Husband-Liam-Hemsworth-to-Fiance-Maxx-Morando-2197308888-2242842461-2202913017.jpg?crop=0px%2C28px%2C1690px%2C956px&resize=1000%2C563&quality=78&strip=all",
-   "published": "2026-11-22T04:40:32+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Tallulah Willis Shares Rare Photo With Her Dad Bruce Willis",
-   "url": "https://www.usmagazine.com/celebrity-news/news/tallulah-willis-shares-rare-photo-with-her-dad-bruce-willis/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Tallulah-Willis-Shares-Rare-Photo-With-Her-Dad-Bruce-Willis-e1795321326211.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-22T04:30:06+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Celebrity Deaths of 2026: E.J. Carroll, Lance Broadway and More",
-   "url": "https://www.usmagazine.com/celebrity-news/pictures/celebrity-deaths-of-2026-grateful-deads-bob-weir-and-more-stars-we-lost/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/celebrity-deaths-of-2026-EJ-Carroll-2.jpg?crop=0px%2C86px%2C1999px%2C1130px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-22T03:19:32+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Brielle Biermann and Husband Billy Seidl’s Relationship Timeline",
-   "url": "https://www.usmagazine.com/celebrity-news/news/brielle-biermann-baseball-player-billy-seidls-relationship-timeline/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2024/02/Brielle-Biermann-and-Baseball-Player-Billy-Seidl-Relationship-Timeline-4.jpg",
-   "published": "2026-11-22T03:11:41+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Miley Cyrus and Husband Maxx Morando’s Relationship Timeline",
-   "url": "https://www.usmagazine.com/celebrity-news/pictures/miley-cyrus-maxx-morandos-relationship-timeline/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/02/GettyImages-2259474128-miley-cyrus-max-morrando-2026-grammys.jpg?crop=0px%2C0px%2C1800px%2C1018px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-22T03:04:01+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/robert-pattinsons-bond-girl-does-000324233.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/98386c9c3589796a5b7bed89f967366f4603109da366b9fc293bbb2b9060eacf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0acbe9f481b49ea63c9eb8569c421cf5.png_up.jpg",
-   "published": "2026-11-21T23:53:44+00:00",
    "trending": false,
    "trend_term": null
   }
