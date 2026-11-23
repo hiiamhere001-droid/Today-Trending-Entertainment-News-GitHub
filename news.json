@@ -1,36 +1,80 @@
 {
- "generated_at": "2026-11-23T21:49:19.107628+00:00",
+ "generated_at": "2026-11-23T22:50:10.283775+00:00",
  "date_us": "2026-11-23",
  "per_site": {
   "usmagazine.com": 15,
   "news.meaww.com": 1,
-  "profiles.yahoo.com": 10,
-  "yahoo.com": 30,
+  "profiles.yahoo.com": 9,
+  "yahoo.com": 29,
   "jang.com.pk": 6,
   "collider.com": 9
  },
  "items": [
   {
-   "title": "Sharna Burgess Claims 'DWTS' Fans Use Votes to 'Manipulate the Show'",
-   "url": "https://www.usmagazine.com/entertainment/news/sharna-burgess-calls-out-dwts-voting-system-before-finale/",
+   "title": "TSITP's Chris Briney Addresses [Spoiler]'s Surprise Cameo in Christmas Movie",
+   "url": "https://www.usmagazine.com/entertainment/news/tsitps-chris-briney-details-knicks-cameo-in-christmas-movie/",
    "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183136_05554_v1.jpg?crop=0px%2C152px%2C1500px%2C848px&resize=1000%2C563&quality=40&strip=all",
-   "published": "2026-11-23T13:03:01+00:00",
+   "category": "Movies",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Image_1_3000.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-23T15:00:52+00:00",
    "trending": true,
-   "trend_term": "dwts finale · covered by 2 sites",
+   "trend_term": "michelle randolph · covered by 2 sites",
    "trend_score": 4000
   },
   {
-   "title": "‘DWTS’ Pro Sharna Burgess Claims Fans ‘Manipulate the Show’ With Votes: ‘So Insanely Negative’",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/dwts-pro-sharna-burgess-claims-130301252.html",
+   "title": "TSITP’s Chris Briney Breaks Silence on Surprise Cameo in His Christmas Movie: ‘Wish I Made It Happen’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/tsitp-chris-briney-breaks-silence-150052752.html",
    "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/b0c18e5e25a15fb69167d38ff09c95c288bb47a99b3c5daed00e3771e51699f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F29db0fc09c00a5f02e888ad1739d594a.jpg",
-   "published": "2026-11-23T13:03:01+00:00",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/df3bdd93c3df98766def045714f48b72a4eee4ee52246dac92a4609a8082c54b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F954dbe33e388165dce4f9b346aac6399.jpg",
+   "published": "2026-11-23T15:00:52+00:00",
    "trending": true,
-   "trend_term": "dwts finale · covered by 2 sites",
+   "trend_term": "michelle randolph · covered by 2 sites",
    "trend_score": 4000
+  },
+  {
+   "title": "Donny Osmond Says Abuse Allegations ‘Destroyed’ Michael Jackson, Won’t Share if He Thinks He’s Innocent",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/donny-osmond-says-abuse-allegations-222314950.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5288f49cd4c5b156b997cc005a327516acd4e554d444534c3f3821e47668b4d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F8c27dff3664f3c31f9bc194f29ea195e.jpg",
+   "published": "2026-11-23T22:23:14+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Michelle Randolph Is Growing Up Alongside Her Characters",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/michelle-randolph-growing-alongside-her-221157628.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c36f39aa40fb5342a1e7f6bb794d33fcd0284bb37f205f57e9deea23237697b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2Fc5ef9490f7c656f905053e1896bd0b82.jpg",
+   "published": "2026-11-23T22:11:57+00:00",
+   "trending": true,
+   "trend_term": "michelle randolph",
+   "trend_score": 2000
+  },
+  {
+   "title": "Derek Hough alludes to childhood sexual abuse",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/derek-hough-alludes-childhood-sexual-212309172.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/844a1953e457c646b1cac192cd0e78eb629f0cf1f6eef5c9fb5fcb3948cf9e0e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fac326727979d966973e1993e34e6b0a3.jpg_up.jpg",
+   "published": "2026-11-23T21:23:09+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "'Dancing with the Stars' judge Derek Hough reveals childhood sexual abuse",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dancing-stars-judge-derek-hough-191659911.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f105208e6553f3754f09d97f439e27ba9122c9bb8126bac0d83424a47ca5abf8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fb26fd210aa2bf766fe9dd5021367ba73.jpg",
+   "published": "2026-11-23T19:16:59+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
   },
   {
    "title": "Jamie Lee Curtis Marks First Birthday Since Sister Kelly's Death: 'The Last in the Line'",
@@ -55,12 +99,45 @@
    "trend_score": 2000
   },
   {
+   "title": "Michelle Randolph Praises ‘Incredible’ TCU Cheerleaders After Filming “Landman” Scenes Together (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/michelle-randolph-praises-incredible-tcu-180908525.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a512dd9cf02cc4e309ae2246a8e0770fec60e17af8ca87beb7f73db721f2fc55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F2290cd5e388d61f347f7669076afce18.jpg",
+   "published": "2026-11-23T18:09:08+00:00",
+   "trending": true,
+   "trend_term": "michelle randolph",
+   "trend_score": 2000
+  },
+  {
    "title": "Donny Osmond Addresses Sexual Abuse Allegations Against ‘Dear Friend’ Michael Jackson",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/donny-osmond-addresses-sexual-abuse-173833799.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/d256bdeb147befa5dff9a1752c3cc11793abcc1345d9a48d005d021a89106385/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc94165f0f338bc9b5fc8ff08d770a996.jpg",
    "published": "2026-11-23T17:38:33+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Marvel’s Spider-Man Officially Gets Stunning Makeover For New Release",
+   "url": "https://collider.com/marvel-spider-man-peach-momoko-art-book-exclusive/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/spiderman_exclusive_1024.jpg",
+   "published": "2026-11-23T17:00:12+00:00",
+   "trending": true,
+   "trend_term": "tom holland",
+   "trend_score": 2000
+  },
+  {
+   "title": "DWTS’ Derek Hough Alludes to Childhood Sexual Abuse in New Doc",
+   "url": "https://www.usmagazine.com/celebrity-news/news/derek-hough-alludes-to-childhood-sexual-abuse-in-new-doc/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2295282502-Derek-Hough-Alludes-to-Childhood-Sexual-Abuse-in-New-Doc.jpg?crop=0px%2C121px%2C1333px%2C753px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T16:29:17+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -110,39 +187,6 @@
    "trend_score": 2000
   },
   {
-   "title": "TSITP's Chris Briney Addresses [Spoiler]'s Surprise Cameo in Christmas Movie",
-   "url": "https://www.usmagazine.com/entertainment/news/tsitps-chris-briney-details-knicks-cameo-in-christmas-movie/",
-   "source": "usmagazine.com",
-   "category": "Movies",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Image_1_3000.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
-   "published": "2026-11-23T15:00:52+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "TSITP’s Chris Briney Breaks Silence on Surprise Cameo in His Christmas Movie: ‘Wish I Made It Happen’",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/tsitp-chris-briney-breaks-silence-150052752.html",
-   "source": "profiles.yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/df3bdd93c3df98766def045714f48b72a4eee4ee52246dac92a4609a8082c54b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F954dbe33e388165dce4f9b346aac6399.jpg",
-   "published": "2026-11-23T15:00:52+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "How to Watch the 'DWTS' Season 35 Finale After Surprise Episode Change",
-   "url": "https://www.usmagazine.com/entertainment/news/how-to-watch-dancing-with-the-stars-season-35-finale/",
-   "source": "usmagazine.com",
-   "category": "TV",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183939_EM107185.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
-   "published": "2026-11-23T14:36:46+00:00",
-   "trending": true,
-   "trend_term": "dwts finale",
-   "trend_score": 2000
-  },
-  {
    "title": "Mary Bonnet Reveals Plans to Move Out of L.A After 'Selling Sunset' Exit",
    "url": "https://www.usmagazine.com/entertainment/news/selling-sunsets-mary-bonnet-will-move-out-of-l-a-after-show-exit/",
    "source": "usmagazine.com",
@@ -160,6 +204,28 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/9767c30135160e8851cace5c026b7a85e1b6e32c3c5998158a0a5d49796ba5bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F03874395d671cbe900357949feb3af6a.jpg",
    "published": "2026-11-23T14:00:57+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Sharna Burgess Claims 'DWTS' Fans Use Votes to 'Manipulate the Show'",
+   "url": "https://www.usmagazine.com/entertainment/news/sharna-burgess-calls-out-dwts-voting-system-before-finale/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183136_05554_v1.jpg?crop=0px%2C152px%2C1500px%2C848px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-23T13:03:01+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "‘DWTS’ Pro Sharna Burgess Claims Fans ‘Manipulate the Show’ With Votes: ‘So Insanely Negative’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/dwts-pro-sharna-burgess-claims-130301252.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/b0c18e5e25a15fb69167d38ff09c95c288bb47a99b3c5daed00e3771e51699f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F29db0fc09c00a5f02e888ad1739d594a.jpg",
+   "published": "2026-11-23T13:03:01+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -418,23 +484,199 @@
    "trend_score": 0
   },
   {
-   "title": "Marvel’s Spider-Man Officially Gets Stunning Makeover For New Release",
-   "url": "https://collider.com/marvel-spider-man-peach-momoko-art-book-exclusive/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/spiderman_exclusive_1024.jpg",
-   "published": "2026-11-23T17:00:12+00:00",
-   "trending": true,
-   "trend_term": "tom holland new spider-man look",
-   "trend_score": 0
-  },
-  {
    "title": "Royal steps out solo for her first engagement since marrying Crown Prince",
    "url": "https://jang.com.pk/en/76786-royal-steps-out-solo-for-her-first-engagement-since-marrying-crown-prince-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76786_121624_eng.jpg",
    "published": "2026-11-24T00:16:21+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Forget the Race Track: Kacey Musgraves Had the Wildest Ride of Las Vegas Grand Prix Weekend",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/forget-race-track-kacey-musgraves-223906096.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/314fbacd3d6f568f886c808dbde94d91208469e28e42f912c789e78c2ced3353/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F6bdeee5fac1be9952173ef802f9d5bcc.jpg",
+   "published": "2026-11-23T22:39:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Adam Driver: ‘No One Was Paying Us’ to Develop ‘The Hunt for Ben Solo’ and ‘Star Wars’ Boss Said ‘We Have a 100% Approval’ to Make It, Then Disney Killed It",
+   "url": "https://www.yahoo.com/entertainment/articles/adam-driver-no-one-paying-223553021.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/d4897d4ac21f927ce8d485174e1cb181a662a88a5b2401443334e3f3f01d4342/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F788c070ac253f9a0b4fc323de80bf591.jpg",
+   "published": "2026-11-23T22:35:53+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘The Carol Burnett Show’ Star Says Iconic ‘The Family’ Sketch Character Was Written for Carol Burnett",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/carol-burnett-show-star-says-223544535.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/bee80fd244bd5a90b620575035a5a38acefdfae02bec6bf1fe3eef46c625bf98/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_examiner_239%2F69d6c5887694e6ef08697356da568c7a.png",
+   "published": "2026-11-23T22:35:44+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "David Greaves Says ‘Once Upon a Time in Harlem’ Is “An Act of Resistance” Against Efforts to Erase Black History",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/david-greaves-says-once-upon-223306522.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/59d605d91c5d4427236b44d10ce4023f0db3ef35a9f65679fe0edf306b02b3ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F1dd2110c32b5fd1fbef80c4f49e758ac.jpg",
+   "published": "2026-11-23T22:33:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Brandi Passante Reflects On Losing Storage Wars’ Darrell Sheets: ‘It Definitely Changed The Dynamic’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/brandi-passante-reflects-losing-storage-223100508.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/56ebe5f29c7310c3d183ff05234154fd4ad3d2d6b8252258cb0b44debdea2a55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2Fdc383dd8ca4f6d7a43688609e594e2ac.jpg",
+   "published": "2026-11-23T22:31:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Mindy Cohn as a Nun? See ‘Facts of Life’ Star on ‘NCIS’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/mindy-cohn-nun-see-facts-223020862.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/eb36a7991cb666ca6c20466b2c108668587a394ad7e9c950b687c0f11b184996/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fadf6c70dbaeb0d21054e20fd010e9c3c.jpg",
+   "published": "2026-11-23T22:30:20+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Anya Taylor-Joy’s Brutal Revenge Fantasy Officially Returns",
+   "url": "https://collider.com/the-northman-anya-taylor-joy-free-streaming-fandango/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/08/anya-taylor-joy-in-the-northman.jpg",
+   "published": "2026-11-23T22:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Elizabeth Hurley Helped Billy Ray Cyrus Reconnect With Miley Before Her Wedding, Source Says",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/elizabeth-hurley-helped-billy-ray-223002568.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3fe25ed3ed80a4906f71cbe49bbcf3d4f1dac3778c113c53a8afddc3470594d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fe72601f6c4125909aa0d8c6329a59ce3.jpg",
+   "published": "2026-11-23T22:30:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Melania Trump Under Fire Over $150 Digital Photo Collection, Sparking ‘Shameful Grift’ Backlash",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/melania-trump-under-fire-over-223000178.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/eb2dcc54ea85154c74a69f8a1c6f61a3b2527184d5085b746f3e6dec28a31e02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F5c12018c10a266137d8dc7fd9028e062.jpg",
+   "published": "2026-11-23T22:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Robert De Niro, Timothée Chalamet to host 'Saturday Night Live'",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/robert-niro-timoth-e-chalamet-223000671.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/d1df1690d514667a5cc6a709e0d7c6e8c6886abc7d3c5d6407c9c1a7da55657a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fabc_audio_244%2F647f966828348b5313fbe9e2aa44107e.png_up.jpg",
+   "published": "2026-11-23T22:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘If anything, you were one of the bullies’: Taylor Swift’s former classmates dispute her origin story",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/anything-were-one-bullies-taylor-222636438.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/10e4da3e5268f207028287db92760a22930ef023dac0be120d3aac33c8fce324/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F40d36005eb61b1f87fc25bf282e78df3.jpg",
+   "published": "2026-11-23T22:26:36+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Where The Celebs Ate At F1 Las Vegas, From An $8,400 Soirée To A $3,000 Caviar Helmet",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/where-celebs-ate-f1-las-222500486.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/2972b2544dc39374ae8e67fa71b58fc7514d1cb227abd2a7bb53a5c0fe2bc9e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F8d2c8451498cf2c2d434895b655edeb3.jpg_up.jpg",
+   "published": "2026-11-23T22:25:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Nicola Coughlan Revisits the Golden Age of Couture in Richard Quinn",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/nicola-coughlan-revisits-golden-age-222302473.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/f3b8c4a9662dab1f9e0357448648afaf315084fd325be46e1cc7e29188f3ca6b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2Fd61e065e099c51ed0c14d1884399a21d.jpg_up.jpg",
+   "published": "2026-11-23T22:23:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jenna Bush Hager Comes Clean About ‘Weird’ Childhood Bathroom Habit That ‘Worried’ Her Parents",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jenna-bush-hager-comes-clean-222257725.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e2fb88ffc3ac527709bc85b2790ff38dd8227734ab13a95a33e553ad54af37fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffirst_for_women_articles_145%2Fbc7a5800bfe90caaec3bcc4c24ed3540.jpg",
+   "published": "2026-11-23T22:22:57+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Simone Ashley Brings Spring 2003 Gucci Heels to ‘Only Murders in London’ Premiere",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/simone-ashley-brings-spring-2003-221117494.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/99f6cc7d00e0a37358df41041e8f38fff27ef1036b81e3ee3bfd1990840155e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootwear_news_642%2F750586309d90766b66b45502c341e5f8.jpg",
+   "published": "2026-11-23T22:11:17+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "10 Saddest Deaths in 'Sunrise on the Reaping,' Ranked",
+   "url": "https://collider.com/sunrise-on-the-reaping-deaths-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hunger-games-sunrise-on-the-reaping-joseph-zada-mckenna-grace.jpg",
+   "published": "2026-11-23T22:08:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "'Percy Jackson and the Olympians' Season 4 Fate Revealed Ahead of Season 3 Finale",
+   "url": "https://collider.com/percy-jackson-and-the-olympians-season-4-fate-revealed-walker-scobell/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-02-at-12-13-28-pm.png",
+   "published": "2026-11-23T22:00:12+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -633,17 +875,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/f106eeef01785c643bd82656a273158326133ad82ee0883612b9d7f833bac817/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F27781b7f9e1ec9b5fe977cbf8201929f.jpg",
    "published": "2026-11-23T21:24:49+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Derek Hough alludes to childhood sexual abuse",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/derek-hough-alludes-childhood-sexual-212309172.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/844a1953e457c646b1cac192cd0e78eb629f0cf1f6eef5c9fb5fcb3948cf9e0e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fac326727979d966973e1993e34e6b0a3.jpg_up.jpg",
-   "published": "2026-11-23T21:23:09+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -1155,17 +1386,6 @@
    "trend_score": 0
   },
   {
-   "title": "'Dancing with the Stars' judge Derek Hough reveals childhood sexual abuse",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dancing-stars-judge-derek-hough-191659911.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f105208e6553f3754f09d97f439e27ba9122c9bb8126bac0d83424a47ca5abf8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fb26fd210aa2bf766fe9dd5021367ba73.jpg",
-   "published": "2026-11-23T19:16:59+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Rei Ami Supports the Sneaker Heel Comeback With Archival Dsquared2 Style at Las Vegas Grand Prix",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/rei-ami-supports-sneaker-heel-190553723.html",
    "source": "yahoo.com",
@@ -1579,17 +1799,6 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/059dcb95e91c49b2a2a1555e1aeca340a20147954e154b62573449c4c60bf45c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fb682d672aa9a06af8a06bb1749f1b09f.png",
    "published": "2026-11-23T18:09:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Michelle Randolph Praises ‘Incredible’ TCU Cheerleaders After Filming “Landman” Scenes Together (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/michelle-randolph-praises-incredible-tcu-180908525.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/a512dd9cf02cc4e309ae2246a8e0770fec60e17af8ca87beb7f73db721f2fc55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F2290cd5e388d61f347f7669076afce18.jpg",
-   "published": "2026-11-23T18:09:08+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2024,6 +2233,17 @@
    "trend_score": 0
   },
   {
+   "title": "'Law & Order' Alum E.J. Carroll's Cause of Death Revealed After Collapse",
+   "url": "https://www.usmagazine.com/celebrity-news/news/law-and-order-alum-e-j-carrolls-cause-of-death-revealed/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/EJ-Carroll-Cause-of-Death-Revealed.jpg?crop=0px%2C59px%2C1996px%2C1127px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T16:21:43+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Woman Compliments A Stranger's Dress At A Gallery, Unaware The Artist Is Standing Right In Front Of Her In Wholesome Viral Moment",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/woman-compliments-strangers-dress-gallery-161109277.html",
    "source": "yahoo.com",
@@ -2041,6 +2261,17 @@
    "category": "TV",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/ncis-origins-mark-harmon.jpg",
    "published": "2026-11-23T16:09:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Which Past Characters Would Lindsay Lohan Spend Holidays With?",
+   "url": "https://www.usmagazine.com/entertainment/news/lindsay-lohan-would-spend-holidays-with-these-past-characters/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Lindsay-Lohan-Reveals-Which-Former-Characters-She-Would-Spend-Holidays-With-Parent-Trap.jpg",
+   "published": "2026-11-23T16:05:53+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2074,6 +2305,17 @@
    "category": "TV",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/superlatives-hunting-wives.jpg",
    "published": "2026-11-23T15:51:14+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "49ers Share Update After Colton McKivitz Suffers Grotesque Injury on ‘SNF'",
+   "url": "https://www.usmagazine.com/sports/news/49ers-share-update-after-colton-mckivitzs-grotesque-injury/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305952279.jpg-colton-mckivitz.jpg?crop=0px%2C70px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T15:50:28+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2118,6 +2360,17 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/f14d7fcdced40f752f1ff92447180a704cf0d10ace68d1675980c102e64fe1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2F0fd913b7d3c622490c153918f7436aab.jpg",
    "published": "2026-11-23T15:12:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "How to Watch the 'DWTS' Season 35 Finale After Surprise Episode Change",
+   "url": "https://www.usmagazine.com/entertainment/news/how-to-watch-dancing-with-the-stars-season-35-finale/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183939_EM107185.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-23T14:36:46+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
