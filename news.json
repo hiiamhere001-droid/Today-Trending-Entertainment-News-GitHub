@@ -1,15 +1,35 @@
 {
- "generated_at": "2026-11-23T13:10:10.830973+00:00",
+ "generated_at": "2026-11-23T14:58:31.098579+00:00",
  "date_us": "2026-11-23",
  "per_site": {
-  "usmagazine.com": 19,
+  "usmagazine.com": 18,
   "news.meaww.com": 4,
-  "profiles.yahoo.com": 10,
-  "yahoo.com": 29,
-  "jang.com.pk": 7,
+  "profiles.yahoo.com": 9,
+  "yahoo.com": 28,
+  "jang.com.pk": 6,
   "collider.com": 10
  },
  "items": [
+  {
+   "title": "Prince William shares powerful message about new mental health initiative",
+   "url": "https://jang.com.pk/en/76778-prince-william-shares-powerful-message-about-new-mental-health-initiative-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76778_075237_eng.jpg",
+   "published": "2026-11-23T19:35:34+05:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "GTA 6 update for PS5 and Xbox series X: Here is all you need to know",
+   "url": "https://jang.com.pk/en/76776-gta-6-update-for-ps5-and-xbox-series-x-here-is-all-you-need-to-know-news",
+   "source": "jang.com.pk",
+   "category": "TV",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76776_074724_eng.jpg",
+   "published": "2026-11-23T18:50:29+05:00",
+   "trending": false,
+   "trend_term": null
+  },
   {
    "title": "Kensington Palace hit back at Tom Skyes' Harry, Meghan's Royal titles claims: 'no factual basis'",
    "url": "https://jang.com.pk/en/76770-kensington-palace-hit-back-at-tom-skyes-harry-meghans-royal-titles-claims-no-factual-basis-news",
@@ -41,32 +61,202 @@
    "trend_term": null
   },
   {
+   "title": "Russell Brand's wife Laura vows to obey prison rules following controversial message",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/russell-brands-wife-laura-vows-110427632.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/86641a2d4850dc3e215963665cee87d52ee1b0b15f85a9e8df5875a097c70f3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fd5af2c0d6b57b0a1922ae18aeeadc574.jpg_up.jpg",
+   "published": "2026-11-23T14:51:03+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Royal ovation for BGT farmers 'left choir in tears'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/royal-ovation-bgt-farmers-left-144858025.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d6dcd124a27b2b6de785f48171b0534e2a82280a3642139768518d40781484e3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F58ee8863395d39103c7321299025391b.jpg",
+   "published": "2026-11-23T14:48:58+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "New “Avengers: Doomsday” Trailer Teases Epic Showdown Between Robert Downey Jr. and Marvel Heroes, Reveals Captain America’s Child",
+   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/avengers-doomsday-trailer-teases-epic-144502513.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/25c331d3cc74740b28aa5379c2d881c79626f258ba998aaea6d71ffced3dd730/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff9d02050c759497adcfcb7de7b2ba16b.jpg",
+   "published": "2026-11-23T14:45:02+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "'Avengers: Doomsday' final trailer gives first look at Hailee Steinfeld. Plus, 3 other things we spotted.",
+   "url": "https://www.yahoo.com/entertainment/movies/article/avengers-doomsday-final-trailer-gives-first-look-at-hailee-steinfeld-plus-3-other-things-we-spotted-144448737.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/9b0ffa6a2776c237452439b7f2d22317a7216ebcb45226969f90add0fd109a3d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-avengers-doomsday-trailer_8757.jpg",
+   "published": "2026-11-23T14:44:48+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jonathan Bailey Puts a Sexy, Victorian Spin on Ebenezer Scrooge for the Holidays: ‘Bah Humbug to You Too!’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jonathan-bailey-puts-sexy-victorian-143911445.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/df3906e08ca940203ac189ff9b0fdcf8b300bb5778834aa487dc30b89d5ed00b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F262542e665a5f1e5e5b72306bea71031.jpg",
+   "published": "2026-11-23T14:39:11+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Marvel releases final trailer for ‘Avengers: Doomsday’",
+   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/marvel-releases-final-trailer-avengers-143853867.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/3fd0a03419ba60d0e23d14338596363f51bb512f4386e0d9e1e4b837bc3536e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F0d22c44d29a054e792695e828996fb5d.jpg",
+   "published": "2026-11-23T14:38:53+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Final ‘Avengers: Doomsday’ trailer sets stage with heavy focus on 1 character",
+   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/final-avengers-doomsday-trailer-sets-143553711.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/083129ea984d8e13ad2e6cd3873c6b654faf887381dc59877db58c471cbfd733/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fftw_outdoors_usa_today_article_609%2Fbc1d89d074a6bfbbf6035f350efde534.jpg",
+   "published": "2026-11-23T14:35:53+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Watch: 'Gilded Age' teaser shows presidential dinner border on 'catastrophe'",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/watch-gilded-age-teaser-shows-143512082.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/48be1ca3f2ecdcb4f80155d2e7af96abf1a93455397b8a26229fc623b8aa4b9e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F71b04a28be4fa585b29e6b0373f374c0.jpg_up.jpg",
+   "published": "2026-11-23T14:35:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Where Is ‘Turtleboy’ From the Karen Read Trial Now?",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/where-turtleboy-karen-read-trial-143333686.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/3886d84a762cb5756e8625738c17ffa333d9acba7f917d3bfdd3a84dd0558e42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F89278bb8405f85667663e446e06c0f32.jpg",
+   "published": "2026-11-23T14:33:33+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "The Grinch Reveals He’s an Ella Langley Fan in Unexpected Crossover",
+   "url": "https://www.yahoo.com/entertainment/music/articles/grinch-reveals-ella-langley-fan-143156892.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/af9f3344e303b4436182cfb22d088154406d3a9b66b8f5961dee6aec0d173a4e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F1d1bd53e98485401376b852491863ac0.jpg",
+   "published": "2026-11-23T14:31:56+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "George Stephanopoulos & Wife Ali Wentworth Celebrate Relationship Milestone",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/george-stephanopoulos-wife-ali-wentworth-143029811.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1bd5320881c8830f388814b104dbb31f82c6edb14a6b0237e395c8d650c7942b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fa42ab12654505b726e22a9f022be367a.jpg",
+   "published": "2026-11-23T14:30:29+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Regina King Opens Up About Life Without Son Ian: 'A Whole New Beginning in a Lot of Ways'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/regina-king-opens-life-without-143026979.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f45583908342b8326c7266d03079e0b2eb714a20f8d9e2c7d2bc034295cc5512/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F0d3e06f9ad9ba475a83a36d3bbd241d3.jpg",
+   "published": "2026-11-23T14:30:26+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Mariska Hargitay Honors Gloria Steinem with Alice Walker Poem: ‘Gloria Will Always Exist in the Present Tense’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/mariska-hargitay-honors-gloria-steinem-142000426.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/22447540fbb0c3d8c70ce05a4120292e892bdf61ed44acd80d8d1cbc931dc72a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F67d805112b4c5f008cabcb7d4e1be051.jpg",
+   "published": "2026-11-23T14:20:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Jamie Lee Curtis shares heartbreaking message on 68th birthday as ‘only surviving member’ of her family",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/jamie-lee-curtis-shares-heartbreaking-141853967.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9cd827e7d4c4fd6979470addb1f967e1fdf2fc678da87a2065264771b98b7534/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F69c982d3312a501f4690d38c5ae93655.jpg",
+   "published": "2026-11-23T14:18:53+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "'Avengers: Doomsday's Final Trailer Signals the End of an Era for the MCU",
+   "url": "https://collider.com/avengers-doomsday-new-trailer-robert-downey-jr-doctor-doom/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/avengers-doomsday-chris-hemsworth.jpg",
+   "published": "2026-11-23T14:16:18+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Prince Harry Slammed For ‘Disrespectful’ Joke About Archie And Lilibet As Fans Say ‘How Insulting To His Wife’ Meghan Markle",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-slammed-disrespectful-joke-141500957.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/fde1bbb1455a5b6aa038296207a37b31af3357ee424c812a276239046fd06d0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fdc577cd231833214de8ef3d9968f0136.jpg",
+   "published": "2026-11-23T14:15:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Kate Middleton Enforces a Surprising Household Rule for George, Charlotte, and Louis to Keep Them “Grounded”",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-enforces-surprising-household-141229493.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7bd2274660b594b5c539389748e74b01908be4a60b3fcb2ed4b375922557ad6b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fb66a9452ad6a39a443447146697adf0f.jpg",
+   "published": "2026-11-23T14:12:29+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘Dungeon Crawler Carl’ Is Officially Changing Fantasy TV’s Winning Formula",
+   "url": "https://collider.com/dungeon-crawler-carl-litrpg-fantasy-tv-genre/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/dungeon-crawler-carl-comic.jpg",
+   "published": "2026-11-23T14:12:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Kate Middleton’s Power Moves: Why the Future Queen Is More Influential Than Ever (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-power-moves-why-140000751.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/02298b0c19a895a2fbb63a7e7903dfd4ba8376b224f12421008e25b96a31354f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F29cc53c5b970e8b7798918c0bdabd2c4.jpg",
+   "published": "2026-11-23T14:00:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Princess Charlotte set to replace Eugenie at Kate's 2026 Christmas Carol service?",
    "url": "https://jang.com.pk/en/76759-princess-charlotte-set-to-replace-eugenie-at-kates-2026-christmas-carol-service-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76759_010927_eng.jpg",
    "published": "2026-11-23T13:09:24+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Georgie & Mandy’s First Marriage Is Bringing In An Iconic Cheers Actor, And I Hope They Stick Around",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/georgie-mandy-first-marriage-bringing-130327376.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/0687258b5abf7770ecc8d5aa94ec567e2b949a669fbab08789c7d689975ecc1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2Fd968ae612142d095b1d5b92ca5498a12.jpg",
-   "published": "2026-11-23T13:03:27+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "23 'The Hunger Games' Trivia Nuggets Pulled Straight From the Capitol Archives",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/23-hunger-games-trivia-nuggets-130200032.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/0fe6437721b219bfb4bef6879578db9996dc2f959931c03bf8ae76938fe5d56e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcracked_901%2Ffe667bf6f236c3e121c98fe15bc48922.jpg",
-   "published": "2026-11-23T13:02:00+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -81,122 +271,12 @@
    "trend_term": null
   },
   {
-   "title": "International Film Festival Rotterdam Names Pepijn Kuyper Managing Director, Succeeding Clare Stewart",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/international-film-festival-rotterdam-names-130000500.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/18bb4cdd11b5fd3413445ae893b4c9822f237d4d2492ed5cfde3ab571a14c2a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Fe448c1991b24e1196a52e82f2c5b7fcb.jpg",
-   "published": "2026-11-23T13:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "15 People Share Their Picks for Cinema's Most Crucial Casting Choices",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/15-people-share-picks-cinemas-130000141.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/1b69d8716eaf28c165f32d8b1595717641779a500b1c164b6d7221155279de7f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcracked_901%2Ff7933b9526d84434aba2467fe56e01c3.jpg",
-   "published": "2026-11-23T13:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Florida Drive-Thru Worker of 37 Years Who Got Epic Send-Off for Retirement Is Featured in New Netflix Doc. She Says Its Message Is ‘Just Be Kind to People’ (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/florida-drive-thru-worker-37-130000938.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/1c06c3fb2a56c07ac9cf3694ddd66032727abe45c84b9d577840af930e52b95f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F49117627e7b5bee43696365194faa765.jpg",
-   "published": "2026-11-23T13:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "The Weekly Blast: James Bond Cast, GTA VI Is Out & Melania Trump Has A New Series",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/weekly-blast-james-bond-cast-130000396.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/1cb2d1157b47c691f283501ee8b8c690d5a01b68ab152436899d6cd6d0a03155/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F43ba377f7eb24f325f62b5f63960ebe9.jpg",
-   "published": "2026-11-23T13:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Celebrity Couples Who Share the Same First Name",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/celebrity-couples-share-same-first-130000177.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1ebabe0bbc3a214bb4d82663f0660d43d0c85329891119e1576b7b91db6d7140/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff3a06466abd5d0cdbfb6b721aa72be23.jpg",
-   "published": "2026-11-23T13:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Neighbours star Ian Smith reveals he was sacked from soap while struggling with depression",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/neighbours-star-ian-smith-reveals-125318327.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/4a3199628acdb0e015ac106d2d1e75dc32cef667fd7a5ab8bb617918a9e36522/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F96354563665535f4974289d40a2f9bb2.jpg_up.jpg",
-   "published": "2026-11-23T12:53:18+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "7 Western Movies That Hooked Me From the First 10 Minutes",
    "url": "https://collider.com/western-movies-hooked-me-first-10-minutes/",
    "source": "collider.com",
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/3-10-to-yuma-2007.jpg",
    "published": "2026-11-23T12:51:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Don Toliver’s Manchester Show Evacuated After ‘Unknown Substance’ Released in Crowd",
-   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-manchester-show-evacuated-124259810.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/d43436b2d569574b8f0e883768281a666c3c4c313465fd98cbd61cec1bcbbb95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2Fed0e72e1980e388b0c7bd2b24e323934.jpg",
-   "published": "2026-11-23T12:42:59+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "James Blunt opens up on public backlash after ‘You’re Beautiful’ release",
-   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/james-blunt-says-blindsided-angry-100904345.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/cd99f385902a14c2ab24dcbd481f7958e4c613602bec0634cccab65bdc42d615/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fa24074ac992bd2f88684d012814d3bfc.jpg",
-   "published": "2026-11-23T12:41:35+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘I have a very high standard for my future husband’: Sophie Cunningham says she wants a ‘Christ-centered’ husband",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/very-high-standard-future-husband-124035002.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/2ad79ec2f17aa99d9d078f9bcab056767b08bda85cf994f907679bd14660d5e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2Fe0434602ed87fcce10397f525fec24c9.jpg",
-   "published": "2026-11-23T12:40:35+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Donny Osmond Extinguishes Neighbor’s Barbecue Fire While Still Wearing Church Suit",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/donny-osmond-extinguishes-neighbor-barbecue-123747719.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8116343a4b630d85f1e1dcf7cee8616e1c28ac8ee58da80d7c9d5bab35224d4c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F093ad4339953e158c9c0430ea1ea1950.jpg",
-   "published": "2026-11-23T12:37:47+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "King Charles makes touching confession to Idris Elba as they join forces for Netflix documentary",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/king-charles-makes-touching-confession-123228397.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/4247ee9aab5ad0ca34e092b73b88aace491203ab38686a2989ed3d21837f6010/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Ffa0671353e11cbd6e793132b749cb549.jpg",
-   "published": "2026-11-23T12:32:28+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -211,32 +291,12 @@
    "trend_term": null
   },
   {
-   "title": "Prince Harry & Meghan Markle Could Face Backlash if Royals Break Longstanding Rule — Expert",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-could-122159572.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/bc1bc26d5c555c60f9fb02e8b25a9b68652d5230ce77e50fcc33744acafefa6c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F60d6b00e1b342ef8f86e035c0ec8af52.jpg",
-   "published": "2026-11-23T12:21:59+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "6 Most Unwatchable Miniseries of All Time, Ranked",
    "url": "https://collider.com/most-unwatchable-miniseries-all-time/",
    "source": "collider.com",
    "category": "TV",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/secret-invasion-copy.jpg",
    "published": "2026-11-23T12:21:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Melania Trump Promises To Stand by Son Barron but Has Some Advice for Him",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/melania-trump-promises-stand-son-122015414.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/92adea6224a0e27017ed90ee7d906e3f2a1dbc57bf12182c0c8dac6aa657971f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fe590ad91c4d9c3782df272689993f9fd.jpg",
-   "published": "2026-11-23T12:20:15+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -251,32 +311,12 @@
    "trend_term": null
   },
   {
-   "title": "Mahershala Ali Has 2 Oscars, but That ‘Doesn’t Matter’ for Being Cast in New Movies",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/mahershala-ali-2-oscars-doesn-121500604.html",
-   "source": "yahoo.com",
-   "category": "Awards",
-   "image": "https://s.yimg.com/lo/mysterio/api/25834b940fdd06c5773bb0bdfd4e1582608ab474cf06a29b6b7eeb058dd6da6f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F471f22dd7b1978d3497aef3f6911f359.jpg",
-   "published": "2026-11-23T12:15:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "‘Final Destination’ Director Officially Returns to ‘9-1-1’ for Season 10",
    "url": "https://collider.com/james-wong-final-destination-9-1-1season-10-directing/",
    "source": "collider.com",
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/volcano-rises-in-downtown-la-with-lava-pouring-in-promo-image-9-1-1-season-10.jpg",
    "published": "2026-11-23T12:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Taylor Swift spreads joy with Travis Kelce’s niece at Chiefs’ Vs AC game: ‘Aunt era’",
-   "url": "https://jang.com.pk/en/76753-taylor-swift-spreads-joy-with-travis-kelces-niece-at-chiefs-vs-ac-game-aunt-era-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76753_112829_eng.jpg",
-   "published": "2026-11-23T11:22:59+05:00",
    "trending": false,
    "trend_term": null
   },
@@ -321,16 +361,6 @@
    "trend_term": null
   },
   {
-   "title": "Royal deaths 2026: King Harald V to Princess Marie, a year of heartbreaking farewells",
-   "url": "https://jang.com.pk/en/76578-royal-deaths-2026-king-harald-v-to-princess-marie-a-year-of-heartbreaking-farewells-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-19/76578_030124_eng.jpg",
-   "published": "2026-11-23T10:27:05+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "12 Fantasy Movies From the Last 10 Years That Can Be Called Masterpieces, Ranked",
    "url": "https://collider.com/best-fantasy-movies-last-10-years-masterpieces/",
    "source": "collider.com",
@@ -341,22 +371,22 @@
    "trend_term": null
   },
   {
-   "title": "CBS Officially Replaces ’Fire Country’s Timeslot With Another Hit Series in 2027",
-   "url": "https://collider.com/sheriff-country-replacing-fire-country-cbs-2027/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/3230848_ficy_s5_0715b2.jpg",
-   "published": "2026-11-23T10:01:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Quentin Tarantino, 63, becomes third-time dad as he welcomes baby boy with wife Daniella Pick, 43",
    "url": "https://news.meaww.com/quentin-tarantino-63-becomes-third-time-dad-as-he-welcomes-baby-boy-with-wife-daniella-pick-43",
    "source": "news.meaww.com",
    "category": "Celebrity",
    "image": "https://media.pubninja.com/articles/brand-5/covers/1795425779827_519e1aaa62ed.jpg",
    "published": "2026-11-23T09:30:30+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Russell Brand's Wife Will 'Honor' Prison Rules After 'Not Guilty' Message",
+   "url": "https://www.usmagazine.com/celebrity-news/news/russell-brands-wife-says-she-will-honor-prison-rules/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2302353723-Russell-Brand-Wife-Will-Honor-Prison-Rules-After-Not-Guilty-Message.jpg?crop=379px%2C137px%2C1510px%2C851px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T08:46:36+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -407,16 +437,6 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/42091182e9d6d324eca2f7c676613d8ee078bb63638f943ba48da58fba5008b0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fe37c2902e6f362a1a27cfa6709baa9d6.jpg",
    "published": "2026-11-23T05:43:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Keanu Reeves' 121-Minute Dark Fantasy Is As Close to Perfect As Superhero Movies Get",
-   "url": "https://collider.com/constantine-2005-movie-keanu-reeves-streaming-hbo-max-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/peter-stormare-constantine.jpg",
-   "published": "2026-11-23T05:31:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -571,16 +591,6 @@
    "trend_term": null
   },
   {
-   "title": "Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/hailee-steinfeld-confirms-avengers-doomsday-013226299.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/bae8f70aabeca34290c2bf229418e9f5142c69ee955e5c53ceb53cba5a32bc30/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Ff4f3190a07f54de580be553f3ff81ff4.jpg",
-   "published": "2026-11-23T01:32:26+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Why Do ‘Tracker’ and ‘Marshals’ Not Start on Time on CBS Sundays?",
    "url": "https://www.usmagazine.com/entertainment/news/why-does-tracker-watson-and-the-equalizer-never-start-on-time-on-cbs/",
    "source": "usmagazine.com",
@@ -661,16 +671,6 @@
    "trend_term": null
   },
   {
-   "title": "Michael Jackson's Funeral Outfit: La Toya's Shoe Request",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/michael-jacksons-funeral-outfit-la-225654230.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/0eb4d483fd0ac797d7696c8f43e9796ad0ccec2e2dd62f4ae93c8030230d4f35/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fa2fbf7a9de7ef781ab6b388105048811.jpg",
-   "published": "2026-11-22T22:56:54+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Why Another ‘Hunger Games’ Movie Isn’t Coming Anytime Soon",
    "url": "https://www.yahoo.com/entertainment/movies/articles/why-another-hunger-games-movie-224648831.html",
    "source": "yahoo.com",
@@ -686,16 +686,6 @@
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2215323961-Kaitlyn-Bristowe-Shares-Daily-Affirmations-With-Dog-Pinot.jpg?crop=0px%2C141px%2C1333px%2C752px&resize=1000%2C563&quality=40&strip=all",
-   "published": "2026-11-22T22:22:24+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Kaitlyn Bristowe Shares Daily Affirmations She Says to Dog Pinot Amid the Pooch’s Health Battle",
-   "url": "https://www.yahoo.com/entertainment/articles/kaitlyn-bristowe-shares-daily-affirmations-222224691.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e7daa23fd9ccbe9b461f830cf230546d4733e712802f506cc21edc071754ec3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F9a18f2250730619d15e89431530c8c70.jpg",
    "published": "2026-11-22T22:22:24+00:00",
    "trending": false,
    "trend_term": null
@@ -751,42 +741,12 @@
    "trend_term": null
   },
   {
-   "title": "Taylor Swift's Chicest Game Day Styles at Travis Kelce's Chiefs Games",
-   "url": "https://www.usmagazine.com/stylish/pictures/every-game-day-outfit-taylor-swift-has-worn-supporting-travis-kelce/",
-   "source": "usmagazine.com",
-   "category": "Fashion",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2023/10/Taylor-Swift-Game-Day-Looks-313.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=55&strip=all",
-   "published": "2026-11-22T20:28:56+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Party of Five's Scott Wolf Announces Dad's Death: 'He Was My Hero'",
-   "url": "https://www.usmagazine.com/celebrity-news/news/party-of-fives-scott-wolf-announces-dads-death/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2178611485-Scott-Wolf-Announces-Dads-Death.jpg?crop=0px%2C94px%2C1333px%2C754px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-22T20:19:21+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Miley Cyrus wipes away tears at the altar during Palm Springs wedding to Maxx Morando",
    "url": "https://www.yahoo.com/entertainment/articles/miley-cyrus-wipes-away-tears-192224533.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/fe4f6baae55e5d7cf49f7a3652822f0b6722a578766850bbb66649993300a82f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F128ff7fdef7f506e446408ecdc0a4d7a.jpg",
    "published": "2026-11-22T19:22:24+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Prince William has big decision to make after Princess Charlotte's surprise move",
-   "url": "https://jang.com.pk/en/76729-prince-william-has-big-decision-to-make-after-princess-charlottes-surprise-move-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-22/76729_065751_eng.jpg",
-   "published": "2026-11-22T18:57:48+05:00",
    "trending": false,
    "trend_term": null
   },
