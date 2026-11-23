@@ -1,15 +1,25 @@
 {
- "generated_at": "2026-11-23T14:58:31.098579+00:00",
+ "generated_at": "2026-11-23T16:00:04.691158+00:00",
  "date_us": "2026-11-23",
  "per_site": {
   "usmagazine.com": 18,
-  "news.meaww.com": 4,
-  "profiles.yahoo.com": 9,
+  "news.meaww.com": 3,
+  "profiles.yahoo.com": 8,
   "yahoo.com": 28,
-  "jang.com.pk": 6,
+  "jang.com.pk": 7,
   "collider.com": 10
  },
  "items": [
+  {
+   "title": "'Avengers Doomsday' final trailer out: Steve Rogers, Thor face off in epic clash",
+   "url": "https://jang.com.pk/en/76782-avengers-doomsday-final-trailer-out-steve-rogers-thor-face-off-in-epic-clash-news",
+   "source": "jang.com.pk",
+   "category": "Movies",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76782_081522_eng.jpg",
+   "published": "2026-11-23T20:15:19+05:00",
+   "trending": false,
+   "trend_term": null
+  },
   {
    "title": "Prince William shares powerful message about new mental health initiative",
    "url": "https://jang.com.pk/en/76778-prince-william-shares-powerful-message-about-new-mental-health-initiative-news",
@@ -51,6 +61,126 @@
    "trend_term": null
   },
   {
+   "title": "Most Likely To...? The Cast of The Hunting Wives Plays Collider Superlatives!",
+   "url": "https://collider.com/video/most-likely-to-the-cast-of-the-hunting-wives-plays-collider-superlatives/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/superlatives-hunting-wives.jpg",
+   "published": "2026-11-23T15:51:14+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "UB40 star defends Rooney over I'm a Celeb singing",
+   "url": "https://www.yahoo.com/entertainment/music/articles/ub40-star-defends-rooney-im-153525353.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/788ca7f89eb21243206f54063e621ba1c6a37149c26cd7b95ede4b0717f0385a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F29a7e08353eb7703d4d7428395e0dc9e.png",
+   "published": "2026-11-23T15:50:52+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "“90 Day Fiancé” Interpreter Aimee Adiwang Honors ‘Good Friend’ Sheila Mangubat After Her Death at 35",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fianc-interpreter-aimee-155051280.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e7b19b1cc4cc57a747ba2827b40878a09486151d77db13a2d65992cc00c7fcca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb0f0049b984825850d00b34b8e7fa8f1.jpg",
+   "published": "2026-11-23T15:50:51+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Prince William May Strip Prince Harry of His Titles When He’s King: ‘Change Is on My Agenda’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-may-strip-prince-154946001.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8de2f1b6a897be9b6e7a0b58fe095293f46958c43d448d1b35b5d5d6eb1105b1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2F67ce3eb943022c2165b659dd9e0baca3.jpg",
+   "published": "2026-11-23T15:49:46+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Macy’s 100th Thanksgiving Day Parade: How the Show Will Honor Its Roots",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/macy-100th-thanksgiving-day-parade-154559624.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/260e6a2b5a6aff5a8f8e6dac0d42632179e7b359ef3de2dfb10e1d7b057e1da2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F23655a0fb77d4d273bd5697a6724aa11.jpg",
+   "published": "2026-11-23T15:45:59+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Prince William Reportedly Plans To 'Legally' Take Action Against Prince Harry & Meghan Markle",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-reportedly-plans-legally-154540537.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/97c7f2e8c214d13105cbd5026068aeb128c21d1335fc1767b204b7d72f840dc5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2F525a9c256200747096d231235496f972.jpg",
+   "published": "2026-11-23T15:45:40+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Alfonso Ribeiro Weighs In on ‘DWTS’ Top 5",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/alfonso-ribeiro-weighs-dwts-top-154535046.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/f0fcc2fbf4a8408441a9fd754256a0a6bf0510d0f8fc26b438ba85226e095c82/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fa596ab143bf2d186b37c8005ac04c34e.jpg",
+   "published": "2026-11-23T15:45:35+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "John O’Hurley Reveals The Shocking Amount Of Weight He Lost During ‘DWTS’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/john-o-hurley-reveals-shocking-154500630.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1a3dee96313cec20531300f775953be4201ffb8e60898e39c4bad34ccccf1fcb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F8e6791cd7f245d3b8e7002bc348d5302.jpg",
+   "published": "2026-11-23T15:45:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Ballroom Marfa Brings Texas Flavor To New York, Raises $1.5 Million",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/ballroom-marfa-brings-texas-flavor-154500297.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/24473c3548c7d42588e732389149832a61ff7fd56b39ba435524c87df4363506/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Fec025429624682d03fb85f1777c1816b.jpg_up.jpg",
+   "published": "2026-11-23T15:45:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Drake Maye’s Wife Ann Michael Reveals What’s Next for Her “Bakemas” Series After Last Year’s Viral Success (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/articles/drake-maye-wife-ann-michael-154330930.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/e9979431d189ea72a016460331fa27e4f4088a31d0dbf6a86a0e477db8edb78e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F190c65eb9d65541b86163f0f134fb9de.jpg",
+   "published": "2026-11-23T15:43:30+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "“Storage Wars” Star Brandi Passante Says Darrell Sheets’ Death ‘Changed the Dynamic with Everybody’ on the Show",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/storage-wars-star-brandi-passante-153927658.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f90f375ad42c41e3ee2178dde35802c44d8819b972bf2516e244daf1ee6cb39d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fda0510338fa73430e4b46f980dade1ff.jpg",
+   "published": "2026-11-23T15:39:27+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Ian Cauble, World Famous Wine Expert Who Starred in Hit Doc ‘Somm,’ Dies at 46",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/ian-cauble-world-famous-wine-153834193.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f7185a020ff6cb1ed97c56ec037188219f95850ef4155264994d46756ed5882e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F150b6cedcbfafb305437b9cd08b37eb1.jpg",
+   "published": "2026-11-23T15:38:34+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Princess Charlene attends special ceremony with brother Gareth Wittstock",
    "url": "https://jang.com.pk/en/76766-princess-charlene-attends-special-ceremony-with-brother-gareth-wittstock-news",
    "source": "jang.com.pk",
@@ -61,32 +191,32 @@
    "trend_term": null
   },
   {
-   "title": "Russell Brand's wife Laura vows to obey prison rules following controversial message",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/russell-brands-wife-laura-vows-110427632.html",
+   "title": "Harry Styles Carries $13,000-Plus Chanel Bag to Rome Lunch With Italian Designer",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/harry-styles-carries-13-000-153054950.html",
    "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/86641a2d4850dc3e215963665cee87d52ee1b0b15f85a9e8df5875a097c70f3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fd5af2c0d6b57b0a1922ae18aeeadc574.jpg_up.jpg",
-   "published": "2026-11-23T14:51:03+00:00",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/5cc156994b2982187b0061f21bd48d3bc7acdc98fd86df847ee8ea42c400f834/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F65c6c09bff274c377756d17fd23a145e.jpg",
+   "published": "2026-11-23T15:30:54+00:00",
    "trending": false,
    "trend_term": null
   },
   {
-   "title": "Royal ovation for BGT farmers 'left choir in tears'",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/royal-ovation-bgt-farmers-left-144858025.html",
-   "source": "yahoo.com",
+   "title": "Tom Holland Officially Returns as Spider-Man in Stunning New Look",
+   "url": "https://collider.com/spider-man-brand-new-day-screenx-exclusive-variant-posters/",
+   "source": "collider.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/d6dcd124a27b2b6de785f48171b0534e2a82280a3642139768518d40781484e3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F58ee8863395d39103c7321299025391b.jpg",
-   "published": "2026-11-23T14:48:58+00:00",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/copy-of-collider-template-2026-11-23t080727-454.jpg",
+   "published": "2026-11-23T15:19:02+00:00",
    "trending": false,
    "trend_term": null
   },
   {
-   "title": "New “Avengers: Doomsday” Trailer Teases Epic Showdown Between Robert Downey Jr. and Marvel Heroes, Reveals Captain America’s Child",
-   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/avengers-doomsday-trailer-teases-epic-144502513.html",
-   "source": "yahoo.com",
+   "title": "Kevin Hart's Animated Comedy Officially Reveals Star-Studded Season 2 in New Trailer",
+   "url": "https://collider.com/lil-kev-season-2-trailer-kevin-hart-guest-stars/",
+   "source": "collider.com",
    "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/25c331d3cc74740b28aa5379c2d881c79626f258ba998aaea6d71ffced3dd730/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff9d02050c759497adcfcb7de7b2ba16b.jpg",
-   "published": "2026-11-23T14:45:02+00:00",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/kevin-hart.jpg",
+   "published": "2026-11-23T15:00:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -101,106 +231,6 @@
    "trend_term": null
   },
   {
-   "title": "Jonathan Bailey Puts a Sexy, Victorian Spin on Ebenezer Scrooge for the Holidays: ‘Bah Humbug to You Too!’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jonathan-bailey-puts-sexy-victorian-143911445.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/df3906e08ca940203ac189ff9b0fdcf8b300bb5778834aa487dc30b89d5ed00b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F262542e665a5f1e5e5b72306bea71031.jpg",
-   "published": "2026-11-23T14:39:11+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Marvel releases final trailer for ‘Avengers: Doomsday’",
-   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/marvel-releases-final-trailer-avengers-143853867.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/3fd0a03419ba60d0e23d14338596363f51bb512f4386e0d9e1e4b837bc3536e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F0d22c44d29a054e792695e828996fb5d.jpg",
-   "published": "2026-11-23T14:38:53+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Final ‘Avengers: Doomsday’ trailer sets stage with heavy focus on 1 character",
-   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/final-avengers-doomsday-trailer-sets-143553711.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/083129ea984d8e13ad2e6cd3873c6b654faf887381dc59877db58c471cbfd733/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fftw_outdoors_usa_today_article_609%2Fbc1d89d074a6bfbbf6035f350efde534.jpg",
-   "published": "2026-11-23T14:35:53+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Watch: 'Gilded Age' teaser shows presidential dinner border on 'catastrophe'",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/watch-gilded-age-teaser-shows-143512082.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/48be1ca3f2ecdcb4f80155d2e7af96abf1a93455397b8a26229fc623b8aa4b9e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F71b04a28be4fa585b29e6b0373f374c0.jpg_up.jpg",
-   "published": "2026-11-23T14:35:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Where Is ‘Turtleboy’ From the Karen Read Trial Now?",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/where-turtleboy-karen-read-trial-143333686.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/3886d84a762cb5756e8625738c17ffa333d9acba7f917d3bfdd3a84dd0558e42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F89278bb8405f85667663e446e06c0f32.jpg",
-   "published": "2026-11-23T14:33:33+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "The Grinch Reveals He’s an Ella Langley Fan in Unexpected Crossover",
-   "url": "https://www.yahoo.com/entertainment/music/articles/grinch-reveals-ella-langley-fan-143156892.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/af9f3344e303b4436182cfb22d088154406d3a9b66b8f5961dee6aec0d173a4e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F1d1bd53e98485401376b852491863ac0.jpg",
-   "published": "2026-11-23T14:31:56+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "George Stephanopoulos & Wife Ali Wentworth Celebrate Relationship Milestone",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/george-stephanopoulos-wife-ali-wentworth-143029811.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1bd5320881c8830f388814b104dbb31f82c6edb14a6b0237e395c8d650c7942b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fa42ab12654505b726e22a9f022be367a.jpg",
-   "published": "2026-11-23T14:30:29+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Regina King Opens Up About Life Without Son Ian: 'A Whole New Beginning in a Lot of Ways'",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/regina-king-opens-life-without-143026979.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f45583908342b8326c7266d03079e0b2eb714a20f8d9e2c7d2bc034295cc5512/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F0d3e06f9ad9ba475a83a36d3bbd241d3.jpg",
-   "published": "2026-11-23T14:30:26+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Mariska Hargitay Honors Gloria Steinem with Alice Walker Poem: ‘Gloria Will Always Exist in the Present Tense’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/mariska-hargitay-honors-gloria-steinem-142000426.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/22447540fbb0c3d8c70ce05a4120292e892bdf61ed44acd80d8d1cbc931dc72a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F67d805112b4c5f008cabcb7d4e1be051.jpg",
-   "published": "2026-11-23T14:20:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Jamie Lee Curtis shares heartbreaking message on 68th birthday as ‘only surviving member’ of her family",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/jamie-lee-curtis-shares-heartbreaking-141853967.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9cd827e7d4c4fd6979470addb1f967e1fdf2fc678da87a2065264771b98b7534/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F69c982d3312a501f4690d38c5ae93655.jpg",
-   "published": "2026-11-23T14:18:53+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "'Avengers: Doomsday's Final Trailer Signals the End of an Era for the MCU",
    "url": "https://collider.com/avengers-doomsday-new-trailer-robert-downey-jr-doctor-doom/",
    "source": "collider.com",
@@ -211,42 +241,12 @@
    "trend_term": null
   },
   {
-   "title": "Prince Harry Slammed For ‘Disrespectful’ Joke About Archie And Lilibet As Fans Say ‘How Insulting To His Wife’ Meghan Markle",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-slammed-disrespectful-joke-141500957.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/fde1bbb1455a5b6aa038296207a37b31af3357ee424c812a276239046fd06d0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fdc577cd231833214de8ef3d9968f0136.jpg",
-   "published": "2026-11-23T14:15:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Kate Middleton Enforces a Surprising Household Rule for George, Charlotte, and Louis to Keep Them “Grounded”",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-enforces-surprising-household-141229493.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/7bd2274660b594b5c539389748e74b01908be4a60b3fcb2ed4b375922557ad6b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fb66a9452ad6a39a443447146697adf0f.jpg",
-   "published": "2026-11-23T14:12:29+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "‘Dungeon Crawler Carl’ Is Officially Changing Fantasy TV’s Winning Formula",
    "url": "https://collider.com/dungeon-crawler-carl-litrpg-fantasy-tv-genre/",
    "source": "collider.com",
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/dungeon-crawler-carl-comic.jpg",
    "published": "2026-11-23T14:12:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Kate Middleton’s Power Moves: Why the Future Queen Is More Influential Than Ever (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-power-moves-why-140000751.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/02298b0c19a895a2fbb63a7e7903dfd4ba8376b224f12421008e25b96a31354f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F29cc53c5b970e8b7798918c0bdabd2c4.jpg",
-   "published": "2026-11-23T14:00:00+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -331,42 +331,12 @@
    "trend_term": null
   },
   {
-   "title": "9 Classic Fantasy Books Perfect To Read More Than Once",
-   "url": "https://collider.com/classic-fantasy-books-perfect-read-more-than-once/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-never-ending-story-book.jpg",
-   "published": "2026-11-23T11:11:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘Sherlock’ Creator’s Acclaimed Detective Series Officially Returns in 2027",
-   "url": "https://collider.com/mark-gatiss-bookish-season-2-release-date-january-17-2027/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/mark-gatiss-bookish.jpg",
-   "published": "2026-11-23T11:00:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Nina Dobrev Revs Up Her Fashion at F1 Las Vegas Grand Prix, Plus Adam Sandler, Cardi B and More",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/nina-dobrev-revs-her-fashion-110000566.html",
    "source": "yahoo.com",
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/b10ed857da6fe432323c010407d535103b0f9c0baa527e0573d70fadca0ac329/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff5ea20925b1d4ad2c67d74b895b5647a.jpg",
    "published": "2026-11-23T11:00:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "12 Fantasy Movies From the Last 10 Years That Can Be Called Masterpieces, Ranked",
-   "url": "https://collider.com/best-fantasy-movies-last-10-years-masterpieces/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/willem-dafoe-and-robert-pattinson-in-the-lighthouse.jpg",
-   "published": "2026-11-23T10:09:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -381,11 +351,41 @@
    "trend_term": null
   },
   {
+   "title": "Pregnant Jen Affleck Bares Bump in Bikini During Solo Babymoon Amid Divorce",
+   "url": "https://www.usmagazine.com/celebrity-moms/news/pregnant-jen-affleck-bares-bump-in-bikini-during-solo-babymoon/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Pregnant-Jen-Affleck-Bares-Bump-in-Bikini-During-Solo-Babymoon-Amid-Divorce.jpg?crop=492px%2C432px%2C1944px%2C1100px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T09:28:38+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Pregnant Jen Affleck Bares Bump, Details ‘Mixed Emotions’ During Solo Babymoon Amid Zac Divorce",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/pregnant-jen-affleck-bares-bump-092838553.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d569893d592df95d2b4a01f24af65cb02369367ddce2608ffcd14c121a164948/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F81965d4684985a5582f7ad080da593fa.jpg",
+   "published": "2026-11-23T09:28:38+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Russell Brand's Wife Will 'Honor' Prison Rules After 'Not Guilty' Message",
    "url": "https://www.usmagazine.com/celebrity-news/news/russell-brands-wife-says-she-will-honor-prison-rules/",
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2302353723-Russell-Brand-Wife-Will-Honor-Prison-Rules-After-Not-Guilty-Message.jpg?crop=379px%2C137px%2C1510px%2C851px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T08:46:36+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Russell Brand’s Wife Says She Will ‘Honor’ Prison Rules After Reading His ‘Not Guilty’ Message",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/russell-brand-wife-says-she-084636669.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/524ffd0f20704cf0715550c77c328600990739f6ee825949d64f88aed6bab49a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fd3ffacdfa5e8fe23b9fa26d214854c77.jpg",
    "published": "2026-11-23T08:46:36+00:00",
    "trending": false,
    "trend_term": null
@@ -581,16 +581,6 @@
    "trend_term": null
   },
   {
-   "title": "Miley Cyrus and Maxx Morando share a kiss in first official wedding photos after intimate ceremony",
-   "url": "https://news.meaww.com/miley-cyrus-and-maxx-morando-share-a-kiss-in-first-official-wedding-photos-after-intimate-ceremony",
-   "source": "news.meaww.com",
-   "category": "Celebrity",
-   "image": "https://media.pubninja.com/articles/brand-5/covers/1795393256401_6558d2f1798f.jpg",
-   "published": "2026-11-23T01:35:37+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Why Do ‘Tracker’ and ‘Marshals’ Not Start on Time on CBS Sundays?",
    "url": "https://www.usmagazine.com/entertainment/news/why-does-tracker-watson-and-the-equalizer-never-start-on-time-on-cbs/",
    "source": "usmagazine.com",
@@ -606,16 +596,6 @@
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2292440851-Sandra-Bullock-Shares-Rare-Photo-of-Teens-at-Disneyland.jpg?crop=0px%2C109px%2C1333px%2C753px&resize=1000%2C563&quality=78&strip=all",
-   "published": "2026-11-23T00:57:27+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Sandra Bullock Shares Rare Pics of Teen Kids During Disneyland Trip: ‘Just Need to Stop Worrying’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/sandra-bullock-shares-rare-pics-005727325.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/0e717f4b23243bd0bcc93dd2c101f680e14b096aab1cf2aa1c6d78260f5cb92a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fcfb25a926470ecd411694f5eee852c91.jpg",
    "published": "2026-11-23T00:57:27+00:00",
    "trending": false,
    "trend_term": null
@@ -641,16 +621,6 @@
    "trend_term": null
   },
   {
-   "title": "Jamie Lee Curtis Marks Birthday as ‘Only Surviving Member’ of Immediate Family: ‘Last in Line’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/jamie-lee-curtis-marks-birthday-003225517.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/c49d59142188415828098b1856f354e78cf3ba4a45da22f2263ab1ef1cca0af3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F27eda4717e8361320d5f5980d755c3eb.jpg",
-   "published": "2026-11-23T00:32:25+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Brooke Williamson Reveals What It’s Like Sharing a Kitchen With Bobby Flay",
    "url": "https://www.usmagazine.com/celebrity-news/news/brooke-williamson-dishes-on-sharing-a-kitchen-with-bobby-flay/",
    "source": "usmagazine.com",
@@ -661,12 +631,12 @@
    "trend_term": null
   },
   {
-   "title": "Brooke Williamson Reveals What It’s Really Like Sharing the Same Kitchen With Boyfriend Bobby Flay",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/brooke-williamson-reveals-really-sharing-231111175.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9402fa6518519e07d7d04c15497c121372d1e30704ee97650154dad52d558ba9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F61e41f77341750848c09eefa32bd4c34.jpg",
-   "published": "2026-11-22T23:11:11+00:00",
+   "title": "Michael Jackson's Funeral Outfit: La Toya's Shoe Request",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/michael-jacksons-funeral-outfit-la-225654230.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/0eb4d483fd0ac797d7696c8f43e9796ad0ccec2e2dd62f4ae93c8030230d4f35/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fa2fbf7a9de7ef781ab6b388105048811.jpg",
+   "published": "2026-11-22T22:56:54+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -731,12 +701,32 @@
    "trend_term": null
   },
   {
-   "title": "Why Aspyn Ovard Changed Her Mind About 3rd Baby Amid Older Child’s Cancer",
-   "url": "https://www.usmagazine.com/celebrity-moms/news/aspyn-ovards-pregnancy-saved-life-amid-childs-cancer/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Aspyn-Ovard-184032_CL_02891.jpg?crop=0px%2C201px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-22T20:51:36+00:00",
+   "title": "Brittany Mahomes Lets Daughter Sterling, 5, Get Glammed Up with Hair and Makeup for Chiefs-Cardinals Game",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/brittany-mahomes-lets-daughter-sterling-202026211.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/023caca7b35892ab6a64ee036695b83f1f3733f5bb9a87405475523545a82186/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F338fae06700f448ff7a86e1329a4066d.jpg",
+   "published": "2026-11-22T20:20:26+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "First photos of Miley Cyrus' wedding dress reveal an unexpectedly elegant bridal look",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/first-photos-miley-cyrus-wedding-031431217.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/40dfe4e70cb325211c498e58f37df84d7bdd03604b2043611a2ea7861d842c7f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fd7ceb873ed49baa91d2bbfc70060c28e.png",
+   "published": "2026-11-22T19:55:18+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "James Bond’s Style Through the Years",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/james-bond-style-years-193150871.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/f0161cd50dc536e1e09f28d50346468979bdcdc6f531605082769ada52502c1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F0d5b39bb2539059f17b5755feff2d929.jpg",
+   "published": "2026-11-22T19:31:50+00:00",
    "trending": false,
    "trend_term": null
   },
