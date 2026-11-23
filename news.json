@@ -1,34 +1,54 @@
 {
- "generated_at": "2026-11-23T09:19:53.071417+00:00",
+ "generated_at": "2026-11-23T11:02:51.858409+00:00",
  "date_us": "2026-11-23",
  "per_site": {
-  "usmagazine.com": 18,
-  "news.meaww.com": 3,
+  "usmagazine.com": 19,
+  "news.meaww.com": 4,
   "profiles.yahoo.com": 10,
-  "yahoo.com": 29,
+  "yahoo.com": 28,
   "jang.com.pk": 7,
   "collider.com": 10
  },
  "items": [
   {
-   "title": "King Charles May Make a ‘Poignant’ Sacrifice for Kate Middleton — Source",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/king-charles-may-poignant-sacrifice-080122302.html",
-   "source": "yahoo.com",
+   "title": "Marshals' Kayce Shares Shocking Kiss With [Spoiler] After Multiple Deaths",
+   "url": "https://www.usmagazine.com/entertainment/news/marshals-kayce-shares-shocking-belle-kiss-after-multiple-deaths/",
+   "source": "usmagazine.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/35dd39140eb624efb202157607ca98a9cd672bc9baf7187ab96a069a37c5328e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F5b24995e40b51c06037d1a47cfd1aa43.jpg",
-   "published": "2026-11-23T08:01:22+00:00",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/3241956_YMAR_S2_0445bc.jpg",
+   "published": "2026-11-23T02:29:21+00:00",
    "trending": true,
-   "trend_term": "king charles"
+   "trend_term": "marshals"
   },
   {
-   "title": "King Charles makes rare personal confession: 'I am so proud of you'",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/king-charles-makes-rare-personal-080100780.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e007d3e4056069a71de9e2f62e31d52cd4d12ab6ed337e7b21d6d975985d03ac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F868b214517411aea85b979fa4ab3f664.jpg",
-   "published": "2026-11-23T08:01:00+00:00",
+   "title": "Yellowstone’s ‘Marshals’ Complicates Relationships by Having Kayce Kiss Someone After Multiple Deaths",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/yellowstone-marshals-complicates-relationships-having-022921811.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/2bef6d2e02505cf1459a9a45913fa392019a97364c0c7a468d10f369f2e8fd04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff9a733b45b6fcc80ad220bbdb7052630.jpg",
+   "published": "2026-11-23T02:29:21+00:00",
    "trending": true,
-   "trend_term": "king charles"
+   "trend_term": "marshals"
+  },
+  {
+   "title": "Why Do ‘Tracker’ and ‘Marshals’ Not Start on Time on CBS Sundays?",
+   "url": "https://www.usmagazine.com/entertainment/news/why-does-tracker-watson-and-the-equalizer-never-start-on-time-on-cbs/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/03/marshalstracker.jpg?crop=0px%2C41px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T01:00:17+00:00",
+   "trending": true,
+   "trend_term": "marshals"
+  },
+  {
+   "title": "Princess Charlene attends special ceremony with brother Gareth Wittstock",
+   "url": "https://jang.com.pk/en/76766-princess-charlene-attends-special-ceremony-with-brother-gareth-wittstock-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76766_033632_eng.jpg",
+   "published": "2026-11-23T15:36:04+05:00",
+   "trending": false,
+   "trend_term": null
   },
   {
    "title": "Princess Charlotte set to replace Eugenie at Kate's 2026 Christmas Carol service?",
@@ -51,6 +71,56 @@
    "trend_term": null
   },
   {
+   "title": "‘Sherlock’ Creator’s Acclaimed Detective Series Officially Returns in 2027",
+   "url": "https://collider.com/mark-gatiss-bookish-season-2-release-date-january-17-2027/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/mark-gatiss-bookish.jpg",
+   "published": "2026-11-23T11:00:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Tyson Fury’s Netflix documentary: Schizophrenia diagnosis, tragedy and family revelations",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/tyson-fury-netflix-documentary-schizophrenia-091758421.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/372971a51ec4bd1b76a05a404dc26cc92bb1195ad2958c295d5a6a1ac19076ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2Fc3aaf408954c0912faf41bb2f3cb040d.jpg",
+   "published": "2026-11-23T10:41:13+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "People Start Podcasts For Many Reasons — Here Are Just Some Of Them",
+   "url": "https://www.yahoo.com/entertainment/music/articles/people-start-podcasts-many-reasons-103700350.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/b7330f56e374afb2c9e10667c264cf0752e07a81ec054a8d3e82fd33592bc45f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Fa04156ac710d2115a00b00735899d8bf.jpg_up.jpg",
+   "published": "2026-11-23T10:37:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Russell Brand's wife breaks silence following 'appalling' scandal: 'I am under so much scrutiny'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/russell-brands-wife-breaks-silence-092041185.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8a61bf74a5a60e3ffc583f22cdc25c6c169ce183e254b3b85e8871116d2f621a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F95934cf3dac7b6d6bed445ac907602fa.jpg",
+   "published": "2026-11-23T10:33:28+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Prince William ‘Is Not Budging’ On Prince Harry And Meghan Markle Christmas Reunion Amid Reported Plans To Strip Their Titles",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-not-budging-prince-103000086.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/aa46a9a1977209c101b640629510b82c22c6bdc16eb299c27a618f5b412d5ce3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fbb1087c6dccaa8e7da2328e0b4bad286.jpg",
+   "published": "2026-11-23T10:30:00+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Royal deaths 2026: King Harald V to Princess Marie, a year of heartbreaking farewells",
    "url": "https://jang.com.pk/en/76578-royal-deaths-2026-king-harald-v-to-princess-marie-a-year-of-heartbreaking-farewells-news",
    "source": "jang.com.pk",
@@ -61,162 +131,112 @@
    "trend_term": null
   },
   {
+   "title": "Matty Healy expecting first baby with wife Gabbriette Bechtel",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/matty-healy-expecting-first-baby-221623308.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a08d50987afae9d66a9fdea733cc9f1a8a9c94a9455ac1cf7d37d645f333000a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fab190e75603415bd019c3425a58168c1.jpg_up.jpg",
+   "published": "2026-11-23T10:24:40+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Passion CEO Nick Southgate Steps Aside for David Moulton, Moves to Exec Co-Chair Role (EXCLUSIVE)",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/passion-ceo-nick-southgate-steps-102324492.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/55142c7b1d5de0717b9dd6ca3b403784a9a770f570c0d1895cfd93794bd2ee0e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F9b07407b7da2033d5185f518a7c43df9.jpg_up.jpg",
+   "published": "2026-11-23T10:23:24+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Meghan Markle Seeks a ‘Quiet’ Holiday Season Amid Family Drama — Source",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-seeks-quiet-holiday-102054018.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/163bf8031f6ec4de7dd097caaf44d73b87d41722a5ef748df57617db0b2c4d85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F72ac77092862b31a0482ad54019583e6.jpg",
+   "published": "2026-11-23T10:20:54+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Prince Harry Feels ‘Betrayed’ by Royal Family’s Lack of Support for Meghan — Source",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-feels-betrayed-royal-101815748.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/6b54b91787cfd40a26ee328fe99c358f0ad4523ad9bd54f517bef2a121a7b696/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F40e2ccfe075f1e4a2ddd6b6201e07417.jpg",
+   "published": "2026-11-23T10:18:15+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "‘Utter Garbage’: Melania Trump’s ‘Dead-Eyed’ New TV Series Hit With Scathing Reviews",
+   "url": "https://www.yahoo.com/entertainment/tv/reviews/articles/utter-garbage-melania-trump-dead-101545579.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/d689956a0097500b7d327186854a94ce770e5a078cb8aaa3e7f64e349cd4aef5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F7a2d6a286de72375843cc5ed449c1420.jpg",
+   "published": "2026-11-23T10:15:45+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "King Charles makes rare personal confession: 'I am so proud of you'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/king-charles-makes-rare-personal-080100780.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5546b646eace7dbc3f22be9adaa1388ce37d1ce5f0f5624f9c5c29f47ada0c2e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fb6e10f74916ff07f2b84f527a692fd66.jpg",
+   "published": "2026-11-23T10:14:59+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "12 Fantasy Movies From the Last 10 Years That Can Be Called Masterpieces, Ranked",
+   "url": "https://collider.com/best-fantasy-movies-last-10-years-masterpieces/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/willem-dafoe-and-robert-pattinson-in-the-lighthouse.jpg",
+   "published": "2026-11-23T10:09:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Good news for Prince Harry and Meghan Markle following claims Prince William will strip him of royal titles",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/good-news-prince-harry-meghan-100805433.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/584c6f3fb9cc7625639f129638dccced9efcb0d00e7739f8772a5dd61b8a533c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F0dced8bfe3062e2174843082a7a358d5.jpg",
+   "published": "2026-11-23T10:08:05+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "CBS Officially Replaces ’Fire Country’s Timeslot With Another Hit Series in 2027",
+   "url": "https://collider.com/sheriff-country-replacing-fire-country-cbs-2027/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/3230848_ficy_s5_0715b2.jpg",
+   "published": "2026-11-23T10:01:12+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Quentin Tarantino, 63, becomes third-time dad as he welcomes baby boy with wife Daniella Pick, 43",
+   "url": "https://news.meaww.com/quentin-tarantino-63-becomes-third-time-dad-as-he-welcomes-baby-boy-with-wife-daniella-pick-43",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795425779827_519e1aaa62ed.jpg",
+   "published": "2026-11-23T09:30:30+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Celebrity divorces of 2026: From Jelly Roll, Bunnie XO to Jessica Alba, Cash Warren",
    "url": "https://jang.com.pk/en/76577-celebrity-divorces-of-2026-from-jelly-roll-bunnie-xo-to-jessica-alba-cash-warren-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-19/76577_025452_eng.jpg",
    "published": "2026-11-23T09:16:26+05:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Ed Sheeran's Loop Tour faces fresh backlash as Chilean football club CD Palestino condemn security for stopping jersey-wearing concertgoers",
-   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/ed-sheerans-loop-tour-faces-091035083.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/ca3fc7598a9e2ee787b1f8fa105d6feb56c1799631a94ad682e41bce5030d07a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgoal_com_505%2F98d640d816834f87dc95e45b128aa172.jpg",
-   "published": "2026-11-23T09:10:35+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Russell Brand’s Wife Promises Not To Pass On Further Prison Messages",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/russell-brand-wife-promises-not-085311192.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/796b65343e6b25d57e215518f15f20598906d0b2a38ba953d326251b1a0ce683/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Ff5f39d349a9ced486e7ad408398a4893.jpg",
-   "published": "2026-11-23T08:53:11+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Newlyweds Miley Cyrus and Maxx Morando reveal matching tattoos",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/newlyweds-miley-cyrus-maxx-morando-002850749.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/c4c93350918cf8c10c7eb1633e5dbdda732308841ac4aa263ac1e5a7a15b4cb1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F7558258154c2e52ec4e6cdd3d94c0744.jpg_up.jpg",
-   "published": "2026-11-23T08:46:32+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "You Can See Everything joins $100 million documentary club",
-   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/see-everything-joins-100-million-235242184.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/37b272fb0692a5124cf6c4b069c80616d1486f7e61942093741765bc7e9001b1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Ffabeab7322d50deffb05ac6df7b52965.jpg_up.jpg",
-   "published": "2026-11-23T08:46:24+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "‘Hercules’ Star Kevin Sorbo Slammed For ‘Bigotry’ After Ugly New Social Media Post",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/hercules-star-kevin-sorbo-slammed-084528323.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/65b8246db47bd3e9f0572e6559f70a57bd9ad199f556cdd8ee923f32d4a7eb12/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2Fea1267b3259b7259ae88b709e906a78f.jpg_up.jpg",
-   "published": "2026-11-23T08:45:28+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Kylie Minogue and Jimmy Barnes lead tributes to Molly Meldrum",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/kylie-minogue-jimmy-barnes-lead-084409506.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ecb3fc73ed9ec469e24e84b2e09f78cd05e0420aba3d8fd6424580956f53f9d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Ff46c08f696e4f011247eac47eddb6467.jpg_up.jpg",
-   "published": "2026-11-23T08:44:09+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Michael Rapaport Wants NBC To Fire Bowen Yang, but There’s a Catch",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/michael-rapaport-wants-nbc-fire-083741522.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/169afb3e919812e80cb5952d4f753fa4162359647ba4705f0687a9623dcc3bf8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Faaa558df57d2de5d5af8f7a09048c9d5.jpg",
-   "published": "2026-11-23T08:37:41+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Prince Harry Made a Wedding Decision That Upset Late Queen Elizabeth — Report",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-made-wedding-decision-083738230.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/151a4375b94ddd71679c1131abef1d490cdad8dd1d7e3c745e9ba79e59569c0d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Fc78062a3103990582dee7ad76503e655.jpg",
-   "published": "2026-11-23T08:37:38+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Tallulah Willis apologises for sharing 'too intimate' a photo of dad Bruce Willis",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/tallulah-willis-apologises-sharing-too-083459223.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ae3a6094aba1b83bfd0d1d8e8037babbae2c39484c840cb1870a8e9b9d84acbc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F1bfa7958e5ba4ae4a6bb8f886d4fb56a.jpg_up.jpg",
-   "published": "2026-11-23T08:34:59+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Madelyn Cline’s Transformation Into One of Hollywood’s Most-Watched Stars",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/madelyn-cline-transformation-one-hollywood-083200476.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/d54265babd1624dd771e1133216ab77d5f64374880690eb91a463ad1ffa0e772/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2F87b3ccd247adb2e9e6d4f3b3ec08439f.jpg",
-   "published": "2026-11-23T08:32:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Prince Harry Made a Wedding Decision That Upset Late Queen Elizabeth — Report",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-made-wedding-decision-083135261.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/38afe7d2ba49060e2fcb68586141725df402816a0da3d5b469853a06705caa96/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Feb5cf7712c06e24faef0601d9cf1d1fe.jpg",
-   "published": "2026-11-23T08:31:35+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Kelly Piquet Unveils the Las Vegas Look Made for ‘Slow Mornings and Late Nights'",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kelly-piquet-unveils-las-vegas-080451594.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/77e8c8ac07ae71182fb12e4316336a331650c6f7b9ca8c0c8bac950fbddcb8ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ff1_chronicle_874%2F75102f768719a08332654a8da76df654.jpg",
-   "published": "2026-11-23T08:04:51+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Prince William Could Make Prince Harry’s Royal Title a Major Issue as King, Author Claims",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-could-prince-harry-080345671.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/fff4cb9bf892d577d1006f6c607837a96db2f8c4b5bbbce940a4a78b5e1532cf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F61421112eb4d7ed70bb426a0376a2216.jpg",
-   "published": "2026-11-23T08:03:45+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Prince Harry & Meghan Markle Sense a Plot To Erase Their Place in Royal Family — Source",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-sense-075604972.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/fe3caef8db38eec155dd8a3afbcef383843f4bd164ead82f272c0be6fa8e9b69/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F88df5894b5bd103e5d397d43f54cb362.jpg",
-   "published": "2026-11-23T07:56:04+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Meghan Markle Revives a Risky ‘Divorce Book’ Idea — Source",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/meghan-markle-revives-risky-divorce-075038031.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/614e0cd1a4e176e22dc89acf362687d5b920613371ddeff6a5ecbc35552fb56a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F00d69ee46ecde99ed2bc158d37f42a03.jpg",
-   "published": "2026-11-23T07:50:38+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -311,6 +331,46 @@
    "trend_term": null
   },
   {
+   "title": "Zach Shallcross' Wife Kaity Biggar Leaves Her Wedding Rings on Bachelor Cruise",
+   "url": "https://www.usmagazine.com/entertainment/news/zach-shallcross-wife-kaity-leaves-wedding-rings-on-cruise/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2301859013-Zach-Shallcross-Wife-Kaity-Leaves-Wedding-Rings-on-Cruise.jpg?crop=80px%2C82px%2C1079px%2C610px&resize=1000%2C563&quality=70&strip=all",
+   "published": "2026-11-23T03:53:03+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Zach Shallcross’ Wife Kaity Biggar Leaves Her Wedding Rings on Bachelor Nation Cruise",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/zach-shallcross-wife-kaity-biggar-035303400.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/862204aa137b1bc472d1539129e206d88a297a0ada58e5158cdb977a63695420/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F6ac9799b826287a8b8d510f31ab10543.jpg",
+   "published": "2026-11-23T03:53:03+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Justin Hartley's 'Tracker' Kills [Spoiler] in Shocking Twist Before Finale",
+   "url": "https://www.usmagazine.com/entertainment/news/justin-hartleys-tracker-kills-surprise-character-in-shocking-twist/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/3250994_TRKR_S4_0661b.jpg",
+   "published": "2026-11-23T03:36:25+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Justin Hartley’s ‘Tracker’ Kills Off Surprise Character in Shocking Twist Before Fall Finale",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/justin-hartley-tracker-kills-off-033625302.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/1b5c999354c35e150e058bd1eda1d0f02b36a8f3b3bfdfed56799d187c1f230d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fadc5d44cf918c1d679ffaa5916c712fc.jpg",
+   "published": "2026-11-23T03:36:25+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Taylor Swift cheers Travis Kelce's touchdown, shares sweet moment with niece Wyatt at Chiefs game",
    "url": "https://news.meaww.com/taylor-swift-cheers-travis-kelces-touchdown-shares-sweet-moment-with-niece-wyatt-at-chiefs-game",
    "source": "news.meaww.com",
@@ -321,32 +381,12 @@
    "trend_term": null
   },
   {
-   "title": "Prime Video’s 5-Season Fantasy Series Doesn’t Have a Single Bad Season",
-   "url": "https://collider.com/the-magicians-fantasy-series-no-bad-seasons-ever/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-magicians-tv-series.jpeg",
-   "published": "2026-11-23T03:18:12+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Matty Healy expecting first child with wife Gabbriette Bechtel months after wedding",
    "url": "https://news.meaww.com/matty-healy-expecting-first-child-with-wife-gabbriette-bechtel-months-after-wedding",
    "source": "news.meaww.com",
    "category": "Celebrity",
    "image": "https://media.pubninja.com/articles/brand-5/covers/1795400089698_b972f6a2f735.jpg",
    "published": "2026-11-23T03:12:21+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Josh Holloway Steals the 'Tracker' Show From Colter Shaw | Review",
-   "url": "https://collider.com/tracker-season-4-episode-7-recap-review-josh-holloway/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/tracker-4x07-1.jpg",
-   "published": "2026-11-23T03:00:22+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -367,36 +407,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/2341b6a9e1a65754a9da71623be857c4b40b848537856905707ede31bc6190fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F9ef479a524c8f1c4da8c93f1e652e521.jpg",
    "published": "2026-11-23T02:57:48+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Marshals' Kayce Shares Shocking Kiss With [Spoiler] After Multiple Deaths",
-   "url": "https://www.usmagazine.com/entertainment/news/marshals-kayce-shares-shocking-belle-kiss-after-multiple-deaths/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/3241956_YMAR_S2_0445bc.jpg",
-   "published": "2026-11-23T02:29:21+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Yellowstone’s ‘Marshals’ Complicates Relationships by Having Kayce Kiss Someone After Multiple Deaths",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/yellowstone-marshals-complicates-relationships-having-022921811.html",
-   "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/2bef6d2e02505cf1459a9a45913fa392019a97364c0c7a468d10f369f2e8fd04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff9a733b45b6fcc80ad220bbdb7052630.jpg",
-   "published": "2026-11-23T02:29:21+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Forget ‘Twilight,’ Netflix’s 6-Season Series Is Leaving Streaming",
-   "url": "https://collider.com/twilight-replacement-teen-wolf-netflix-streaming/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/01/kristen-stewart-in-the-twilight-saga-breaking-dawn-part-2.jpg",
-   "published": "2026-11-23T02:24:12+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -441,16 +451,6 @@
    "trend_term": null
   },
   {
-   "title": "Why Do ‘Tracker’ and ‘Marshals’ Not Start on Time on CBS Sundays?",
-   "url": "https://www.usmagazine.com/entertainment/news/why-does-tracker-watson-and-the-equalizer-never-start-on-time-on-cbs/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/03/marshalstracker.jpg?crop=0px%2C41px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T01:00:17+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Sandra Bullock Shares Rare Pics of Teen Children During Disneyland Trip",
    "url": "https://www.usmagazine.com/celebrity-moms/news/sandra-bullock-shares-rare-pics-of-children-at-disneyland/",
    "source": "usmagazine.com",
@@ -487,16 +487,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/c49d59142188415828098b1856f354e78cf3ba4a45da22f2263ab1ef1cca0af3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F27eda4717e8361320d5f5980d755c3eb.jpg",
    "published": "2026-11-23T00:32:25+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Inside Miley Cyrus and Maxx Morando's wedding: First photos revealed",
-   "url": "https://jang.com.pk/en/76748-inside-miley-cyrus-and-maxx-morandos-wedding-first-photos-revealed-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76748_121532_eng.jpg",
-   "published": "2026-11-23T00:15:28+05:00",
    "trending": false,
    "trend_term": null
   },
@@ -631,31 +621,11 @@
    "trend_term": null
   },
   {
-   "title": "Taylor Swift Adorably Celebrates Husband Travis Kelce’s 2 Touchdowns in Chiefs Game With Nieces",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-adorably-celebrates-husband-212200767.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/52c150662e869d62abf3f6e485d408071ec4321df858b62ad00b1ce095e964a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F96b05b64f8c43fad1d8dbb07173b3f7d.jpg",
-   "published": "2026-11-22T21:22:00+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Mormon Wives: OC's Madison Addresses Claim About Staying in a Toxic Marriage",
    "url": "https://www.usmagazine.com/entertainment/news/mormon-wives-ocs-madison-clarifies-comments-about-marriage/",
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Mormon-Wives-OC-Madison-Addresses-Comments-She-Would-Stay-With-Husband-If-He-Cheated.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
-   "published": "2026-11-22T21:07:41+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
-   "title": "Mormon Wives: OC’s Madison Addresses Comments About Staying Married If Husband Cheated or Was Abusive",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/mormon-wives-oc-madison-addresses-210741347.html",
-   "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/cb3f6f48b98adbb3c7bd8e279d3a837ee66eb7777c91779f46615332972b6a3d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2fcafc81cf00b766de23d12337ab7931.jpg",
    "published": "2026-11-22T21:07:41+00:00",
    "trending": false,
    "trend_term": null
@@ -711,12 +681,32 @@
    "trend_term": null
   },
   {
+   "title": "First photos of Miley Cyrus' wedding dress reveal an unexpectedly elegant bridal look",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/first-photos-miley-cyrus-wedding-031431217.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/40dfe4e70cb325211c498e58f37df84d7bdd03604b2043611a2ea7861d842c7f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fd7ceb873ed49baa91d2bbfc70060c28e.png",
+   "published": "2026-11-22T19:55:18+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "'Hunger Games: Sunrise on the Reaping' box office: Prequel opens to $120 million, the franchise's biggest debut since 2014",
    "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-sunrise-on-the-reaping-box-office-prequel-opens-to-120-million-the-franchises-biggest-debut-since-2014-194528847.html",
    "source": "yahoo.com",
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
    "published": "2026-11-22T19:45:28+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "James Bond’s Style Through the Years",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/james-bond-style-years-193150871.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/f0161cd50dc536e1e09f28d50346468979bdcdc6f531605082769ada52502c1b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F0d5b39bb2539059f17b5755feff2d929.jpg",
+   "published": "2026-11-22T19:31:50+00:00",
    "trending": false,
    "trend_term": null
   },
@@ -741,16 +731,6 @@
    "trend_term": null
   },
   {
-   "title": "Taylor Swift Cheers on Travis Kelce's Chiefs Game With Her Parents, In-Laws",
-   "url": "https://www.usmagazine.com/sports/news/taylor-swift-cheers-on-travis-kelce-at-chiefs-cardinals-game/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Taylor-Swift-GettyImages-2305903402.jpg",
-   "published": "2026-11-22T19:01:21+00:00",
-   "trending": false,
-   "trend_term": null
-  },
-  {
    "title": "Prince William has big decision to make after Princess Charlotte's surprise move",
    "url": "https://jang.com.pk/en/76729-prince-william-has-big-decision-to-make-after-princess-charlottes-surprise-move-news",
    "source": "jang.com.pk",
@@ -761,12 +741,42 @@
    "trend_term": null
   },
   {
+   "title": "Miley Cyrus Gives a First Look at Her Backless Wedding Dress",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-shares-first-photos-175235863.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/d583aea19a7e1f9112ec702ea17513853f7a32a2d59471e70f00b514e1ab78ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Felle_570%2Fa7a4345611d442620793d4aa033c3b87.jpg",
+   "published": "2026-11-22T17:52:35+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
    "title": "Harry and Meghan’s return to UK prompted by visa issues: Report",
    "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/harry-meghan-return-uk-prompted-164705165.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/6b9ae2cf5ab97e49e359d581c874c1e46a626242bd5dc9d3e99806d878231b8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F1c09a7555a6ee80543d5e1a6263f5066.jpg_up.jpg",
    "published": "2026-11-22T16:47:05+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Hailey Bieber’s 30 Best Looks of All Time—in Honor of Her 30th Birthday",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/hailey-bieber-30-best-looks-163526205.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/e88b48fdf222b79f575e8772c2c20c46e35680fe9f91979ea5e8d7f9adf9cb26/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2F6f0fb91ef731de077fe22088ec1f2d91.png",
+   "published": "2026-11-22T16:35:26+00:00",
+   "trending": false,
+   "trend_term": null
+  },
+  {
+   "title": "Miley Cyrus’ Wedding Dress Revealed: Details on Her Backless Gown",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-wedding-dress-revealed-160605574.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/bba2fdfce9d30bf9ba4268d77bfdfb57ecd145f2c1db66069617d9460931ab54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fe__181%2Fd5ff8dc21a3bc8c9298916b9a434e4c4.jpg",
+   "published": "2026-11-22T16:06:00+00:00",
    "trending": false,
    "trend_term": null
   },
