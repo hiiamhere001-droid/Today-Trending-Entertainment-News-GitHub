@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T14:55:34.248884+00:00",
+ "generated_at": "2026-11-24T16:02:52.105077+00:00",
  "date_us": "2026-11-24",
  "per_site": {
   "usmagazine.com": 16,
   "news.meaww.com": 4,
-  "profiles.yahoo.com": 10,
-  "yahoo.com": 29,
+  "profiles.yahoo.com": 9,
+  "yahoo.com": 30,
   "jang.com.pk": 9,
   "collider.com": 9
  },
@@ -242,12 +242,89 @@
    "trend_score": 2000
   },
   {
+   "title": "Prince Harry finally addresses visa controversy after UK return: 'Entirely false'",
+   "url": "https://jang.com.pk/en/76806-prince-harry-finally-addresses-visa-controversy-after-uk-return-entirely-false-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76806_051344_eng.jpg",
+   "published": "2026-11-24T17:13:39+05:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Prince Harry, Meghan Markle prompts US media to release Archie, Lilibet’s photos soon",
    "url": "https://jang.com.pk/en/76802-prince-harry-meghan-markle-prompts-us-media-to-release-archie-lilibets-photos-soon-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76802_050758_eng.jpg",
    "published": "2026-11-24T16:10:23+05:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "The best Thanksgiving movies to watch this week to start your holiday season right, from 'Planes, Trains and Automobiles' to 'Pilgrim'",
+   "url": "https://www.yahoo.com/entertainment/movies/article/the-best-thanksgiving-movies-to-watch-this-week-to-start-your-holiday-season-right-from-planes-trains-and-automobiles-to-pilgrim-155400359.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/9463717d4bc3ee22812563841bceb82f6a535ed49fe70f18b4a0fe62df032411/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-badge-top-left_9048.png",
+   "published": "2026-11-24T15:54:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Netflix’s Best New Christmas Movie Has A Near-Record Rotten Tomatoes Score",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/netflix-best-christmas-movie-near-154116653.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/94e1ef65ba5324f9784f2e208b751227bcb6d084a871ba3562b95b02627f384c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Ff22dd05b7955472ec17588c2aef43fdd.jpg_up.jpg",
+   "published": "2026-11-24T15:41:16+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Billy Bob Thornton Sticks to Old-School Thanksgiving, Admits He’s a Holiday ‘Purist’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/billy-bob-thornton-sticks-old-153727314.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8aa7e4c5c5d59f1e76102960e7c799a7f75195c5385861ce1a6973631f0c4860/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffirst_for_women_articles_145%2Fcf923642c4c0b600c976ca639c75312d.jpg",
+   "published": "2026-11-24T15:37:27+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Robert Downey Jr. takes on a bold new role in 'Avengers: Doomsday.' Who's the villainous Doctor Doom — and what happened to Iron Man?",
+   "url": "https://www.yahoo.com/entertainment/movies/article/robert-downey-jr-takes-on-a-bold-new-role-in-avengers-doomsday-whos-the-villainous-doctor-doom--and-what-happened-to-iron-man-121513969.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/47a5ed719edde1effbe3a2784022ad9a6af3e77c6d0ca4ce4f469e874a2bdae5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Frobert-downey-jr_7102.png",
+   "published": "2026-11-24T15:32:10+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Prince Harry And Meghan Markle’s Team Shuts Down ‘Entirely False’ Visa Claims Amid Speculation Donald Trump Forced Their Return To Britain",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-team-153000854.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5dc331734c7b966ac585af7d4282501e0753c02684eabf47b43b3a3c8721e95f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fce288716c4dbdfa379430dcbf2ae003a.jpg",
+   "published": "2026-11-24T15:30:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "A Miley Cyrus Wedding Guest Broke the Dress Code in Bright Yellow—Her Sister Explains Why",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-wedding-guest-broke-151404670.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/6d60cca0c39b8c271e069c7aeaa7e0ec8027e62786ded5aa18697a28e8fedc10/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F6080d406dddddeee1dd5424656de7a0e.jpg",
+   "published": "2026-11-24T15:14:04+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -275,23 +352,34 @@
    "trend_score": 2000
   },
   {
-   "title": "Robert Downey Jr. takes on a bold new role in 'Avengers: Doomsday.' Who's the villainous Doctor Doom — and what happened to Iron Man?",
-   "url": "https://www.yahoo.com/entertainment/movies/article/robert-downey-jr-takes-on-a-bold-new-role-in-avengers-doomsday-whos-the-villainous-doctor-doom--and-what-happened-to-iron-man-121513969.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/47a5ed719edde1effbe3a2784022ad9a6af3e77c6d0ca4ce4f469e874a2bdae5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Frobert-downey-jr_7102.png",
-   "published": "2026-11-24T13:55:47+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
    "title": "‘Just made me like her even more’: Vanity Fair’s Taylor Swift ‘hit piece’ sparks outrage",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/just-made-her-even-more-113053016.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/53b5b56b146125f375e713543854aa23ebe6d039d9b5a3f7e54f8ee7611656b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F1843e3a3f02e5f55a9cb7c3582395823.jpg",
    "published": "2026-11-24T11:30:53+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "The 17 Best Christmas Romance Movies on Netflix, Ranked",
+   "url": "https://collider.com/best-netflix-christmas-romantic-movies/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/emma-roberts-and-luke-bracey-in-holidate-1.jpg",
+   "published": "2026-11-24T11:23:12+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Billy Bob Thornton Is Officially the King of Streaming",
+   "url": "https://collider.com/taylor-sheridan-landman-streaming-success-billy-bob-thornton-mayflower-release-date/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/landman-season-2-billy-bob-thornton-1.jpeg",
+   "published": "2026-11-24T11:00:12+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -319,6 +407,28 @@
    "trend_score": 2000
   },
   {
+   "title": "Hila Klein Announces She's Walking Away From 'H3 Podcast' Amid Divorce",
+   "url": "https://www.usmagazine.com/entertainment/news/hila-klein-announces-shes-walking-away-from-h3-podcast/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Hila-Klein-Announces-Walking-Away-From-H3-Podcast-Amid-Divorce.jpeg?crop=0px%2C413px%2C1217px%2C688px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-24T09:27:48+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Hila Klein Announces She’s Walking Away From ‘H3 Podcast’ Amid Ethan Klein Cheating Allegations",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/hila-klein-announces-she-walking-092748704.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/86c5cf3563d7155e4462a33315d6fc1013e095faa7d69dcd0cf8c9a22b027579/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fdb00635e700b972546d0768d51dbaca4.jpg_up.jpg",
+   "published": "2026-11-24T09:27:48+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Dax Shepard opens up about 'offensive' accusations he is 'abusive husband' to Kristen Bell",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/dax-shepard-opens-offensive-accusations-211735769.html",
    "source": "yahoo.com",
@@ -337,7 +447,29 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
    "published": "2026-11-24T08:43:08+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Christopher Lloyd, 88, Posts Tribute to Wife Lisa, 56, on 10th Anniversary",
+   "url": "https://www.usmagazine.com/celebrity-news/news/christopher-lloyd-celebrates-10th-anniversary-with-wife-lisa/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305166053-Christopher-Lloyd-Celebrates-10th-Anniversary-With-Wife-Lisa.jpg?crop=369px%2C72px%2C1240px%2C699px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-24T08:41:54+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Christopher Lloyd, 88, Shares Sweet Tribute to Wife Lisa, 56, on 10th Wedding Anniversary",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/christopher-lloyd-88-shares-sweet-084154929.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e3031291102a6a1ef57d002adf2b8cd4a76e813862de1d4e7f8e3fc0ebdfa9bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fdfa2f4c1c9114e01ba37e92c9da31ce6.jpg",
+   "published": "2026-11-24T08:41:54+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -402,6 +534,17 @@
    "category": "Awards",
    "image": "https://s.yimg.com/lo/mysterio/api/402d2f93d622e4f5aaa7484d2a51fbc357c38ab058b0bad0d137aff92f9430df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F39f0e3ded3371830f72bc6ed39387858.jpg",
    "published": "2026-11-24T03:35:27+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Hila Klein Makes ‘Painful’ Decision to Step Away from H3 Podcast After Husband Ethan’s Alleged Affair",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/hila-klein-makes-painful-decision-031550699.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8a94cba8b9e946dd4992585c2a69fe63d1701c1da5cc0cc3fbb9b1833d892866/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F71492991ac9733cb80115ffae941803b.jpg",
+   "published": "2026-11-24T03:15:50+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -568,7 +711,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
    "published": "2026-11-24T00:36:09+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -622,6 +765,17 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/4a86fa9578b080e3a463108cb12838cbec84224e382fcace501946611c822ce6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff82cebc6f37ab9b6b431602651e7e601.jpg_up.jpg",
    "published": "2026-11-23T23:57:16+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "3 Best Prime Video Movies To Watch This Week (Nov 23-27)",
+   "url": "https://collider.com/best-movies-prime-video-week-november-23-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/04/hairspray-michelle-pfeiffer2.jpg",
+   "published": "2026-11-23T23:34:34+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -865,7 +1019,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
    "published": "2026-11-23T21:49:52+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -953,7 +1107,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
    "published": "2026-11-23T21:26:51+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1007,6 +1161,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/006b5cae126d80deeb458219db0d371b896d27bf2628d0eb8b7a7cf2a61c5c55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fa720e4eb6d15d2afdf2644e82ae46498.jpg",
    "published": "2026-11-23T20:44:43+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "3 Best Netflix Movies To Watch This Week (Nov 23-27)",
+   "url": "https://collider.com/best-netflix-movies-watch-week-november-23-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/caught-stealing-regina-king-matt-smith-interview.jpg",
+   "published": "2026-11-23T20:19:12+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -1107,7 +1272,7 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
    "published": "2026-11-23T19:30:12+00:00",
    "trending": true,
-   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1371,7 +1536,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
    "published": "2026-11-23T17:24:45+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1382,7 +1547,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1393,7 +1558,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1815,14 +1980,14 @@
    "trend_score": 2000
   },
   {
-   "title": "Most Likely To...? The Cast of The Hunting Wives Plays Collider Superlatives!",
-   "url": "https://collider.com/video/most-likely-to-the-cast-of-the-hunting-wives-plays-collider-superlatives/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/superlatives-hunting-wives.jpg",
-   "published": "2026-11-23T15:51:14+00:00",
+   "title": "Watch: Melissa McCarthy, Clive Owen star in JonBenet Ramsey series",
+   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/watch-melissa-mccarthy-clive-owen-154132011.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/fcc68eaaa17778d32c89f14673b31e3f89cd7e1f9e7a7c60222f49198f677bc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F12921281523701ed293fb23076aa28fc.jpg_up.jpg",
+   "published": "2026-11-24T15:41:32+00:00",
    "trending": true,
-   "trend_term": "eduardo franco",
+   "trend_term": "jonbenet ramsey",
    "trend_score": 1000
   },
   {
@@ -2068,6 +2233,17 @@
    "trend_score": 0
   },
   {
+   "title": "Most Likely To...? The Cast of The Hunting Wives Plays Collider Superlatives!",
+   "url": "https://collider.com/video/most-likely-to-the-cast-of-the-hunting-wives-plays-collider-superlatives/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/superlatives-hunting-wives.jpg",
+   "published": "2026-11-23T15:51:14+00:00",
+   "trending": true,
+   "trend_term": "eduardo franco",
+   "trend_score": 0
+  },
+  {
    "title": "Don Toliver Concert Evacuated After ‘Substance Believed to Be Tear Gas’ Was Released into Arena Crowd",
    "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-concert-evacuated-substance-024617016.html",
    "source": "yahoo.com",
@@ -2090,12 +2266,133 @@
    "trend_score": 0
   },
   {
-   "title": "Prince Harry finally addresses visa controversy after UK return: 'Entirely false'",
-   "url": "https://jang.com.pk/en/76806-prince-harry-finally-addresses-visa-controversy-after-uk-return-entirely-false-news",
-   "source": "jang.com.pk",
+   "title": "‘Andor’ Creator Explains How ‘Rogue One’ Inspired ‘Behemoth!’ in New BTS Featurette",
+   "url": "https://collider.com/behemoth-featurette-pedro-pascal-tony-gilroy/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/copy-of-collider-template-2026-11-24t074650-075.jpg",
+   "published": "2026-11-24T16:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Irish reality star dances her way to final of Dancing with the Stars",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/irish-reality-star-dances-her-154226072.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/790e1eab39c3226404b4dc084e1f531adc4e27d52915304e98c12636ce119066/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff4860356e95374e1b919088dac3dad53.jpg",
+   "published": "2026-11-24T15:53:07+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jimmy Kimmel on Jensen Huang’s return to Nvidia: ‘What a profoundly stupid time to be alive’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jimmy-kimmel-jensen-huang-return-155100760.html",
+   "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76806_051344_eng.jpg",
-   "published": "2026-11-24T17:13:39+05:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/724a819ff4e60078e37965c42abb23c1a9f450a0d2dc3b9d3c77c1e20b6b10b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F57184700ab289f38be331c9c6163b1fb.jpg",
+   "published": "2026-11-24T15:51:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "“When CC Don’t Forget About You”: Kid Cudi Flaunts Multi-Pair Haul of Caitlin Clark’s Nike CC1 Sneakers in Heartfelt Shoutout",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/cc-don-t-forget-kid-154829908.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/745ec5f9d380d1ff1b4717b00f537a3d05c074987a0f66e3eeb587e1fe7468f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcollege_football_network_979%2Fb399416bc8b74d348d048d382728f9ab.jpg",
+   "published": "2026-11-24T15:48:29+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Stevie Wonder concert marks 50th anniversary with surprise Dave Chappelle appearance",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/stevie-wonder-concert-marks-50th-154616087.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/1b8f231f903e57b8dc4f6054c8ffa7e6aebf2fb9a5bfa44e8f1e4267e70b73c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F76df59a83dab86abf40a088395726376.jpg",
+   "published": "2026-11-24T15:46:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Man-Xi Ho’s Miu MIu Floral Fantasy at the Golden Horse Awards",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/man-xi-ho-miu-miu-154357819.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/269edbf845467fe797522272b39b90b9e16cc52e3b06a34b43799bcd317dec63/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2F552134c53d4fe0a5c384ae2d9dd10989.jpg_up.jpg",
+   "published": "2026-11-24T15:43:57+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Aardman Getting 50th Anniversary Doc Special ‘Cracking Job Gromit’ at BBC",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/aardman-getting-50th-anniversary-doc-154309410.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/c52a0ac8ae48f4ee62438537aa4cc59da2b0cfbebe138858bae4eed6fe99612e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F7cb0fe4426a35c7934a48cf164f18ef1.jpg_up.jpg",
+   "published": "2026-11-24T15:43:09+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ray Nicholson Shares Surprising Story About How Dad Jack Nicholson’s Hollywood Career Took Shape (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ray-nicholson-shares-surprising-story-153954884.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/46fd04a7225da7566d1537626185eb0105be5047e7d6261a764b70a7b7c8e986/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F76177c411d37c7ef5fe56cfc279e3c0f.jpg_up.jpg",
+   "published": "2026-11-24T15:39:54+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Justin Timberlake ‘Wanted a Chance to Tell His Side of the Story,’ Flaws and All (Exclusive Source)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-wanted-chance-tell-153638009.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/61c211b14a98abd7a3854590c1359bed700c5ae006feeac4dc0e15638aacd40f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F288bdfe8455c6e8161df9eb3d5827a1a.jpg",
+   "published": "2026-11-24T15:36:38+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Miley Cyrus walks down the aisle in a stunning Saint Laurent wedding dress",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-walks-down-aisle-153316621.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/ffe8b5308bf4157cfb691a3cf3d22ba08471dd501923e0cad77d92f5a5bc9df5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F8fd829a27655aaa03e57ca90964c9f76.jpg",
+   "published": "2026-11-24T15:33:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "This pop band sold out concerts in the '70s but now their music is barely played - do you remember them?",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/whatever-happened-70s-pop-sensations-140000688.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/c2a53ff15b2c914e84d8ac72db738962969d4175fdd71d66dd1eb9f79b1423e3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F17f563e3c7d5951aa04937125a0e0e83.jpg",
+   "published": "2026-11-24T15:32:03+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jennifer Lopez’s Marine Serre Dress Goes Sheer Up Top & Down Below for NYT",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jennifer-lopez-marine-serre-dress-153000555.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/5e634b17734348b916b2c6713724035dfa27beded45bbc58d6bda0c1103054d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Feb44340c44693ad62e9d220c9d16953c.jpg",
+   "published": "2026-11-24T15:30:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2272,6 +2569,17 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/7687e23cf6f9ed8801a48372faa02a83e7379447ee973e645a693dcc13c99fc9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F62794cd84997078ed826b47f57e365b8.jpg",
    "published": "2026-11-24T14:08:17+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Why Fashion Is Moving Beyond the Runway and Into the Director’s Chair",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/why-fashion-moving-beyond-runway-140000629.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/e85fffe3b9c502d2dc916dbe35229404b4e61b3704da93ca99e1a40e643e3f7c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Felle_570%2F222fd808708e29449c757c2a43dc770a.jpg_up.jpg",
+   "published": "2026-11-24T14:00:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2662,17 +2970,6 @@
    "trend_score": 0
   },
   {
-   "title": "The 17 Best Christmas Romance Movies on Netflix, Ranked",
-   "url": "https://collider.com/best-netflix-christmas-romantic-movies/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/emma-roberts-and-luke-bracey-in-holidate-1.jpg",
-   "published": "2026-11-24T11:23:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Bob Woodward wants readers to know how he sees the world and how that shapes his reporting",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bob-woodward-wants-readers-know-112008229.html",
    "source": "yahoo.com",
@@ -2734,17 +3031,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/7e12c1a5624945240749eb18c28bfde5e0c87d1f020ed3852b3224dc5bfc6bf7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_examiner_239%2F127770f5dbd453f5476e8142eff9cf74.jpg",
    "published": "2026-11-24T11:00:31+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Billy Bob Thornton Is Officially the King of Streaming",
-   "url": "https://collider.com/taylor-sheridan-landman-streaming-success-billy-bob-thornton-mayflower-release-date/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/landman-season-2-billy-bob-thornton-1.jpeg",
-   "published": "2026-11-24T11:00:12+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2976,17 +3262,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/2afcefaa447c37c214854d8bb7ecd3ab151101db722fdf2130cb2f6a8a4b3d94/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png_up.jpg",
    "published": "2026-11-24T08:54:56+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Christopher Lloyd, 88, Posts Tribute to Wife Lisa, 56, on 10th Anniversary",
-   "url": "https://www.usmagazine.com/celebrity-news/news/christopher-lloyd-celebrates-10th-anniversary-with-wife-lisa/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305166053-Christopher-Lloyd-Celebrates-10th-Anniversary-With-Wife-Lisa.jpg?crop=369px%2C72px%2C1240px%2C699px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-24T08:41:54+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3586,17 +3861,6 @@
    "trend_score": 0
   },
   {
-   "title": "Hila Klein Makes ‘Painful’ Decision to Step Away from H3 Podcast After Husband Ethan’s Alleged Affair",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/hila-klein-makes-painful-decision-031550699.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8a94cba8b9e946dd4992585c2a69fe63d1701c1da5cc0cc3fbb9b1833d892866/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F71492991ac9733cb80115ffae941803b.jpg",
-   "published": "2026-11-24T03:15:50+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "‘H3’ podcaster Hila Klein pulls the plug on new show after husband Ethan’s affair and divorce drama",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/h3-podcaster-hila-klein-pulls-030548068.html",
    "source": "yahoo.com",
@@ -4120,17 +4384,6 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-gilded-age-season-4-episode-2-morgan-spector-carrie-coon.jpg",
    "published": "2026-11-23T23:42:36+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "3 Best Prime Video Movies To Watch This Week (Nov 23-27)",
-   "url": "https://collider.com/best-movies-prime-video-week-november-23-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/04/hairspray-michelle-pfeiffer2.jpg",
-   "published": "2026-11-23T23:34:34+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4857,17 +5110,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/729cc25d9fbaa74b2c0c756abdd5fef0b413220026fc33c1be26b688c8273e2a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fd20e6bb59c4e086de90cc5ed6f8345e1.jpg",
    "published": "2026-11-23T20:21:35+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "3 Best Netflix Movies To Watch This Week (Nov 23-27)",
-   "url": "https://collider.com/best-netflix-movies-watch-week-november-23-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/caught-stealing-regina-king-matt-smith-interview.jpg",
-   "published": "2026-11-23T20:19:12+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -5988,7 +6230,7 @@
    "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/200-best-songs-1990s-145448081.html",
    "source": "yahoo.com",
    "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/632b5e40f13a66990d6fe1f3d5d04fcd624b4c9a9c7dc2a054a320ae4468d6d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F6fd661fbe64daa36ae27975f667acdab.jpg",
+   "image": "https://s.yimg.com/lo/mysterio/api/33d14deac92bd5dd182619e53edfe09ddfefc56c48cf6d64484ad4060b7a725a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F49338b4017dc94662f27740a874afb93.jpg",
    "published": "2026-11-23T14:54:48+00:00",
    "trending": false,
    "trend_term": null,
