@@ -1,15 +1,26 @@
 {
- "generated_at": "2026-11-24T17:04:49.808523+00:00",
+ "generated_at": "2026-11-24T17:56:01.997383+00:00",
  "date_us": "2026-11-24",
  "per_site": {
   "usmagazine.com": 16,
   "news.meaww.com": 4,
-  "profiles.yahoo.com": 8,
+  "profiles.yahoo.com": 6,
   "yahoo.com": 29,
-  "jang.com.pk": 8,
-  "collider.com": 9
+  "jang.com.pk": 9,
+  "collider.com": 8
  },
  "items": [
+  {
+   "title": "Billy Ray Cyrus shares Miley Cyrus wedding photos in emotional tribute",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/billy-ray-cyrus-shares-miley-173201928.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/fff0929ba0f9d7b3ccc730561cee13b547c0983cb6e55cc069a1aab470cbb989/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F1068bf1a2b8806a8cacbf870be11563a.jpg",
+   "published": "2026-11-24T17:32:01+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
   {
    "title": "Billy Ray Cyrus shares heartfelt tribute to Miley Cyrus after her wedding to Maxx Morando: 'Proudest dad alive'",
    "url": "https://www.yahoo.com/entertainment/celebrity/article/billy-ray-cyrus-shares-heartfelt-tribute-to-miley-cyrus-after-her-wedding-to-maxx-morando-proudest-dad-alive-102741477.html",
@@ -220,6 +231,17 @@
    "trend_score": 3000
   },
   {
+   "title": "Melissa McCarthy, Clive Owen lead chilling series 'JonBenét Ramsey Murder'",
+   "url": "https://jang.com.pk/en/76828-melissa-mccarthy-clive-owen-lead-chilling-series-jonbent-ramsey-murder-news",
+   "source": "jang.com.pk",
+   "category": "TV",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76828_104125_eng.jpg",
+   "published": "2026-11-24T22:41:22+05:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Is Blake Lively behind Taylor Swift Vanity Fair exposé? Shocking details emerge",
    "url": "https://jang.com.pk/en/76811-is-blake-lively-behind-taylor-swift-vanity-fair-expos-shocking-details-emerge-news",
    "source": "jang.com.pk",
@@ -283,6 +305,17 @@
    "published": "2026-11-24T15:54:00+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Watch: Melissa McCarthy, Clive Owen star in JonBenet Ramsey series",
+   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/watch-melissa-mccarthy-clive-owen-154132011.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/fcc68eaaa17778d32c89f14673b31e3f89cd7e1f9e7a7c60222f49198f677bc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F12921281523701ed293fb23076aa28fc.jpg_up.jpg",
+   "published": "2026-11-24T15:41:32+00:00",
+   "trending": true,
+   "trend_term": "jonbenet ramsey · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -374,14 +407,36 @@
    "trend_score": 2000
   },
   {
-   "title": "Influencer, 60, Announces Her Own Death in Pre-Recorded Video, 4 Years After Stage 4 Breast Cancer Diagnosis",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/influencer-60-announces-her-own-110403276.html",
+   "title": "Rob Lowe revisits sex tape scandal and more wild revelations in new Netflix doc",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rob-lowe-revisits-sex-tape-111949514.html",
    "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/198c080868bad030d86fa99974a3f0fbd40264454fb25be2cd82edab1cd042f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff04c3e00aee1f532f64d753ee9b1c2fe.jpg",
-   "published": "2026-11-24T11:04:03+00:00",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/45a9059a1023f2a2406920ba4f2deb1922c23e67084007d78736cab9655cb0fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecider_articles_194%2Fd339e041e2d2537c911b92460f273042.jpg",
+   "published": "2026-11-24T11:19:49+00:00",
    "trending": true,
-   "trend_term": "christie miller",
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Rob Lowe Makes Rare Comment on His Infamous Sex Tape Scandal in Netflix Doc",
+   "url": "https://www.usmagazine.com/celebrity-news/news/rob-lowe-makes-rare-comment-on-infamous-sex-tape-scandal/",
+   "source": "usmagazine.com",
+   "category": "Streaming",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Rob_Lowe__The_Outsider_n_00_03_12_00.jpg",
+   "published": "2026-11-24T11:16:43+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Rob Lowe Makes Rare Comment on Infamous Sex Tape Scandal: ‘Not Trying to Do Revisionist History’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/rob-lowe-makes-rare-infamous-111643725.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/43526fa718c3bfc2a36c3311ee93b20c43702037314a592c4dfc00cd7450be39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F1f1581ad45df82d99d728cd98566313c.jpg",
+   "published": "2026-11-24T11:16:43+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -458,7 +513,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
    "published": "2026-11-24T08:43:08+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -501,6 +556,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/136946b6a3ff702a684d3f2465ffca47b9c19b3c218a0b17479d462fcb786da2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fdd8945ba1896ebbd55525f976082d83d.jpg_up.jpg",
    "published": "2026-11-24T08:11:22+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Drugs, excess and a sex-tape scandal: How Rob Lowe survived the Eighties",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/drugs-excess-sex-tape-scandal-080100857.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/70f6ed7f81f09cc44b02550acb848aeecadc1d0924852fedb8bb80360db33c42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F77eb3075ec1258fcc6ea09c3947c6c50.jpg",
+   "published": "2026-11-24T08:01:00+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -722,7 +788,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
    "published": "2026-11-24T00:36:09+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1030,7 +1096,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
    "published": "2026-11-23T21:49:52+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1118,7 +1184,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
    "published": "2026-11-23T21:26:51+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1283,7 +1349,7 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
    "published": "2026-11-23T19:30:12+00:00",
    "trending": true,
-   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1547,7 +1613,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
    "published": "2026-11-23T17:24:45+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1558,7 +1624,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1569,7 +1635,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1991,39 +2057,6 @@
    "trend_score": 2000
   },
   {
-   "title": "‘Hooters: The Movie’ Sets Owen Patrick Joyner, Kyle Clark & Audrey Trullinger",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/hooters-movie-sets-owen-patrick-014115678.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/35a9fbc64581fc9c3920d9518e4d5ad39ce92022f955256d0b5cb4704c49b17b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fb9882a8e8377dbb162577eee9b91ed42.jpg",
-   "published": "2026-11-24T01:41:15+00:00",
-   "trending": true,
-   "trend_term": "liv morgan",
-   "trend_score": 500
-  },
-  {
-   "title": "‘The View’: Alyssa Farah Griffin Questions Whether Jensen Huang Was Reinstated in Exchange for No Investigation",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/view-alyssa-farah-griffin-questions-174702865.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/381997c952ec704926cbe987c1f836ade4a75f6f0a4532e21be123e79703d12d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F12446defba9056b62d731a623869764b.jpg",
-   "published": "2026-11-23T17:47:02+00:00",
-   "trending": true,
-   "trend_term": "the view",
-   "trend_score": 500
-  },
-  {
-   "title": "Watch: Melissa McCarthy, Clive Owen star in JonBenet Ramsey series",
-   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/watch-melissa-mccarthy-clive-owen-154132011.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/fcc68eaaa17778d32c89f14673b31e3f89cd7e1f9e7a7c60222f49198f677bc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F12921281523701ed293fb23076aa28fc.jpg_up.jpg",
-   "published": "2026-11-24T15:41:32+00:00",
-   "trending": true,
-   "trend_term": "jonbenet ramsey",
-   "trend_score": 0
-  },
-  {
    "title": "Happy Birthday, Katherine Heigl! See the “Grey’s Anatomy” Actress’s Cutest Family Photos with Her Husband and 3 Kids",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/happy-birthday-katherine-heigl-see-113000051.html",
    "source": "yahoo.com",
@@ -2032,6 +2065,17 @@
    "published": "2026-11-24T11:30:00+00:00",
    "trending": true,
    "trend_term": "katherine heigl",
+   "trend_score": 0
+  },
+  {
+   "title": "Influencer, 60, Announces Her Own Death in Pre-Recorded Video, 4 Years After Stage 4 Breast Cancer Diagnosis",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/influencer-60-announces-her-own-110403276.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/198c080868bad030d86fa99974a3f0fbd40264454fb25be2cd82edab1cd042f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff04c3e00aee1f532f64d753ee9b1c2fe.jpg",
+   "published": "2026-11-24T11:04:03+00:00",
+   "trending": true,
+   "trend_term": "christie miller",
    "trend_score": 0
   },
   {
@@ -2098,6 +2142,17 @@
    "published": "2026-11-24T02:45:00+00:00",
    "trending": true,
    "trend_term": "prince harry",
+   "trend_score": 0
+  },
+  {
+   "title": "‘Hooters: The Movie’ Sets Owen Patrick Joyner, Kyle Clark & Audrey Trullinger",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/hooters-movie-sets-owen-patrick-014115678.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/35a9fbc64581fc9c3920d9518e4d5ad39ce92022f955256d0b5cb4704c49b17b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fb9882a8e8377dbb162577eee9b91ed42.jpg",
+   "published": "2026-11-24T01:41:15+00:00",
+   "trending": true,
+   "trend_term": "liv morgan",
    "trend_score": 0
   },
   {
@@ -2255,6 +2310,17 @@
    "trend_score": 0
   },
   {
+   "title": "‘The View’: Alyssa Farah Griffin Questions Whether Jensen Huang Was Reinstated in Exchange for No Investigation",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/view-alyssa-farah-griffin-questions-174702865.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/381997c952ec704926cbe987c1f836ade4a75f6f0a4532e21be123e79703d12d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F12446defba9056b62d731a623869764b.jpg",
+   "published": "2026-11-23T17:47:02+00:00",
+   "trending": true,
+   "trend_term": "the view",
+   "trend_score": 0
+  },
+  {
    "title": "Marvel’s Spider-Man Officially Gets Stunning Makeover For New Release",
    "url": "https://collider.com/marvel-spider-man-peach-momoko-art-book-exclusive/",
    "source": "collider.com",
@@ -2288,6 +2354,17 @@
    "trend_score": 0
   },
   {
+   "title": "Here's why King Carl Gustaf abruptly withdraws key royal from major event",
+   "url": "https://jang.com.pk/en/76825-heres-why-king-carl-gustaf-abruptly-withdraws-key-royal-from-major-event-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76825_101034_eng.jpg",
+   "published": "2026-11-24T22:10:31+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "U2 confirms 2027 World Tour: Greatest Show on Earth in major announcement",
    "url": "https://jang.com.pk/en/76823-u2-confirms-2027-world-tour-greatest-show-on-earth-in-major-announcement-news",
    "source": "jang.com.pk",
@@ -2305,6 +2382,204 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76814_070948_eng.jpg",
    "published": "2026-11-24T19:09:44+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The Best Books From the Last 10 Years That Hooked Me From the Opening Chapter",
+   "url": "https://collider.com/best-books-last-10-years-hooked-me-opening-chapter/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/la-belle-sauvage-phillip-pullman.jpg",
+   "published": "2026-11-24T17:45:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ariana Grande to debut Eternal Sunshine Tour concert film, documentary on Peacock",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/ariana-grande-debut-eternal-sunshine-174500750.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/46efbbaa52095d1a2f1fdb687a3c6ed9c0b2ad72f18d1c0f0a346ceb4b3259bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fabc_audio_244%2F8c99a29d22210f0e544faa47c3b98d7f.png_up.jpg",
+   "published": "2026-11-24T17:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Michelle Randolph’s ‘Landman’ Breakthrough Brings An Unexpected Glen Powell Connection Into The Spotlight",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/michelle-randolph-landman-breakthrough-brings-174500574.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/18dd7215f7bbc9ef6d9ed6e7d4c65c73400ea7659540f647133ca49cdd7686dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Ffeff154dc486530863025d8c063f1d98.jpg",
+   "published": "2026-11-24T17:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Robin Thicke, Katy Perry, Martin Short and More!",
+   "url": "https://www.usmagazine.com/hot-pics/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Robin-Thicke-and-April-Love-Geary-Los-Angeles-Lakers-and-the-Utah-Jazz-Instagram-Hot-Pics.jpg?crop=182px%2C244px%2C1049px%2C593px&resize=800%2C450&quality=40&strip=all",
+   "published": "2026-11-24T17:42:32+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Hear’Say and Liberty X scrap reunion tour after ticket sales fall short",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/hear-liberty-x-scrap-reunion-174144168.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/240905b38231a13d0c8f747d84a7db25675acfcd2c9bffd1d39b15415e74a875/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fca5e07101b5ab520cf1fa6ccdd9d64b9.jpg",
+   "published": "2026-11-24T17:41:44+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "U2 adds North American dates to 'Carnaval de Luz' world tour",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/u2-adds-north-american-dates-173931738.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/3cbe1ffa3d1fc6344cabc877eb6edd425facb7874b876f5e627a6574163cb0dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F051ea6613594bc771a37e7a57216356f.jpg_up.jpg",
+   "published": "2026-11-24T17:39:31+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘The View’ Host Whoopi Goldberg Outright Questions Topic Choice: ‘Why Do We Have a Take on This?’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/view-host-whoopi-goldberg-outright-173613357.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/5564460aab8fa8928e308e1b2240d2d3c4e0645ff17e4b288a0658f9187eb171/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F8be3c15fdc998f90d8e95fcf27c059c8.jpg_up.jpg",
+   "published": "2026-11-24T17:36:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Max Balegde's Number 10 TikTok Has Landed Him In A Rather Unexpected Controversy",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/max-balegdes-number-10-tiktok-173402079.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5c1ba10b5f3e10c50107c7c3fa22ab6dc661b5821ba4bc5ff849c43d2092e28b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F37fbb1bf9b87b43a8105791d370a12b6.jpg",
+   "published": "2026-11-24T17:34:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Disney’s ‘Hexed’ Casts Weak Spell Over Rotten Tomatoes Critics",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/disney-hexed-casts-weak-spell-173350126.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/3643abbd950a99b462745bdc435b7bbb29e5aede272987d14a34a802284e2da0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F829750493091e041e8a7670220b7efed.jpg_up.jpg",
+   "published": "2026-11-24T17:33:50+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘90 Day Fiance’ Star Sheila Mangubat’s Cause of Death Revealed Days After Her Sudden Passing at 35",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fiance-star-sheila-173228726.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0d5b80c93ee6394adba6b4a580c90915bc6b600c7b9e69c78ed75af7d2142a7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F2ef91404f032d54d9c5b1862988c411d.jpg",
+   "published": "2026-11-24T17:32:28+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Richard Branson Remembers His Wife Joan One Year After Her Death",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/richard-branson-remembers-wife-joan-173138041.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/02f917f16f866fa2529dac386021c9e8f227e806f9bfa49a85e9f0fbe19eb66c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Faf1001a5f99f02c790358ad56b6acf34.jpg",
+   "published": "2026-11-24T17:31:38+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "AnnaLynne McCord Looks Back on the ‘Days of Our Lives’ Role That ‘Saved’ Her—Months After Her Backyard Wedding at Her L.A. Home",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/annalynne-mccord-looks-back-days-173102629.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c85ca7e4e75b48bbd385396bf59be619601cdf841a1f14623f2241fbb4d0cf8d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frealtor_com_468%2F11645b581b299c6bcd11308d4ef38df9.jpg",
+   "published": "2026-11-24T17:31:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Selena Gomez Pairs Dress With Unexpected High-Slit & LW PEI Handbag",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/selena-gomez-pairs-dress-unexpected-173000585.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/4ac2308e2558eb65067942360b521cee6612c972cea85b20e89ef41dc3fb9522/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2F8f379ca5692fa19653c7eb2b631a94cf.jpg",
+   "published": "2026-11-24T17:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Mckenna Grace Takes a ’60s Mod Turn on ‘The Hunger Games’ Press Tour",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/mckenna-grace-takes-60s-mod-171909516.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/8d6a05e38e6f855274f625bc49602e5bcd9f0a6ef0972754fb9d71213708a8a0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2F8460d22b1b537033d7b3eff5e8319761.jpg",
+   "published": "2026-11-24T17:19:09+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The House Of Montirex: Liverpool Shows Up For Its Own",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/house-montirex-liverpool-shows-own-171738855.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/a56504fb6d7c1b78e1d9196812559b487c14f76144fc814ea1fc695e1db70ede/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fb6d1f933686079f09c960609bebe511f.jpg",
+   "published": "2026-11-24T17:17:38+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Alexandra Daddario Reacts to Rumors She Could Be the Next Bond Girl Opposite Robert Pattinson (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/alexandra-daddario-reacts-rumors-she-171558139.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/853f924e7e1a911580b721e9048f444ee705918614ceda2170f533abc81d72fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F636eb7024ebbc47dde3fe5fa780a5a28.jpg",
+   "published": "2026-11-24T17:15:58+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Amy Schumer Wears Plunging Lace Dress With Sentimental Nod to Her Famous Friend and “Hero”",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/amy-schumer-wears-plunging-lace-171331207.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/eadcbcbc1e004b78f16c99f86a77c5394ab762e6f0238b7fe89394aa3af32fba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F65df14160d56af4656bfa9fa787952bc.jpg",
+   "published": "2026-11-24T17:13:31+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Johnny Depp's lavish spending, outbursts and path to fame examined in new biography",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/johnny-depps-lavish-spending-outbursts-170958451.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/79935144febbd393060a3f47e096b067c46b4b583c860999e644d0eaee23079f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fb23518a0f31d6a7005fa735a261c7f2f.jpg",
+   "published": "2026-11-24T17:09:58+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2426,6 +2701,17 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/aa3e80b79faf25bf11f1b7bacc0b773d290b8f5db151164784e5e6e2442c376f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspin_digital_media%2F66efa3aa3a55021223f31a0fdfd5d765.jpg",
    "published": "2026-11-24T16:37:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The Princess of Wales Swaps Her Classic Waves for a Romantic Boho Hairstyle: How to Recreate It",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/princess-wales-swaps-her-classic-163126070.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/1743a3ea741c8a5388eb72521e30f4c971269e1cfd223b40c6e801bb3077909c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2F0b6e805056fb94a9e7ddfc7cabee9cb4.jpg_up.jpg",
+   "published": "2026-11-24T16:31:26+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3245,17 +3531,6 @@
    "trend_score": 0
   },
   {
-   "title": "Rob Lowe revisits sex tape scandal and more wild revelations in new Netflix doc",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rob-lowe-revisits-sex-tape-111949514.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/45a9059a1023f2a2406920ba4f2deb1922c23e67084007d78736cab9655cb0fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecider_articles_194%2Fd339e041e2d2537c911b92460f273042.jpg",
-   "published": "2026-11-24T11:19:49+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "People Are Saddened By Mahershala Ali's Take On Hollywood After Winning 2 Oscars",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/people-saddened-mahershala-alis-hollywood-111406349.html",
    "source": "yahoo.com",
@@ -3581,17 +3856,6 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/415878733d5eb974df6ed5dd231dfcbeadab90c97ac29c6dd3858d1dfe6dd6cd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F8bddaea998ca6699de6eef5b2d2923f0.jpg_up.jpg",
    "published": "2026-11-24T08:20:49+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Drugs, excess and a sex-tape scandal: How Rob Lowe survived the Eighties",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/drugs-excess-sex-tape-scandal-080100857.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/70f6ed7f81f09cc44b02550acb848aeecadc1d0924852fedb8bb80360db33c42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F77eb3075ec1258fcc6ea09c3947c6c50.jpg",
-   "published": "2026-11-24T08:01:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -6298,17 +6562,6 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-further-mis-adventures-of-cliff-booth-brad-pitt-2.jpg",
    "published": "2026-11-23T17:17:29+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Gordon Ramsay, Joe Amabile, Hailee Steinfeld and More!",
-   "url": "https://www.usmagazine.com/hot-pics/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/gordon-ramsay-hot-pics.jpg?crop=0px%2C18px%2C2000px%2C1130px&resize=800%2C450&quality=86&strip=all",
-   "published": "2026-11-23T17:00:32+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
