@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-24T05:58:17.896344+00:00",
+ "generated_at": "2026-11-24T07:07:14.275877+00:00",
  "date_us": "2026-11-24",
  "per_site": {
-  "usmagazine.com": 16,
+  "usmagazine.com": 17,
   "news.meaww.com": 4,
-  "profiles.yahoo.com": 9,
-  "yahoo.com": 30,
-  "jang.com.pk": 7,
+  "profiles.yahoo.com": 8,
+  "yahoo.com": 29,
+  "jang.com.pk": 6,
   "collider.com": 9
  },
  "items": [
@@ -176,6 +176,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Sister of guest who wore yellow to Miley Cyrus’ all-black wedding reveals pop star’s reaction to fashion faux pas",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/sister-guest-wore-yellow-miley-022306778.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/e04978a422398c0c389958ec64d871dbd9bc2d2080d2cbd47e6085cf7a8db4b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2Fa8062e82b52c0c83c29484639da309ad.jpg",
+   "published": "2026-11-24T02:23:06+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "“The Bachelor”’s Kelley Flanagan on Why She Hasn’t Dated in 2 Years",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bachelor-kelley-flanagan-why-she-020400346.html",
    "source": "yahoo.com",
@@ -209,6 +220,28 @@
    "trend_score": 2000
   },
   {
+   "title": "Sister of Miley Cyrus Wedding Guest Wearing Yellow Reacts to Dress Code Mishap",
+   "url": "https://www.usmagazine.com/stylish/news/sister-of-miley-cyrus-wedding-guest-wearing-yellow-speaks-out/",
+   "source": "usmagazine.com",
+   "category": "Fashion",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Sister-of-Miley-Cyrus-Wedding-Guest-Wearing-Yellow-at-Nuptials-Speaks-Out-2.jpg",
+   "published": "2026-11-23T23:57:16+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Sister of Miley Cyrus Wedding Guest Wearing Yellow at Nuptials Speaks Out After Dress Code Mishap",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/sister-miley-cyrus-wedding-guest-235716545.html",
+   "source": "profiles.yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/4a86fa9578b080e3a463108cb12838cbec84224e382fcace501946611c822ce6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff82cebc6f37ab9b6b431602651e7e601.jpg_up.jpg",
+   "published": "2026-11-23T23:57:16+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "‘DWTS’ Judge Derek Hough Opens Up About Childhood Trauma In New Documentary",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dwts-judge-derek-hough-opens-233000635.html",
    "source": "yahoo.com",
@@ -226,6 +259,28 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2183930719-jessica-alba-cash-warren.jpg?crop=0px%2C41px%2C1200px%2C677px&resize=1000%2C563&quality=55&strip=all",
    "published": "2026-11-23T23:27:55+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Jessica Alba Ordered to Pay Ex-Husband Cash Warren $577K as Part of Divorce Settlement",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jessica-alba-ordered-pay-ex-232755277.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c6cf1d6289ddb5a7cd95abf2667c7af0c5ad9254ebe2500fb0665726742d0bc8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fcf87c25b9bb4751ce016a536e3dfa4e9.jpg_up.jpg",
+   "published": "2026-11-23T23:27:55+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Miley Cyrus Wedding Guest Wears Yellow, Breaking All-Black Dress Code: Family Member Explains What Happened",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-wedding-guest-wears-231918963.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/fca258f9f64409b51cddac8f93c9d20785072b21c411cfc28c6000feb22dea42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjust_jared_884%2F3512088eb2fbe99ac25c86a5731c172e.jpg_up.jpg",
+   "published": "2026-11-23T23:19:18+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -638,6 +693,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Miley Cyrus’ Reaction To Guest Who Broke Wedding Dress Code Revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-reaction-guest-broke-194500523.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/ba085a906c68b289a0fdb8dace950108b5d5834f1c59f32f6bd6e3937e8a1892/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fcb3da3f80c3a12687b3a42b57c5eeda4.jpg",
+   "published": "2026-11-23T19:45:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "RHOSLC’s Whitney Rose Breaks Down in Tears Discussing Justin Rose Split",
    "url": "https://www.usmagazine.com/celebrity-news/news/whitney-rose-gets-emotional-discussing-justin-rose-split/",
    "source": "usmagazine.com",
@@ -776,6 +842,17 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/45fd76215c676494eda4e68ebd8a82c04b9921b3611e4a969e4f8caa87eb1a4b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fabf67f81b5434613ae0f73134cb1d009.jpg",
    "published": "2026-11-23T18:42:28+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Miley Cyrus wedding guest called out for breaking all-black dress code",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-wedding-guest-called-183449733.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/112153510d15836aa681a9f997f7d8af48a8909d584dde8ad5d92c42f7f78a1a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F04db6b0484ff80ed13043d188c2cac9c.jpg",
+   "published": "2026-11-23T18:34:49+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -968,6 +1045,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Miley Cyrus Just Revealed Her Wedding Dress—and It's Not What I Expected",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-just-revealed-her-154838104.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/b760b86fcbf4f78c97ed4ea7aaa63ddc3fc598d754521665674a7b63190b3c9a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpurewow_185%2F4e907381568265a9326437af614f307e.jpg_up.jpg",
+   "published": "2026-11-23T15:48:38+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Inside Chris Brown and Usher's 'Tension' on Tour: 'Egos Started to Show'",
    "url": "https://www.usmagazine.com/celebrity-news/news/inside-chris-brown-and-ushers-tension-on-the-rb-tour/",
    "source": "usmagazine.com",
@@ -1144,6 +1232,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Here's Why A Woman Broke Miley Cyrus's Strict Black-Tie Wedding Dress Code",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/heres-why-woman-broke-miley-112220536.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/7d173dd954f46baac4882fea66c0ef690a3abd6b574972996308882c64fe7d42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F8f8457537872fcaf0cb766923250fcf6.jpg",
+   "published": "2026-11-23T11:22:20+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Jason Tartick Teases Holiday Plans With Fiancee Kathryn After Engagement",
    "url": "https://www.usmagazine.com/celebrity-news/news/jason-tartick-teases-holiday-plans-with-fiancee-kathryn-hurley/",
    "source": "usmagazine.com",
@@ -1309,14 +1408,36 @@
    "trend_score": 2000
   },
   {
-   "title": "Marvel Officially Unmasks Doctor Doom Ahead of Robert Downey Jr.’s Return in ‘Avengers: Doomsday’",
-   "url": "https://collider.com/marvel-doctor-doom-unmasked-secret-wars/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
-   "published": "2026-11-23T19:30:12+00:00",
+   "title": "Adam Driver Teases His ‘X-Men’ Villain Mister Sinister to Seth Meyers",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/adam-driver-teases-x-men-064234535.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/dbb63b787d631125d774582371fb9101844203dde1a20b3ce19e90761648fafc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F1e42a3233134ed9a7422ab7760b4d7b5.jpg",
+   "published": "2026-11-24T06:42:34+00:00",
    "trending": true,
-   "trend_term": "anthony mackie",
+   "trend_term": "adam driver",
+   "trend_score": 500
+  },
+  {
+   "title": "Adam Driver: ‘No One Was Paying Us’ to Develop ‘The Hunt for Ben Solo’ and ‘Star Wars’ Boss Said ‘We Have a 100% Approval’ to Make It, Then Disney Killed It",
+   "url": "https://www.yahoo.com/entertainment/articles/adam-driver-no-one-paying-223553021.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/d4897d4ac21f927ce8d485174e1cb181a662a88a5b2401443334e3f3f01d4342/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F788c070ac253f9a0b4fc323de80bf591.jpg",
+   "published": "2026-11-23T22:35:53+00:00",
+   "trending": true,
+   "trend_term": "adam driver",
+   "trend_score": 500
+  },
+  {
+   "title": "Seth Rogen says starring in hit ’90s show was so bad he had a ‘nervous breakdown’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/seth-rogen-says-starring-hit-193008720.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9338b62974dd13e72f3b3febb8395b5bb5e5a7840fb171cf070ed5bd15e50784/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F8f6ddf342262acea077a9001e15a5786.jpg",
+   "published": "2026-11-23T19:30:08+00:00",
+   "trending": true,
+   "trend_term": "seth rogen",
    "trend_score": 200
   },
   {
@@ -1361,6 +1482,17 @@
    "published": "2026-11-23T19:34:47+00:00",
    "trending": true,
    "trend_term": "tee higgins",
+   "trend_score": 0
+  },
+  {
+   "title": "Marvel Officially Unmasks Doctor Doom Ahead of Robert Downey Jr.’s Return in ‘Avengers: Doomsday’",
+   "url": "https://collider.com/marvel-doctor-doom-unmasked-secret-wars/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
+   "published": "2026-11-23T19:30:12+00:00",
+   "trending": true,
+   "trend_term": "anthony mackie",
    "trend_score": 0
   },
   {
@@ -1427,6 +1559,116 @@
    "published": "2026-11-23T17:00:12+00:00",
    "trending": true,
    "trend_term": "tom holland",
+   "trend_score": 0
+  },
+  {
+   "title": "Britain's Got Talent winner almost missed audition due to Carphone Warehouse shift",
+   "url": "https://www.yahoo.com/entertainment/articles/britains-got-talent-winner-almost-183402050.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9cbfa9c99736929d070fa0c29961d3320fc57731f0e88e71eae8f8f5cb4f187a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd9e64c58dc72a5918272858122bb625d.jpg_up.jpg",
+   "published": "2026-11-24T06:51:28+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Remember me? Japan's Tamagotchi turns 30",
+   "url": "https://www.yahoo.com/entertainment/articles/remember-japans-tamagotchi-turns-30-065121051.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8866796a383f484785ff77de140fd60362c75b619f4fcb6b7c00c67c1f15270b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fintellinews_516%2F0c59384df395c02fde7204bb567c8d6a.jpg_up.jpg",
+   "published": "2026-11-24T06:51:21+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Anthem Singer Apologizes for ‘O Canada’ Flub at Leafs-Islanders Game",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/anthem-singer-apologizes-o-canada-065050853.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/883b18d51c692cd9a7d035e8c3222f32742501fa148bdd4aba9412f9ed0dcb24/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb48a4ca72b41b3e468248cba142f7f34.jpg",
+   "published": "2026-11-24T06:50:50+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jimmy Kimmel Socks Trump Right In His Marriage With ‘Unbelievable’ Melania Title",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jimmy-kimmel-socks-trump-marriage-063857903.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/47668bfb98cdac121c8698949a529ba05a0ab63abdf33ac2c39d6b96120cfb9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2Fd1cd0fb076ea32043b8636f7274cac7f.jpg",
+   "published": "2026-11-24T06:38:57+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Calls for Sir Patrick Stewart blue plaque exception",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/calls-sir-patrick-stewart-blue-062938866.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1b5ceb0e9053f88631b15c31294af0c1322052021a5e30533d1a80063ff626f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F13b7c9a8eac275753b9dec5701162491.jpg",
+   "published": "2026-11-24T06:29:38+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Love Blooms Behind an Open Prison’s Missing Bars in Venice and Busan-Selected Director Nidhi Saxena’s ‘Azaad Nagar’ at WAVES Film Bazaar",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/love-blooms-behind-open-prison-061735846.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/232f7c2265ecb1886ab169896274d817b28e57e4539839437dec8c326e98c981/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F2f4b0bcb6883bf87fad14cba3edc6151.jpg_up.jpg",
+   "published": "2026-11-24T06:17:35+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Bake Off finalist ready for watch party in church",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/bake-off-finalist-ready-watch-061558806.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/88548567dc2234ce72cd6ca0ab7cec675a760022d5ac10b9ecae50d2a7b907dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa320a2033d58cafa243dd462d0e29537.jpg",
+   "published": "2026-11-24T06:15:58+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Kimmel Jokes Trump Has ’62 Million’ Reasons Why He Wanted Nvidia CEO Reinstated",
+   "url": "https://www.yahoo.com/entertainment/articles/kimmel-jokes-trump-62-million-061412797.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f015ddd0b955346564525ffccdbc51db467ac11fa77365e95e178510c0c188af/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2Ff373aaee809b39f4f0698504d1d50abd.jpg",
+   "published": "2026-11-24T06:14:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ranbir Kapoor’s ‘Brahmastra’ Sequel Could Go ‘Even More Indian,’ Director Ayan Mukerji Tells IFFI",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/ranbir-kapoor-brahmastra-sequel-could-060406243.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/d13968b68cda40ccf98a7b1e17516af0c34c77696b8d4aa1fd4aff3cc6067066/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fa8b8795ebe99e58c00ec387e1afbd629.jpg_up.jpg",
+   "published": "2026-11-24T06:04:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Harnaam Kaur, Who Holds Guinness World Record for Youngest Woman to Grow a Full Beard, Plans to Shave It",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/harnaam-kaur-holds-guinness-world-055233431.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/29463ca8828c6ad389f4e5e5f6d0181e38cde5c02c67ffbfbc3b5214de84c730/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F78ba87495758d01148fc4a7647a77cd9.jpg",
+   "published": "2026-11-24T05:52:33+00:00",
+   "trending": false,
+   "trend_term": null,
    "trend_score": 0
   },
   {
@@ -1892,17 +2134,6 @@
    "trend_score": 0
   },
   {
-   "title": "Sister of guest who wore yellow to Miley Cyrus’ all-black wedding reveals pop star’s reaction to fashion faux pas",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/sister-guest-wore-yellow-miley-022306778.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/e04978a422398c0c389958ec64d871dbd9bc2d2080d2cbd47e6085cf7a8db4b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2Fa8062e82b52c0c83c29484639da309ad.jpg",
-   "published": "2026-11-24T02:23:06+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "3 Elite Prime Video Series to Binge This Week (Nov 23-27)",
    "url": "https://collider.com/prime-video-shows-binge-week-november-23-2026/",
    "source": "collider.com",
@@ -2266,6 +2497,17 @@
    "trend_score": 0
   },
   {
+   "title": "Kat Cunning Warns 'Line of Fire' Fans They Should Be Nervous Before Finale",
+   "url": "https://www.usmagazine.com/entertainment/news/line-of-fires-kat-cunning-hints-fans-should-be-nervous/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305630896.jpg",
+   "published": "2026-11-24T00:30:11+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "‘I Dream Of Jeannie’ Star Barbara Eden, 95, Reveals The Daily Habit She Refuses To Give Up",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dream-jeannie-star-barbara-eden-003000487.html",
    "source": "yahoo.com",
@@ -2349,6 +2591,17 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/86c3c08ad94f758b83e60e13cdd8475c00cdb3cb81fdadf2dd22c8ef95a72a9d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2Fce7c1edd3bd79b1990feb6960aca21f7.jpg",
    "published": "2026-11-24T00:04:52+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Keltie Knight Carries Style Gun to Keep Clothes 'Snatched' — What's in Her Bag",
+   "url": "https://www.usmagazine.com/stylish/news/everything-keltie-knight-carries-in-her-bag-excl/",
+   "source": "usmagazine.com",
+   "category": "Fashion",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Keltie-Knight-Carries-Hack-to-Keep-Clothes-Snatched-Whats-in-Her-Bag.jpg",
+   "published": "2026-11-23T23:55:12+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2459,17 +2712,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/40fd00d2bbd80121bd0d134ecd18b5fd51435e95a31c026a9745e25ea4b677e8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F3b573077b91f7de7c1f9c2344dd06808.jpg",
    "published": "2026-11-23T23:26:34+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Miley Cyrus Wedding Guest Wears Yellow, Breaking All-Black Dress Code: Family Member Explains What Happened",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-wedding-guest-wears-231918963.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/fca258f9f64409b51cddac8f93c9d20785072b21c411cfc28c6000feb22dea42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjust_jared_884%2F3512088eb2fbe99ac25c86a5731c172e.jpg_up.jpg",
-   "published": "2026-11-23T23:19:18+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2591,17 +2833,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/1aa3c9bbe2bb01299b9971e935d2e4ac2644590c61feddf8a9279182f897e0a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F45412c72710134ab47b50fafed21e372.jpg",
    "published": "2026-11-23T22:47:26+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Adam Driver: ‘No One Was Paying Us’ to Develop ‘The Hunt for Ben Solo’ and ‘Star Wars’ Boss Said ‘We Have a 100% Approval’ to Make It, Then Disney Killed It",
-   "url": "https://www.yahoo.com/entertainment/articles/adam-driver-no-one-paying-223553021.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/d4897d4ac21f927ce8d485174e1cb181a662a88a5b2401443334e3f3f01d4342/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F788c070ac253f9a0b4fc323de80bf591.jpg",
-   "published": "2026-11-23T22:35:53+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3300,17 +3531,6 @@
    "trend_score": 0
   },
   {
-   "title": "Miley Cyrus’ Reaction To Guest Who Broke Wedding Dress Code Revealed",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-reaction-guest-broke-194500523.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/ba085a906c68b289a0fdb8dace950108b5d5834f1c59f32f6bd6e3937e8a1892/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fcb3da3f80c3a12687b3a42b57c5eeda4.jpg",
-   "published": "2026-11-23T19:45:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "What Is The 'Jupiter Incident 2011' Meme? The Viral Memes About IShowSpeed, CaseOh And Joe Bartolozzi's Disastrous Trip To Space Explained",
    "url": "https://www.yahoo.com/entertainment/articles/jupiter-incident-2011-meme-viral-194500860.html",
    "source": "yahoo.com",
@@ -3394,17 +3614,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/bb5b6b87c4df096c72f9825ce50a8faa25e2f4b32e741f013f4e4fa6c2583430/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fc49a0bea5069b87c74834440a84a534f.jpg",
    "published": "2026-11-23T19:30:16+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Seth Rogen says starring in hit ’90s show was so bad he had a ‘nervous breakdown’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/seth-rogen-says-starring-hit-193008720.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9338b62974dd13e72f3b3febb8395b5bb5e5a7840fb171cf070ed5bd15e50784/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F8f6ddf342262acea077a9001e15a5786.jpg",
-   "published": "2026-11-23T19:30:08+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3603,28 +3812,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/9b1df900fbbd6c35b7578e9b3a0d5ebe7cb305d808a50f202e9d95133e1c520e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F20b65ecbf426ad07411897de56c02d99.jpg",
    "published": "2026-11-23T18:39:14+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Miley Cyrus wedding guest called out for breaking all-black dress code",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-wedding-guest-called-183449733.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/112153510d15836aa681a9f997f7d8af48a8909d584dde8ad5d92c42f7f78a1a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F04db6b0484ff80ed13043d188c2cac9c.jpg",
-   "published": "2026-11-23T18:34:49+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Britain's Got Talent winner almost missed audition due to Carphone Warehouse shift",
-   "url": "https://www.yahoo.com/entertainment/articles/britains-got-talent-winner-almost-183402050.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9cbfa9c99736929d070fa0c29961d3320fc57731f0e88e71eae8f8f5cb4f187a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd9e64c58dc72a5918272858122bb625d.jpg_up.jpg",
-   "published": "2026-11-23T18:34:02+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4389,17 +4576,6 @@
    "trend_score": 0
   },
   {
-   "title": "Miley Cyrus Just Revealed Her Wedding Dress—and It's Not What I Expected",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-just-revealed-her-154838104.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/b760b86fcbf4f78c97ed4ea7aaa63ddc3fc598d754521665674a7b63190b3c9a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpurewow_185%2F4e907381568265a9326437af614f307e.jpg_up.jpg",
-   "published": "2026-11-23T15:48:38+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Princess Charlene attends special ceremony with brother Gareth Wittstock",
    "url": "https://jang.com.pk/en/76766-princess-charlene-attends-special-ceremony-with-brother-gareth-wittstock-news",
    "source": "jang.com.pk",
@@ -4483,17 +4659,6 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
    "published": "2026-11-23T12:28:40+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Here's Why A Woman Broke Miley Cyrus's Strict Black-Tie Wedding Dress Code",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/heres-why-woman-broke-miley-112220536.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/7d173dd954f46baac4882fea66c0ef690a3abd6b574972996308882c64fe7d42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F8f8457537872fcaf0cb766923250fcf6.jpg",
-   "published": "2026-11-23T11:22:20+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
