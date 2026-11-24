@@ -1,15 +1,26 @@
 {
- "generated_at": "2026-11-24T11:55:29.741000+00:00",
+ "generated_at": "2026-11-24T13:09:52.195874+00:00",
  "date_us": "2026-11-24",
  "per_site": {
   "usmagazine.com": 16,
-  "news.meaww.com": 3,
+  "news.meaww.com": 4,
   "profiles.yahoo.com": 10,
-  "yahoo.com": 29,
-  "jang.com.pk": 8,
+  "yahoo.com": 30,
+  "jang.com.pk": 9,
   "collider.com": 9
  },
  "items": [
+  {
+   "title": "Miley Cyrus and Maxx Morando celebrate their wedding with matching tattoos",
+   "url": "https://news.meaww.com/miley-cyrus-and-maxx-morando-celebrate-their-wedding-with-matching-tattoos",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795523370650_2436be9cd27f.jpg",
+   "published": "2026-11-24T12:34:24+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
   {
    "title": "Billy Ray Cyrus shares heartfelt tribute to Miley Cyrus after her wedding to Maxx Morando: 'Proudest dad alive'",
    "url": "https://www.yahoo.com/entertainment/celebrity/article/billy-ray-cyrus-shares-heartfelt-tribute-to-miley-cyrus-after-her-wedding-to-maxx-morando-proudest-dad-alive-102741477.html",
@@ -209,6 +220,28 @@
    "trend_score": 3000
   },
   {
+   "title": "Travis Kelce stands by Taylor Swift after controversial Vanity Fair article",
+   "url": "https://jang.com.pk/en/76808-travis-kelce-stands-by-taylor-swift-after-controversial-vanity-fair-article-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76808_055554_eng.jpg",
+   "published": "2026-11-24T17:55:36+05:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Prince Harry, Meghan Markle prompts US media to release Archie, Lilibet’s photos soon",
+   "url": "https://jang.com.pk/en/76802-prince-harry-meghan-markle-prompts-us-media-to-release-archie-lilibets-photos-soon-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76802_050758_eng.jpg",
+   "published": "2026-11-24T16:10:23+05:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Taylor Swift strongly reacts to Vanity Fair’s ‘mean girl’ exposé: ‘It feels like…’",
    "url": "https://jang.com.pk/en/76798-taylor-swift-strongly-reacts-to-vanity-fairs-mean-girl-expos-it-feels-like-news",
    "source": "jang.com.pk",
@@ -271,7 +304,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
    "published": "2026-11-24T08:43:08+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -481,6 +514,17 @@
    "published": "2026-11-24T00:56:22+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Prince Harry and Meghan Markle’s Reason for Staying in the U.K. for Christmas Revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-reason-003609184.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
+   "published": "2026-11-24T00:36:09+00:00",
+   "trending": true,
+   "trend_term": "prince harry · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -777,7 +821,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
    "published": "2026-11-23T21:49:52+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -865,7 +909,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
    "published": "2026-11-23T21:26:51+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1019,7 +1063,7 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
    "published": "2026-11-23T19:30:12+00:00",
    "trending": true,
-   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites",
+   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1276,6 +1320,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Meghan Markle’s Hairstylist Spills Secrets About Life With Prince Harry",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-hairstylist-spills-secrets-172445112.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
+   "published": "2026-11-23T17:24:45+00:00",
+   "trending": true,
+   "trend_term": "prince harry · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Apple TV Docuseries Trailer",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-makes-rare-ex-171218001.html",
    "source": "profiles.yahoo.com",
@@ -1283,7 +1338,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1294,7 +1349,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1716,6 +1771,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Happy Birthday, Katherine Heigl! See the “Grey’s Anatomy” Actress’s Cutest Family Photos with Her Husband and 3 Kids",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/happy-birthday-katherine-heigl-see-113000051.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d4f2be5319e8a7a3bd73e1a3661fd9bce0933dead78edf5892849764850e1f0c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff468023da9354641e0317b94cf546877.jpg",
+   "published": "2026-11-24T11:30:00+00:00",
+   "trending": true,
+   "trend_term": "katherine heigl",
+   "trend_score": 200
+  },
+  {
    "title": "Prince Harry and Meghan Markle spotted on child-free date night in the UK: 'Surreal'",
    "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-spotted-100033791.html",
    "source": "yahoo.com",
@@ -1777,17 +1843,6 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/cf987ae89856f9d0b1a74c9462a3cb049468943481fe4ddd2ecf4ca8bfa6b254/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F7b9ee39b47f00818219c688a041b8051.jpg",
    "published": "2026-11-24T02:45:00+00:00",
-   "trending": true,
-   "trend_term": "prince harry",
-   "trend_score": 0
-  },
-  {
-   "title": "Prince Harry and Meghan Markle’s Reason for Staying in the U.K. for Christmas Revealed",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-reason-003609184.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
-   "published": "2026-11-24T00:36:09+00:00",
    "trending": true,
    "trend_term": "prince harry",
    "trend_score": 0
@@ -1947,17 +2002,6 @@
    "trend_score": 0
   },
   {
-   "title": "Meghan Markle’s Hairstylist Spills Secrets About Life With Prince Harry",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-hairstylist-spills-secrets-172445112.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
-   "published": "2026-11-23T17:24:45+00:00",
-   "trending": true,
-   "trend_term": "prince harry",
-   "trend_score": 0
-  },
-  {
    "title": "Marvel’s Spider-Man Officially Gets Stunning Makeover For New Release",
    "url": "https://collider.com/marvel-spider-man-peach-momoko-art-book-exclusive/",
    "source": "collider.com",
@@ -1980,6 +2024,17 @@
    "trend_score": 0
   },
   {
+   "title": "Prince Harry finally addresses visa controversy after UK return: 'Entirely false'",
+   "url": "https://jang.com.pk/en/76806-prince-harry-finally-addresses-visa-controversy-after-uk-return-entirely-false-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76806_051344_eng.jpg",
+   "published": "2026-11-24T17:13:39+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "AI voice recorder Plaud wins Google Play's 2026 Productivity app award",
    "url": "https://jang.com.pk/en/76801-ai-voice-recorder-plaud-wins-google-plays-2026-productivity-app-award-news",
    "source": "jang.com.pk",
@@ -1991,12 +2046,232 @@
    "trend_score": 0
   },
   {
+   "title": "25 Absurd LinkedIn Posts Capturing Entrepreneur Insanity",
+   "url": "https://www.yahoo.com/entertainment/articles/25-absurd-linkedin-posts-capturing-130029595.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/49f1a4178e7cb2977edb4c51a1861aebd572f2acea1e0ed13c84aa589a3a560d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fknow_your_meme_909%2F20bdc2327582fcf7f31a40456e8b1226.jpg",
+   "published": "2026-11-24T13:00:29+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘NCIS’ Spin-Off Series “Cannot Go Out Like This” Amid Renewal Uncertainty",
+   "url": "https://collider.com/ncis-origins-season-4-renewal-kyle-schmid-season-3-finale/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/3248121_ncor_s3_0794b-1.jpg",
+   "published": "2026-11-24T13:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "OG Christmas Vacation Director Gets Real About How Feud With Chevy Chase Made Him Quit The Film",
+   "url": "https://www.yahoo.com/entertainment/articles/og-christmas-vacation-director-gets-125310136.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/dad8967901b5e6c5f8a8c5b929ffb023724dc7bbc4b6bdf6b59d8ca2d2efbdc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F2ea02c566b9a6fd7b277c42b1b5e331e.jpg",
+   "published": "2026-11-24T12:53:10+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "7 Greatest Romantasy Book Series of All Time, Ranked",
+   "url": "https://collider.com/best-romantasy-book-series-all-time-ranked/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/the-fourth-wing.jpg",
+   "published": "2026-11-24T12:52:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "British Independent Film Awards: ‘I See Buildings Fall Like Lightning,’ ‘Savage House,’ ‘Ink’ & ‘The Magic Faraway Tree’ Among Craft Winners",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/british-independent-film-awards-see-124730099.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/adbc451ad75d59043c35d8c37a414502829f2f99592063f054f9169bea16b6f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fd6c86945e49ec6bbdcff31e6b58efe6b.jpg_up.jpg",
+   "published": "2026-11-24T12:47:30+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘I See Buildings Fall Like Lightning’ Tops British Independent Film Awards’ Craft Winners",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/see-buildings-fall-lightning-tops-124500640.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/febc0c4b820296d16b13d04c0205c5dd604bf65ecefe8b828be84430b6501ef8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F41997d7bdbf2d08316c2eed979456a5c.jpg",
+   "published": "2026-11-24T12:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘I See Buildings Fall Like Lightning’ and ‘Savage House’ Win British Independent Film Awards in Craft Categories",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/see-buildings-fall-lightning-savage-124500455.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/c5c8f357782556557a26c93d8e0964db6f1db3b5e295db6c97c584cdc222fe10/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F96cdabe8a72d6b6d3be12724766eed84.jpg_up.jpg",
+   "published": "2026-11-24T12:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Netflix Sets ‘March Of The Jaguars’ Release, Narrated By Fernanda Torres & Its First Wildlife Film Out Of Latin America: Watch Trailer",
+   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/netflix-sets-march-jaguars-release-124044731.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/a1b2ecb0e1e56329d35d0346e9018233778f3882ae11a21895bc55a680340a9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F93a9ba965b7f9f3e09e4c2b1192098cb.jpg",
+   "published": "2026-11-24T12:40:44+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Bros announce first tour in a decade",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/bros-announce-first-tour-decade-123120953.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/e09818c04f172c9dbc004fe3be4181b83c36d263b5af5f6cf79dcb9ca0389411/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F895d88b10792cbb161520ebf37389f09.jpg_up.jpg",
+   "published": "2026-11-24T12:39:28+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jimmy Kimmel Mocks New Melania Docuseries: ‘Even Less Than Meets the Eye’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/jimmy-kimmel-mocks-melania-docuseries-123726272.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/fccffd9c20182b627ada1d37c468043029074c76be8583072d870bedf7026715/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fcceffaa63595518f743e51cd0dc6db78.jpg",
+   "published": "2026-11-24T12:37:26+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Hulu Is Losing One of Tom Hanks’ Best Movies Before Christmas",
+   "url": "https://collider.com/toy-story-2-leaving-hulu-december-23-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/img_2873-1.jpg",
+   "published": "2026-11-24T12:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Meet the Kids of the “Bonanza” Cast",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/meet-kids-bonanza-cast-123000019.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c5c5798fc1c275eb227392dd09478fbefbc50f6f1563a336af1fe91a17b4d7f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc2c5d2520ce52254bcf3d79e7d34d0b9.jpg",
+   "published": "2026-11-24T12:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "15 Small Movie Mistakes That People Pointed Out Anyway",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/15-small-movie-mistakes-people-123000637.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/98abf79b438062af8842e76a1d3076d35602cfd733206fc1ae8b97650b51369b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcracked_901%2Fb7a9e2826f09231cfdc7418cffaaf732.jpg",
+   "published": "2026-11-24T12:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Kate Middleton and Prince William’s Country Home Broken into by Masked Intruders: Reports",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-prince-william-country-122732044.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/fd44bcf655aa149d9d8e38ce4836e578103d0f31d962c60502489865f98e1f53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F5d46cc32026ddcff6785fea1656cf9ae.jpg",
+   "published": "2026-11-24T12:27:32+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Peter Weller, 79, steps out for rare red carpet appearance alongside wife",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/peter-weller-79-steps-rare-121346260.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/d7bb328c65d6a830315b6bc296689a08e6b0e9d36b0970dbf0f4783ec46c2a6d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fbbc8f630675f58f9be644e25714d0ce0.jpg",
+   "published": "2026-11-24T12:13:46+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "J.J. Abrams’ 5-Season Sci-Fi Thriller Is Even More Important in 2026",
+   "url": "https://collider.com/most-important-sci-fi-thriller-series-2026-person-of-interest/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/john-nolan-2.jpg",
+   "published": "2026-11-24T12:13:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 7 Greatest Movie Masterpieces Over 3 Hours, Ranked",
+   "url": "https://collider.com/best-movie-masterpieces-over-3-hours-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/elijah-wood-in-return-of-the-king.jpg",
+   "published": "2026-11-24T12:03:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "2 Years Later, Hugh Grant’s Near-Perfect Masterpiece Is Leaving Hulu",
+   "url": "https://collider.com/heretic-leaving-hulu-december-8-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/10/heretic-hugh-grant.jpg",
+   "published": "2026-11-24T12:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jennifer Lawrence And Jasmina Aganovic Launched Haircare Brand Mes° From A ‘Stubborn Belief’ That It ‘Needs To Exist’: ‘We’re Full Steam Ahead’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jennifer-lawrence-jasmina-aganovic-launched-120000194.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/5ae10cf4923d6cfbe2a322f50ed466a1fb91965323c04cc741c524bbf04fb468/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F71d37a486a0eef726acb082fd4aef6dd.jpg_up.jpg",
+   "published": "2026-11-24T12:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Every Show Premiering on CBS in Winter 2026–2027",
    "url": "https://collider.com/cbs-winter-2026-2027-schedule/",
    "source": "collider.com",
    "category": "TV",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/ghosts-rose-mciver.jpg",
    "published": "2026-11-24T11:52:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Pierce Brosnan and wife Keely's life laid bare as son reveals what famous family is really like",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/pierce-brosnan-wife-keelys-life-114636079.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5dd8a24f2b71f5f0982050e74965ff58d7e1fbb9628ff989d48db13ef8a27f69/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F3c20eaba801b1df52000913ecba99dff.jpg",
+   "published": "2026-11-24T11:46:36+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2030,6 +2305,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/9c0a1639b42d84fdfe0fa294e1a8b5f0d80846c904b7b958e280c5a0113057fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F9e6b9110752b3f1b5a5db17b4d2abcd0.jpg",
    "published": "2026-11-24T11:38:57+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Sir Stanley Wells, Britain’s foremost Shakespeare scholar who made radical suggestions about the Bard",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/sir-stanley-wells-britain-foremost-113650240.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/94140149c9f9b0a31a5609e5043dd29cbcbb26abf6e39544fc38c7c936b55d74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Feea93284ab47592fecc36af7ebad83d7.jpg",
+   "published": "2026-11-24T11:36:50+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2074,17 +2360,6 @@
    "category": "TV",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/11/south-park-woman-in-the-hat-stan-sad-1.jpg",
    "published": "2026-11-24T11:30:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Happy Birthday, Katherine Heigl! See the “Grey’s Anatomy” Actress’s Cutest Family Photos with Her Husband and 3 Kids",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/happy-birthday-katherine-heigl-see-113000051.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/d4f2be5319e8a7a3bd73e1a3661fd9bce0933dead78edf5892849764850e1f0c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff468023da9354641e0317b94cf546877.jpg",
-   "published": "2026-11-24T11:30:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2151,6 +2426,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/af522ffbee95c1ed3e6b54ce860b3809155a4bf809724b234e958751412b7de0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa3b3817711b536b14d9766c294e5b34a.jpg",
    "published": "2026-11-24T11:20:08+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Rob Lowe revisits sex tape scandal and more wild revelations in new Netflix doc",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rob-lowe-revisits-sex-tape-111949514.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/45a9059a1023f2a2406920ba4f2deb1922c23e67084007d78736cab9655cb0fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdecider_articles_194%2Fd339e041e2d2537c911b92460f273042.jpg",
+   "published": "2026-11-24T11:19:49+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
