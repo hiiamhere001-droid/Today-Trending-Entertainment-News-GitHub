@@ -1,15 +1,37 @@
 {
- "generated_at": "2026-11-24T07:07:14.275877+00:00",
+ "generated_at": "2026-11-24T08:59:07.116714+00:00",
  "date_us": "2026-11-24",
  "per_site": {
   "usmagazine.com": 17,
-  "news.meaww.com": 4,
-  "profiles.yahoo.com": 8,
+  "news.meaww.com": 3,
+  "profiles.yahoo.com": 11,
   "yahoo.com": 29,
   "jang.com.pk": 6,
   "collider.com": 9
  },
  "items": [
+  {
+   "title": "Tish Cyrus calls daughter Miley Cyrus’ wedding to Maxx Morando ‘the most magical night’",
+   "url": "https://news.meaww.com/tish-cyrus-calls-daughter-miley-cyrus-wedding-to-maxx-morando-the-most-magical-night",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795504108665_7f79b7780ea8.jpg",
+   "published": "2026-11-24T07:21:38+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
+  {
+   "title": "Billy Ray Cyrus Shares Snapshots From Miley’s Wedding: ‘Beautiful’ to See Family ‘United by Love’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/billy-ray-cyrus-shares-snapshots-053639241.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/931c9e40b424154e5c2d92f1004d90c1c1b031a4651c00a51a4c263f832aa57b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Ffb54b83338a50bcbf6cad7fcce11a45b.jpg",
+   "published": "2026-11-24T05:36:39+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
   {
    "title": "Billy Ray Cyrus shares emotional tribute to daughter Miley after her wedding to Maxx Morando",
    "url": "https://news.meaww.com/billy-ray-cyrus-shares-emotional-tribute-to-daughter-miley-after-her-wedding-to-maxx-morando",
@@ -33,12 +55,45 @@
    "trend_score": 3000
   },
   {
+   "title": "Billy Ray Cyrus Reacts to Daughter Miley and Maxx Morando's Intimate Wedding",
+   "url": "https://www.usmagazine.com/celebrity-news/news/billy-ray-cyrus-reacts-to-daughter-mileys-intimate-wedding/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Billy-Ray-Cyrus-Reacts-to-Daughter-Miley-and-Maxx-Morandos-Intimate-Wedding--e1795485219579.jpeg",
+   "published": "2026-11-24T02:11:18+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
+  {
+   "title": "Billy Ray Cyrus Pays Tribute to Daughter Miley After Her Intimate Wedding to Husband Maxx Morando",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/billy-ray-cyrus-pays-tribute-021118458.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a4653f805e7f2a7e7435ce5fed28398dd7fe717f9c2f8d96e83b2a6b939af95d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F7dbe85ec0aa2dd4e22a69c11837ce69b.jpg",
+   "published": "2026-11-24T02:11:18+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
+  {
    "title": "Miley Cyrus celebrates 34th birthday with new photos from her wedding to Maxx Morando",
    "url": "https://news.meaww.com/miley-cyrus-celebrates-34th-birthday-with-new-photos-from-her-wedding-to-maxx-morando",
    "source": "news.meaww.com",
    "category": "Celebrity",
    "image": "https://media.pubninja.com/articles/brand-5/covers/1795485194202_a2a88a887e45.jpg",
    "published": "2026-11-24T01:55:33+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
+  {
+   "title": "Billy Ray Cyrus Shares Emotional Photos from Daughter Miley’s Wedding, Says It Was ‘Beautiful’ Having Family in ‘One Room’",
+   "url": "https://www.yahoo.com/entertainment/articles/billy-ray-cyrus-shares-emotional-013421946.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e75e6b475844ac474e8db0e8824fa514b715be2035957927690dd6f03d6519ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F1bdcbcb75a0829158f71d1a52419051e.jpg",
+   "published": "2026-11-24T01:34:21+00:00",
    "trending": true,
    "trend_term": "covered by 3 sites",
    "trend_score": 3000
@@ -55,12 +110,34 @@
    "trend_score": 3000
   },
   {
+   "title": "Elizabeth Hurley Helped Billy Ray Cyrus Reconnect With Miley Before Her Wedding, Source Says",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/elizabeth-hurley-helped-billy-ray-223002568.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3fe25ed3ed80a4906f71cbe49bbcf3d4f1dac3778c113c53a8afddc3470594d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fe72601f6c4125909aa0d8c6329a59ce3.jpg",
+   "published": "2026-11-23T22:30:02+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
+  {
    "title": "Inside Miley Cyrus and Maxx Morando's 'Intimate' and Untraditional Wedding",
    "url": "https://www.usmagazine.com/celebrity-news/news/inside-miley-cyrus-and-maxx-morandos-untraditional-wedding/",
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Inside-Miley-Cyrus-and-Husband-Maxx-Morando-Intimate-and-Untraditional-Wedding-GettyImages-2249466241.jpg",
    "published": "2026-11-23T21:02:22+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
+  {
+   "title": "Miley Cyrus shows off second daring wedding dress and unseen moment with dad Billy Ray in new photos",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-shows-off-second-204849942.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/07388dd3183fe6e5c7a45d2d79be89917db4ac8d3a43f6a39c8dfe7c0f073b32/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fc4d8b9265dbab9a64282119ee24ca72f.jpg",
+   "published": "2026-11-23T20:48:49+00:00",
    "trending": true,
    "trend_term": "covered by 3 sites",
    "trend_score": 3000
@@ -110,6 +187,72 @@
    "trend_score": 3000
   },
   {
+   "title": "Justin Timberlake’s mom calls relationship with Britney Spears the ‘definition of insanity’ in new doc trailer",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-mom-calls-relationship-212651740.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
+   "published": "2026-11-23T21:26:51+00:00",
+   "trending": true,
+   "trend_term": "justin timberlake · covered by 2 sites",
+   "trend_score": 2500
+  },
+  {
+   "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Apple TV Docuseries Trailer",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-makes-rare-ex-171218001.html",
+   "source": "profiles.yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
+   "published": "2026-11-23T17:12:18+00:00",
+   "trending": true,
+   "trend_term": "justin timberlake · covered by 2 sites",
+   "trend_score": 2500
+  },
+  {
+   "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Doc Trailer",
+   "url": "https://www.usmagazine.com/celebrity-news/news/justin-timberlake-makes-rare-comment-on-britney-spears-in-doc/",
+   "source": "usmagazine.com",
+   "category": "Movies",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T17:12:18+00:00",
+   "trending": true,
+   "trend_term": "justin timberlake · covered by 2 sites",
+   "trend_score": 2500
+  },
+  {
+   "title": "Justin Timberlake Doc Trailer Teases Look at Britney Spears Relationship, DUI Arrest, Jessica Biel Marriage and More",
+   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/justin-timberlake-doc-trailer-teases-151352140.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/5813ae41e2de2cd8d478a0e381e676b7e0080d79b530f44dc5531294b8ae984b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3c9a1e4c42e04cf954df0a41c1a27fe3.jpg",
+   "published": "2026-11-23T15:13:52+00:00",
+   "trending": true,
+   "trend_term": "justin timberlake · covered by 2 sites",
+   "trend_score": 2500
+  },
+  {
+   "title": "Jimmy Kimmel Criticizes Trump’s ‘Fishy’ Support of Nvidia CEO Jensen Huang",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jimmy-kimmel-criticizes-trump-fishy-084308298.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
+   "published": "2026-11-24T08:43:08+00:00",
+   "trending": true,
+   "trend_term": "11 · covered by 2 sites",
+   "trend_score": 2100
+  },
+  {
+   "title": "Donald Trump Praises Nvidia Reinstating CEO Jensen Huang With AI Bra Pic",
+   "url": "https://www.usmagazine.com/celebrity-news/news/jensen-huangs-affair-and-spying-scandal-explained/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
+   "published": "2026-11-23T21:49:52+00:00",
+   "trending": true,
+   "trend_term": "11 · covered by 2 sites",
+   "trend_score": 2100
+  },
+  {
    "title": "Taylor Swift branded 'Regina George' in bombshell Vanity Fair report as 100+ sources weigh in",
    "url": "https://jang.com.pk/en/76790-taylor-swift-branded-regina-george-in-bombshell-vanity-fair-report-as-100-sources-weigh-in-news",
    "source": "jang.com.pk",
@@ -121,12 +264,23 @@
    "trend_score": 2000
   },
   {
-   "title": "Billy Ray Cyrus Shares Snapshots From Miley’s Wedding: ‘Beautiful’ to See Family ‘United by Love’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/billy-ray-cyrus-shares-snapshots-053639241.html",
+   "title": "Donny Osmond addresses Michael Jackson sexual abuse allegations",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/donny-osmond-addresses-michael-jackson-211546817.html",
    "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/931c9e40b424154e5c2d92f1004d90c1c1b031a4651c00a51a4c263f832aa57b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Ffb54b83338a50bcbf6cad7fcce11a45b.jpg",
-   "published": "2026-11-24T05:36:39+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/b9193e97a844e05388b406323db88724f1755adfed295a7d1e1b5500c34a145c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F9fab32e3cbff445eae6e6d626a7bfc69.jpg_up.jpg",
+   "published": "2026-11-24T08:12:08+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Derek Hough alludes to childhood sexual abuse",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/derek-hough-alludes-childhood-sexual-212309172.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/136946b6a3ff702a684d3f2465ffca47b9c19b3c218a0b17479d462fcb786da2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fdd8945ba1896ebbd55525f976082d83d.jpg_up.jpg",
+   "published": "2026-11-24T08:11:22+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -187,6 +341,28 @@
    "trend_score": 2000
   },
   {
+   "title": "Arnold Schwarzenegger's Son Joseph Baena Joins 'Baywatch' in Surprise Role",
+   "url": "https://www.usmagazine.com/entertainment/news/arnold-schwarzeneggers-son-joseph-baena-joins-baywatch-revival/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/BWGroup1.jpg",
+   "published": "2026-11-24T02:20:27+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Joseph Baena Reveals He’s Joining Fox’s Upcoming ‘Baywatch’ Revival in Surprise Role",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/joseph-baena-reveals-joining-fox-022027918.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/f82ba30bac490ee72f705dce3208480ac915a1e1e1e5bcafea11b9d186d089de/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fcc937cda0364091da6bfb04d45900ef7.jpg",
+   "published": "2026-11-24T02:20:27+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "“The Bachelor”’s Kelley Flanagan on Why She Hasn’t Dated in 2 Years",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bachelor-kelley-flanagan-why-she-020400346.html",
    "source": "yahoo.com",
@@ -198,12 +374,89 @@
    "trend_score": 2000
   },
   {
-   "title": "Billy Ray Cyrus Shares Emotional Photos from Daughter Miley’s Wedding, Says It Was ‘Beautiful’ Having Family in ‘One Room’",
-   "url": "https://www.yahoo.com/entertainment/articles/billy-ray-cyrus-shares-emotional-013421946.html",
-   "source": "yahoo.com",
+   "title": "'St. Denis Medical' EP Addresses Ariana Madix Exit After Shocking Show Split",
+   "url": "https://www.usmagazine.com/entertainment/news/st-denis-medical-ep-addresses-ariana-madix-exit-after-show-split/",
+   "source": "usmagazine.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e75e6b475844ac474e8db0e8824fa514b715be2035957927690dd6f03d6519ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F1bdcbcb75a0829158f71d1a52419051e.jpg",
-   "published": "2026-11-24T01:34:21+00:00",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/NUP_211349_02760.jpg",
+   "published": "2026-11-24T01:29:24+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "‘St. Denis Medical’ EP Breaks Silence on Ariana Madix’s Future on Show After Shocking Onscreen Split",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/st-denis-medical-ep-breaks-012924416.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/50cb4b8408557f055dcd9d5661819ef2bd7d43518905285849ebb01b83afe569/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Faac679f624c5bcefe3a4752e21547490.jpg",
+   "published": "2026-11-24T01:29:24+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Kim Zolciak Breaks Silence on Daughter Brielle's Wedding After Son KJ's Arrest",
+   "url": "https://www.usmagazine.com/celebrity-news/news/kim-zolciak-addresses-brielles-wedding-amid-son-kjs-arrest/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Kim-Zolciak-Breaks-Silence-on-Daughter-Brielle-Wedding-Amid-Son-KJ-Sexual-Assault-Sodomy-Arrest.jpg",
+   "published": "2026-11-24T01:03:46+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Kim Zolciak Breaks Silence on Daughter Brielle’s Wedding Amid Son KJ’s Sexual Assault, Sodomy Arrest",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/kim-zolciak-breaks-silence-daughter-010346758.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/49aaf34172a744da222fd54021c1c4e0fc575f24581bf54b7b3e1809bcb14926/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fc8173d0eaa50ab579c0f59ddbf4bf1cf.jpg",
+   "published": "2026-11-24T01:03:46+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Gabriel Iglesias' Rep Gives Update After Comic Fell Ill, Needed Help Off Stage",
+   "url": "https://www.usmagazine.com/celebrity-news/news/gabriel-iglesias-rep-gives-update-after-he-fell-ill-on-stage/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2264079015-Comedian-Gabriel-Iglesias-Breaks-Silence-After-Becoming-Ill-e1795480804888.jpg?crop=0px%2C0px%2C1423px%2C804px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-24T00:57:22+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Gabriel Iglesias’ Rep Gives Update After Comic Became Ill, Required Help Off Stage During Show",
+   "url": "https://www.yahoo.com/entertainment/articles/gabriel-iglesias-rep-gives-comic-005622433.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/15557f0f66aaa30ec1e6d5df801d8e17e47abc8be6912abfe183ab09971d309d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F31b1d839f57954abc31781233a49f8f3.jpg",
+   "published": "2026-11-24T00:56:22+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Kat Cunning Warns 'Line of Fire' Fans They Should Be Nervous Before Finale",
+   "url": "https://www.usmagazine.com/entertainment/news/line-of-fires-kat-cunning-hints-fans-should-be-nervous/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305630896.jpg",
+   "published": "2026-11-24T00:30:11+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Kat Cunning Teases Why ‘Line of Fire’ Viewers ‘Should Be Nervous’: ‘A Lot Is Coming’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/kat-cunning-teases-why-line-003011587.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/e3c0a854355a8015ed04d86126d99043b02ff09f06f0bce68334233c35b2d054/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F7c8237a49f17d82a6d4a9b76ad2caeb7.jpg_up.jpg",
+   "published": "2026-11-24T00:30:11+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -374,17 +627,6 @@
    "trend_score": 2000
   },
   {
-   "title": "Elizabeth Hurley Helped Billy Ray Cyrus Reconnect With Miley Before Her Wedding, Source Says",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/elizabeth-hurley-helped-billy-ray-223002568.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3fe25ed3ed80a4906f71cbe49bbcf3d4f1dac3778c113c53a8afddc3470594d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fe72601f6c4125909aa0d8c6329a59ce3.jpg",
-   "published": "2026-11-23T22:30:02+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
    "title": "The Bachelor’s Kelley Flanagan Explains Why She Hasn’t Dated in 2 Years",
    "url": "https://www.usmagazine.com/celebrity-news/news/kelley-flanagan-explains-why-she-hasnt-dated-in-2-years/",
    "source": "usmagazine.com",
@@ -528,22 +770,22 @@
    "trend_score": 2000
   },
   {
-   "title": "Inside the Star-Studded F1 Las Vegas Grand Prix: Celebs, Style Wins and More",
-   "url": "https://www.usmagazine.com/sports/news/inside-the-star-studded-formula-1-las-vegas-grand-prix/",
-   "source": "usmagazine.com",
+   "title": "Inside the Star-Studded Formula 1 Las Vegas Grand Prix: Celeb Attendees, High-Octane Style and More",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/inside-star-studded-formula-1-213549874.html",
+   "source": "yahoo.com",
    "category": "Fashion",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Inside-the-Star-Studded-Formula-1-Las-Vegas-Grand-Prix.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=40&strip=all",
+   "image": "https://s.yimg.com/lo/mysterio/api/039da7b27ffc2a1323a02386244f17deb2be7f029814972b0681562a0c501298/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F1d7245311143f3fac721b106d42502c1.jpg",
    "published": "2026-11-23T21:35:49+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
   },
   {
-   "title": "Inside the Star-Studded Formula 1 Las Vegas Grand Prix: Celeb Attendees, High-Octane Style and More",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/inside-star-studded-formula-1-213549874.html",
-   "source": "yahoo.com",
+   "title": "Inside the Star-Studded F1 Las Vegas Grand Prix: Celebs, Style Wins and More",
+   "url": "https://www.usmagazine.com/sports/news/inside-the-star-studded-formula-1-las-vegas-grand-prix/",
+   "source": "usmagazine.com",
    "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/039da7b27ffc2a1323a02386244f17deb2be7f029814972b0681562a0c501298/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F1d7245311143f3fac721b106d42502c1.jpg",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Inside-the-Star-Studded-Formula-1-Las-Vegas-Grand-Prix.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=40&strip=all",
    "published": "2026-11-23T21:35:49+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
@@ -556,17 +798,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/16b8d61292bdb24f03a326df717a1d38e7cd525f45e0afd19c587aa91e37149c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F2c73fd87907732e02adb589d0ba6341f.jpg",
    "published": "2026-11-23T21:30:00+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Justin Timberlake’s mom calls relationship with Britney Spears the ‘definition of insanity’ in new doc trailer",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-mom-calls-relationship-212651740.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
-   "published": "2026-11-23T21:26:51+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -589,28 +820,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/10626ac65bca233c10d583bb0a2cb2367c6fe0af146eb1b74582cfe7e568314c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F1f7708d57786561c3c676151d2506ba2.jpg",
    "published": "2026-11-23T21:26:34+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Derek Hough alludes to childhood sexual abuse",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/derek-hough-alludes-childhood-sexual-212309172.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/844a1953e457c646b1cac192cd0e78eb629f0cf1f6eef5c9fb5fcb3948cf9e0e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fac326727979d966973e1993e34e6b0a3.jpg_up.jpg",
-   "published": "2026-11-23T21:23:09+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Miley Cyrus shows off second daring wedding dress and unseen moment with dad Billy Ray in new photos",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-shows-off-second-204849942.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/07388dd3183fe6e5c7a45d2d79be89917db4ac8d3a43f6a39c8dfe7c0f073b32/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fc4d8b9265dbab9a64282119ee24ca72f.jpg",
-   "published": "2026-11-23T20:48:49+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -902,6 +1111,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Kim Zolciak’s Son KJ Gets Legal Victory in Sexual Assault Case: Learn More",
+   "url": "https://www.usmagazine.com/celebrity-news/news/kim-zolciaks-sons-arrest-for-sexual-assault-what-to-know/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/08/Kim-Zolciak.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-23T18:03:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Mariah Carey Claps Back After Holiday Performance Makes Headlines: ‘Don’t Believe Everything’",
    "url": "https://www.yahoo.com/entertainment/music/concerts/articles/mariah-carey-claps-back-holiday-175833283.html",
    "source": "profiles.yahoo.com",
@@ -963,28 +1183,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/d256bdeb147befa5dff9a1752c3cc11793abcc1345d9a48d005d021a89106385/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc94165f0f338bc9b5fc8ff08d770a996.jpg",
    "published": "2026-11-23T17:38:33+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Apple TV Docuseries Trailer",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-makes-rare-ex-171218001.html",
-   "source": "profiles.yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
-   "published": "2026-11-23T17:12:18+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Doc Trailer",
-   "url": "https://www.usmagazine.com/celebrity-news/news/justin-timberlake-makes-rare-comment-on-britney-spears-in-doc/",
-   "source": "usmagazine.com",
-   "category": "Movies",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -1073,17 +1271,6 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/7bf1cd7bc2ecf5188835d61dc378a6d3316fa6cde3a94cbb63540dadc734ba1d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4e4edbaa47f45db12b3cbb72b32a8432.jpg",
    "published": "2026-11-23T15:16:34+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Justin Timberlake Doc Trailer Teases Look at Britney Spears Relationship, DUI Arrest, Jessica Biel Marriage and More",
-   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/justin-timberlake-doc-trailer-teases-151352140.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/5813ae41e2de2cd8d478a0e381e676b7e0080d79b530f44dc5531294b8ae984b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3c9a1e4c42e04cf954df0a41c1a27fe3.jpg",
-   "published": "2026-11-23T15:13:52+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -1408,6 +1595,28 @@
    "trend_score": 2000
   },
   {
+   "title": "‘The Hunger Games: Sunrise on the Reaping’ Dominates U.K., Ireland Box Office as ‘Ramayana’ Sets All-Time Indian Record",
+   "url": "https://www.yahoo.com/entertainment/articles/hunger-games-sunrise-reaping-dominates-082520932.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/e9818bcf96dc8516fe12f204ef54c456e3761bc54e7d5f666aea8a415bdef348/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F7fb1d59ed2fb83b33c85b61dcf7bfccf.jpg",
+   "published": "2026-11-24T08:25:20+00:00",
+   "trending": true,
+   "trend_term": "the hunger games the ballad of songbirds & snakes",
+   "trend_score": 500
+  },
+  {
+   "title": "'Hunger Games' prequel 'Sunrise on the Reaping' opens to $225 million at global box office",
+   "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-prequel-sunrise-on-the-reaping-opens-to-225-million-at-global-box-office-122631323.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
+   "published": "2026-11-23T12:28:40+00:00",
+   "trending": true,
+   "trend_term": "the hunger games the ballad of songbirds & snakes",
+   "trend_score": 500
+  },
+  {
    "title": "Adam Driver Teases His ‘X-Men’ Villain Mister Sinister to Seth Meyers",
    "url": "https://www.yahoo.com/entertainment/movies/articles/adam-driver-teases-x-men-064234535.html",
    "source": "yahoo.com",
@@ -1416,7 +1625,7 @@
    "published": "2026-11-24T06:42:34+00:00",
    "trending": true,
    "trend_term": "adam driver",
-   "trend_score": 500
+   "trend_score": 0
   },
   {
    "title": "Adam Driver: ‘No One Was Paying Us’ to Develop ‘The Hunt for Ben Solo’ and ‘Star Wars’ Boss Said ‘We Have a 100% Approval’ to Make It, Then Disney Killed It",
@@ -1427,18 +1636,7 @@
    "published": "2026-11-23T22:35:53+00:00",
    "trending": true,
    "trend_term": "adam driver",
-   "trend_score": 500
-  },
-  {
-   "title": "Seth Rogen says starring in hit ’90s show was so bad he had a ‘nervous breakdown’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/seth-rogen-says-starring-hit-193008720.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9338b62974dd13e72f3b3febb8395b5bb5e5a7840fb171cf070ed5bd15e50784/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F8f6ddf342262acea077a9001e15a5786.jpg",
-   "published": "2026-11-23T19:30:08+00:00",
-   "trending": true,
-   "trend_term": "seth rogen",
-   "trend_score": 200
+   "trend_score": 0
   },
   {
    "title": "Michelle Randolph Is Growing Up Alongside Her Characters",
@@ -1493,6 +1691,17 @@
    "published": "2026-11-23T19:30:12+00:00",
    "trending": true,
    "trend_term": "anthony mackie",
+   "trend_score": 0
+  },
+  {
+   "title": "Seth Rogen says starring in hit ’90s show was so bad he had a ‘nervous breakdown’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/seth-rogen-says-starring-hit-193008720.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9338b62974dd13e72f3b3febb8395b5bb5e5a7840fb171cf070ed5bd15e50784/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F8f6ddf342262acea077a9001e15a5786.jpg",
+   "published": "2026-11-23T19:30:08+00:00",
+   "trending": true,
+   "trend_term": "seth rogen",
    "trend_score": 0
   },
   {
@@ -1562,12 +1771,111 @@
    "trend_score": 0
   },
   {
+   "title": "First Children's Booker prize reveals shortlist - and its child judges",
+   "url": "https://www.yahoo.com/entertainment/articles/first-childrens-booker-prize-reveals-073429590.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/2afcefaa447c37c214854d8bb7ecd3ab151101db722fdf2130cb2f6a8a4b3d94/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png_up.jpg",
+   "published": "2026-11-24T08:54:56+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘MobLand’ Adds ‘The Forsytes’ Actor Gregg Sulkin For Season 3",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/mobland-adds-forsytes-actor-gregg-084143775.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/fc5c6cea9af1b70592042719eed0a5b311efb6bd7ae16b4e7e1834d6d4005970/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F30943865707848637ca7913f284c0b8c.jpg",
+   "published": "2026-11-24T08:41:43+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Zosia Mamet left Mad Men after 'horrible' run-in with showrunner",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/zosia-mamet-left-mad-men-084016679.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/cb7a0c55fe18524784cc68adb9d28def051579c79a0fb068e9152f1d2f835163/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fef7ef031d101f54d2d23d4528b654ffa.jpg_up.jpg",
+   "published": "2026-11-24T08:40:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Antoine Fuqua denies assault and battery allegations",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/antoine-fuqua-denies-assault-battery-083148248.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9b641d9429748c568feaaf063084122dcf1ec2406f06238bdfc886f3e83100f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fe95e55125458b7aadf75e734bc06e9c1.jpg_up.jpg",
+   "published": "2026-11-24T08:31:48+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Britain's Got Talent winner almost missed audition due to Carphone Warehouse shift",
    "url": "https://www.yahoo.com/entertainment/articles/britains-got-talent-winner-almost-183402050.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/9cbfa9c99736929d070fa0c29961d3320fc57731f0e88e71eae8f8f5cb4f187a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd9e64c58dc72a5918272858122bb625d.jpg_up.jpg",
-   "published": "2026-11-24T06:51:28+00:00",
+   "published": "2026-11-24T08:30:10+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ted Lasso renewed for Season 5",
+   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/ted-lasso-renewed-season-5-225834261.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/64f355ce5eeb52f48cf33394e498db6cdcc5e138ecf63c989fa1abcf3cc2de0c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F9c5a7e6070d6440112759cdab7db8f8e.jpg_up.jpg",
+   "published": "2026-11-24T08:28:57+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Don Toliver postpones London gigs after Manchester show evacuation",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-postpones-london-gig-212943715.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/415878733d5eb974df6ed5dd231dfcbeadab90c97ac29c6dd3858d1dfe6dd6cd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F8bddaea998ca6699de6eef5b2d2923f0.jpg_up.jpg",
+   "published": "2026-11-24T08:20:49+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Rachel Brosnahan’s most iconic fashion moments",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/rachel-brosnahan-most-iconic-fashion-074900187.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/f4ce371c6030ce0117cb4646d1c6e486865f07207c43e312106497c49ebc4607/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2Fbb917e0f1744f5546fceb68d7e9e45c1.jpg",
+   "published": "2026-11-24T07:49:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Brooch Game Strong: The Male Celebs Owning Red Carpet Accessories",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/brooch-game-strong-male-celebs-074900043.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/6973dbff1de05efed6d6244ee1cef5bc4f95dec7f43c0cc52f625bbff4ed50ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2Fe3eb8b17b02e3dd70dd08d084f5affd5.jpg",
+   "published": "2026-11-24T07:49:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Bella Hadid experienced health scare moments before Victoria's Secret Fashion Show",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bella-hadid-experienced-health-scare-065721865.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/18b640aa2a611067797d7620bfb63554c6f0e608c4697f833c22e21fe9ea578c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F8ded2ec197f755b38951942aa5effb00.jpg_up.jpg",
+   "published": "2026-11-24T07:44:51+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -1656,6 +1964,28 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/d13968b68cda40ccf98a7b1e17516af0c34c77696b8d4aa1fd4aff3cc6067066/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fa8b8795ebe99e58c00ec387e1afbd629.jpg_up.jpg",
    "published": "2026-11-24T06:04:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Helen Fraser, actress best known as Sylvia ‘Bodybag’ Hollamby in the prison drama Bad Girls",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/helen-fraser-actress-best-known-060000045.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/765a7fd2acd1144dd638a48df02780edb956730ed3c27ad9946c65f07ba4acc5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F3c299bf65adc93f6d5d48c27b462bb55.jpg",
+   "published": "2026-11-24T06:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The fashion brands loved by Prince William, from high street to Savile Row",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/fashion-brands-loved-prince-william-060000143.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/ad47eac9521835385007fbcc067bb8ee70d7a7e30869fd017002552755e36f7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F2fe2156cce39cc705005342983037ab8.jpg",
+   "published": "2026-11-24T06:00:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -1810,6 +2140,17 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/af8ca9adac03ee29220972c7cbddfd728cf376f6e23feca66c3d6ce871f82cb8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_enquirer_natl_articles_358%2F3fea9724c772fd3a0911913bdf28e242.jpg",
    "published": "2026-11-24T05:02:23+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Simone Ashley Stuns in Gradient Blue Mini-Dress at Bridgerton Premiere in London",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/simone-ashley-stuns-gradient-blue-045643671.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/323932c9e077ecc4d459f6a19de23ad851500dd97164737a7fe551c326213ec5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F419a1ec836e9752f0662ddaccde7b67d.jpg",
+   "published": "2026-11-24T04:56:43+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2497,17 +2838,6 @@
    "trend_score": 0
   },
   {
-   "title": "Kat Cunning Warns 'Line of Fire' Fans They Should Be Nervous Before Finale",
-   "url": "https://www.usmagazine.com/entertainment/news/line-of-fires-kat-cunning-hints-fans-should-be-nervous/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305630896.jpg",
-   "published": "2026-11-24T00:30:11+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "‘I Dream Of Jeannie’ Star Barbara Eden, 95, Reveals The Daily Habit She Refuses To Give Up",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dream-jeannie-star-barbara-eden-003000487.html",
    "source": "yahoo.com",
@@ -3003,17 +3333,6 @@
    "trend_score": 0
   },
   {
-   "title": "Donald Trump Praises Nvidia Reinstating CEO Jensen Huang With AI Bra Pic",
-   "url": "https://www.usmagazine.com/celebrity-news/news/jensen-huangs-affair-and-spying-scandal-explained/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
-   "published": "2026-11-23T21:49:52+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "3 Elite Netflix Series to Binge This Week (Nov 23-27)",
    "url": "https://collider.com/netflix-shows-binge-week-november-23-2026/",
    "source": "collider.com",
@@ -3119,17 +3438,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/12328cdbb35f2adc1f237393698d4c8a7756cade7ce67a384a72a5e72eeef425/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F04d1cb68b88e67582d05413deac472d7.jpg",
    "published": "2026-11-23T21:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Don Toliver postpones London gig after Manchester show evacuated",
-   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-postpones-london-gig-212943715.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/31ee4f47cc55d5a731754b740bf49fca075b8cf55f9760628ce752f5f42057fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F471e23d6c6eb929a13e7c6ce1c8837dc.jpg_up.jpg",
-   "published": "2026-11-23T21:29:43+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4081,17 +4389,6 @@
    "trend_score": 0
   },
   {
-   "title": "Kim Zolciak’s Son KJ Gets Legal Victory in Sexual Assault Case: Learn More",
-   "url": "https://www.usmagazine.com/celebrity-news/news/kim-zolciaks-sons-arrest-for-sexual-assault-what-to-know/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/08/Kim-Zolciak.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=55&strip=all",
-   "published": "2026-11-23T18:03:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "‘DWTS’ Pros Make Their Case for Why Their Partner Deserves Your Finale Vote",
    "url": "https://www.usmagazine.com/entertainment/news/dwts-pros-on-why-their-partner-deserves-your-finale-vote/",
    "source": "usmagazine.com",
@@ -4648,17 +4945,6 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76759_010927_eng.jpg",
    "published": "2026-11-23T13:09:24+05:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "'Hunger Games' prequel 'Sunrise on the Reaping' opens to $225 million at global box office",
-   "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-prequel-sunrise-on-the-reaping-opens-to-225-million-at-global-box-office-122631323.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
-   "published": "2026-11-23T12:28:40+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
