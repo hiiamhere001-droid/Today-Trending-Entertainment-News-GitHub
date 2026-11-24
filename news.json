@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-24T13:09:52.195874+00:00",
+ "generated_at": "2026-11-24T14:55:34.248884+00:00",
  "date_us": "2026-11-24",
  "per_site": {
   "usmagazine.com": 16,
   "news.meaww.com": 4,
   "profiles.yahoo.com": 10,
-  "yahoo.com": 30,
+  "yahoo.com": 29,
   "jang.com.pk": 9,
   "collider.com": 9
  },
@@ -26,8 +26,8 @@
    "url": "https://www.yahoo.com/entertainment/celebrity/article/billy-ray-cyrus-shares-heartfelt-tribute-to-miley-cyrus-after-her-wedding-to-maxx-morando-proudest-dad-alive-102741477.html",
    "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/04f2fcc369b64a979c6801eddf0b40a3891ebc70b27f1205c55a74d28b2961be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fd43d3ea0-3b15-4e45-9457-b07fbd67dcd6",
-   "published": "2026-11-24T10:27:41+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/e1d2d77457cc59b4d37dfb75a5df650a0604239fccf4c752b4c48be81caada75/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fmileycyrus-billyraycyrus-wedding-lead_2854.jpg",
+   "published": "2026-11-24T11:39:39+00:00",
    "trending": true,
    "trend_term": "covered by 3 sites",
    "trend_score": 3000
@@ -220,6 +220,17 @@
    "trend_score": 3000
   },
   {
+   "title": "Is Blake Lively behind Taylor Swift Vanity Fair exposé? Shocking details emerge",
+   "url": "https://jang.com.pk/en/76811-is-blake-lively-behind-taylor-swift-vanity-fair-expos-shocking-details-emerge-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76811_065839_eng.jpg",
+   "published": "2026-11-24T18:58:08+05:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Travis Kelce stands by Taylor Swift after controversial Vanity Fair article",
    "url": "https://jang.com.pk/en/76808-travis-kelce-stands-by-taylor-swift-after-controversial-vanity-fair-article-news",
    "source": "jang.com.pk",
@@ -248,6 +259,28 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76798_023909_eng.jpg",
    "published": "2026-11-24T14:51:31+05:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Brad Pitt sick with the flu, misses 'Cliff Booth' London premiere",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/brad-pitt-sick-flu-misses-144451596.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/a82f5f4f5401dd6fd4c967ef9f1f13f9966f875e6c95951f79ec106ccf958ae3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F1eaf171421557a49da7294966340e81d.jpg",
+   "published": "2026-11-24T14:44:51+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Robert Downey Jr. takes on a bold new role in 'Avengers: Doomsday.' Who's the villainous Doctor Doom — and what happened to Iron Man?",
+   "url": "https://www.yahoo.com/entertainment/movies/article/robert-downey-jr-takes-on-a-bold-new-role-in-avengers-doomsday-whos-the-villainous-doctor-doom--and-what-happened-to-iron-man-121513969.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/47a5ed719edde1effbe3a2784022ad9a6af3e77c6d0ca4ce4f469e874a2bdae5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Frobert-downey-jr_7102.png",
+   "published": "2026-11-24T13:55:47+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -304,7 +337,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
    "published": "2026-11-24T08:43:08+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -391,6 +424,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/2850febfd981fa029c7bf0288751c80328591cafdb8adc46300e93bef15783d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fe__181%2Fc9553a3c8143e51a32fe04bf04b5d9bc.jpg_up.jpg",
    "published": "2026-11-24T02:59:50+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Brad Pitt abruptly drops out of London premiere red carpet appearance after coming down with flu",
+   "url": "https://news.meaww.com/brad-pitt-abruptly-drops-out-of-london-premiere-red-carpet-appearance-after-coming-down-with-flu",
+   "source": "news.meaww.com",
+   "category": "Fashion",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795484819348_d54c03a4faa3.jpg",
+   "published": "2026-11-24T02:35:48+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -524,7 +568,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
    "published": "2026-11-24T00:36:09+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -821,7 +865,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
    "published": "2026-11-23T21:49:52+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -909,7 +953,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
    "published": "2026-11-23T21:26:51+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1063,7 +1107,7 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
    "published": "2026-11-23T19:30:12+00:00",
    "trending": true,
-   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1327,7 +1371,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
    "published": "2026-11-23T17:24:45+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1338,7 +1382,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1349,7 +1393,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1771,6 +1815,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Most Likely To...? The Cast of The Hunting Wives Plays Collider Superlatives!",
+   "url": "https://collider.com/video/most-likely-to-the-cast-of-the-hunting-wives-plays-collider-superlatives/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/superlatives-hunting-wives.jpg",
+   "published": "2026-11-23T15:51:14+00:00",
+   "trending": true,
+   "trend_term": "eduardo franco",
+   "trend_score": 1000
+  },
+  {
    "title": "Happy Birthday, Katherine Heigl! See the “Grey’s Anatomy” Actress’s Cutest Family Photos with Her Husband and 3 Kids",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/happy-birthday-katherine-heigl-see-113000051.html",
    "source": "yahoo.com",
@@ -1779,7 +1834,7 @@
    "published": "2026-11-24T11:30:00+00:00",
    "trending": true,
    "trend_term": "katherine heigl",
-   "trend_score": 200
+   "trend_score": 0
   },
   {
    "title": "Prince Harry and Meghan Markle spotted on child-free date night in the UK: 'Surreal'",
@@ -2024,6 +2079,17 @@
    "trend_score": 0
   },
   {
+   "title": "Prince William steps out hours after shocking incident at his royal estate",
+   "url": "https://jang.com.pk/en/76814-prince-william-steps-out-hours-after-shocking-incident-at-royal-estate-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76814_070948_eng.jpg",
+   "published": "2026-11-24T19:09:44+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Prince Harry finally addresses visa controversy after UK return: 'Entirely false'",
    "url": "https://jang.com.pk/en/76806-prince-harry-finally-addresses-visa-controversy-after-uk-return-entirely-false-news",
    "source": "jang.com.pk",
@@ -2041,6 +2107,193 @@
    "category": "Awards",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76801_032713_eng.jpg",
    "published": "2026-11-24T15:27:57+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Soap Alum Matt Borlenghi Shares Heartbreaking Update on Son After Devastating E-Bike Accident",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/soap-alum-matt-borlenghi-shares-145025669.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/384a789544f81af9081d14151fcb834dafa7b75b8c857a16945956892c592a41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2F5d8a5a016ef0033ce51e6973035687e9.jpg",
+   "published": "2026-11-24T14:50:25+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Heated Rivalry’ Stars Connor Storrie and Hudson Williams Become Real-Life Roommates While Filming Season 2",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/heated-rivalry-stars-connor-storrie-144836254.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/53f5751709be68415b8ded208f5fff7f362f2d7974e00a1ea5c2e8d1fa8e6032/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frealtor_com_468%2F597ffff1b40cb37990f502a8c1598ea8.jpg",
+   "published": "2026-11-24T14:48:36+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Woman Figures Out Her Boyfriend's Surprise Marriage Proposal Before It Happens And Completely Loses It As Her Reaction Goes Viral",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/woman-figures-her-boyfriends-surprise-144524874.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0e95c6fe07622adc0fb8470e82d3b50bc278cf83ee02ed1c33a278501edc7e84/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fknow_your_meme_909%2Facee129273304e31e45173698b94c009.jpg",
+   "published": "2026-11-24T14:45:24+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "15 Celebrities That Should Just Age Already",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/15-celebrities-just-age-already-144500101.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/08336c82620bce40c288a31edf9340bc21d90cfda0bf5807be378de6e0fefb47/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcracked_901%2F8a007b5682627041e1166b8714172df8.jpg",
+   "published": "2026-11-24T14:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Line of Fire’ stages chaotic Thanksgiving for the entire Hollingsworth family",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/line-fire-stages-chaotic-thanksgiving-144403403.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/749b8f9d17bdab7fc49969e7c6fd78fe256b5892cc765fd7ad3c913fdff9920e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fout_articles_481%2Fbf964708ab161e46ac210bbe360a645d.jpg_up.jpg",
+   "published": "2026-11-24T14:44:03+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Look: 'Careme,' 'Division Palermo' among International Emmys winners",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/look-careme-division-palermo-among-144325387.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/af6739524ca19a948c91dd86cb4d18c3b206b02c777b618dbf4ba4d2d4abe023/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F8f0a7dbbc8c345eee65616c5f2df600c.jpg_up.jpg",
+   "published": "2026-11-24T14:43:25+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Andrew Scott’s New Oscar Contender Revisits The Final Days Of A Legendary ‘Hamlet’ Actor",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/andrew-scott-oscar-contender-revisits-144035987.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/623534986edefe277d8f6a259731b27a0788a57a968161519802bf2fb841d730/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F08a9df56553732ac64335e96f50e85b8.jpg",
+   "published": "2026-11-24T14:40:35+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Dax Shepard shares depression struggle after 'abusive husband' claims",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/dax-shepard-shares-depression-struggle-143917667.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/33564813f0dc7ad0fe12981174e471ed8f48e074d3053ca9ef6ae8ce9cac02a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F1c0bbc51975c7b0b85574eb85bda5844.jpg",
+   "published": "2026-11-24T14:39:17+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "I Wondered Why Marvel Dropped Those Four Avengers: Doomsday Teasers So Early. Joe Russo Explained",
+   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/wondered-why-marvel-dropped-those-143612133.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/f79d153b6e8af1b27ea1d66664019ea146b7d57286d9dd2ff9bb7325ac37b773/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2Fd79f7a5cc7176bdeb4e3da9703dcc44c.jpg",
+   "published": "2026-11-24T14:36:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Hailee Steinfeld, Jodie Foster, and Rashida Jones Reveal the TV Shows They Wish Would Come Back",
+   "url": "https://collider.com/hailee-steinfeld-jodie-foster-rashida-jones-hexed-interview/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hexed-hailee-steinfeld-rashida-jones-jodie-foster-interview.jpg",
+   "published": "2026-11-24T14:24:58+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Princess Madeleine and husband pull out of royal dinner after falling ill",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/princess-madeleine-husband-pull-royal-141927807.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9246481785543a56107962d4f90f73522828e32f8c05d1e362d6beb748d6f05b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F7007ecbec4721a580e0041208700f4d5.jpg",
+   "published": "2026-11-24T14:19:27+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Rob Lowe Reveals Awkward Exchange with Warren Beatty, Who Compared His Then-Girlfriend Melissa Gilbert to Natalie Wood",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rob-lowe-reveals-awkward-exchange-141554392.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/83adea6eddd176db5d25b9c69097eece5fce46706f9f633828557e677fa99893/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbff0060340a59dad259bac518370333d.jpg",
+   "published": "2026-11-24T14:15:54+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "How ‘Landman’ Star Michelle Randolph Found Love… In a Rental Car",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/landman-star-michelle-randolph-found-141500029.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/be1ab9292894d3b812d2e695a593b20f16fcdc52d6b5a208a0264c79e1fd8bce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F2470700a4b46c4b1acf66fd75e1425a2.jpg",
+   "published": "2026-11-24T14:15:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jennifer Garner praises ‘flexible’ ex-husband Ben Affleck as she breaks down co-parenting dynamic",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennifer-garner-praises-flexible-ex-141413631.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7ab9f09e8d30a4dfda7392cf3e4b8ecad76739a0e50a7eb4a7083c4549cda17a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F0f4ceb55a2e52aa09cd266b83f431f6e.jpg",
+   "published": "2026-11-24T14:14:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Tate McRae brings fans to their knees in nothing but a sports bra in sizzling new selfie",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/tate-mcrae-brings-fans-knees-140817670.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/7687e23cf6f9ed8801a48372faa02a83e7379447ee973e645a693dcc13c99fc9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F62794cd84997078ed826b47f57e365b8.jpg",
+   "published": "2026-11-24T14:08:17+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Tracker’ Officially Switches Protagonists After 4 Seasons",
+   "url": "https://collider.com/tracker-season-4-episode-7-josh-holloway-luke-kelso/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/tracker-luke-colter.jpg",
+   "published": "2026-11-24T13:36:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 10 Best Fantasy Books of the Last 25 Years, Ranked",
+   "url": "https://collider.com/best-fantasy-books-past-25-years-ranked/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/a-dance-with-dragons.jpg",
+   "published": "2026-11-24T13:14:12+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2728,6 +2981,17 @@
    "trend_score": 0
   },
   {
+   "title": "Christopher Lloyd, 88, Posts Tribute to Wife Lisa, 56, on 10th Anniversary",
+   "url": "https://www.usmagazine.com/celebrity-news/news/christopher-lloyd-celebrates-10th-anniversary-with-wife-lisa/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305166053-Christopher-Lloyd-Celebrates-10th-Anniversary-With-Wife-Lisa.jpg?crop=369px%2C72px%2C1240px%2C699px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-24T08:41:54+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "‘MobLand’ Adds ‘The Forsytes’ Actor Gregg Sulkin For Season 3",
    "url": "https://www.yahoo.com/entertainment/tv/articles/mobland-adds-forsytes-actor-gregg-084143775.html",
    "source": "yahoo.com",
@@ -2789,6 +3053,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/70f6ed7f81f09cc44b02550acb848aeecadc1d0924852fedb8bb80360db33c42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F77eb3075ec1258fcc6ea09c3947c6c50.jpg",
    "published": "2026-11-24T08:01:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Celebrity Babies of 2026: RHOA's Pinky Cole and More Stars Who Welcomed Kids",
+   "url": "https://www.usmagazine.com/celebrity-moms/pictures/celebrity-babies-of-2026-stars-who-gave-birth-this-year/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Celebrity-Babies-of-2026-RHOA-Pinky-Cole-and-More-Stars-Who-Welcomed-Kids.jpg?crop=0px%2C229px%2C1500px%2C847px&resize=1000%2C563&quality=62&strip=all",
+   "published": "2026-11-24T07:50:56+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3361,17 +3636,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/587153d3af7f428abef4073f259be07005407daf3895e1510205ea6c8a44a506/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Faebcd65eb1e0333941d16cb3d32de6be.jpg",
    "published": "2026-11-24T02:53:39+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Brad Pitt abruptly drops out of London premiere red carpet appearance after coming down with flu",
-   "url": "https://news.meaww.com/brad-pitt-abruptly-drops-out-of-london-premiere-red-carpet-appearance-after-coming-down-with-flu",
-   "source": "news.meaww.com",
-   "category": "Fashion",
-   "image": "https://media.pubninja.com/articles/brand-5/covers/1795484819348_d54c03a4faa3.jpg",
-   "published": "2026-11-24T02:35:48+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -5302,17 +5566,6 @@
    "trend_score": 0
   },
   {
-   "title": "Celebrity Babies of 2026: Quentin Tarantino and More Stars Who Welcomed Kids",
-   "url": "https://www.usmagazine.com/celebrity-moms/pictures/celebrity-babies-of-2026-stars-who-gave-birth-this-year/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Vanessa-Grimaldi.jpg?crop=0px%2C387px%2C1500px%2C847px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T17:57:56+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "There’s An Insane Yellowjackets Theory About Akilah I Need To Talk Out After The Premiere",
    "url": "https://www.yahoo.com/entertainment/tv/articles/insane-yellowjackets-theory-akilah-talk-174855673.html",
    "source": "yahoo.com",
@@ -5698,17 +5951,6 @@
    "trend_score": 0
   },
   {
-   "title": "Most Likely To...? The Cast of The Hunting Wives Plays Collider Superlatives!",
-   "url": "https://collider.com/video/most-likely-to-the-cast-of-the-hunting-wives-plays-collider-superlatives/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/superlatives-hunting-wives.jpg",
-   "published": "2026-11-23T15:51:14+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "49ers Share Update After Colton McKivitz Suffers Grotesque Injury on ‘SNF'",
    "url": "https://www.usmagazine.com/sports/news/49ers-share-update-after-colton-mckivitzs-grotesque-injury/",
    "source": "usmagazine.com",
@@ -5737,6 +5979,17 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/f14d7fcdced40f752f1ff92447180a704cf0d10ace68d1675980c102e64fe1b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2F0fd913b7d3c622490c153918f7436aab.jpg",
    "published": "2026-11-23T15:12:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 200 Best Songs of the 1990s",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/200-best-songs-1990s-145448081.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/632b5e40f13a66990d6fe1f3d5d04fcd624b4c9a9c7dc2a054a320ae4468d6d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F6fd661fbe64daa36ae27975f667acdab.jpg",
+   "published": "2026-11-23T14:54:48+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
