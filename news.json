@@ -1,15 +1,26 @@
 {
- "generated_at": "2026-11-24T03:56:19.170123+00:00",
- "date_us": "2026-11-23",
+ "generated_at": "2026-11-24T05:00:51.000678+00:00",
+ "date_us": "2026-11-24",
  "per_site": {
-  "usmagazine.com": 17,
-  "news.meaww.com": 3,
-  "profiles.yahoo.com": 8,
+  "usmagazine.com": 18,
+  "news.meaww.com": 4,
+  "profiles.yahoo.com": 10,
   "yahoo.com": 29,
-  "jang.com.pk": 6,
+  "jang.com.pk": 7,
   "collider.com": 8
  },
  "items": [
+  {
+   "title": "‘Law & Order’ and ‘GTA V’ actor EJ Carroll’s cause of death revealed after sudden death at 66",
+   "url": "https://news.meaww.com/law-order-and-gta-v-actor-ej-carrolls-cause-of-death-revealed-after-sudden-death-at-66",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795489708940_9d2ec92e1009.jpg",
+   "published": "2026-11-24T04:09:47+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
   {
    "title": "Miley Cyrus celebrates 34th birthday with new photos from her wedding to Maxx Morando",
    "url": "https://news.meaww.com/miley-cyrus-celebrates-34th-birthday-with-new-photos-from-her-wedding-to-maxx-morando",
@@ -55,6 +66,28 @@
    "trend_score": 3000
   },
   {
+   "title": "'Law & Order' Alum E.J. Carroll's Cause of Death Revealed After Collapse",
+   "url": "https://www.usmagazine.com/celebrity-news/news/law-and-order-alum-e-j-carrolls-cause-of-death-revealed/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/EJ-Carroll-Cause-of-Death-Revealed.jpg?crop=0px%2C59px%2C1996px%2C1127px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T16:21:43+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
+  {
+   "title": "‘Law & Order’ Alum E.J. Carroll’s Cause of Death Revealed After He Collapsed in NYC Street",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/law-order-alum-e-j-162143714.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/18f2ed9ddba082afeaadd705d3011c23041e73592b749a5f7afdf720290bef0c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F050694138d9dd805fd485ed7ea807489.jpg",
+   "published": "2026-11-23T16:21:43+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
+  {
    "title": "Miley Cyrus wipes away tears at the altar during Palm Springs wedding to Maxx Morando",
    "url": "https://www.yahoo.com/entertainment/articles/miley-cyrus-wipes-away-tears-192224533.html",
    "source": "yahoo.com",
@@ -66,12 +99,67 @@
    "trend_score": 3000
   },
   {
+   "title": "Taylor Swift branded 'Regina George' in bombshell Vanity Fair report as 100+ sources weigh in",
+   "url": "https://jang.com.pk/en/76790-taylor-swift-branded-regina-george-in-bombshell-vanity-fair-report-as-100-sources-weigh-in-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76790_093331_eng.jpg",
+   "published": "2026-11-24T09:33:21+05:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "‘DWTS’ Judge Derek Hough Alludes to Child Sexual Abuse by Neighbor in Emotional New Documentary",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dwts-judge-derek-hough-alludes-042708552.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ecc22fef9ba10145c30c68791ea9eb57b7163bf6727870c902ca7572ce18738c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F7a9eac927898d8356cf8dd9cb5c34d17.jpg",
+   "published": "2026-11-24T04:27:08+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Jamie Lee Curtis Responds to Critics of Her Birthday Post About Her ‘Immediate Family’",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/jamie-lee-curtis-responds-critics-030854565.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/24a7731a04216574992812cfd2c0800ffbcca0d1173b07984fb3e834d393f8d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3f65691d3b951dcb4c6c9236b3a89270.jpg",
    "published": "2026-11-24T03:08:54+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Dancing With the Stars ' Derek Hough Details Childhood Abuse",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/em-dancing-stars-em-derek-025950810.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/2850febfd981fa029c7bf0288751c80328591cafdb8adc46300e93bef15783d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fe__181%2Fc9553a3c8143e51a32fe04bf04b5d9bc.jpg_up.jpg",
+   "published": "2026-11-24T02:59:50+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "“The Bachelor”’s Kelley Flanagan on Why She Hasn’t Dated in 2 Years",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bachelor-kelley-flanagan-why-she-020400346.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/25e6fff586f4115bc78629005f54adf092b65c61ee8ffeab9bd8b51e00c33c3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fdcc22c0a838b88f87ed70b51db8c4efa.jpg",
+   "published": "2026-11-24T02:04:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Is Vanity Fair’s Hit Piece on Taylor Swift Really Journalism?",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/vanity-fair-hit-piece-taylor-001214668.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/73e7e06fea73101366c4c2adbfd0127ca4dbb4c02d8748d6d3c0c288918849f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Ff32f2a3144fb733c7318905dd54c9006.jpg_up.jpg",
+   "published": "2026-11-24T00:12:14+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -88,12 +176,34 @@
    "trend_score": 2000
   },
   {
+   "title": "Jack Nicholson’s Son Ray Nicholson Reveals He ‘Didn’t Watch’ His Father’s Films Until He Was an Adult",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jack-nicholson-son-ray-nicholson-231249691.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/5f26d8c944dd9d7474246ee303ef4e3ea3e8b64778d376d19a210e8dca579144/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_examiner_239%2Fedb3da6040099b247e841073563c8639.jpg",
+   "published": "2026-11-23T23:12:49+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Forget the Race Track: Kacey Musgraves Had the Wildest Ride of Las Vegas Grand Prix Weekend",
    "url": "https://www.yahoo.com/entertainment/music/concerts/articles/forget-race-track-kacey-musgraves-223906096.html",
    "source": "yahoo.com",
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/314fbacd3d6f568f886c808dbde94d91208469e28e42f912c789e78c2ced3353/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F6bdeee5fac1be9952173ef802f9d5bcc.jpg",
    "published": "2026-11-23T22:39:06+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "The Bachelor’s Kelley Flanagan Explains Why She Hasn’t Dated in 2 Years",
+   "url": "https://www.usmagazine.com/celebrity-news/news/kelley-flanagan-explains-why-she-hasnt-dated-in-2-years/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2211523632-kelley-flanagan.jpg?crop=0px%2C186px%2C1428px%2C806px&resize=1000%2C563&quality=78&strip=all",
+   "published": "2026-11-23T22:26:22+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -110,11 +220,110 @@
    "trend_score": 2000
   },
   {
+   "title": "Wife Gushed She Was ‘So Proud’ of Husband Before He Killed Her and 3 Kids",
+   "url": "https://www.usmagazine.com/crime-news/news/wife-was-so-proud-of-husband-before-he-killed-her-3-kids/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/wife-gushed-proud-husband-killed-her-kids.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-23T21:57:55+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Wife Gushed She Was ‘So Proud’ of Husband in Sentimental Post Before He Killed Her and 3 Kids",
+   "url": "https://www.yahoo.com/news/us/articles/wife-gushed-she-proud-husband-215755459.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/46f4d83c8b29bd14554c1513fce867cbd5c176f4d1690bff0838213e2984c2f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4d07f600450f48219d394e7cdd844148.jpg_up.jpg",
+   "published": "2026-11-23T21:57:55+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Jack Nicholson's Son Didn't Watch Any of His Dad's Movies Until He Was 18",
+   "url": "https://www.usmagazine.com/entertainment/news/jack-nicholsons-son-didnt-watch-his-movies-until-age-18/",
+   "source": "usmagazine.com",
+   "category": "Movies",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-1254337087-Jack-Nicholson-Son-Ray-Nicholson-Hadnt-Seen-Dads-Movies-Until-Age-18.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T21:55:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Jack Nicholson’s Son Ray Didn’t Watch Any of His Dad’s Movies Until He Was 18",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jack-nicholson-son-ray-didn-215500571.html",
+   "source": "profiles.yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/e9eca624809edfcb1eba57b52f4b7fca0a211672253a320e53f7e9f7cc65a9b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fc72eb36035ac1a9dc7b29e451db6fdce.jpg",
+   "published": "2026-11-23T21:55:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Rita Wilson Addresses Claim Her Viral, Massive Back Tattoo Isn't Real",
+   "url": "https://www.usmagazine.com/celebrity-body/news/rita-wilson-addresses-claim-viral-back-tattoo-isnt-real/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Rita-Wilson-Addresses-Viral-Back-Tattoo-3.jpg",
+   "published": "2026-11-23T21:41:58+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Rita Wilson Addresses Claim Her Viral Back Tattoo Isn’t Real: ‘Definitely a Different Look’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/rita-wilson-addresses-claim-her-214158561.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8348d6191b3d1c0e97d9b45e24bcf67dda6abf4ac26a44d2f6645b4811652473/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fac25d8531902992fd752beee4b2c91b7.jpg",
+   "published": "2026-11-23T21:41:58+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Kim Zolciak's Boyfriend Denies 'Misleading' Claims He's Paying Her Bills",
+   "url": "https://www.usmagazine.com/celebrity-news/news/kim-zolciaks-boyfriend-denies-claims-hes-paying-her-bills/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Kim-Zolciaks-Boyfriend-Denies-Claims-Hes-Paying-Her-Bills-in-New-Divorce-Docs.jpg?crop=0px%2C12px%2C1334px%2C754px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-23T21:38:41+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Kim Zolciak’s Boyfriend Denies ‘Misleading’ Claims He’s Paying Her Bills in New Divorce Docs",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/kim-zolciak-boyfriend-denies-misleading-213841230.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ec6afab8ccf489561d47d2cd73c8aeabf891043407b3ceaf24ccdeafdbb70ce1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff387b5aa5c4c1219722cab9a53756867.jpg",
+   "published": "2026-11-23T21:38:41+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Inside the Star-Studded F1 Las Vegas Grand Prix: Celebs, Style Wins and More",
    "url": "https://www.usmagazine.com/sports/news/inside-the-star-studded-formula-1-las-vegas-grand-prix/",
    "source": "usmagazine.com",
    "category": "Fashion",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Inside-the-Star-Studded-Formula-1-Las-Vegas-Grand-Prix.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-23T21:35:49+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Inside the Star-Studded Formula 1 Las Vegas Grand Prix: Celeb Attendees, High-Octane Style and More",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/inside-star-studded-formula-1-213549874.html",
+   "source": "profiles.yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/039da7b27ffc2a1323a02386244f17deb2be7f029814972b0681562a0c501298/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F1d7245311143f3fac721b106d42502c1.jpg",
    "published": "2026-11-23T21:35:49+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
@@ -127,6 +336,28 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
    "published": "2026-11-23T21:26:51+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Cause of Fire on Will Smith and Jada Pinkett Smith's L.A. Property Revealed",
+   "url": "https://www.usmagazine.com/celebrity-news/news/cause-of-fire-on-will-smith-jada-pinketts-property-revealed/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Cause-of-Structure-Fire-on-Will-Smith-and-Jada-Pinkett-Smith-Property-Revealed-GettyImages-1445900188.jpg?crop=250px%2C25px%2C1389px%2C786px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T21:26:34+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Cause of Structure Fire on Will Smith and Jada Pinkett Smith’s $42 Million L.A. Property Revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/cause-structure-fire-smith-jada-212634651.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/10626ac65bca233c10d583bb0a2cb2367c6fe0af146eb1b74582cfe7e568314c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F1f7708d57786561c3c676151d2506ba2.jpg",
+   "published": "2026-11-23T21:26:34+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -330,6 +561,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Taylor Swift slammed as real-life ‘Regina George’ by classmates and acquaintances in brutal Vanity Fair hit piece",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-slammed-real-life-190118182.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a5afbfdaac999879f053b78827a038bd51f3f06faf02ed52606e47634edffc80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F4bf34d7fd4e24baf84f5a9420b383e46.jpg",
+   "published": "2026-11-23T19:01:18+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Karen Read Witness Is Living in Fear After Her Acquittal: 'Scared Every Day'",
    "url": "https://www.usmagazine.com/crime-news/news/karen-read-trial-witness-says-hes-scared-every-single-day/",
    "source": "usmagazine.com",
@@ -358,6 +600,28 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/d85739627fece103c42e04df2cb9235ae02b12f1d5b0e819b2f8a74e396af0df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F0f45e64bd03ef7635f701d2839f605a7.jpg",
    "published": "2026-11-23T18:30:47+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Ray Nicholson Reveals He Did Not Watch Dad Jack Nicholson’s Movies Until He Was 18",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ray-nicholson-reveals-did-not-182622244.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/5486997f99c0fe08023cf854e792e543649ffe8cb918e27727ea75aa2ef7836a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbc5376825da205376899e940d31b2977.jpg",
+   "published": "2026-11-23T18:26:22+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Rita Wilson, 70, Reveals the Truth Behind Her Viral Back Tattoo: ‘Definitely a Different Look’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/rita-wilson-70-reveals-truth-182043993.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/8ebadcc5f32d5c4780d90b90de66d3ccbecc6a20621f9f4d97b4ae2a797199b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F786c31c07415350d50a815fa805e6610.jpg",
+   "published": "2026-11-23T18:20:43+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -512,28 +776,6 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2295282502-Derek-Hough-Alludes-to-Childhood-Sexual-Abuse-in-New-Doc.jpg?crop=0px%2C121px%2C1333px%2C753px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T16:29:17+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "'Law & Order' Alum E.J. Carroll's Cause of Death Revealed After Collapse",
-   "url": "https://www.usmagazine.com/celebrity-news/news/law-and-order-alum-e-j-carrolls-cause-of-death-revealed/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/EJ-Carroll-Cause-of-Death-Revealed.jpg?crop=0px%2C59px%2C1996px%2C1127px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T16:21:43+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "‘Law & Order’ Alum E.J. Carroll’s Cause of Death Revealed After He Collapsed in NYC Street",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/law-order-alum-e-j-162143714.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/18f2ed9ddba082afeaadd705d3011c23041e73592b749a5f7afdf720290bef0c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F050694138d9dd805fd485ed7ea807489.jpg",
-   "published": "2026-11-23T16:21:43+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -880,14 +1122,14 @@
    "trend_score": 2000
   },
   {
-   "title": "Meet the Real-Life Partners of “The Hunger Games:” “Sunrise on the Reaping” Cast",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/meet-real-life-partners-hunger-194659611.html",
+   "title": "'Hunger Games' prequel 'Sunrise on the Reaping' opens to $225 million at global box office",
+   "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-prequel-sunrise-on-the-reaping-opens-to-225-million-at-global-box-office-122631323.html",
    "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/dbe88fd7ff76d55f2a9262b94a341ad5d46fb0546df18246d5d1d1179d302232/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F658769c14eec7812738ff66ea90f9661.jpg",
-   "published": "2026-11-23T19:46:59+00:00",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
+   "published": "2026-11-23T12:28:40+00:00",
    "trending": true,
-   "trend_term": "mockingjay part 1",
+   "trend_term": "ben wang",
    "trend_score": 500
   },
   {
@@ -910,6 +1152,17 @@
    "published": "2026-11-23T20:00:12+00:00",
    "trending": true,
    "trend_term": "titus welliver",
+   "trend_score": 0
+  },
+  {
+   "title": "Meet the Real-Life Partners of “The Hunger Games:” “Sunrise on the Reaping” Cast",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/meet-real-life-partners-hunger-194659611.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/dbe88fd7ff76d55f2a9262b94a341ad5d46fb0546df18246d5d1d1179d302232/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F658769c14eec7812738ff66ea90f9661.jpg",
+   "published": "2026-11-23T19:46:59+00:00",
+   "trending": true,
+   "trend_term": "mockingjay part 1",
    "trend_score": 0
   },
   {
@@ -987,6 +1240,138 @@
    "published": "2026-11-23T17:00:12+00:00",
    "trending": true,
    "trend_term": "tom holland",
+   "trend_score": 0
+  },
+  {
+   "title": "8 Most Confusing Sci-Fi Books of All Time, Ranked",
+   "url": "https://collider.com/most-confusing-sci-fi-books-all-time-ranked/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-three-body-problem-cover.jpg",
+   "published": "2026-11-24T04:55:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Woody Harrelson Reveals He Turned Down ‘Hunger Games’ Role Twice",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/woody-harrelson-reveals-turned-down-044907075.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/fd271c13503415d718aaa399d9bde0a0f35aa0c827078bed7bee894f26048256/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F3c028c8d845cfa8bf4d2039b03853aa7.jpg",
+   "published": "2026-11-24T04:49:07+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Anya Taylor-Joy ‘Went Mute’ on ‘Lord of the Rings: The Hunt for Gollum’ Set When Ian McKellen Showed Up: ‘That’s F—ing Gandalf’",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/anya-taylor-joy-went-mute-044500265.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/70f12b797a3d2a0237e92f339dbeaf75547b510bb9085c76c91c40eb494c674b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F010e0003ef9c2c5d9b8b31cd3e929c3e.jpg",
+   "published": "2026-11-24T04:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "International Emmy Awards 2026 Photos: Best Of The Red Carpet",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/international-emmy-awards-2026-photos-042019752.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/8188510e4834150ebc9db68af2be61a028311536c3fe0d8690eba5a85f267786/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fd0f1f3e406e543b9a2d2d940b22bd32b.jpg",
+   "published": "2026-11-24T04:20:19+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "17 Famous Men Who \"Dated\" Teens And Got Away With It",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/17-famous-men-dated-teens-041603160.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0b1746b4f486eaa3b158328687eb0e90bc047a9b4004fc04b56bbcf63d3d4f92/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2Fe1a21b35705ba9323c27d68f58091eb7.jpg",
+   "published": "2026-11-24T04:16:03+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 13 Best Christmas Movies of the Last 5 Years, Ranked",
+   "url": "https://collider.com/christmas-movies-past-5-years-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/dominic-sessa-paul-giamatti-and-da-vine-joy-randolph-in-the-holdovers-1.jpg",
+   "published": "2026-11-24T04:11:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The Star Wars Toy That Made A Background Villain A Legend",
+   "url": "https://www.yahoo.com/entertainment/articles/star-wars-toy-made-background-040829557.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5665b5639f355d2cfc589714295f7d46f974753700c528bdbd8bf75099bf9a88/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgiant_freakin_robot_articles_628%2F1e69acfc21c8bb5dab4e6b2f2031f753.jpg",
+   "published": "2026-11-24T04:08:29+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "“Real Housewives of Atlanta” Star Pinky Cole Welcomes Baby No. 4: ‘Another Chapter. Another Blessing’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/real-housewives-atlanta-star-pinky-040757383.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/355cc0a6a4f6f5e89ed0713e0bd3aa6074edc344b2e03fcec564776f45de6e9c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F042a1046c00aa4a68f5dcaa3a348550d.jpg",
+   "published": "2026-11-24T04:07:57+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Avengers: Doomsday’ and more movies to look forward to in December",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/avengers-doomsday-more-movies-look-040338829.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/acf95c4cc717d674c1a5a4760222f4517fed82b88df77d3c9ed82e59843d447a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F47c9b79ace60e850b738a4de042e6c98.jpg",
+   "published": "2026-11-24T04:03:38+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Line of Fire’ Boss Breaks Down Shocking Midseason Finale",
+   "url": "https://www.yahoo.com/entertainment/tv/reviews/articles/line-fire-boss-breaks-down-040022989.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/17617ab20bdfa4ebbd61a42a7fd16ae7a931e0d1f73820270d39cd07411cceba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F505f73f48a01ae51dd240050fe633ea4.jpg",
+   "published": "2026-11-24T04:00:22+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Netflix’s New Cinderella Movie Is Officially Taking Over the World",
+   "url": "https://collider.com/netflix-steps-cinderella-movie-number-2-global-streaming-hit/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/copy-of-collider-template-2026-04-08t092416-011.jpg",
+   "published": "2026-11-24T04:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Prince William Warned Prince Harry Will Release 400 Cut Pages Of Memoir ‘Spare’ If He Strips Sussex Family Of Titles",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-warned-prince-harry-040000840.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b0f424aaab4bb822b53ab28ce3d5ec2270d9d7d53f102688e43a1972c0e0a844/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fc7d044dacdec5f8537119fd003904990.jpg",
+   "published": "2026-11-24T04:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
    "trend_score": 0
   },
   {
@@ -1194,17 +1579,6 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/sherlock-holmes-hero-fiennes-tiffin-young-sherlock.jpg",
    "published": "2026-11-24T02:11:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "“The Bachelor”’s Kelley Flanagan on Why She Hasn’t Dated in 2 Years",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bachelor-kelley-flanagan-why-she-020400346.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/25e6fff586f4115bc78629005f54adf092b65c61ee8ffeab9bd8b51e00c33c3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fdcc22c0a838b88f87ed70b51db8c4efa.jpg",
-   "published": "2026-11-24T02:04:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -1650,17 +2024,6 @@
    "trend_score": 0
   },
   {
-   "title": "Is Vanity Fair’s Hit Piece on Taylor Swift Really Journalism?",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/vanity-fair-hit-piece-taylor-001214668.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/73e7e06fea73101366c4c2adbfd0127ca4dbb4c02d8748d6d3c0c288918849f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Ff32f2a3144fb733c7318905dd54c9006.jpg_up.jpg",
-   "published": "2026-11-24T00:12:14+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Connor Storrie Named the Best Dressed of 2026 by Vogue Magazine: The ‘Heated Rivalry’ Star Opens Up About Fashion and Life with Hudson Williams",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/connor-storrie-named-best-dressed-000452797.html",
    "source": "yahoo.com",
@@ -1848,17 +2211,6 @@
    "trend_score": 0
   },
   {
-   "title": "Jack Nicholson’s Son Ray Nicholson Reveals He ‘Didn’t Watch’ His Father’s Films Until He Was an Adult",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jack-nicholson-son-ray-nicholson-231249691.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/5f26d8c944dd9d7474246ee303ef4e3ea3e8b64778d376d19a210e8dca579144/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_examiner_239%2Fedb3da6040099b247e841073563c8639.jpg",
-   "published": "2026-11-23T23:12:49+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Bella Hadid gets raw about health scare at Victoria's Secret show",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bella-hadid-gets-raw-health-231059717.html",
    "source": "yahoo.com",
@@ -1936,6 +2288,17 @@
    "trend_score": 0
   },
   {
+   "title": "Mom Arrested After Falsely Claiming Daughter, 4, Was Diagnosed With Cancer",
+   "url": "https://www.usmagazine.com/crime-news/news/mom-falsely-claimed-daughter-4-was-diagnosed-with-cancer/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/mom-falsely-claimed-daughter-had-cancer.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-23T22:40:14+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Adam Driver: ‘No One Was Paying Us’ to Develop ‘The Hunt for Ben Solo’ and ‘Star Wars’ Boss Said ‘We Have a 100% Approval’ to Make It, Then Disney Killed It",
    "url": "https://www.yahoo.com/entertainment/articles/adam-driver-no-one-paying-223553021.html",
    "source": "yahoo.com",
@@ -1975,6 +2338,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/56ebe5f29c7310c3d183ff05234154fd4ad3d2d6b8252258cb0b44debdea2a55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2Fdc383dd8ca4f6d7a43688609e594e2ac.jpg",
    "published": "2026-11-23T22:31:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Martha Stewart's Genius Two-in-One Jacket Replaces a Scarf",
+   "url": "https://www.usmagazine.com/stylish/news/martha-stewart-two-in-one-jacket-look-for-less/",
+   "source": "usmagazine.com",
+   "category": "Fashion",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/red.png",
+   "published": "2026-11-23T22:30:38+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2101,12 +2475,34 @@
    "trend_score": 0
   },
   {
+   "title": "Texas Mom of 4 Wanted a Divorce Before Relatives Allegedly Killed Her: Report",
+   "url": "https://www.usmagazine.com/crime-news/news/texas-mom-wanted-a-divorce-was-killed-by-relatives-report/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Texas-Mom-Wanted-a-Divorce-Was-Killed-By-Relatives-Report-2.jpg",
+   "published": "2026-11-23T22:04:33+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "'Percy Jackson and the Olympians' Season 4 Fate Revealed Ahead of Season 3 Finale",
    "url": "https://collider.com/percy-jackson-and-the-olympians-season-4-fate-revealed-walker-scobell/",
    "source": "collider.com",
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-02-at-12-13-28-pm.png",
    "published": "2026-11-23T22:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Donald Trump Praises Nvidia Reinstating CEO Jensen Huang With AI Bra Pic",
+   "url": "https://www.usmagazine.com/celebrity-news/news/jensen-huangs-affair-and-spying-scandal-explained/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
+   "published": "2026-11-23T21:49:52+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2283,17 +2679,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/04becf91c3d17a89b0a35f4454d1e358ba32e80af41ad15c9fb61a99a1875e73/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fa09db1ff2c8aa709c7419eaf6586d8ed.jpg_up.jpg",
    "published": "2026-11-23T21:26:39+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Cause of Fire on Will Smith and Jada Pinkett Smith's L.A. Property Revealed",
-   "url": "https://www.usmagazine.com/celebrity-news/news/cause-of-fire-on-will-smith-jada-pinketts-property-revealed/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Cause-of-Structure-Fire-on-Will-Smith-and-Jada-Pinkett-Smith-Property-Revealed-GettyImages-1445900188.jpg?crop=250px%2C25px%2C1389px%2C786px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T21:26:34+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2838,17 +3223,6 @@
    "trend_score": 0
   },
   {
-   "title": "Taylor Swift slammed as real-life ‘Regina George’ by classmates and acquaintances in brutal Vanity Fair hit piece",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-slammed-real-life-190118182.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/a5afbfdaac999879f053b78827a038bd51f3f06faf02ed52606e47634edffc80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F4bf34d7fd4e24baf84f5a9420b383e46.jpg",
-   "published": "2026-11-23T19:01:18+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Netflix Officially Removes Gilmore Girls Revival in 48 Hours",
    "url": "https://collider.com/gilmore-girls-a-year-in-the-life-leaving-netflix-november-2026/",
    "source": "collider.com",
@@ -3124,17 +3498,6 @@
    "trend_score": 0
   },
   {
-   "title": "Ray Nicholson Reveals He Did Not Watch Dad Jack Nicholson’s Movies Until He Was 18",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ray-nicholson-reveals-did-not-182622244.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/5486997f99c0fe08023cf854e792e543649ffe8cb918e27727ea75aa2ef7836a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbc5376825da205376899e940d31b2977.jpg",
-   "published": "2026-11-23T18:26:22+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Cate Blanchett Lights Up the Champs-Élysées Christmas Celebrations",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/cate-blanchett-lights-champs-lys-182603163.html",
    "source": "yahoo.com",
@@ -3152,17 +3515,6 @@
    "category": "TV",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/11/this-classic-cheers-thanksgiving-episode-sparked-controversy.jpg",
    "published": "2026-11-23T18:23:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Rita Wilson, 70, Reveals the Truth Behind Her Viral Back Tattoo: ‘Definitely a Different Look’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/rita-wilson-70-reveals-truth-182043993.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/8ebadcc5f32d5c4780d90b90de66d3ccbecc6a20621f9f4d97b4ae2a797199b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F786c31c07415350d50a815fa805e6610.jpg",
-   "published": "2026-11-23T18:20:43+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3878,17 +4230,6 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76759_010927_eng.jpg",
    "published": "2026-11-23T13:09:24+05:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "'Hunger Games' prequel 'Sunrise on the Reaping' opens to $225 million at global box office",
-   "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-prequel-sunrise-on-the-reaping-opens-to-225-million-at-global-box-office-122631323.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
-   "published": "2026-11-23T12:28:40+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
