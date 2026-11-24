@@ -1,37 +1,15 @@
 {
- "generated_at": "2026-11-24T18:55:25.894318+00:00",
+ "generated_at": "2026-11-24T19:59:37.360594+00:00",
  "date_us": "2026-11-24",
  "per_site": {
   "usmagazine.com": 15,
-  "news.meaww.com": 3,
+  "news.meaww.com": 4,
   "profiles.yahoo.com": 6,
   "yahoo.com": 30,
   "jang.com.pk": 11,
-  "collider.com": 8
+  "collider.com": 10
  },
  "items": [
-  {
-   "title": "Ben Shelton, Trinity Rodman spark breakup rumors after finals losses",
-   "url": "https://jang.com.pk/en/76834-ben-shelton-trinity-rodman-spark-breakup-rumors-after-finals-losses-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76834_115416_eng.jpg",
-   "published": "2026-11-24T23:49:29+05:00",
-   "trending": true,
-   "trend_term": "trinity rodman · covered by 2 sites",
-   "trend_score": 4000
-  },
-  {
-   "title": "Did Ben Shelton and Trinity Rodman break up? Couple reportedly splits",
-   "url": "https://www.yahoo.com/entertainment/articles/did-ben-shelton-trinity-rodman-184419958.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9d3e264f0749b2e0db35135b66e6e2c37e81604d94260855148c86af33f8d743/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F1173928b481bc89846195a0ff1eb658e.jpg_up.jpg",
-   "published": "2026-11-24T18:44:19+00:00",
-   "trending": true,
-   "trend_term": "trinity rodman · covered by 2 sites",
-   "trend_score": 4000
-  },
   {
    "title": "Billy Ray Cyrus shares Miley Cyrus wedding photos in emotional tribute",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/billy-ray-cyrus-shares-miley-173201928.html",
@@ -242,15 +220,15 @@
    "trend_score": 3000
   },
   {
-   "title": "Miley Cyrus wipes away tears at the altar during Palm Springs wedding to Maxx Morando",
-   "url": "https://www.yahoo.com/entertainment/articles/miley-cyrus-wipes-away-tears-192224533.html",
-   "source": "yahoo.com",
+   "title": "Ben Shelton, Trinity Rodman spark breakup rumors after finals losses",
+   "url": "https://jang.com.pk/en/76834-ben-shelton-trinity-rodman-spark-breakup-rumors-after-finals-losses-news",
+   "source": "jang.com.pk",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/fe4f6baae55e5d7cf49f7a3652822f0b6722a578766850bbb66649993300a82f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F128ff7fdef7f506e446408ecdc0a4d7a.jpg",
-   "published": "2026-11-22T19:22:24+00:00",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76834_115416_eng.jpg",
+   "published": "2026-11-24T23:49:29+05:00",
    "trending": true,
-   "trend_term": "covered by 3 sites",
-   "trend_score": 3000
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
   },
   {
    "title": "Melissa McCarthy, Clive Owen lead chilling series 'JonBenét Ramsey Murder'",
@@ -264,6 +242,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Masked men arrested after suspected break-in at Prince William and Kate’s country home",
+   "url": "https://news.meaww.com/masked-men-arrested-after-suspected-break-in-at-prince-william-and-kates-country-home",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795546681883_9ef093db513c.jpg",
+   "published": "2026-11-24T19:17:28+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Is Blake Lively behind Taylor Swift Vanity Fair exposé? Shocking details emerge",
    "url": "https://jang.com.pk/en/76811-is-blake-lively-behind-taylor-swift-vanity-fair-expos-shocking-details-emerge-news",
    "source": "jang.com.pk",
@@ -272,6 +261,17 @@
    "published": "2026-11-24T18:58:08+05:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Did Ben Shelton and Trinity Rodman break up? Couple reportedly splits",
+   "url": "https://www.yahoo.com/entertainment/articles/did-ben-shelton-trinity-rodman-184419958.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9d3e264f0749b2e0db35135b66e6e2c37e81604d94260855148c86af33f8d743/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F1173928b481bc89846195a0ff1eb658e.jpg_up.jpg",
+   "published": "2026-11-24T18:44:19+00:00",
+   "trending": true,
+   "trend_term": "trinity rodman · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -381,7 +381,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/fcc68eaaa17778d32c89f14673b31e3f89cd7e1f9e7a7c60222f49198f677bc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F12921281523701ed293fb23076aa28fc.jpg_up.jpg",
    "published": "2026-11-24T15:41:32+00:00",
    "trending": true,
-   "trend_term": "jonbenet ramsey · covered by 2 sites · covered by 2 sites",
+   "trend_term": "jonbenet ramsey · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -451,6 +451,61 @@
    "trend_score": 2000
   },
   {
+   "title": "'Nobody Wants This' Star Reveals If She's Spoken to Adam Brody Since Drama",
+   "url": "https://www.usmagazine.com/entertainment/news/tovah-feldshuh-details-adam-brody-conversation-amid-drama/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2306581997.jpg",
+   "published": "2026-11-24T13:24:35+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "‘Nobody Wants This’ Star Tovah Feldshuh Details Conversation With Adam Brody Amid Offscreen Drama",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/nobody-wants-star-tovah-feldshuh-132435228.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a1585f92a9f86da9dcd1644e82c7fc405bdaac92b5bc381fae4d35ae9b479cfd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Feec7e7805dbfe7b8a101b226584838aa.jpg",
+   "published": "2026-11-24T13:24:35+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Influencer Announces Her Death in Prerecorded Video After Cancer Battle",
+   "url": "https://www.usmagazine.com/celebrity-news/news/influencer-christie-miller-dead-at-60-after-cancer-battle/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Influencer-Christie-Miller-Dead.png",
+   "published": "2026-11-24T13:02:02+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Influencer Christie Miller Announces Her Death at Age 60 in Prerecorded Video After Cancer Battle",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/influencer-christie-miller-announces-her-130202487.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a3b79b1017bbf3edba28e0cf4ae1c79576906835c3a80c23189dc9d09490e65a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F412d36dd3ff78156a2dfdc5e2a130011.png_up.jpg",
+   "published": "2026-11-24T13:02:02+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Kate Middleton and Prince William’s Country Home Broken into by Masked Intruders: Reports",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-prince-william-country-122732044.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/fd44bcf655aa149d9d8e38ce4836e578103d0f31d962c60502489865f98e1f53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F5d46cc32026ddcff6785fea1656cf9ae.jpg",
+   "published": "2026-11-24T12:27:32+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "‘Just made me like her even more’: Vanity Fair’s Taylor Swift ‘hit piece’ sparks outrage",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/just-made-her-even-more-113053016.html",
    "source": "yahoo.com",
@@ -503,6 +558,17 @@
    "published": "2026-11-24T11:16:43+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Influencer, 60, Announces Her Own Death in Pre-Recorded Video, 4 Years After Stage 4 Breast Cancer Diagnosis",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/influencer-60-announces-her-own-110403276.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/198c080868bad030d86fa99974a3f0fbd40264454fb25be2cd82edab1cd042f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff04c3e00aee1f532f64d753ee9b1c2fe.jpg",
+   "published": "2026-11-24T11:04:03+00:00",
+   "trending": true,
+   "trend_term": "christie miller · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -579,7 +645,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
    "published": "2026-11-24T08:43:08+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -854,7 +920,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
    "published": "2026-11-24T00:36:09+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1162,7 +1228,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
    "published": "2026-11-23T21:49:52+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1250,7 +1316,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
    "published": "2026-11-23T21:26:51+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1415,7 +1481,7 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
    "published": "2026-11-23T19:30:12+00:00",
    "trending": true,
-   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1679,7 +1745,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
    "published": "2026-11-23T17:24:45+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1690,7 +1756,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1701,7 +1767,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2123,17 +2189,6 @@
    "trend_score": 2000
   },
   {
-   "title": "‘Grand Theft Auto VI: The Album’ Adds 4 More Songs Following Deluxe Edition",
-   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/grand-theft-auto-vi-album-173142325.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/3a61e9e177249ed49f49599f840282423d7742b722724ea69f14e00ee6c8471c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F7f3f25518a2efbfad2b7a91d51a96ea7.jpg",
-   "published": "2026-11-24T17:31:42+00:00",
-   "trending": true,
-   "trend_term": "state of leonida",
-   "trend_score": 500
-  },
-  {
    "title": "Happy Birthday, Katherine Heigl! See the “Grey’s Anatomy” Actress’s Cutest Family Photos with Her Husband and 3 Kids",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/happy-birthday-katherine-heigl-see-113000051.html",
    "source": "yahoo.com",
@@ -2142,17 +2197,6 @@
    "published": "2026-11-24T11:30:00+00:00",
    "trending": true,
    "trend_term": "katherine heigl",
-   "trend_score": 0
-  },
-  {
-   "title": "Influencer, 60, Announces Her Own Death in Pre-Recorded Video, 4 Years After Stage 4 Breast Cancer Diagnosis",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/influencer-60-announces-her-own-110403276.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/198c080868bad030d86fa99974a3f0fbd40264454fb25be2cd82edab1cd042f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff04c3e00aee1f532f64d753ee9b1c2fe.jpg",
-   "published": "2026-11-24T11:04:03+00:00",
-   "trending": true,
-   "trend_term": "christie miller",
    "trend_score": 0
   },
   {
@@ -2464,12 +2508,276 @@
    "trend_score": 0
   },
   {
+   "title": "Is the Georgia Tech Couple Still Together After Viral Game Day Moment?",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/georgia-tech-couple-still-together-194814666.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a5290b36020c567065ee6f96c6ed5919170c09978ad00830611980c2f0b4b4b0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fbb21567b271b23ffaea5baaa0ea47034.jpg",
+   "published": "2026-11-24T19:48:14+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ella Langley’s ‘Choosin’ Texas’ Ties Hot Country Songs Record With 50 Weeks at No. 1",
+   "url": "https://www.yahoo.com/entertainment/music/articles/ella-langley-choosin-texas-ties-194449556.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/36f70ac5ed9025600191401dc9ab5faac5ec1486ab54642a0a668f1bf776596c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F4a8f32c79c0f90198c425a42be6d7776.jpg",
+   "published": "2026-11-24T19:44:49+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Time and Water’ Director on Why She Made an Intimate Doc About Global Warming",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/time-water-director-why-she-194406359.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/881cc4b71e53094b4c4a7c95743470991a34ca733b0647352f3207f4c98aafc1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F657d5cd67ba2907cc4996cbddaeb5f3c.jpg",
+   "published": "2026-11-24T19:44:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jax Taylor reacts to backlash over cancer diagnosis after ex Stassi Schroeder’s shady reaction",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jax-taylor-reacts-backlash-over-194121560.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/bda7e4c9836119a25767527c997a9c35e3aed58887122e1375c209536ba212bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F19412939a0334cefca42b02eb30364f0.jpg",
+   "published": "2026-11-24T19:41:21+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "8 movies with perfectly tight scripts that waste zero screen time",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/8-movies-perfectly-tight-scripts-194028551.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/70f327aeebb75540caba1d972f37809afd82d6b06df04f86621da5c43fe1899e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freddit_908%2F4872725af75ea738626e1ee833aba8fb.jpg",
+   "published": "2026-11-24T19:40:28+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Post Malone, Travis Scott & Charli xcx to Headline Tecate Pa’l Norte 2027: See the Full Lineup",
+   "url": "https://www.yahoo.com/entertainment/music/festivals/articles/post-malone-travis-scott-charli-194014644.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/54296f1f15b596e7696b7d16b1359f03977f4980512e16406ece965758b38332/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F467d40b430375207755e064d2b4e132b.jpg",
+   "published": "2026-11-24T19:40:14+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Taylor Swift Hit Piece Takes A Messy Turn Amid New Report Publisher Was Denied Access To Her Exclusive Wedding Photos",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-hit-piece-takes-194000524.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/293e2ca6231318062e0ff8038aab141c9a0ac08f614e48cc50d9fe078b2c5067/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F3b6cdaeeebe185031bfebd433cf4c45b.jpg",
+   "published": "2026-11-24T19:40:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Christina Applegate Says Fame Hasn’t Made Health Journey Easier Amid MS Misdiagnosis: ‘This Is a Process’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/christina-applegate-says-fame-hasn-193951025.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/70465cec9effdaf661efd90bee00cc24ad280f72f6fdc2bf6577e3d549751722/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffirst_for_women_articles_145%2Fc1e9648cc73a32f8675ecc3c517145ef.jpg",
+   "published": "2026-11-24T19:39:51+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "How ‘Focker-In-Law’ Is Marketing A Comedy To Two Generations At Once",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/focker-law-marketing-comedy-two-193900859.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/1777b621e0fc968909c1f865458baae16b411b344927fd02e95f3c33f5424158/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F0ad47e4402e598892eb3c87a547c9f42.jpg_up.jpg",
+   "published": "2026-11-24T19:39:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Brett Ratner Claims He Was Offered $100 Million by Businessman for Ride on Elon Musk’s SpaceX Rocket",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brett-ratner-claims-offered-100-193804845.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4c5d323c29165351e37eab0e4ca7df6edb44d7e677b0f46485cd4b39036574ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffirst_for_money_323%2F72b07486118f270f51bc3f8280e81a2b.jpg",
+   "published": "2026-11-24T19:38:04+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Andrew Scott on Starring in ‘Elsinore’ and Feeling ‘Very Grateful’ to Be an Out Gay Actor",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/andrew-scott-starring-elsinore-feeling-193612484.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/cc1a35ddb7ec2d80556dbbf29a104b698f66e34c45e8f394b0b9074bd9e4bac5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F165aa954c0a963eb4fd6c97cad3df94c.jpg",
+   "published": "2026-11-24T19:36:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ariana Grande to lay bare personal life in deeply intimate project — months after taking extended hiatus from public work",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ariana-grande-lay-bare-personal-193526582.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/124676e51191244bed53c90eff1a70d76e95aa28dbc3529d6af8e19b29f1f57f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F71cd9905e89ee3298a10edb5ec47bd6b.jpg",
+   "published": "2026-11-24T19:35:26+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Marlon Jackson Reveals Stage 4 Prostate Cancer Battle",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/marlon-jackson-reveals-stage-4-193452323.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/45cb12b0bf5719404046c6883d4797ba5c410c1b5825c12933c4d64e0688847f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F74e165d792042e443c23313a9f5fa86a.jpg",
+   "published": "2026-11-24T19:34:52+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Aquamarine’ Reboot Series Officially Set With Original Cast Returning",
+   "url": "https://collider.com/aquamarine-reboot-confirmed-disney-plus-hulu/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/aquamarine.jpg",
+   "published": "2026-11-24T19:34:18+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Zosia Mamet Says Sister Called 'Almost in Tears' Over Dad David Mamet's Trump Support",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/zosia-mamet-says-sister-called-193027054.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e12d8b6e47a00280def52c50432dfc23276f4598e9248e9f1893f318446d0ed4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fe900b92420106d9d1fa64927394dbc00.jpg",
+   "published": "2026-11-24T19:30:27+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Anne Rice's ‘Mayfair Witches’ Season 3 Officially Arrives Before the End of 2026",
+   "url": "https://collider.com/mayfair-witches-season-3-release-date-december-2026/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/mayfair-witches.jpg",
+   "published": "2026-11-24T19:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Chris Columbus Says He Turned Down Opportunity to Direct“ National Lampoon’s Christmas Vacation ”Because ‘I Did Not Get Along with Chevy Chase’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/chris-columbus-says-turned-down-192403732.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/72b949e4e2aaacbe045a0da110b802b3b1179574e03526001aed8eec0341c03e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc1e7e6d125ce7e791bba5585cda14068.jpg",
+   "published": "2026-11-24T19:24:03+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Amelia Dimoldenberg Reveals How 2 Panic Attacks in a Week Led Her to End Iconic “Chicken Shop Date” Series",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/amelia-dimoldenberg-reveals-2-panic-192147381.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/87d6098ebd7efd1dc5eb5ca18e2f1b990fcf711164508cfd2d2b29d1205ccd37/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fa130848e855da7ade90da7be342bb9ee.jpg",
+   "published": "2026-11-24T19:21:47+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘General Hospital’ Alum Gregory Harrison Reveals the Unusual Way He Met His Wife of 45 Years",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/general-hospital-alum-gregory-harrison-192027338.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f3df135aabf6f500f0386332514ef46eb242da8340c0b7301c7916fd2c80db40/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2Fbcf4a75e9ca869e9345807576f8ba19c.jpg",
+   "published": "2026-11-24T19:20:27+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "18 Years Later, Samuel L. Jackson’s Disturbing Crime Thriller Officially Leaves Streaming Ahead of ‘Frisco King’",
+   "url": "https://collider.com/lakeview-terrace-leaving-hulu-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/lakeview-terrace-samuel-l-jackson.jpg",
+   "published": "2026-11-24T19:17:56+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "MobLand: A Real Gangster Inspired Helen Mirren's Look | Collider BTS",
+   "url": "https://collider.com/video/mobland-a-real-gangster-inspired-helen-mirren-s-look-collider-bts/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/collider-bts-mobland-01.jpg",
+   "published": "2026-11-24T19:15:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Patrick Stewart’s Brutal Punk Thriller Officially Leaves Netflix in 1 Week",
+   "url": "https://collider.com/green-room-leaving-netflix-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/green-room-patrick-stewart.jpg",
+   "published": "2026-11-24T19:13:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Prince William steps out hours after shocking incident at his royal estate",
    "url": "https://jang.com.pk/en/76814-prince-william-steps-out-hours-after-shocking-incident-at-royal-estate-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76814_070948_eng.jpg",
    "published": "2026-11-24T19:09:44+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Taylor Sheridan’s Next ‘Tulsa King’ Spin-Off Could Star Another ’80s Action Movie Legend",
+   "url": "https://collider.com/sylvester-stallone-tulsa-king-spin-off-arnold-schwarzenegger/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/tulsa-king-sylvester-stallone-1.jpg",
+   "published": "2026-11-24T19:02:29+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Blade Runner 2099’ Star’s Near-Perfect Thriller Is Officially Leaving Hulu",
+   "url": "https://collider.com/hunter-schafer-cuckoo-leaving-hulu-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/06/cuckoo.jpg",
+   "published": "2026-11-24T19:00:13+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2492,6 +2800,17 @@
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/star-wars-a-new-hope-poster.jpeg",
    "published": "2026-11-24T18:52:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jennifer Lopez Reveals Son Max’s Blunt Question About Her Las Vegas Stage Outfits",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennifer-lopez-reveals-son-max-184932159.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/fecdf9ce3b56647bc11dc0293011dd1038e8324ccb35c419ec6c98389eba931f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F18c35344667385e1185abeeb29d474f2.jpg",
+   "published": "2026-11-24T18:49:32+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2778,6 +3097,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/0d5b80c93ee6394adba6b4a580c90915bc6b600c7b9e69c78ed75af7d2142a7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F2ef91404f032d54d9c5b1862988c411d.jpg",
    "published": "2026-11-24T17:32:28+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Grand Theft Auto VI: The Album’ Adds 4 More Songs Following Deluxe Edition",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/grand-theft-auto-vi-album-173142325.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/3a61e9e177249ed49f49599f840282423d7742b722724ea69f14e00ee6c8471c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F7f3f25518a2efbfad2b7a91d51a96ea7.jpg",
+   "published": "2026-11-24T17:31:42+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3509,6 +3839,17 @@
    "trend_score": 0
   },
   {
+   "title": "Rob Lowe’s Biggest Revelations About His Love Life, Controversies and More in New Netflix Doc",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rob-lowe-biggest-revelations-love-124606705.html",
+   "source": "profiles.yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/c1c64fca656d03b8f6e3e2f33ae1b48d9f5e4fe5f61236d08ae74f4c9ce1e872/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff0454ecb17ad2da3ce6fef89a66059b1.jpg",
+   "published": "2026-11-24T12:46:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "‘I See Buildings Fall Like Lightning’ Tops British Independent Film Awards’ Craft Winners",
    "url": "https://www.yahoo.com/entertainment/movies/articles/see-buildings-fall-lightning-tops-124500640.html",
    "source": "yahoo.com",
@@ -3592,17 +3933,6 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/98abf79b438062af8842e76a1d3076d35602cfd733206fc1ae8b97650b51369b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcracked_901%2Fb7a9e2826f09231cfdc7418cffaaf732.jpg",
    "published": "2026-11-24T12:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Kate Middleton and Prince William’s Country Home Broken into by Masked Intruders: Reports",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-prince-william-country-122732044.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/fd44bcf655aa149d9d8e38ce4836e578103d0f31d962c60502489865f98e1f53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F5d46cc32026ddcff6785fea1656cf9ae.jpg",
-   "published": "2026-11-24T12:27:32+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
