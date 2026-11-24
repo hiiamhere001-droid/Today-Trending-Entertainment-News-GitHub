@@ -1,15 +1,37 @@
 {
- "generated_at": "2026-11-24T10:04:56.445070+00:00",
+ "generated_at": "2026-11-24T10:57:54.874598+00:00",
  "date_us": "2026-11-24",
  "per_site": {
-  "usmagazine.com": 17,
+  "usmagazine.com": 16,
   "news.meaww.com": 3,
   "profiles.yahoo.com": 11,
-  "yahoo.com": 28,
-  "jang.com.pk": 7,
+  "yahoo.com": 27,
+  "jang.com.pk": 8,
   "collider.com": 9
  },
  "items": [
+  {
+   "title": "'Focker-in-Law' Review: Meet the New Focker, Same As the Old Focker",
+   "url": "https://collider.com/focker-in-law-ariana-grande-ben-stiller-robert-deniro-review/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/focker-in-law-ben-stiller-ariana-grande-2.jpg",
+   "published": "2026-11-23T21:33:18+00:00",
+   "trending": true,
+   "trend_term": "focker in law reviews",
+   "trend_score": 5000
+  },
+  {
+   "title": "Billy Ray Cyrus shares heartfelt tribute to Miley Cyrus after her wedding to Maxx Morando: 'Proudest dad alive'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/article/billy-ray-cyrus-shares-heartfelt-tribute-to-miley-cyrus-after-her-wedding-to-maxx-morando-proudest-dad-alive-102741477.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/04f2fcc369b64a979c6801eddf0b40a3891ebc70b27f1205c55a74d28b2961be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fd43d3ea0-3b15-4e45-9457-b07fbd67dcd6",
+   "published": "2026-11-24T10:27:41+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
   {
    "title": "Miley Cyrus marries Maxx Morando in Palm Springs - report",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-marries-maxx-morando-013821592.html",
@@ -209,6 +231,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Robert Downey Jr. takes on a bold new role in 'Avengers: Doomsday'. What happened to Iron Man — and what to know about the villainous Doctor Doom.",
+   "url": "https://www.yahoo.com/entertainment/movies/article/robert-downey-jr-takes-on-a-bold-new-role-in-avengers-doomsday-what-happened-to-iron-man--and-what-to-know-about-the-villainous-doctor-doom-103623868.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/ef5bd697ebd64706bb30a8cc0b4fc01cf5741c7a2f90b0d6c13f45d455be22f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdoctor-doom_7670.png",
+   "published": "2026-11-24T10:36:23+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Taylor Swift branded 'Regina George' in bombshell Vanity Fair report as 100+ sources weigh in",
    "url": "https://jang.com.pk/en/76790-taylor-swift-branded-regina-george-in-bombshell-vanity-fair-report-as-100-sources-weigh-in-news",
    "source": "jang.com.pk",
@@ -238,7 +271,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
    "published": "2026-11-24T08:43:08+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -281,6 +314,28 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/ecc22fef9ba10145c30c68791ea9eb57b7163bf6727870c902ca7572ce18738c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F7a9eac927898d8356cf8dd9cb5c34d17.jpg",
    "published": "2026-11-24T04:27:08+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Zosia Mamet Says 'Horrible' Boss Made Her Quit Classic Show After 4 Episodes",
+   "url": "https://www.usmagazine.com/entertainment/news/zosia-mamet-says-horrible-boss-made-her-quit-classic-show/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/TCDMAMEEC341-Zosia-Mamet-Says-Horrible-Boss-Made-Her-Quit-Classic-Show-Elisabeth-Moss-e1795490226242.jpg",
+   "published": "2026-11-24T03:35:27+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Zosia Mamet Names Former ‘Horrible’ Boss Who Made Her Quit Award-Winning Show After 4 Episodes",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/zosia-mamet-names-former-horrible-033527429.html",
+   "source": "profiles.yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/402d2f93d622e4f5aaa7484d2a51fbc357c38ab058b0bad0d137aff92f9430df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F39f0e3ded3371830f72bc6ed39387858.jpg",
+   "published": "2026-11-24T03:35:27+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -391,6 +446,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/49aaf34172a744da222fd54021c1c4e0fc575f24581bf54b7b3e1809bcb14926/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fc8173d0eaa50ab579c0f59ddbf4bf1cf.jpg",
    "published": "2026-11-24T01:03:46+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Zosia Mamet Details Quitting ‘Mad Men’ After ‘Absolutely Horrible’ Run-in With Boss Matthew Weiner",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/zosia-mamet-details-quitting-mad-010217302.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ed8268159d2ea935428c53de2726b79347fbc76eb1f01caa5a371e56818bede4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F4d5f72dcf4d3d066798667298837a2c5.jpg",
+   "published": "2026-11-24T01:02:17+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -711,7 +777,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
    "published": "2026-11-23T21:49:52+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -799,7 +865,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
    "published": "2026-11-23T21:26:51+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -943,6 +1009,17 @@
    "published": "2026-11-23T19:31:27+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Marvel Officially Unmasks Doctor Doom Ahead of Robert Downey Jr.’s Return in ‘Avengers: Doomsday’",
+   "url": "https://collider.com/marvel-doctor-doom-unmasked-secret-wars/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
+   "published": "2026-11-23T19:30:12+00:00",
+   "trending": true,
+   "trend_term": "anthony mackie · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1206,7 +1283,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1217,7 +1294,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1639,6 +1716,94 @@
    "trend_score": 2000
   },
   {
+   "title": "Prince Harry and Meghan Markle spotted on child-free date night in the UK: 'Surreal'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-spotted-100033791.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/22f672afaeba4daab357f6635b676e802199441bf5a6d3de24ca27b63fb290b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F914f1cd6c9f65de11fcaac6330a06738.jpg",
+   "published": "2026-11-24T10:42:56+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 1000
+  },
+  {
+   "title": "Prince William Warned Prince Harry Will Release 400 Cut Pages Of Memoir ‘Spare’ If He Strips Sussex Family Of Titles",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-warned-prince-harry-040000840.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b0f424aaab4bb822b53ab28ce3d5ec2270d9d7d53f102688e43a1972c0e0a844/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fc7d044dacdec5f8537119fd003904990.jpg",
+   "published": "2026-11-24T04:00:00+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 1000
+  },
+  {
+   "title": "Sad Reason Prince Harry And Meghan Are ‘Being Kept At Arm’s Length’ By The Royals This Holiday Season",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/sad-reason-prince-harry-meghan-024500628.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/cf987ae89856f9d0b1a74c9462a3cb049468943481fe4ddd2ecf4ca8bfa6b254/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F7b9ee39b47f00818219c688a041b8051.jpg",
+   "published": "2026-11-24T02:45:00+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 1000
+  },
+  {
+   "title": "Prince Harry and Meghan Markle’s Reason for Staying in the U.K. for Christmas Revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-reason-003609184.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
+   "published": "2026-11-24T00:36:09+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 1000
+  },
+  {
+   "title": "Prince William reportedly has a brother in his corner — and it’s not Prince Harry",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-reportedly-brother-corner-232725749.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/13453a02162ce7d1e600837c21303a42536cae4581ea9d514a0e164431665fc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fb901e9be3bcd9fc04f50a9b50bf2556f.jpg",
+   "published": "2026-11-23T23:27:25+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 1000
+  },
+  {
+   "title": "Prince William’s Alleged Plans To Strip Harry Of HRH Status Have ‘No Factual Basis,’ Kensington Palace Says",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-alleged-plans-strip-203000368.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b5fd0a8b54c662a08d7fe8768a1c701f434bd73d0e0d023d3f2d3f65f1ad9f2f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F894ecad02c93e63eac6d4edf9ce4d2bc.jpg",
+   "published": "2026-11-23T20:30:00+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 1000
+  },
+  {
+   "title": "Kensington Palace hit back at Tom Skyes' Harry, Meghan's Royal titles claims: 'no factual basis'",
+   "url": "https://jang.com.pk/en/76770-kensington-palace-hit-back-at-tom-skyes-harry-meghans-royal-titles-claims-no-factual-basis-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76770_060125_eng.jpg",
+   "published": "2026-11-23T18:00:57+05:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 1000
+  },
+  {
+   "title": "Meghan Markle’s Hairstylist Spills Secrets About Life With Prince Harry",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-hairstylist-spills-secrets-172445112.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
+   "published": "2026-11-23T17:24:45+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 1000
+  },
+  {
    "title": "‘The Hunger Games: Sunrise on the Reaping’ Dominates U.K., Ireland Box Office as ‘Ramayana’ Sets All-Time Indian Record",
    "url": "https://www.yahoo.com/entertainment/articles/hunger-games-sunrise-reaping-dominates-082520932.html",
    "source": "yahoo.com",
@@ -1647,40 +1812,7 @@
    "published": "2026-11-24T08:25:20+00:00",
    "trending": true,
    "trend_term": "office",
-   "trend_score": 1000
-  },
-  {
-   "title": "India Could Post Its Highest Box Office Since the Pandemic, Zee Studios’ Girish Johar Tells WAVES Film Bazaar",
-   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/india-could-post-highest-box-052949164.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/c2968b4babc8f925ed7a17400dc454a7af8a5dcd096f601bdc7701461da1f762/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F4d657a9e69341471188154bf5490fc27.jpg_up.jpg",
-   "published": "2026-11-24T05:29:49+00:00",
-   "trending": true,
-   "trend_term": "office",
-   "trend_score": 1000
-  },
-  {
-   "title": "'Hunger Games' prequel 'Sunrise on the Reaping' opens to $225 million at global box office",
-   "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-prequel-sunrise-on-the-reaping-opens-to-225-million-at-global-box-office-122631323.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
-   "published": "2026-11-23T12:28:40+00:00",
-   "trending": true,
-   "trend_term": "office",
-   "trend_score": 1000
-  },
-  {
-   "title": "Don Toliver Concert Evacuated After ‘Substance Believed to Be Tear Gas’ Was Released into Arena Crowd",
-   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-concert-evacuated-substance-024617016.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/040117fcb62861d6334086d0bb86417fb534709839d253c5ee916943dd2f0696/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4b5424200860ad538fe25358b1c06d10.jpg",
-   "published": "2026-11-23T02:46:17+00:00",
-   "trending": true,
-   "trend_term": "mirror",
-   "trend_score": 100
+   "trend_score": 0
   },
   {
    "title": "Adam Driver Teases His ‘X-Men’ Villain Mister Sinister to Seth Meyers",
@@ -1691,6 +1823,17 @@
    "published": "2026-11-24T06:42:34+00:00",
    "trending": true,
    "trend_term": "adam driver",
+   "trend_score": 0
+  },
+  {
+   "title": "India Could Post Its Highest Box Office Since the Pandemic, Zee Studios’ Girish Johar Tells WAVES Film Bazaar",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/india-could-post-highest-box-052949164.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/c2968b4babc8f925ed7a17400dc454a7af8a5dcd096f601bdc7701461da1f762/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F4d657a9e69341471188154bf5490fc27.jpg_up.jpg",
+   "published": "2026-11-24T05:29:49+00:00",
+   "trending": true,
+   "trend_term": "office",
    "trend_score": 0
   },
   {
@@ -1746,17 +1889,6 @@
    "published": "2026-11-23T19:34:47+00:00",
    "trending": true,
    "trend_term": "tee higgins",
-   "trend_score": 0
-  },
-  {
-   "title": "Marvel Officially Unmasks Doctor Doom Ahead of Robert Downey Jr.’s Return in ‘Avengers: Doomsday’",
-   "url": "https://collider.com/marvel-doctor-doom-unmasked-secret-wars/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
-   "published": "2026-11-23T19:30:12+00:00",
-   "trending": true,
-   "trend_term": "anthony mackie",
    "trend_score": 0
   },
   {
@@ -1834,6 +1966,149 @@
    "published": "2026-11-23T17:00:12+00:00",
    "trending": true,
    "trend_term": "tom holland",
+   "trend_score": 0
+  },
+  {
+   "title": "Don Toliver Concert Evacuated After ‘Substance Believed to Be Tear Gas’ Was Released into Arena Crowd",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-concert-evacuated-substance-024617016.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/040117fcb62861d6334086d0bb86417fb534709839d253c5ee916943dd2f0696/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4b5424200860ad538fe25358b1c06d10.jpg",
+   "published": "2026-11-23T02:46:17+00:00",
+   "trending": true,
+   "trend_term": "mirror",
+   "trend_score": 0
+  },
+  {
+   "title": "AI voice recorder Plaud wins Google Play's 2026 Productivity app award",
+   "url": "https://jang.com.pk/en/76801-ai-voice-recorder-plaud-wins-google-plays-2026-productivity-app-award-news",
+   "source": "jang.com.pk",
+   "category": "Awards",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76801_032713_eng.jpg",
+   "published": "2026-11-24T15:27:57+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 10 Most Divisive Movies of All Time, Ranked",
+   "url": "https://collider.com/most-divisive-movies-all-time-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/star-wars_-the-last-jedi-2017-4.jpg",
+   "published": "2026-11-24T10:42:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Lisa Sthalekar Biopic, ‘Fear and Loathing in Kathmandu’ Doc and Melbourne Diaspora Comedy Series on ‘Wedding Season’ Star Pallavi Sharda’s Bodhini Studios Slate (EXCLUSIVE)",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/lisa-sthalekar-biopic-fear-loathing-104151565.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/8827e92367f2ed8f855477fd88b721913af3e5c93b2c03d2a942917e5e055698/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Feffeb4457d4a32667bf364f34258b009.jpg_up.jpg",
+   "published": "2026-11-24T10:41:51+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Anna Williamson says music industry boss propositioned her when she was just 16",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/anna-williamson-says-music-industry-103857782.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/4f5e84af17af7b23f1b6e2136fc145bf8b3d044ee3a3eab67d92531b4cd83dbf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F80e53549998db6b33d14432020088d98.jpg",
+   "published": "2026-11-24T10:38:57+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Veteran Entertainment, Media & Brand Execs Join Forces To Launch The Unlabelled Alliance",
+   "url": "https://www.yahoo.com/entertainment/articles/veteran-entertainment-media-brand-execs-103449647.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a8b3cebcbfeff384e2ad1bc19aa19cd43ff27aa64e282f56dd8925ff24e5d005/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Ff970e1c28b3c8efb1cde96a9775c3afe.png",
+   "published": "2026-11-24T10:34:49+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "People Are Already Divided Over Justin Timberlake's New Four-Part Documentary",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/people-already-divided-over-justin-103402287.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d0ff8c67b78291330e57b74f9783cb4cbdb9b7f8add8a93e78ea76c75ba40e2f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F93870543165e47d731ea4d6ad2301833.png_up.jpg",
+   "published": "2026-11-24T10:34:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ridley Scott and Russell Crowe’s ‘Robin Hood’ Is Officially Taking Over Streaming",
+   "url": "https://collider.com/robin-hood-ridley-scott-russell-epic-prime-video-success/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/11/robin-hood-russell-crowe.jpg",
+   "published": "2026-11-24T10:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Justin Timberlake Says ‘I Can’t Handle It All’ As Past Scandals Resurface",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/justin-timberlake-says-t-handle-103000777.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/afda1607690c4fe03328b6937924596bdb81c6b152d56c0d695256d83436a5e3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F541ff05d4054135b6da72321923b0b66.jpg",
+   "published": "2026-11-24T10:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Kelly Ripa's lookalike daughter twins with boyfriend in unexpected look",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kelly-ripas-lookalike-daughter-twins-101542342.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/837a8f4f029c4aa3ab93079dcf01fbc3f7bd262789907dd0ac51c8de34a95c83/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F6bdbc32f29f4194c90a3b332ef00fbea.jpg",
+   "published": "2026-11-24T10:15:42+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Lord of the Rings’ Greatest Battle Stands Above the Rest of the Franchise",
+   "url": "https://collider.com/lord-of-the-rings-best-battle-of-helms-deep/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/viggo-mortensen-the-lord-of-the-rings-the-two-towers-1.jpg",
+   "published": "2026-11-24T10:10:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "India-Chile Co-Production Treaty Nears Final Stage as Chilean Producers Court Indian Partners at IFFI Goa (EXCLUSIVE)",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/india-chile-co-production-treaty-100954476.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/d4ce67c46aa581271c17dc8e5956c29ec1063802b4789bcbe47fa0f8845b8f30/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fb3cf893ab4ba05d2d132b919051c65c3.jpg_up.jpg",
+   "published": "2026-11-24T10:09:54+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Antoine Fuqua denies assault and battery allegations",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/antoine-fuqua-denies-assault-battery-083148248.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/54f7df475142fd4962bf94b010f5543295791c55e0b8f925ab26114a1242e2c4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F464bdd30ba57029635fde1f922886adf.jpg_up.jpg",
+   "published": "2026-11-24T10:01:47+00:00",
+   "trending": false,
+   "trend_term": null,
    "trend_score": 0
   },
   {
@@ -1942,17 +2217,6 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/cb7a0c55fe18524784cc68adb9d28def051579c79a0fb068e9152f1d2f835163/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fef7ef031d101f54d2d23d4528b654ffa.jpg_up.jpg",
    "published": "2026-11-24T08:40:16+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Antoine Fuqua denies assault and battery allegations",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/antoine-fuqua-denies-assault-battery-083148248.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9b641d9429748c568feaaf063084122dcf1ec2406f06238bdfc886f3e83100f3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fe95e55125458b7aadf75e734bc06e9c1.jpg_up.jpg",
-   "published": "2026-11-24T08:31:48+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2420,17 +2684,6 @@
    "trend_score": 0
   },
   {
-   "title": "Prince William Warned Prince Harry Will Release 400 Cut Pages Of Memoir ‘Spare’ If He Strips Sussex Family Of Titles",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-warned-prince-harry-040000840.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b0f424aaab4bb822b53ab28ce3d5ec2270d9d7d53f102688e43a1972c0e0a844/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fc7d044dacdec5f8537119fd003904990.jpg",
-   "published": "2026-11-24T04:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "“DWTS” Pro Ezra Sosa Recreates Julia Stiles’ “Save the Last Dance” Routine — Leotard Included — as She Judges Him",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dwts-pro-ezra-sosa-recreates-033301572.html",
    "source": "yahoo.com",
@@ -2569,17 +2822,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/587153d3af7f428abef4073f259be07005407daf3895e1510205ea6c8a44a506/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Faebcd65eb1e0333941d16cb3d32de6be.jpg",
    "published": "2026-11-24T02:53:39+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Sad Reason Prince Harry And Meghan Are ‘Being Kept At Arm’s Length’ By The Royals This Holiday Season",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/sad-reason-prince-harry-meghan-024500628.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/cf987ae89856f9d0b1a74c9462a3cb049468943481fe4ddd2ecf4ca8bfa6b254/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F7b9ee39b47f00818219c688a041b8051.jpg",
-   "published": "2026-11-24T02:45:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2805,17 +3047,6 @@
    "trend_score": 0
   },
   {
-   "title": "Zosia Mamet Details Quitting ‘Mad Men’ After ‘Absolutely Horrible’ Run-in With Boss Matthew Weiner",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/zosia-mamet-details-quitting-mad-010217302.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ed8268159d2ea935428c53de2726b79347fbc76eb1f01caa5a371e56818bede4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F4d5f72dcf4d3d066798667298837a2c5.jpg",
-   "published": "2026-11-24T01:02:17+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Child Actors On Challenges Of Finding Jobs As Adults",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/child-actors-challenges-finding-jobs-010103276.html",
    "source": "yahoo.com",
@@ -2921,17 +3152,6 @@
    "category": "Streaming",
    "image": "https://s.yimg.com/lo/mysterio/api/b9544869f582b915ee86616ef428ffc2ca9b84df2886b02ccb046628fce0e7d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F892f10f444fc0fae4067647480c520d6.jpg",
    "published": "2026-11-24T00:37:55+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Prince Harry and Meghan Markle’s Reason for Staying in the U.K. for Christmas Revealed",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-reason-003609184.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
-   "published": "2026-11-24T00:36:09+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3152,17 +3372,6 @@
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/fjord-sebastian-stan.jpg",
    "published": "2026-11-23T23:30:35+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Prince William reportedly has a brother in his corner — and it’s not Prince Harry",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-reportedly-brother-corner-232725749.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/13453a02162ce7d1e600837c21303a42536cae4581ea9d514a0e164431665fc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fb901e9be3bcd9fc04f50a9b50bf2556f.jpg",
-   "published": "2026-11-23T23:27:25+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3531,17 +3740,6 @@
    "trend_score": 0
   },
   {
-   "title": "'Focker-in-Law' Review: Meet the New Focker, Same As the Old Focker",
-   "url": "https://collider.com/focker-in-law-ariana-grande-ben-stiller-robert-deniro-review/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/focker-in-law-ben-stiller-ariana-grande-2.jpg",
-   "published": "2026-11-23T21:33:18+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Gabriel Iglesias’ Comedy Show Takes Scary Turn as He Calls for Help",
    "url": "https://www.yahoo.com/entertainment/music/concerts/articles/gabriel-iglesias-comedy-show-takes-213102252.html",
    "source": "yahoo.com",
@@ -3812,17 +4010,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/92dc9a7e3cf41a41efe65b9f767cf162bcd126a50b73bae515e8fe97a8d953eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F36669ec2e6498aa68fe426db61d82cf8.jpg",
    "published": "2026-11-23T20:30:28+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Prince William’s Alleged Plans To Strip Harry Of HRH Status Have ‘No Factual Basis,’ Kensington Palace Says",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-alleged-plans-strip-203000368.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b5fd0a8b54c662a08d7fe8768a1c701f434bd73d0e0d023d3f2d3f65f1ad9f2f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F894ecad02c93e63eac6d4edf9ce4d2bc.jpg",
-   "published": "2026-11-23T20:30:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4532,17 +4719,6 @@
    "trend_score": 0
   },
   {
-   "title": "Kensington Palace hit back at Tom Skyes' Harry, Meghan's Royal titles claims: 'no factual basis'",
-   "url": "https://jang.com.pk/en/76770-kensington-palace-hit-back-at-tom-skyes-harry-meghans-royal-titles-claims-no-factual-basis-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76770_060125_eng.jpg",
-   "published": "2026-11-23T18:00:57+05:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Weakest Link's Jane Lynch Recreates Iconic 'Baywatch' Slo-Motion Sequence",
    "url": "https://www.usmagazine.com/entertainment/news/celeb-weakest-links-jane-lynch-recreates-baywatch-sequence/",
    "source": "usmagazine.com",
@@ -4829,17 +5005,6 @@
    "trend_score": 0
   },
   {
-   "title": "Meghan Markle’s Hairstylist Spills Secrets About Life With Prince Harry",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-hairstylist-spills-secrets-172445112.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
-   "published": "2026-11-23T17:24:45+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "David Fincher Officially Reveals Real Budget for His New Quentin Tarantino Movie",
    "url": "https://collider.com/cliff-booth-netflix-movie-real-budget-david-fincher/",
    "source": "collider.com",
@@ -5077,6 +5242,17 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76759_010927_eng.jpg",
    "published": "2026-11-23T13:09:24+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "'Hunger Games' prequel 'Sunrise on the Reaping' opens to $225 million at global box office",
+   "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-prequel-sunrise-on-the-reaping-opens-to-225-million-at-global-box-office-122631323.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
+   "published": "2026-11-23T12:28:40+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
