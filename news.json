@@ -1,15 +1,26 @@
 {
- "generated_at": "2026-11-24T05:00:51.000678+00:00",
+ "generated_at": "2026-11-24T05:58:17.896344+00:00",
  "date_us": "2026-11-24",
  "per_site": {
-  "usmagazine.com": 18,
+  "usmagazine.com": 16,
   "news.meaww.com": 4,
-  "profiles.yahoo.com": 10,
-  "yahoo.com": 29,
+  "profiles.yahoo.com": 9,
+  "yahoo.com": 30,
   "jang.com.pk": 7,
-  "collider.com": 8
+  "collider.com": 9
  },
  "items": [
+  {
+   "title": "Billy Ray Cyrus shares emotional tribute to daughter Miley after her wedding to Maxx Morando",
+   "url": "https://news.meaww.com/billy-ray-cyrus-shares-emotional-tribute-to-daughter-miley-after-her-wedding-to-maxx-morando",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795494172402_f7065cb481ff.jpg",
+   "published": "2026-11-24T05:32:47+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
   {
    "title": "‘Law & Order’ and ‘GTA V’ actor EJ Carroll’s cause of death revealed after sudden death at 66",
    "url": "https://news.meaww.com/law-order-and-gta-v-actor-ej-carrolls-cause-of-death-revealed-after-sudden-death-at-66",
@@ -110,6 +121,28 @@
    "trend_score": 2000
   },
   {
+   "title": "Billy Ray Cyrus Shares Snapshots From Miley’s Wedding: ‘Beautiful’ to See Family ‘United by Love’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/billy-ray-cyrus-shares-snapshots-053639241.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/931c9e40b424154e5c2d92f1004d90c1c1b031a4651c00a51a4c263f832aa57b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Ffb54b83338a50bcbf6cad7fcce11a45b.jpg",
+   "published": "2026-11-24T05:36:39+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Miley Cyrus celebrates 34th birthday after wedding weekend: 'So grateful'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-celebrates-34th-birthday-051134052.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/554ba30cae0e96a45701c4fcc2165f9d38f0c5533652aa3968e713c308a040b1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F4e3c58011804c42eacd2dfbe07dccb08.jpg_up.jpg",
+   "published": "2026-11-24T05:11:34+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "‘DWTS’ Judge Derek Hough Alludes to Child Sexual Abuse by Neighbor in Emotional New Documentary",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dwts-judge-derek-hough-alludes-042708552.html",
    "source": "yahoo.com",
@@ -154,6 +187,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Billy Ray Cyrus Shares Emotional Photos from Daughter Miley’s Wedding, Says It Was ‘Beautiful’ Having Family in ‘One Room’",
+   "url": "https://www.yahoo.com/entertainment/articles/billy-ray-cyrus-shares-emotional-013421946.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e75e6b475844ac474e8db0e8824fa514b715be2035957927690dd6f03d6519ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F1bdcbcb75a0829158f71d1a52419051e.jpg",
+   "published": "2026-11-24T01:34:21+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Is Vanity Fair’s Hit Piece on Taylor Swift Really Journalism?",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/vanity-fair-hit-piece-taylor-001214668.html",
    "source": "yahoo.com",
@@ -176,12 +220,89 @@
    "trend_score": 2000
   },
   {
+   "title": "Jessica Alba Ordered to Pay Ex-Husband Cash Warren $577K After Divorce",
+   "url": "https://www.usmagazine.com/celebrity-news/news/jessica-alba-ordered-to-pay-ex-husband-cash-warren-577k/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2183930719-jessica-alba-cash-warren.jpg?crop=0px%2C41px%2C1200px%2C677px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-23T23:27:55+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Jack Nicholson’s Son Ray Nicholson Reveals He ‘Didn’t Watch’ His Father’s Films Until He Was an Adult",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jack-nicholson-son-ray-nicholson-231249691.html",
    "source": "yahoo.com",
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/5f26d8c944dd9d7474246ee303ef4e3ea3e8b64778d376d19a210e8dca579144/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_examiner_239%2Fedb3da6040099b247e841073563c8639.jpg",
    "published": "2026-11-23T23:12:49+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Avery Woods Talks Explicit Pics, Mary Bonnet's Moving Plans, More Top Stories",
+   "url": "https://www.usmagazine.com/celebrity-news/news/avery-woods-talks-explicit-photos-and-more-top-us-stories/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Avery-Woods-Talks-Explicit-Photos-Mary-Bonnets-Moving-Plans-More-Top-Stories.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-23T23:06:02+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Mormon Wives’ Avery Woods Talks Explicit Photos, Mary Bonnet’s Moving Plans and More Top Us Stories",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/mormon-wives-avery-woods-talks-230602143.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/2781a70c2c600d7fcd2fbfe9cbd8b3717ab5da35499261debdf4c6d1ac40126f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F9724178bc295726e8ed1782188b3033f.jpg",
+   "published": "2026-11-23T23:06:02+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Man Allegedly Thought About Killing Mom for Months, Confessed to Her Murder",
+   "url": "https://www.usmagazine.com/crime-news/news/man-confessed-to-murdering-his-mom-who-was-stabbed-to-death/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Man-Confessed-to-Murdering-His-Mom-Who-Was-Stabbed-to-Death.jpg?crop=4px%2C367px%2C1996px%2C1127px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T23:01:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Man Allegedly Thought About Killing Mom for 6 Months, Then Confessed to Cops: ‘I Murdered My Mother’",
+   "url": "https://www.yahoo.com/news/us/articles/man-allegedly-thought-killing-mom-230100716.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c0a0b18ec75e0a877416531a9bb0ebe51c47295dd9232f52f39a94c95fbad624/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F6137c84515a9fb72bc19fb31e7768404.jpg",
+   "published": "2026-11-23T23:01:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Mom Arrested After Falsely Claiming Daughter, 4, Was Diagnosed With Cancer",
+   "url": "https://www.usmagazine.com/crime-news/news/mom-falsely-claimed-daughter-4-was-diagnosed-with-cancer/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/mom-falsely-claimed-daughter-had-cancer.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-23T22:40:14+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Mom Falsely Claimed Daughter, 4, Was Diagnosed With Cancer, Made Her Undergo Unnecessary Treatments",
+   "url": "https://www.yahoo.com/news/us/articles/mom-falsely-claimed-daughter-4-224014851.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/93c8b4db1454bc074d29ddd4eb8f189aad7dc4cc5d3b0f53bcaa948dec7218b1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F81b8f660343062da236eeb136cb61ac0.jpg",
+   "published": "2026-11-23T22:40:14+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -198,11 +319,33 @@
    "trend_score": 2000
   },
   {
+   "title": "Elizabeth Hurley Helped Billy Ray Cyrus Reconnect With Miley Before Her Wedding, Source Says",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/elizabeth-hurley-helped-billy-ray-223002568.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3fe25ed3ed80a4906f71cbe49bbcf3d4f1dac3778c113c53a8afddc3470594d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fe72601f6c4125909aa0d8c6329a59ce3.jpg",
+   "published": "2026-11-23T22:30:02+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "The Bachelor’s Kelley Flanagan Explains Why She Hasn’t Dated in 2 Years",
    "url": "https://www.usmagazine.com/celebrity-news/news/kelley-flanagan-explains-why-she-hasnt-dated-in-2-years/",
    "source": "usmagazine.com",
    "category": "TV",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2211523632-kelley-flanagan.jpg?crop=0px%2C186px%2C1428px%2C806px&resize=1000%2C563&quality=78&strip=all",
+   "published": "2026-11-23T22:26:22+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "The Bachelor’s Kelley Flanagan Explains Why She Hasn’t Been on a Date in 2 Years: ‘It Takes Time’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bachelor-kelley-flanagan-explains-why-222622506.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/54971bcf16a0f6bbbd13753bb1331ed8e100418c9b79a3fe4b84439193f7ac8d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F88cf31bc3f6581078588b07aee5b38a8.jpg",
    "published": "2026-11-23T22:26:22+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
@@ -215,6 +358,28 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/5288f49cd4c5b156b997cc005a327516acd4e554d444534c3f3821e47668b4d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F8c27dff3664f3c31f9bc194f29ea195e.jpg",
    "published": "2026-11-23T22:23:14+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Texas Mom of 4 Wanted a Divorce Before Relatives Allegedly Killed Her: Report",
+   "url": "https://www.usmagazine.com/crime-news/news/texas-mom-wanted-a-divorce-was-killed-by-relatives-report/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Texas-Mom-Wanted-a-Divorce-Was-Killed-By-Relatives-Report-2.jpg",
+   "published": "2026-11-23T22:04:33+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Texas Mom of 4 Wanted a Divorce Before 2 Relatives Allegedly Killed Her on Her Birthday: Report",
+   "url": "https://www.yahoo.com/news/us/articles/texas-mom-4-wanted-divorce-220433617.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/cc3235330e604ab184364a484648467f39897d725b492ccd2cd536fde5b8daa3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fc8b728a12941e56e760bb22349419081.jpg",
+   "published": "2026-11-23T22:04:33+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -321,10 +486,21 @@
   {
    "title": "Inside the Star-Studded Formula 1 Las Vegas Grand Prix: Celeb Attendees, High-Octane Style and More",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/inside-star-studded-formula-1-213549874.html",
-   "source": "profiles.yahoo.com",
+   "source": "yahoo.com",
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/039da7b27ffc2a1323a02386244f17deb2be7f029814972b0681562a0c501298/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F1d7245311143f3fac721b106d42502c1.jpg",
    "published": "2026-11-23T21:35:49+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Jessica Alba Told To Cough Up Over Half A Million From Her Pension To Ex-Husband Cash Warren In New Divorce Blow",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jessica-alba-told-cough-over-213000205.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/16b8d61292bdb24f03a326df717a1d38e7cd525f45e0afd19c587aa91e37149c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F2c73fd87907732e02adb589d0ba6341f.jpg",
+   "published": "2026-11-23T21:30:00+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -374,6 +550,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Miley Cyrus shows off second daring wedding dress and unseen moment with dad Billy Ray in new photos",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-shows-off-second-204849942.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/07388dd3183fe6e5c7a45d2d79be89917db4ac8d3a43f6a39c8dfe7c0f073b32/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fc4d8b9265dbab9a64282119ee24ca72f.jpg",
+   "published": "2026-11-23T20:48:49+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Ali Larter Stuns in Wine-Colored Leather Dress at F1 Grand Prix in Las Vegas",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/ali-larter-stuns-wine-colored-204746125.html",
    "source": "yahoo.com",
@@ -407,22 +594,22 @@
    "trend_score": 2000
   },
   {
-   "title": "Montel Williams Opens Up About Daughter's Addiction Battle, Blames Himself",
-   "url": "https://www.usmagazine.com/celebrity-news/news/montel-williams-opens-up-about-daughters-addiction-battle/",
-   "source": "usmagazine.com",
+   "title": "Montel Williams Opens Up for 1st Time About How Daughter Overcame Addiction Battle: ‘So Proud of Her’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/montel-williams-opens-1st-time-200053368.html",
+   "source": "profiles.yahoo.com",
    "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/montel-williams-podcast.jpg",
+   "image": "https://s.yimg.com/lo/mysterio/api/ca9b30338d08699b4b0fc5541a6f9d01e35372b1867dc49feb97010a45564122/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F5170c22f419b9ac732c2dd481495a828.jpg",
    "published": "2026-11-23T20:00:53+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
   },
   {
-   "title": "Montel Williams Opens Up for 1st Time About How Daughter Overcame Addiction Battle: ‘So Proud of Her’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/montel-williams-opens-1st-time-200053368.html",
-   "source": "profiles.yahoo.com",
+   "title": "Montel Williams Opens Up About Daughter's Addiction Battle, Blames Himself",
+   "url": "https://www.usmagazine.com/celebrity-news/news/montel-williams-opens-up-about-daughters-addiction-battle/",
+   "source": "usmagazine.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ca9b30338d08699b4b0fc5541a6f9d01e35372b1867dc49feb97010a45564122/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F5170c22f419b9ac732c2dd481495a828.jpg",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/montel-williams-podcast.jpg",
    "published": "2026-11-23T20:00:53+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
@@ -1122,15 +1309,15 @@
    "trend_score": 2000
   },
   {
-   "title": "'Hunger Games' prequel 'Sunrise on the Reaping' opens to $225 million at global box office",
-   "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-prequel-sunrise-on-the-reaping-opens-to-225-million-at-global-box-office-122631323.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
-   "published": "2026-11-23T12:28:40+00:00",
+   "title": "Marvel Officially Unmasks Doctor Doom Ahead of Robert Downey Jr.’s Return in ‘Avengers: Doomsday’",
+   "url": "https://collider.com/marvel-doctor-doom-unmasked-secret-wars/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
+   "published": "2026-11-23T19:30:12+00:00",
    "trending": true,
-   "trend_term": "ben wang",
-   "trend_score": 500
+   "trend_term": "anthony mackie",
+   "trend_score": 200
   },
   {
    "title": "Michelle Randolph Is Growing Up Alongside Her Characters",
@@ -1240,6 +1427,149 @@
    "published": "2026-11-23T17:00:12+00:00",
    "trending": true,
    "trend_term": "tom holland",
+   "trend_score": 0
+  },
+  {
+   "title": "‘The Voice’ top 10 just battled for spots in the top 8 — with Dolly Parton songs",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/voice-top-10-live-tributes-000247581.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/cfb6373a5b089e527c44d76eab52028af6f62d3697a13291951b574d4a99cc3f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeseret_news_992%2Fbd2ff610d216d385438ece631cfde5a1.jpg_up.jpg",
+   "published": "2026-11-24T05:49:43+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Forget 'Slow Horses,' This Sci-Fi Thriller Is Gary Oldman’s Greatest Role",
+   "url": "https://collider.com/fifth-element-gary-oldman-bruce-willis-netflix-streaming-free-tubi-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/slow-horses-gary-oldman.jpg",
+   "published": "2026-11-24T05:42:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Hila Klein Exits ‘H3 Podcast’ Following Ethan Klein Affair: ‘I’m Devastated That Things Have Come to This’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/hila-klein-exits-h3-podcast-053619694.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9688cd569799af1792849e8dd6d4f78edb998cd166f2e2f1863cc3f948d716eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Feeb9bf81f70fd058e8ff9aca65c2032e.jpg",
+   "published": "2026-11-24T05:36:19+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "India Could Post Its Highest Box Office Since the Pandemic, Zee Studios’ Girish Johar Tells WAVES Film Bazaar",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/india-could-post-highest-box-052949164.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/c2968b4babc8f925ed7a17400dc454a7af8a5dcd096f601bdc7701461da1f762/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F4d657a9e69341471188154bf5490fc27.jpg_up.jpg",
+   "published": "2026-11-24T05:29:49+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 8 Best Tom Clancy Books, Ranked",
+   "url": "https://collider.com/best-tom-clancy-books-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/the-hunt-for-red-october-40th-annivasary.jpg",
+   "published": "2026-11-24T05:22:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "A.R. Rahman Unpacks His Hindustani Classical Score for Bharat Bala’s IFFI-Selected Maha Kumbh Drama ‘Banaras’",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/r-rahman-unpacks-hindustani-classical-051611355.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/793176665bafa84808792e5396b5862b5e0d436924ab6f782b95f4d1d287c850/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F3eb3dc8b53042e6d7cc6a9ae49b56420.jpg_up.jpg",
+   "published": "2026-11-24T05:16:11+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "'SilverFin's Full-Cast Audiobook Is an Immersive Look at the Boy Who Would Be Bond | Review",
+   "url": "https://collider.com/silverfin-audiobook-young-james-bond-series/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/silverfin-young-bond-audiobook.jpg",
+   "published": "2026-11-24T05:14:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Zosia Mamet recalls sister calling her ‘almost in tears’ over dad David Mamet’s Trump support: ‘It’s not fair’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/zosia-mamet-recalls-sister-calling-051252190.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/835fea37ed5f230e2fda2fa9501156c8a39634ca4bc90453f0a522e23f22900b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2Fcfd67df2b833a668e7c805b9e870a184.jpg",
+   "published": "2026-11-24T05:12:52+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jon Bernthal’s 100-Minute Taylor Sheridan Thriller Is Officially Cut From Netflix",
+   "url": "https://collider.com/jon-bernthal-taylor-sheridan-those-who-wish-me-dead-cut-from-netflix-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/those-who-wish-me-dead.jpg",
+   "published": "2026-11-24T05:05:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jennifer Lawrence Has a Cheeky Response to Online Speculation that She’s Had Blepharoplasty Surgery",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jennifer-lawrence-cheeky-response-online-050417035.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/d43d0a5dc8d337a337881d2ce4b232e4905189f5c564e347167261974e8aec49/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb53b526bb8f346025dc13809df27d7fb.jpg",
+   "published": "2026-11-24T05:04:17+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘You Can See Everything’ Passes $100 Million Mark As Doc Goes Digital This Week",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/see-everything-passes-100-million-050329259.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/012b82e16e799a4b573240de4e8c8fae04cbe11df7f45861a2b2cffbec54588f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F18469b92271c5fff12684d0c4c9d8d16.jpg_up.jpg",
+   "published": "2026-11-24T05:03:29+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Veteran actor rips Hollywood as ‘boring’ and ‘tedious,’ says he prefers the South",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/veteran-actor-rips-hollywood-boring-050310111.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/35483308ec619a2859563a23c0c74117550d43bd2dbf46aae13bc8d43b771ad4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F31569328ec52ca95882bdaccb3253382.jpg",
+   "published": "2026-11-24T05:03:10+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "This unofficial holiday TV guide will keep you jolly on the couch",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/unofficial-holiday-tv-guide-keep-050223023.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/af8ca9adac03ee29220972c7cbddfd728cf376f6e23feca66c3d6ce871f82cb8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_enquirer_natl_articles_358%2F3fea9724c772fd3a0911913bdf28e242.jpg",
+   "published": "2026-11-24T05:02:23+00:00",
+   "trending": false,
+   "trend_term": null,
    "trend_score": 0
   },
   {
@@ -1727,17 +2057,6 @@
    "trend_score": 0
   },
   {
-   "title": "Billy Ray Cyrus Shares Emotional Photos from Daughter Miley’s Wedding, Says It Was ‘Beautiful’ Having Family in ‘One Room’",
-   "url": "https://www.yahoo.com/entertainment/articles/billy-ray-cyrus-shares-emotional-013421946.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e75e6b475844ac474e8db0e8824fa514b715be2035957927690dd6f03d6519ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F1bdcbcb75a0829158f71d1a52419051e.jpg",
-   "published": "2026-11-24T01:34:21+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "I Love Julie Bowen’s Mom-Coded Way Of Trolling Modern Family Co-Stars Ariel Winter And Nolan Gould",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/love-julie-bowen-mom-coded-013100472.html",
    "source": "yahoo.com",
@@ -2035,17 +2354,6 @@
    "trend_score": 0
   },
   {
-   "title": "‘The Voice’ top 10 go live — with tributes to a late beloved superstar",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/voice-top-10-live-tributes-000247581.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/cfb6373a5b089e527c44d76eab52028af6f62d3697a13291951b574d4a99cc3f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeseret_news_992%2Fbd2ff610d216d385438ece631cfde5a1.jpg_up.jpg",
-   "published": "2026-11-24T00:02:47+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Tom Hardy’s ‘MobLand’ Just Confirmed a Major Theory in Its Deadly Season 2 Finale",
    "url": "https://collider.com/mobland-season-2-finale-jan-death-harry-tom-hardy-change/",
    "source": "collider.com",
@@ -2288,17 +2596,6 @@
    "trend_score": 0
   },
   {
-   "title": "Mom Arrested After Falsely Claiming Daughter, 4, Was Diagnosed With Cancer",
-   "url": "https://www.usmagazine.com/crime-news/news/mom-falsely-claimed-daughter-4-was-diagnosed-with-cancer/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/mom-falsely-claimed-daughter-had-cancer.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
-   "published": "2026-11-23T22:40:14+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Adam Driver: ‘No One Was Paying Us’ to Develop ‘The Hunt for Ben Solo’ and ‘Star Wars’ Boss Said ‘We Have a 100% Approval’ to Make It, Then Disney Killed It",
    "url": "https://www.yahoo.com/entertainment/articles/adam-driver-no-one-paying-223553021.html",
    "source": "yahoo.com",
@@ -2371,17 +2668,6 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/08/anya-taylor-joy-in-the-northman.jpg",
    "published": "2026-11-23T22:30:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Elizabeth Hurley Helped Billy Ray Cyrus Reconnect With Miley Before Her Wedding, Source Says",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/elizabeth-hurley-helped-billy-ray-223002568.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3fe25ed3ed80a4906f71cbe49bbcf3d4f1dac3778c113c53a8afddc3470594d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fe72601f6c4125909aa0d8c6329a59ce3.jpg",
-   "published": "2026-11-23T22:30:02+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2470,17 +2756,6 @@
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hunger-games-sunrise-on-the-reaping-joseph-zada-mckenna-grace.jpg",
    "published": "2026-11-23T22:08:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Texas Mom of 4 Wanted a Divorce Before Relatives Allegedly Killed Her: Report",
-   "url": "https://www.usmagazine.com/crime-news/news/texas-mom-wanted-a-divorce-was-killed-by-relatives-report/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Texas-Mom-Wanted-a-Divorce-Was-Killed-By-Relatives-Report-2.jpg",
-   "published": "2026-11-23T22:04:33+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2618,17 +2893,6 @@
    "trend_score": 0
   },
   {
-   "title": "Jessica Alba Told To Cough Up Over Half A Million From Her Pension To Ex-Husband Cash Warren In New Divorce Blow",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jessica-alba-told-cough-over-213000205.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/16b8d61292bdb24f03a326df717a1d38e7cd525f45e0afd19c587aa91e37149c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F2c73fd87907732e02adb589d0ba6341f.jpg",
-   "published": "2026-11-23T21:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Don Toliver postpones London gig after Manchester show evacuated",
    "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-postpones-london-gig-212943715.html",
    "source": "yahoo.com",
@@ -2756,17 +3020,6 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/apple-tv-logo.jpg",
    "published": "2026-11-23T20:50:51+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Miley Cyrus shows off second daring wedding dress and unseen moment with dad Billy Ray in new photos",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-shows-off-second-204849942.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/07388dd3183fe6e5c7a45d2d79be89917db4ac8d3a43f6a39c8dfe7c0f073b32/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fc4d8b9265dbab9a64282119ee24ca72f.jpg",
-   "published": "2026-11-23T20:48:49+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3141,17 +3394,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/bb5b6b87c4df096c72f9825ce50a8faa25e2f4b32e741f013f4e4fa6c2583430/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fc49a0bea5069b87c74834440a84a534f.jpg",
    "published": "2026-11-23T19:30:16+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Marvel Officially Unmasks Doctor Doom Ahead of Robert Downey Jr.’s Return in ‘Avengers: Doomsday’",
-   "url": "https://collider.com/marvel-doctor-doom-unmasked-secret-wars/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
-   "published": "2026-11-23T19:30:12+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4230,6 +4472,17 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76759_010927_eng.jpg",
    "published": "2026-11-23T13:09:24+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "'Hunger Games' prequel 'Sunrise on the Reaping' opens to $225 million at global box office",
+   "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-prequel-sunrise-on-the-reaping-opens-to-225-million-at-global-box-office-122631323.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
+   "published": "2026-11-23T12:28:40+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
