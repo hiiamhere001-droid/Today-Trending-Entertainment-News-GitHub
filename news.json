@@ -1,15 +1,37 @@
 {
- "generated_at": "2026-11-24T17:56:01.997383+00:00",
+ "generated_at": "2026-11-24T18:55:25.894318+00:00",
  "date_us": "2026-11-24",
  "per_site": {
-  "usmagazine.com": 16,
-  "news.meaww.com": 4,
+  "usmagazine.com": 15,
+  "news.meaww.com": 3,
   "profiles.yahoo.com": 6,
-  "yahoo.com": 29,
-  "jang.com.pk": 9,
+  "yahoo.com": 30,
+  "jang.com.pk": 11,
   "collider.com": 8
  },
  "items": [
+  {
+   "title": "Ben Shelton, Trinity Rodman spark breakup rumors after finals losses",
+   "url": "https://jang.com.pk/en/76834-ben-shelton-trinity-rodman-spark-breakup-rumors-after-finals-losses-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76834_115416_eng.jpg",
+   "published": "2026-11-24T23:49:29+05:00",
+   "trending": true,
+   "trend_term": "trinity rodman · covered by 2 sites",
+   "trend_score": 4000
+  },
+  {
+   "title": "Did Ben Shelton and Trinity Rodman break up? Couple reportedly splits",
+   "url": "https://www.yahoo.com/entertainment/articles/did-ben-shelton-trinity-rodman-184419958.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9d3e264f0749b2e0db35135b66e6e2c37e81604d94260855148c86af33f8d743/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F1173928b481bc89846195a0ff1eb658e.jpg_up.jpg",
+   "published": "2026-11-24T18:44:19+00:00",
+   "trending": true,
+   "trend_term": "trinity rodman · covered by 2 sites",
+   "trend_score": 4000
+  },
   {
    "title": "Billy Ray Cyrus shares Miley Cyrus wedding photos in emotional tribute",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/billy-ray-cyrus-shares-miley-173201928.html",
@@ -253,6 +275,50 @@
    "trend_score": 2000
   },
   {
+   "title": "How Taylor Swift Reportedly Responded To Vanity Fair's 'Unflattering' Exposé",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-reportedly-responded-vanity-183708652.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1a2a38e177b565ccc092633d623168b707d44fb147a3933fbca7dee6d4871cba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2F5338a5061a9642b185481f33c480f1d4.jpg",
+   "published": "2026-11-24T18:37:08+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Billy Bob Thornton Stuns 'Fox & Friends' Hosts by Reciting Their Birthdays, Then Gets One Wrong",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/billy-bob-thornton-stuns-fox-183048820.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/df1f9b5297756549545d9cf8adc15dddf20cf4625b5af41b7a5cfe2c918c3e8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F571e661b7b2888384f338a49c414e9b3.jpg",
+   "published": "2026-11-24T18:30:48+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "The Fate of ‘The Rings of Power’ Has Officially Been Decided",
+   "url": "https://collider.com/the-lord-of-the-rings-the-rings-of-power-season-4-renewed/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/rings-of-power-sauron-ring.jpg",
+   "published": "2026-11-24T18:11:17+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "‘The Rings of Power’ Officially Renewed for Season 4 With Showrunners Returning",
+   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/rings-power-officially-renewed-season-180000936.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/92797e64b287c6a8cd4af9010908fb8873d747979e9783876fb1c38d936a7a07/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Feba60125b252858f508f173679469774.jpg",
+   "published": "2026-11-24T18:00:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Travis Kelce stands by Taylor Swift after controversial Vanity Fair article",
    "url": "https://jang.com.pk/en/76808-travis-kelce-stands-by-taylor-swift-after-controversial-vanity-fair-article-news",
    "source": "jang.com.pk",
@@ -315,7 +381,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/fcc68eaaa17778d32c89f14673b31e3f89cd7e1f9e7a7c60222f49198f677bc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F12921281523701ed293fb23076aa28fc.jpg_up.jpg",
    "published": "2026-11-24T15:41:32+00:00",
    "trending": true,
-   "trend_term": "jonbenet ramsey · covered by 2 sites",
+   "trend_term": "jonbenet ramsey · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -513,7 +579,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
    "published": "2026-11-24T08:43:08+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -788,7 +854,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
    "published": "2026-11-24T00:36:09+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1096,7 +1162,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
    "published": "2026-11-23T21:49:52+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1184,7 +1250,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
    "published": "2026-11-23T21:26:51+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1349,7 +1415,7 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
    "published": "2026-11-23T19:30:12+00:00",
    "trending": true,
-   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1613,7 +1679,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
    "published": "2026-11-23T17:24:45+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1624,7 +1690,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1635,7 +1701,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2057,6 +2123,17 @@
    "trend_score": 2000
   },
   {
+   "title": "‘Grand Theft Auto VI: The Album’ Adds 4 More Songs Following Deluxe Edition",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/grand-theft-auto-vi-album-173142325.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/3a61e9e177249ed49f49599f840282423d7742b722724ea69f14e00ee6c8471c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F7f3f25518a2efbfad2b7a91d51a96ea7.jpg",
+   "published": "2026-11-24T17:31:42+00:00",
+   "trending": true,
+   "trend_term": "state of leonida",
+   "trend_score": 500
+  },
+  {
    "title": "Happy Birthday, Katherine Heigl! See the “Grey’s Anatomy” Actress’s Cutest Family Photos with Her Husband and 3 Kids",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/happy-birthday-katherine-heigl-see-113000051.html",
    "source": "yahoo.com",
@@ -2354,6 +2431,17 @@
    "trend_score": 0
   },
   {
+   "title": "Buckingham Palace breaks silence after Prince Harry's controversial visa scandal",
+   "url": "https://jang.com.pk/en/76830-buckingham-palace-breaks-silence-after-prince-harrys-controversial-visa-scandal-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76830_112039_eng.jpg",
+   "published": "2026-11-24T23:20:30+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Here's why King Carl Gustaf abruptly withdraws key royal from major event",
    "url": "https://jang.com.pk/en/76825-heres-why-king-carl-gustaf-abruptly-withdraws-key-royal-from-major-event-news",
    "source": "jang.com.pk",
@@ -2382,6 +2470,204 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76814_070948_eng.jpg",
    "published": "2026-11-24T19:09:44+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Squid Game’ Star Officially Returns to Netflix With 3-Part Release Next Month",
+   "url": "https://collider.com/tantara-gong-yoo-netflix-december-2026-release-date/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/song-hye-kyo-gong-yoo-tantara-1.jpg",
+   "published": "2026-11-24T18:54:31+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The Most Perfect Movie of Every Genre in the 1970s",
+   "url": "https://collider.com/most-perfect-movies-1970s-every-genre/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/star-wars-a-new-hope-poster.jpeg",
+   "published": "2026-11-24T18:52:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "One of Stephen King’s Worst Remakes Officially Returns to Streaming",
+   "url": "https://collider.com/firestarter-2022-streaming-stephen-king-peacock/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/01/stephen-king-under-the-dome-on-set.jpg",
+   "published": "2026-11-24T18:48:07+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Look: 'Fight for '84' photos introduce Jamie Foxx as Olympic boxing coach",
+   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/look-fight-84-photos-introduce-184738071.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/0ca7b22820c697368fb1d280642f4bedd31a8cb81440e7c41fc61378bd17b843/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Ff77404d6a8aeadbd9c267410e4aac89d.jpg_up.jpg",
+   "published": "2026-11-24T18:47:38+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘The Rings of Power’ Renewed Ahead of Finale’s Surprise Early Drop",
+   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/rings-power-renewed-ahead-finale-184702686.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/eafb1fb8ad6f24f1a086ca37828b77e7684d749d464147d1cefdcda193ab5b0d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fb20926f3798156f5912538e0bd2e6f7f.jpg",
+   "published": "2026-11-24T18:47:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Adéla speaks out after queerbaiting criticism draws controversy",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/ad-la-speaks-queerbaiting-criticism-184512736.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f91629a8ac3e4a18032798f3e2620b61ab586d71e2c01dd2e322af7463669295/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F42ad0f5c66d156a477f241a7edde5fa2.jpg",
+   "published": "2026-11-24T18:45:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Will Mariah Carey’s ‘All I Want for Christmas Is You’ Be the First Christmas Song to No. 1 Again This Year?",
+   "url": "https://www.yahoo.com/entertainment/music/articles/mariah-carey-want-christmas-first-184433531.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/acd15fdd005b50b7a30f396187964b8d06d80d2453d85711efd2f940dd862f4e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2Fd50104a4e88b9a2cd4118f9c6481ac34.jpg",
+   "published": "2026-11-24T18:44:33+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘The Floor’ & ’99 To Beat’ Undergo Schedule Changes",
+   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/floor-99-beat-undergo-schedule-184151332.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/d98f89b6b71d055be6da2e9d7ef8dc7c3cd69f46a35990cf6176ab78cf7c3553/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F013e11897543a33620649533d0f51052.jpg",
+   "published": "2026-11-24T18:41:51+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Uma Thurman teases daughter Maya Hawke's Valentine's Day wedding: 'It was beautiful'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/uma-thurman-teases-daughter-maya-183958341.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0c1e25f8a19b4853e936e7b86fe25aea09b596827f06ad2dee099680dc649bfa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F306aa2f997b790417283708e48c2d86a.jpg",
+   "published": "2026-11-24T18:39:58+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Original 'Baywatch' stars compete on 'Weakest Link' season finale",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/original-baywatch-stars-compete-weakest-183702294.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/bd130b4a7fea702f9a149a4b6285f75310932c90f86fd23fddc7753e582b9f03/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fef18be26770f13ac6c0d9ff2e7d2b988.jpg_up.jpg",
+   "published": "2026-11-24T18:37:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Sylvester Stallone Wants Arnold Schwarzenegger for a ‘Tulsa King’ Spinoff: “I Hope He Agrees”",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/sylvester-stallone-wants-tulsa-king-183247656.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8db05cd149d5bfbb60a37c9afdec7282995d5976ece9c9a62ef3df34524a1c59/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Fa40fc3487497351f849f553688cdd54d.jpg",
+   "published": "2026-11-24T18:32:47+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "“Falcon Crest ”Star Gregory Harrison Opens Up About Daughter Kate’s Marriage to Chloë Grace Moretz",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/falcon-crest-star-gregory-harrison-183158326.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b51233f6af781cbe1fcdae04338928b838360666f30795fb51a861a32dd48e89/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F5ef2fb22e544924199c06840d084985f.jpg",
+   "published": "2026-11-24T18:31:58+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "David Mamet's Daughter Spills On His Love For Trump",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/david-mamets-daughter-spills-love-183015897.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4cb65d37f1b08726b4b5c09cb8f7499460d9a31ba08ee2c1673344246fb63ca7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F19aaa29b06789d0d3e3feb34f4bd78ad.jpg_up.jpg",
+   "published": "2026-11-24T18:30:15+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Superman Officially Faces DC’s God of Death in New Release",
+   "url": "https://collider.com/superman-comics-nekron-return-dc-release-green-lantern-corps/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/copy-of-collider-template-25.jpg",
+   "published": "2026-11-24T18:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Bella Hadid Recalls Being Body-Shamed When She Was 17 and Told She Needed to ‘Lose a Couple of Pounds’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bella-hadid-recalls-being-body-182906256.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/380dcf19e96eacac467e2b2e4cbfdb99522b918cbed900f994715c4ed71d1b85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F834d7e9af4195930be049c6994caffd7.jpg",
+   "published": "2026-11-24T18:29:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Brett Eldredge Opens Up About the Perks of Having His Wife Join Him on the ‘Lonely Journey’ That Is Touring",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/brett-eldredge-opens-perks-having-182856012.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b4676a82c73875cd22ccca2954e1d9a0ff8d2d62e993f4412a818289a9641af5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fa80af03e6a2bc7bfefeb7c5180d26c51.jpg",
+   "published": "2026-11-24T18:28:56+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "A-Ha Frontman Morten Harket, 67, Reveals He’s Likely Had Parkinson’s for Over 30 Years: ‘I Am Still Here. I Am Still Me’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/frontman-morten-harket-67-reveals-182534441.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/17c8e82aee55dec05bc95eda58c4765972c45e65d32b8f5759a5685cd9d8c8c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fd451e7ab03485415dd49ed26029ed1d0.jpg",
+   "published": "2026-11-24T18:25:34+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "For Trish Summerville, Every Iconic Character Starts With the Right Clothes",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/trish-summerville-every-iconic-character-182034188.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/01343919f1343835357be6505576bdd901d614f98eabb650b957375182f9854f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fdfffe8ee2a6bda0611af3819346d7b4d.jpg",
+   "published": "2026-11-24T18:20:34+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3212,6 +3498,17 @@
    "trend_score": 0
   },
   {
+   "title": "Rob Lowe Reveals Why He Felt Like ‘Huge Cuck’ During Melissa Gilbert Romance",
+   "url": "https://www.usmagazine.com/celebrity-news/news/rob-lowes-biggest-doc-revelations-about-love-life-controversies/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2025/07/GettyImages-80818527.jpg",
+   "published": "2026-11-24T12:46:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "‘I See Buildings Fall Like Lightning’ Tops British Independent Film Awards’ Craft Winners",
    "url": "https://www.yahoo.com/entertainment/movies/articles/see-buildings-fall-lightning-tops-124500640.html",
    "source": "yahoo.com",
@@ -3724,6 +4021,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/54f7df475142fd4962bf94b010f5543295791c55e0b8f925ab26114a1242e2c4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F464bdd30ba57029635fde1f922886adf.jpg_up.jpg",
    "published": "2026-11-24T10:01:47+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 'Dancing With the Stars' finale is tonight. Meet the 5 celebrities competing.",
+   "url": "https://www.yahoo.com/entertainment/tv/article/the-dancing-with-the-stars-finale-is-tomorrow-meet-the-5-celebrities-competing-121618330.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/c1f52610b8dba3006af0300c9044060ae2f056da672025477899fd286fb357df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdancing-with-the-stars_6865.png",
+   "published": "2026-11-24T10:01:26+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
