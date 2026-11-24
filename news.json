@@ -1,37 +1,15 @@
 {
- "generated_at": "2026-11-24T21:53:57.447379+00:00",
+ "generated_at": "2026-11-24T22:54:26.826421+00:00",
  "date_us": "2026-11-24",
  "per_site": {
   "usmagazine.com": 15,
   "news.meaww.com": 4,
   "profiles.yahoo.com": 7,
-  "yahoo.com": 29,
+  "yahoo.com": 30,
   "jang.com.pk": 11,
   "collider.com": 9
  },
  "items": [
-  {
-   "title": "Justin Hartley’s ‘Tracker’ Kills Off Surprise Character in Shocking Twist Before Fall Finale",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/justin-hartley-tracker-kills-off-033625302.html",
-   "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/1b5c999354c35e150e058bd1eda1d0f02b36a8f3b3bfdfed56799d187c1f230d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fadc5d44cf918c1d679ffaa5916c712fc.jpg",
-   "published": "2026-11-23T03:36:25+00:00",
-   "trending": true,
-   "trend_term": "tracker - season 4 · covered by 2 sites",
-   "trend_score": 4000
-  },
-  {
-   "title": "Justin Hartley's 'Tracker' Kills [Spoiler] in Shocking Twist Before Finale",
-   "url": "https://www.usmagazine.com/entertainment/news/justin-hartleys-tracker-kills-surprise-character-in-shocking-twist/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/3250994_TRKR_S4_0661b.jpg",
-   "published": "2026-11-23T03:36:25+00:00",
-   "trending": true,
-   "trend_term": "tracker - season 4 · covered by 2 sites",
-   "trend_score": 4000
-  },
   {
    "title": "Masked men arrested after suspected break-in at Prince William and Kate’s country home",
    "url": "https://news.meaww.com/masked-men-arrested-after-suspected-break-in-at-prince-william-and-kates-country-home",
@@ -286,6 +264,28 @@
    "trend_score": 2000
   },
   {
+   "title": "Vanity Fair’s Taylor Swift article, explained: The Regina George comparison, Ugg boots and Easter eggs",
+   "url": "https://www.yahoo.com/entertainment/celebrity/article/vanity-fairs-taylor-swift-article-explained-the-regina-george-comparison-ugg-boots-and-easter-eggs-225217887.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e1188e40f26b52eabfe87150b0bf4ac45c3278ceca6598253a54bd4a4572078a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-taylor-swift-article_1759.jpg",
+   "published": "2026-11-24T22:52:17+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Travis Kelce’s Reported Reaction To Scathing Taylor Swift Article Revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/travis-kelce-reported-reaction-scathing-224500452.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3e431870b8f3822b34a7aed959301f8ff95eb4d9b5381916b6f4eef85cc58e11/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fc810959b1ed8a2464ff6b0793d3b2e42.jpg",
+   "published": "2026-11-24T22:45:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Melissa McCarthy, Clive Owen lead chilling series 'JonBenét Ramsey Murder'",
    "url": "https://jang.com.pk/en/76828-melissa-mccarthy-clive-owen-lead-chilling-series-jonbent-ramsey-murder-news",
    "source": "jang.com.pk",
@@ -348,7 +348,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/9d3e264f0749b2e0db35135b66e6e2c37e81604d94260855148c86af33f8d743/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F1173928b481bc89846195a0ff1eb658e.jpg_up.jpg",
    "published": "2026-11-24T18:44:19+00:00",
    "trending": true,
-   "trend_term": "trinity rodman · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "trinity rodman · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -407,6 +407,17 @@
    "trend_score": 2000
   },
   {
+   "title": "‘90 Day Fiance’ Star Sheila Mangubat’s Cause of Death Revealed Days After Her Sudden Passing at 35",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fiance-star-sheila-173228726.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0d5b80c93ee6394adba6b4a580c90915bc6b600c7b9e69c78ed75af7d2142a7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F2ef91404f032d54d9c5b1862988c411d.jpg",
+   "published": "2026-11-24T17:32:28+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Prince Harry finally addresses visa controversy after UK return: 'Entirely false'",
    "url": "https://jang.com.pk/en/76806-prince-harry-finally-addresses-visa-controversy-after-uk-return-entirely-false-news",
    "source": "jang.com.pk",
@@ -429,12 +440,34 @@
    "trend_score": 2000
   },
   {
+   "title": "'90 Day Fiance' Alum Sheila Mangubat's Cause of Death Revealed",
+   "url": "https://www.usmagazine.com/celebrity-news/news/90-day-fiances-sheila-mangubats-cause-of-death-revealed/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/90-Day-Sheila.png?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-24T16:36:46+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Prince Harry, Meghan Markle prompts US media to release Archie, Lilibet’s photos soon",
    "url": "https://jang.com.pk/en/76802-prince-harry-meghan-markle-prompts-us-media-to-release-archie-lilibets-photos-soon-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76802_050758_eng.jpg",
    "published": "2026-11-24T16:10:23+05:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Rob Lowe's Most Candid Quotes About His Infamous Sex Tape Scandal",
+   "url": "https://www.usmagazine.com/entertainment/news/rob-lowes-candid-quotes-about-his-infamous-sex-tape-scandal/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2024/10/Brat-Pack-Dating-Histories-Rob-Lowe.jpg",
+   "published": "2026-11-24T16:09:56+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -451,6 +484,28 @@
    "trend_score": 2000
   },
   {
+   "title": "Bella Hadid Details 'Intense' Desire to Have 'Lots of Children'",
+   "url": "https://www.usmagazine.com/celebrity-news/news/bella-hadid-details-intense-desire-to-have-lots-of-children/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2276954819-Bella-Hadid-Details-Intense-Desire-to-Have-Kids.jpg?crop=0px%2C115px%2C1333px%2C753px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-24T15:45:08+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Bella Hadid Details ‘Intense’ Desire to Have ‘Lots of Children’ After Going Public With Nathan Lacy",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bella-hadid-details-intense-desire-154508673.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d05e6afdc89708ce6a224108cbc8756e73be111f3ee144f4ed26615aa655ced8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4a03ecd578afa9bd4d1b078af3b8b6d2.jpg",
+   "published": "2026-11-24T15:45:08+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Watch: Melissa McCarthy, Clive Owen star in JonBenet Ramsey series",
    "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/watch-melissa-mccarthy-clive-owen-154132011.html",
    "source": "yahoo.com",
@@ -458,7 +513,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/fcc68eaaa17778d32c89f14673b31e3f89cd7e1f9e7a7c60222f49198f677bc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F12921281523701ed293fb23076aa28fc.jpg_up.jpg",
    "published": "2026-11-24T15:41:32+00:00",
    "trending": true,
-   "trend_term": "jonbenet ramsey · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "jonbenet ramsey · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -656,7 +711,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/198c080868bad030d86fa99974a3f0fbd40264454fb25be2cd82edab1cd042f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff04c3e00aee1f532f64d753ee9b1c2fe.jpg",
    "published": "2026-11-24T11:04:03+00:00",
    "trending": true,
-   "trend_term": "christie miller · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "christie miller · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -733,7 +788,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
    "published": "2026-11-24T08:43:08+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1008,7 +1063,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
    "published": "2026-11-24T00:36:09+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1316,7 +1371,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
    "published": "2026-11-23T21:49:52+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1404,7 +1459,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
    "published": "2026-11-23T21:26:51+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1569,7 +1624,7 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
    "published": "2026-11-23T19:30:12+00:00",
    "trending": true,
-   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1749,6 +1804,17 @@
    "trend_score": 2000
   },
   {
+   "title": "‘90 Day Fiance’ Interpreter Shares Tribute to Sheila Mangubat After Her Death at Age 35",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fiance-interpreter-shares-180322690.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/476ad51f17286f18043ba46b2d9ab212b25944f978bf8619b13a32a85bc4c60b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2Feeaa25ded9442d716311029d5180021e.jpg",
+   "published": "2026-11-23T18:03:22+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Kim Zolciak’s Son KJ Gets Legal Victory in Sexual Assault Case: Learn More",
    "url": "https://www.usmagazine.com/celebrity-news/news/kim-zolciaks-sons-arrest-for-sexual-assault-what-to-know/",
    "source": "usmagazine.com",
@@ -1833,7 +1899,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
    "published": "2026-11-23T17:24:45+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1844,7 +1910,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1855,7 +1921,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2222,6 +2288,28 @@
    "trend_score": 2000
   },
   {
+   "title": "Justin Hartley’s ‘Tracker’ Kills Off Surprise Character in Shocking Twist Before Fall Finale",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/justin-hartley-tracker-kills-off-033625302.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/1b5c999354c35e150e058bd1eda1d0f02b36a8f3b3bfdfed56799d187c1f230d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fadc5d44cf918c1d679ffaa5916c712fc.jpg",
+   "published": "2026-11-23T03:36:25+00:00",
+   "trending": true,
+   "trend_term": "tracker - season 4 · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Justin Hartley's 'Tracker' Kills [Spoiler] in Shocking Twist Before Finale",
+   "url": "https://www.usmagazine.com/entertainment/news/justin-hartleys-tracker-kills-surprise-character-in-shocking-twist/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/3250994_TRKR_S4_0661b.jpg",
+   "published": "2026-11-23T03:36:25+00:00",
+   "trending": true,
+   "trend_term": "tracker - season 4 · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Yellowstone’s ‘Marshals’ Complicates Relationships by Having Kayce Kiss Someone After Multiple Deaths",
    "url": "https://www.yahoo.com/entertainment/tv/articles/yellowstone-marshals-complicates-relationships-having-022921811.html",
    "source": "profiles.yahoo.com",
@@ -2253,50 +2341,6 @@
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
-  },
-  {
-   "title": "Anya Taylor-Joy ‘Went Mute’ on ‘Lord of the Rings: The Hunt for Gollum’ Set When Ian McKellen Showed Up: ‘That’s F—ing Gandalf’",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/anya-taylor-joy-went-mute-044500265.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/70f12b797a3d2a0237e92f339dbeaf75547b510bb9085c76c91c40eb494c674b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F010e0003ef9c2c5d9b8b31cd3e929c3e.jpg",
-   "published": "2026-11-24T04:45:00+00:00",
-   "trending": true,
-   "trend_term": "anya taylor-joy",
-   "trend_score": 500
-  },
-  {
-   "title": "Anya Taylor-Joy Strikes a Pose in Lace Bra and Matching Underwear",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/anya-taylor-joy-strikes-pose-015706314.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/70838a2901bc4b0a7ce9871b1190872385cffe958bd26c8cf194f8f3dc849e21/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fa204fc183f1202ee3b7012ec49c2d23f.jpg",
-   "published": "2026-11-24T01:57:06+00:00",
-   "trending": true,
-   "trend_term": "anya taylor-joy",
-   "trend_score": 500
-  },
-  {
-   "title": "Anya Taylor-Joy’s Near-Perfect Masterpiece Officially Returns to Streaming",
-   "url": "https://collider.com/the-witch-anya-taylor-joy-hulu-december-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/anya-taylor-joy.jpg",
-   "published": "2026-11-24T01:30:12+00:00",
-   "trending": true,
-   "trend_term": "anya taylor-joy",
-   "trend_score": 500
-  },
-  {
-   "title": "Anya Taylor-Joy’s Brutal Revenge Fantasy Officially Returns",
-   "url": "https://collider.com/the-northman-anya-taylor-joy-free-streaming-fandango/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/08/anya-taylor-joy-in-the-northman.jpg",
-   "published": "2026-11-23T22:30:12+00:00",
-   "trending": true,
-   "trend_term": "anya taylor-joy",
-   "trend_score": 500
   },
   {
    "title": "Happy Birthday, Katherine Heigl! See the “Grey’s Anatomy” Actress’s Cutest Family Photos with Her Husband and 3 Kids",
@@ -2354,6 +2398,17 @@
    "trend_score": 0
   },
   {
+   "title": "Anya Taylor-Joy ‘Went Mute’ on ‘Lord of the Rings: The Hunt for Gollum’ Set When Ian McKellen Showed Up: ‘That’s F—ing Gandalf’",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/anya-taylor-joy-went-mute-044500265.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/70f12b797a3d2a0237e92f339dbeaf75547b510bb9085c76c91c40eb494c674b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F010e0003ef9c2c5d9b8b31cd3e929c3e.jpg",
+   "published": "2026-11-24T04:45:00+00:00",
+   "trending": true,
+   "trend_term": "anya taylor-joy",
+   "trend_score": 0
+  },
+  {
    "title": "Prince William Warned Prince Harry Will Release 400 Cut Pages Of Memoir ‘Spare’ If He Strips Sussex Family Of Titles",
    "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-warned-prince-harry-040000840.html",
    "source": "yahoo.com",
@@ -2376,6 +2431,17 @@
    "trend_score": 0
   },
   {
+   "title": "Anya Taylor-Joy Strikes a Pose in Lace Bra and Matching Underwear",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/anya-taylor-joy-strikes-pose-015706314.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/70838a2901bc4b0a7ce9871b1190872385cffe958bd26c8cf194f8f3dc849e21/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fa204fc183f1202ee3b7012ec49c2d23f.jpg",
+   "published": "2026-11-24T01:57:06+00:00",
+   "trending": true,
+   "trend_term": "anya taylor-joy",
+   "trend_score": 0
+  },
+  {
    "title": "‘Hooters: The Movie’ Sets Owen Patrick Joyner, Kyle Clark & Audrey Trullinger",
    "url": "https://www.yahoo.com/entertainment/movies/articles/hooters-movie-sets-owen-patrick-014115678.html",
    "source": "yahoo.com",
@@ -2384,6 +2450,17 @@
    "published": "2026-11-24T01:41:15+00:00",
    "trending": true,
    "trend_term": "liv morgan",
+   "trend_score": 0
+  },
+  {
+   "title": "Anya Taylor-Joy’s Near-Perfect Masterpiece Officially Returns to Streaming",
+   "url": "https://collider.com/the-witch-anya-taylor-joy-hulu-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/anya-taylor-joy.jpg",
+   "published": "2026-11-24T01:30:12+00:00",
+   "trending": true,
+   "trend_term": "anya taylor-joy",
    "trend_score": 0
   },
   {
@@ -2406,6 +2483,17 @@
    "published": "2026-11-23T22:35:53+00:00",
    "trending": true,
    "trend_term": "adam driver",
+   "trend_score": 0
+  },
+  {
+   "title": "Anya Taylor-Joy’s Brutal Revenge Fantasy Officially Returns",
+   "url": "https://collider.com/the-northman-anya-taylor-joy-free-streaming-fandango/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/08/anya-taylor-joy-in-the-northman.jpg",
+   "published": "2026-11-23T22:30:12+00:00",
+   "trending": true,
+   "trend_term": "anya taylor-joy",
    "trend_score": 0
   },
   {
@@ -2596,12 +2684,210 @@
    "trend_score": 0
   },
   {
+   "title": "10 Greatest Thanksgiving Sitcom Episodes of All Time, Ranked",
+   "url": "https://collider.com/thanksgiving-best-sitcom-episodes-ranked/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/bart-vs.jpg",
+   "published": "2026-11-24T22:44:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Madden’ exclusive interview: Simms May",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/madden-exclusive-interview-simms-may-224100129.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/78f5c3aab1fbad0a4bd426a067d97197d68fdf7745b976920b68d3c88f9eea53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fc5bbcda052a8ab3abd426d71d1d428a6.jpg",
+   "published": "2026-11-24T22:41:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Can Disney’s ‘Hexed’ Break Original Animation’s Box Office Curse?",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/disney-hexed-break-original-animation-223534054.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/e052e303ab940432265ff9ee250852469b7d441a8f38c26b0882438230668d5c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F1839c33c9cd61b77408cc0d41b88a4c8.jpg_up.jpg",
+   "published": "2026-11-24T22:35:34+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "A Major Oscar Contender Revives a Legendary, Closeted Actor. It Also Revives His Rival.",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/major-oscar-contender-revives-legendary-223200772.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/06bfbd816c65c2c278e1b74995044ee5691218a0baf37ece6e46fd7897b091aa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fslate_773%2F7d6de2d0c80e21b820414f3b52d941ab.jpg",
+   "published": "2026-11-24T22:32:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Anthony Mackie’s Dodging Questions About Doomsday Spoilers, But I’m Obsessed With His New Marvel Catchphrase",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/anthony-mackie-dodging-questions-doomsday-223100871.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5a00c32ed3168e8ebc9be85d083fe2e53629248aefc5dadff00e4adba9f1c1e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F1b4c317fd51aa3fbb44fbaf68bac0e2a.jpg",
+   "published": "2026-11-24T22:31:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "CLAYFACE’s Latest Box Office Milestone Proves DC Made A Mistake",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/clayface-latest-box-office-milestone-223055614.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/1b8ef46d8ebb817e9cebdc2068dcb31618285802a4a6fdab74945ab63d2352ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffangoria_208%2F4a7a47385855dc5dee07aac068e4d3d3.jpg_up.jpg",
+   "published": "2026-11-24T22:30:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jennifer Garner Praises Ben Affleck as a 'Very Flexible and Great Co-Parent' of Their 3 Kids",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jennifer-garner-praises-ben-affleck-223019716.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/df64c2be38116b9bd99368d25a4706d9d300250359b453d4d9769773e75fda97/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F6be878b07a8fdbe868451a5ca275eee2.jpg",
+   "published": "2026-11-24T22:30:19+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Bill Maher Declares Obama ‘Best President Of His Lifetime’ Following Trump’s Public Humiliation Tirade",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/bill-maher-declares-obama-best-223000863.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/fd322f6007c6807a08868f677c0a9b77ba96f335073f838f1d9a37d1246e154b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F8f1d5079b54d6b70ba4a2e349aeda8e0.jpg",
+   "published": "2026-11-24T22:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Is ‘Jeopardy!’ Airing a New Episode on Thanksgiving?",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/jeopardy-airing-episode-thanksgiving-222723911.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/4d17b5a4a2099bdede7a3be0f736fd1cf5de1b86724162362d1a6a6d275c76ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Ffd44eed16a4001107e779787679d5e57.jpg",
+   "published": "2026-11-24T22:27:23+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Steve Martin and Martin Short Reflect on Attending Selena Gomez’s ‘Delightful’ Wedding",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/steve-martin-martin-short-reflect-222432177.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a6fd1329bd27dfb239cc71b1aee2326164825dd04125191700a0cf3a3ea4fdf0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb2f166d982630be58a815270c0b17680.jpg",
+   "published": "2026-11-24T22:24:32+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "8 Great Anime Movies Worth Watching Again and Again",
+   "url": "https://collider.com/best-anime-movies-worth-watching-again-and-again/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/promare-anime.jpg",
+   "published": "2026-11-24T22:23:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Billie Jean King Remembers the Exact Moment She ‘Fell in Love With’ Longtime Pal Elton John. She Was Driving (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/billie-jean-king-remembers-exact-222309560.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/cfd40e7983543ac2f956edf2ed88a04b83bdc3a739874d00a1b8c073180c97ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ffd6a53a7e26aac50b20f49a28e38aac6.jpg",
+   "published": "2026-11-24T22:23:09+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Landman’ Star’s New Movie Officially Debuts at No. 1 in the World on Prime Video",
+   "url": "https://collider.com/landman-star-michelle-randolph-clashing-through-the-snow-streaming-success-prime-video-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/11/landman-michelle-randolph-ali-larter-billy-bob-thornton.jpg",
+   "published": "2026-11-24T22:16:18+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Prince William’s Body Language With Prime Minister Sends Telling Message, Expert Claims",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-body-language-prime-221500405.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1aa0044e1ee8b53b746ebeb8415fe5377ddc7426bed85f2197f3edfb52feee77/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F04a7a1a685546a0e75bed434530cbf7d.jpg",
+   "published": "2026-11-24T22:15:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Bruno Mars Announces His Father Has Passed Away",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/bruno-mars-announces-father-passed-221406656.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a9062bbf4fcbe0f1f86bc3264b6aeca576665ec1af204ba5ffe52d3a3a1c8a6c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F561b9990770acdf7116a593401aa7e80.jpg",
+   "published": "2026-11-24T22:14:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Dolly Parton’s Niece Rebecca Takes Step Back from Museum Executive Director Role to ‘Mourn and Heal’ After Aunt’s Death",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/dolly-parton-niece-rebecca-takes-221355228.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/dd2ff53bff0369077ffee6ce31d3a4e2a322c0627656ea5ef5eec0cad7bd3ddc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F000075b4382b9243e5b73218f5bd60fd.jpg",
+   "published": "2026-11-24T22:13:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Here's why King Carl Gustaf abruptly withdraws key royal from major event",
    "url": "https://jang.com.pk/en/76825-heres-why-king-carl-gustaf-abruptly-withdraws-key-royal-from-major-event-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76825_101034_eng.jpg",
    "published": "2026-11-24T22:10:31+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Mister Rogers’ youngest son John dead at 65",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/mister-rogers-youngest-son-john-220611485.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/37a0bba423e251289bb37bb81c02d80e9f5d8167ab35278e8892331ab8805f5a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F3171365c005e0b5f598d475a84b543b8.jpg",
+   "published": "2026-11-24T22:06:11+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Hallmark's Lacey Chabert mourns devastating loss: 'Painfully incomplete without you'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hallmarks-lacey-chabert-mourns-devastating-220131069.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b820b086224c5ad2def89537e91335ea47aa0d8cc495918d7a4e1327a40c0164/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F70037390c3547d5d50ae65908309a801.jpg",
+   "published": "2026-11-24T22:01:31+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2833,6 +3119,17 @@
    "category": "TV",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/10/robert-patrick_jeremiah-dunmire_tulsa-king.jpg",
    "published": "2026-11-24T20:44:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Tom Hardy's 5 Most Stylish Characters, Ranked",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/tom-hardys-5-most-stylish-204258536.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/bf4bbbd42ba3a800eeaf752c810b4a213e7666eb6dd2572ce0357c6c4d48a495/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fesquire_269%2Faca46d123fd2dcb816e8ed964240c70d.jpg_up.jpg",
+   "published": "2026-11-24T20:42:58+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3641,17 +3938,6 @@
    "trend_score": 0
   },
   {
-   "title": "‘90 Day Fiance’ Star Sheila Mangubat’s Cause of Death Revealed Days After Her Sudden Passing at 35",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fiance-star-sheila-173228726.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/0d5b80c93ee6394adba6b4a580c90915bc6b600c7b9e69c78ed75af7d2142a7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F2ef91404f032d54d9c5b1862988c411d.jpg",
-   "published": "2026-11-24T17:32:28+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "‘Grand Theft Auto VI: The Album’ Adds 4 More Songs Following Deluxe Edition",
    "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/grand-theft-auto-vi-album-173142325.html",
    "source": "yahoo.com",
@@ -3938,6 +4224,17 @@
    "trend_score": 0
   },
   {
+   "title": "Elementary School Teacher Arrested for Alleged Possession of Child Pornography",
+   "url": "https://www.usmagazine.com/crime-news/news/teacher-arrested-for-alleged-possession-of-child-pornography/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/elementary-school-teacher-arrested.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-24T16:20:30+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Princess Beatrice's husband sends clear public message to Kate Middleton",
    "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/princess-beatrices-husband-sends-clear-161918438.html",
    "source": "yahoo.com",
@@ -3982,6 +4279,17 @@
    "trend_score": 0
   },
   {
+   "title": "Kristin Cavallari Announces She's Leaving Her Podcast: 'It's Been a Journey'",
+   "url": "https://www.usmagazine.com/celebrity-news/news/kristin-cavallari-announces-shes-leaving-her-podcast/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305775488-kristin-cavallari.jpg?crop=92px%2C98px%2C1173px%2C662px&resize=1000%2C563&quality=78&strip=all",
+   "published": "2026-11-24T15:58:05+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Irish reality star dances her way to final of Dancing with the Stars",
    "url": "https://www.yahoo.com/entertainment/tv/articles/irish-reality-star-dances-her-154226072.html",
    "source": "yahoo.com",
@@ -4021,17 +4329,6 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/1b8f231f903e57b8dc4f6054c8ffa7e6aebf2fb9a5bfa44e8f1e4267e70b73c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F76df59a83dab86abf40a088395726376.jpg",
    "published": "2026-11-24T15:46:16+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Bella Hadid Details 'Intense' Desire to Have 'Lots of Children'",
-   "url": "https://www.usmagazine.com/celebrity-news/news/bella-hadid-details-intense-desire-to-have-lots-of-children/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2276954819-Bella-Hadid-Details-Intense-Desire-to-Have-Kids.jpg?crop=0px%2C115px%2C1333px%2C753px&resize=1000%2C563&quality=40&strip=all",
-   "published": "2026-11-24T15:45:08+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -7431,17 +7728,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/6c05cb5b76ad435c8d37fbd3d0003d67495d804ede4897a391d67dcd30daa10c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F5db783c2dbc4d3d3e39e84145ea9d3ba.jpg",
    "published": "2026-11-23T18:04:33+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "‘90 Day Fiance’ Interpreter Shares Tribute to Sheila Mangubat After Her Death at Age 35",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fiance-interpreter-shares-180322690.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/476ad51f17286f18043ba46b2d9ab212b25944f978bf8619b13a32a85bc4c60b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2Feeaa25ded9442d716311029d5180021e.jpg",
-   "published": "2026-11-23T18:03:22+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
