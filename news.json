@@ -1,26 +1,15 @@
 {
- "generated_at": "2026-11-24T10:57:54.874598+00:00",
+ "generated_at": "2026-11-24T11:55:29.741000+00:00",
  "date_us": "2026-11-24",
  "per_site": {
   "usmagazine.com": 16,
   "news.meaww.com": 3,
-  "profiles.yahoo.com": 11,
-  "yahoo.com": 27,
+  "profiles.yahoo.com": 10,
+  "yahoo.com": 29,
   "jang.com.pk": 8,
   "collider.com": 9
  },
  "items": [
-  {
-   "title": "'Focker-in-Law' Review: Meet the New Focker, Same As the Old Focker",
-   "url": "https://collider.com/focker-in-law-ariana-grande-ben-stiller-robert-deniro-review/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/focker-in-law-ben-stiller-ariana-grande-2.jpg",
-   "published": "2026-11-23T21:33:18+00:00",
-   "trending": true,
-   "trend_term": "focker in law reviews",
-   "trend_score": 5000
-  },
   {
    "title": "Billy Ray Cyrus shares heartfelt tribute to Miley Cyrus after her wedding to Maxx Morando: 'Proudest dad alive'",
    "url": "https://www.yahoo.com/entertainment/celebrity/article/billy-ray-cyrus-shares-heartfelt-tribute-to-miley-cyrus-after-her-wedding-to-maxx-morando-proudest-dad-alive-102741477.html",
@@ -231,6 +220,17 @@
    "trend_score": 2000
   },
   {
+   "title": "‘Just made me like her even more’: Vanity Fair’s Taylor Swift ‘hit piece’ sparks outrage",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/just-made-her-even-more-113053016.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/53b5b56b146125f375e713543854aa23ebe6d039d9b5a3f7e54f8ee7611656b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F1843e3a3f02e5f55a9cb7c3582395823.jpg",
+   "published": "2026-11-24T11:30:53+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Robert Downey Jr. takes on a bold new role in 'Avengers: Doomsday'. What happened to Iron Man — and what to know about the villainous Doctor Doom.",
    "url": "https://www.yahoo.com/entertainment/movies/article/robert-downey-jr-takes-on-a-bold-new-role-in-avengers-doomsday-what-happened-to-iron-man--and-what-to-know-about-the-villainous-doctor-doom-103623868.html",
    "source": "yahoo.com",
@@ -271,7 +271,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
    "published": "2026-11-24T08:43:08+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -704,22 +704,22 @@
    "trend_score": 2000
   },
   {
-   "title": "Texas Mom of 4 Wanted a Divorce Before Relatives Allegedly Killed Her: Report",
-   "url": "https://www.usmagazine.com/crime-news/news/texas-mom-wanted-a-divorce-was-killed-by-relatives-report/",
-   "source": "usmagazine.com",
+   "title": "Texas Mom of 4 Wanted a Divorce Before 2 Relatives Allegedly Killed Her on Her Birthday: Report",
+   "url": "https://www.yahoo.com/news/us/articles/texas-mom-4-wanted-divorce-220433617.html",
+   "source": "profiles.yahoo.com",
    "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Texas-Mom-Wanted-a-Divorce-Was-Killed-By-Relatives-Report-2.jpg",
+   "image": "https://s.yimg.com/lo/mysterio/api/cc3235330e604ab184364a484648467f39897d725b492ccd2cd536fde5b8daa3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fc8b728a12941e56e760bb22349419081.jpg",
    "published": "2026-11-23T22:04:33+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
   },
   {
-   "title": "Texas Mom of 4 Wanted a Divorce Before 2 Relatives Allegedly Killed Her on Her Birthday: Report",
-   "url": "https://www.yahoo.com/news/us/articles/texas-mom-4-wanted-divorce-220433617.html",
-   "source": "profiles.yahoo.com",
+   "title": "Texas Mom of 4 Wanted a Divorce Before Relatives Allegedly Killed Her: Report",
+   "url": "https://www.usmagazine.com/crime-news/news/texas-mom-wanted-a-divorce-was-killed-by-relatives-report/",
+   "source": "usmagazine.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/cc3235330e604ab184364a484648467f39897d725b492ccd2cd536fde5b8daa3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fc8b728a12941e56e760bb22349419081.jpg",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Texas-Mom-Wanted-a-Divorce-Was-Killed-By-Relatives-Report-2.jpg",
    "published": "2026-11-23T22:04:33+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
@@ -777,7 +777,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
    "published": "2026-11-23T21:49:52+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -865,7 +865,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
    "published": "2026-11-23T21:26:51+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1019,7 +1019,7 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
    "published": "2026-11-23T19:30:12+00:00",
    "trending": true,
-   "trend_term": "anthony mackie · covered by 2 sites",
+   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1283,7 +1283,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1294,7 +1294,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1724,84 +1724,7 @@
    "published": "2026-11-24T10:42:56+00:00",
    "trending": true,
    "trend_term": "prince harry",
-   "trend_score": 1000
-  },
-  {
-   "title": "Prince William Warned Prince Harry Will Release 400 Cut Pages Of Memoir ‘Spare’ If He Strips Sussex Family Of Titles",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-warned-prince-harry-040000840.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b0f424aaab4bb822b53ab28ce3d5ec2270d9d7d53f102688e43a1972c0e0a844/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fc7d044dacdec5f8537119fd003904990.jpg",
-   "published": "2026-11-24T04:00:00+00:00",
-   "trending": true,
-   "trend_term": "prince harry",
-   "trend_score": 1000
-  },
-  {
-   "title": "Sad Reason Prince Harry And Meghan Are ‘Being Kept At Arm’s Length’ By The Royals This Holiday Season",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/sad-reason-prince-harry-meghan-024500628.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/cf987ae89856f9d0b1a74c9462a3cb049468943481fe4ddd2ecf4ca8bfa6b254/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F7b9ee39b47f00818219c688a041b8051.jpg",
-   "published": "2026-11-24T02:45:00+00:00",
-   "trending": true,
-   "trend_term": "prince harry",
-   "trend_score": 1000
-  },
-  {
-   "title": "Prince Harry and Meghan Markle’s Reason for Staying in the U.K. for Christmas Revealed",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-reason-003609184.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
-   "published": "2026-11-24T00:36:09+00:00",
-   "trending": true,
-   "trend_term": "prince harry",
-   "trend_score": 1000
-  },
-  {
-   "title": "Prince William reportedly has a brother in his corner — and it’s not Prince Harry",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-reportedly-brother-corner-232725749.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/13453a02162ce7d1e600837c21303a42536cae4581ea9d514a0e164431665fc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fb901e9be3bcd9fc04f50a9b50bf2556f.jpg",
-   "published": "2026-11-23T23:27:25+00:00",
-   "trending": true,
-   "trend_term": "prince harry",
-   "trend_score": 1000
-  },
-  {
-   "title": "Prince William’s Alleged Plans To Strip Harry Of HRH Status Have ‘No Factual Basis,’ Kensington Palace Says",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-alleged-plans-strip-203000368.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b5fd0a8b54c662a08d7fe8768a1c701f434bd73d0e0d023d3f2d3f65f1ad9f2f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F894ecad02c93e63eac6d4edf9ce4d2bc.jpg",
-   "published": "2026-11-23T20:30:00+00:00",
-   "trending": true,
-   "trend_term": "prince harry",
-   "trend_score": 1000
-  },
-  {
-   "title": "Kensington Palace hit back at Tom Skyes' Harry, Meghan's Royal titles claims: 'no factual basis'",
-   "url": "https://jang.com.pk/en/76770-kensington-palace-hit-back-at-tom-skyes-harry-meghans-royal-titles-claims-no-factual-basis-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76770_060125_eng.jpg",
-   "published": "2026-11-23T18:00:57+05:00",
-   "trending": true,
-   "trend_term": "prince harry",
-   "trend_score": 1000
-  },
-  {
-   "title": "Meghan Markle’s Hairstylist Spills Secrets About Life With Prince Harry",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-hairstylist-spills-secrets-172445112.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
-   "published": "2026-11-23T17:24:45+00:00",
-   "trending": true,
-   "trend_term": "prince harry",
-   "trend_score": 1000
+   "trend_score": 0
   },
   {
    "title": "‘The Hunger Games: Sunrise on the Reaping’ Dominates U.K., Ireland Box Office as ‘Ramayana’ Sets All-Time Indian Record",
@@ -1837,6 +1760,50 @@
    "trend_score": 0
   },
   {
+   "title": "Prince William Warned Prince Harry Will Release 400 Cut Pages Of Memoir ‘Spare’ If He Strips Sussex Family Of Titles",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-warned-prince-harry-040000840.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b0f424aaab4bb822b53ab28ce3d5ec2270d9d7d53f102688e43a1972c0e0a844/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fc7d044dacdec5f8537119fd003904990.jpg",
+   "published": "2026-11-24T04:00:00+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 0
+  },
+  {
+   "title": "Sad Reason Prince Harry And Meghan Are ‘Being Kept At Arm’s Length’ By The Royals This Holiday Season",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/sad-reason-prince-harry-meghan-024500628.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/cf987ae89856f9d0b1a74c9462a3cb049468943481fe4ddd2ecf4ca8bfa6b254/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F7b9ee39b47f00818219c688a041b8051.jpg",
+   "published": "2026-11-24T02:45:00+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 0
+  },
+  {
+   "title": "Prince Harry and Meghan Markle’s Reason for Staying in the U.K. for Christmas Revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-reason-003609184.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
+   "published": "2026-11-24T00:36:09+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 0
+  },
+  {
+   "title": "Prince William reportedly has a brother in his corner — and it’s not Prince Harry",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-reportedly-brother-corner-232725749.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/13453a02162ce7d1e600837c21303a42536cae4581ea9d514a0e164431665fc3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fb901e9be3bcd9fc04f50a9b50bf2556f.jpg",
+   "published": "2026-11-23T23:27:25+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 0
+  },
+  {
    "title": "Adam Driver: ‘No One Was Paying Us’ to Develop ‘The Hunt for Ben Solo’ and ‘Star Wars’ Boss Said ‘We Have a 100% Approval’ to Make It, Then Disney Killed It",
    "url": "https://www.yahoo.com/entertainment/articles/adam-driver-no-one-paying-223553021.html",
    "source": "yahoo.com",
@@ -1856,6 +1823,28 @@
    "published": "2026-11-23T22:11:57+00:00",
    "trending": true,
    "trend_term": "michelle randolph",
+   "trend_score": 0
+  },
+  {
+   "title": "'Focker-in-Law' Review: Meet the New Focker, Same As the Old Focker",
+   "url": "https://collider.com/focker-in-law-ariana-grande-ben-stiller-robert-deniro-review/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/focker-in-law-ben-stiller-ariana-grande-2.jpg",
+   "published": "2026-11-23T21:33:18+00:00",
+   "trending": true,
+   "trend_term": "focker in law reviews",
+   "trend_score": 0
+  },
+  {
+   "title": "Prince William’s Alleged Plans To Strip Harry Of HRH Status Have ‘No Factual Basis,’ Kensington Palace Says",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-alleged-plans-strip-203000368.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b5fd0a8b54c662a08d7fe8768a1c701f434bd73d0e0d023d3f2d3f65f1ad9f2f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F894ecad02c93e63eac6d4edf9ce4d2bc.jpg",
+   "published": "2026-11-23T20:30:00+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
    "trend_score": 0
   },
   {
@@ -1958,6 +1947,17 @@
    "trend_score": 0
   },
   {
+   "title": "Meghan Markle’s Hairstylist Spills Secrets About Life With Prince Harry",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-hairstylist-spills-secrets-172445112.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
+   "published": "2026-11-23T17:24:45+00:00",
+   "trending": true,
+   "trend_term": "prince harry",
+   "trend_score": 0
+  },
+  {
    "title": "Marvel’s Spider-Man Officially Gets Stunning Makeover For New Release",
    "url": "https://collider.com/marvel-spider-man-peach-momoko-art-book-exclusive/",
    "source": "collider.com",
@@ -1986,6 +1986,259 @@
    "category": "Awards",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76801_032713_eng.jpg",
    "published": "2026-11-24T15:27:57+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Every Show Premiering on CBS in Winter 2026–2027",
+   "url": "https://collider.com/cbs-winter-2026-2027-schedule/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/ghosts-rose-mciver.jpg",
+   "published": "2026-11-24T11:52:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "18 Photos Where People Could Have Just Tried Thinking Twice",
+   "url": "https://www.yahoo.com/entertainment/articles/18-photos-where-people-could-114500901.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/639536c9c3d9e4b018bacd8ac9dfd1330d2cfa302edb4e0e34758675ee5d6df0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcracked_901%2Fa762fc3c1a75c982eb018c3fe71bddae.jpg",
+   "published": "2026-11-24T11:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "UB40 star defends Rooney over I'm a Celeb singing",
+   "url": "https://www.yahoo.com/entertainment/music/articles/ub40-star-defends-rooney-im-153525353.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/788ca7f89eb21243206f54063e621ba1c6a37149c26cd7b95ede4b0717f0385a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F29a7e08353eb7703d4d7428395e0dc9e.png",
+   "published": "2026-11-24T11:40:36+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘One of the bullies’ – Taylor Swift’s former classmate blasts Travis Kelce’s wife",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/one-bullies-taylor-swift-former-113857164.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9c0a1639b42d84fdfe0fa294e1a8b5f0d80846c904b7b958e280c5a0113057fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F9e6b9110752b3f1b5a5db17b4d2abcd0.jpg",
+   "published": "2026-11-24T11:38:57+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 10 Best Alternative Rock Bands of All Time, Ranked",
+   "url": "https://collider.com/best-alternative-rock-bands-all-time-ranked/",
+   "source": "collider.com",
+   "category": "Music",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-sound-of-the-smiths-2008-album-crop-1.jpg",
+   "published": "2026-11-24T11:36:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jimmy Kimmel Nails Trump on Nvidia Windfall After CEO’s Stunning Return: ‘Sounds Fishy’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jimmy-kimmel-nails-trump-nvidia-113313614.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/17821ea74840c910dcb1c767505337f854e179ab49ff61339ccc4fb99364ac3e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmediaite_845%2F61fb3afab21de325645cf11b1f984c90.jpg",
+   "published": "2026-11-24T11:33:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "15 Thriller Movies of 2026 That Are Near-Perfect Masterpieces",
+   "url": "https://collider.com/best-thriller-movies-2026-so-far-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/inde-navarrette-in-obsession-2026.jpg",
+   "published": "2026-11-24T11:32:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘South Park’ Season 29 Officially Ends This Week",
+   "url": "https://collider.com/south-park-season-29-finale-release-date-paramount-plus/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/11/south-park-woman-in-the-hat-stan-sad-1.jpg",
+   "published": "2026-11-24T11:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Happy Birthday, Katherine Heigl! See the “Grey’s Anatomy” Actress’s Cutest Family Photos with Her Husband and 3 Kids",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/happy-birthday-katherine-heigl-see-113000051.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d4f2be5319e8a7a3bd73e1a3661fd9bce0933dead78edf5892849764850e1f0c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff468023da9354641e0317b94cf546877.jpg",
+   "published": "2026-11-24T11:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Where Is Freddie Mercury’s Ex-Fiancée Mary Austin Now? Inside Her Life 35 Years After the Queen Frontman’s Death",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/where-freddie-mercury-ex-fianc-113000662.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9bfd339c02db16bbd8a72a85ca04be53bb64b85c6a16a67e8694938a1b9a6fd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbaff41c3d254c20c284dfd0733dadb5a.jpg",
+   "published": "2026-11-24T11:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "7 Actors Who Learned Another Language for a Role",
+   "url": "https://www.yahoo.com/entertainment/articles/7-actors-learned-another-language-113000579.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/66927f67d213a0fc7644ec745a1902ca69c4babbca6143eb326cbae304b2f54e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc1caefef79048a27b75e00be7770e830.jpg",
+   "published": "2026-11-24T11:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "12 Female Celebrities Who Are in Relationships with Younger Men — and What They’ve Said About It",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/12-female-celebrities-relationships-younger-113000735.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/105a141e70c795a5829ac4c24cda6e4885c091d90da2eb5d61ded64a280d0bff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F5a8ed0778461e92d23b5898895f1a86b.jpg",
+   "published": "2026-11-24T11:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "8 Detective Miniseries That Are Bangers From Start to Finish",
+   "url": "https://collider.com/detective-miniseries-bangers-start-to-finish/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/mare-of-easttown-kate-winslet-1.jpeg",
+   "published": "2026-11-24T11:26:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 17 Best Christmas Romance Movies on Netflix, Ranked",
+   "url": "https://collider.com/best-netflix-christmas-romantic-movies/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/emma-roberts-and-luke-bracey-in-holidate-1.jpg",
+   "published": "2026-11-24T11:23:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Bob Woodward wants readers to know how he sees the world and how that shapes his reporting",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bob-woodward-wants-readers-know-112008229.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/af522ffbee95c1ed3e6b54ce860b3809155a4bf809724b234e958751412b7de0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa3b3817711b536b14d9766c294e5b34a.jpg",
+   "published": "2026-11-24T11:20:08+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "People Are Saddened By Mahershala Ali's Take On Hollywood After Winning 2 Oscars",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/people-saddened-mahershala-alis-hollywood-111406349.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/00caf52cf97c35330853682d9c720fdbc5d1894807581df93b9f2cade9ec3d0d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F7cd64039a2274d2661441ecda22960f2.jpg",
+   "published": "2026-11-24T11:14:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Influencer, 60, Announces Her Own Death in Pre-Recorded Video, 4 Years After Stage 4 Breast Cancer Diagnosis",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/influencer-60-announces-her-own-110403276.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/198c080868bad030d86fa99974a3f0fbd40264454fb25be2cd82edab1cd042f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff04c3e00aee1f532f64d753ee9b1c2fe.jpg",
+   "published": "2026-11-24T11:04:03+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jennifer Lawrence, breast implants, and the post-baby breast dilemma",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jennifer-lawrence-breast-implants-post-110126037.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/a2b8c8608539d298971d44a7e0d17b68b5e656e5720b941eb94f6fc4ae0884cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F195ab79dcd5c6afd16bb7d3ec5bdc871.jpg",
+   "published": "2026-11-24T11:01:26+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Prince William and Princess Kate Taking on More Responsibility as King Charles’ Starts to ‘Slow Down’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-princess-kate-taking-110031299.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7e12c1a5624945240749eb18c28bfde5e0c87d1f020ed3852b3224dc5bfc6bf7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_examiner_239%2F127770f5dbd453f5476e8142eff9cf74.jpg",
+   "published": "2026-11-24T11:00:31+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Billy Bob Thornton Is Officially the King of Streaming",
+   "url": "https://collider.com/taylor-sheridan-landman-streaming-success-billy-bob-thornton-mayflower-release-date/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/landman-season-2-billy-bob-thornton-1.jpeg",
+   "published": "2026-11-24T11:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "See The Sandlot cast 30 years later –  including one child star's tragic fate",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/see-sandlot-cast-30-years-110000118.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/47946920b6c76ac20af9bd3c65dec979c3433a037d158ec0ab06818d5f77d60d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F01744aa729558ec5b17208296091d6e4.jpg",
+   "published": "2026-11-24T11:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "This year's Miss Universe pageant is a hot mess. And it's spectacular.",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/years-miss-universe-pageant-hot-110000694.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/657755edb8631146db07706e6cb61964f9308b63ec742ca04170c95cf6cceee1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwashington_post_entertainment_articles_637%2F9e77051012eaca91c7477c8491b281f6.jpg",
+   "published": "2026-11-24T11:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Simone Ashley is all legs in tiny Gucci mini dress – weeks after Kim Kardashian wore it",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/simone-ashley-legs-tiny-gucci-104500496.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/28ad6a796de2aaa865d4480c8811e5fc7ff680b773f407a2b9ee02126b7b2b93/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F90a23c489241fdaf68a3933f833035d7.jpg",
+   "published": "2026-11-24T10:45:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2151,17 +2404,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/ecbeb088545a725df1456b1548aa447b7f126d5ac9cb2d9da3d29eb9c61d47b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fadcb8fdadbf919db654ceea3cc8f2794.jpg",
    "published": "2026-11-24T09:48:50+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "UB40 star defends Rooney over I'm a Celeb singing",
-   "url": "https://www.yahoo.com/entertainment/music/articles/ub40-star-defends-rooney-im-153525353.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/788ca7f89eb21243206f54063e621ba1c6a37149c26cd7b95ede4b0717f0385a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F29a7e08353eb7703d4d7428395e0dc9e.png",
-   "published": "2026-11-24T09:46:43+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2569,6 +2811,17 @@
    "category": "Celebrity",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-three-body-problem-cover.jpg",
    "published": "2026-11-24T04:55:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Why Did the Lights Go Out on 'Monday Night Football'? Outage Explained",
+   "url": "https://www.usmagazine.com/sports/news/why-did-the-lights-go-out-on-monday-night-football/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2306571363-joe-burrow-why-did-lights-go-out-on-mnf-e1795495415735.jpg?crop=0px%2C6px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-24T04:49:11+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4714,6 +4967,17 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Dancing-With-the-Stars-Pros-Make-Their-Case-for-Why-Their-Partner-Deserves-Your-Finale-Vote.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=40&strip=all",
    "published": "2026-11-23T18:01:14+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Kensington Palace hit back at Tom Skyes' Harry, Meghan's Royal titles claims: 'no factual basis'",
+   "url": "https://jang.com.pk/en/76770-kensington-palace-hit-back-at-tom-skyes-harry-meghans-royal-titles-claims-no-factual-basis-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76770_060125_eng.jpg",
+   "published": "2026-11-23T18:00:57+05:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
