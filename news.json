@@ -1,15 +1,26 @@
 {
- "generated_at": "2026-11-24T08:59:07.116714+00:00",
+ "generated_at": "2026-11-24T10:04:56.445070+00:00",
  "date_us": "2026-11-24",
  "per_site": {
   "usmagazine.com": 17,
   "news.meaww.com": 3,
   "profiles.yahoo.com": 11,
-  "yahoo.com": 29,
-  "jang.com.pk": 6,
+  "yahoo.com": 28,
+  "jang.com.pk": 7,
   "collider.com": 9
  },
  "items": [
+  {
+   "title": "Miley Cyrus marries Maxx Morando in Palm Springs - report",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-marries-maxx-morando-013821592.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ce3978b2f274b0b70356c681cd8a1d1901cfb2e1e33e7b405919704ac390d4e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fb70feef1b2071e6fe4eb3ef939cd7b39.jpg_up.jpg",
+   "published": "2026-11-24T09:54:08+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
   {
    "title": "Tish Cyrus calls daughter Miley Cyrus’ wedding to Maxx Morando ‘the most magical night’",
    "url": "https://news.meaww.com/tish-cyrus-calls-daughter-miley-cyrus-wedding-to-maxx-morando-the-most-magical-night",
@@ -187,70 +198,15 @@
    "trend_score": 3000
   },
   {
-   "title": "Justin Timberlake’s mom calls relationship with Britney Spears the ‘definition of insanity’ in new doc trailer",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-mom-calls-relationship-212651740.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
-   "published": "2026-11-23T21:26:51+00:00",
-   "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites",
-   "trend_score": 2500
-  },
-  {
-   "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Apple TV Docuseries Trailer",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-makes-rare-ex-171218001.html",
-   "source": "profiles.yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
-   "published": "2026-11-23T17:12:18+00:00",
-   "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites",
-   "trend_score": 2500
-  },
-  {
-   "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Doc Trailer",
-   "url": "https://www.usmagazine.com/celebrity-news/news/justin-timberlake-makes-rare-comment-on-britney-spears-in-doc/",
-   "source": "usmagazine.com",
-   "category": "Movies",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T17:12:18+00:00",
-   "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites",
-   "trend_score": 2500
-  },
-  {
-   "title": "Justin Timberlake Doc Trailer Teases Look at Britney Spears Relationship, DUI Arrest, Jessica Biel Marriage and More",
-   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/justin-timberlake-doc-trailer-teases-151352140.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/5813ae41e2de2cd8d478a0e381e676b7e0080d79b530f44dc5531294b8ae984b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3c9a1e4c42e04cf954df0a41c1a27fe3.jpg",
-   "published": "2026-11-23T15:13:52+00:00",
-   "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites",
-   "trend_score": 2500
-  },
-  {
-   "title": "Jimmy Kimmel Criticizes Trump’s ‘Fishy’ Support of Nvidia CEO Jensen Huang",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jimmy-kimmel-criticizes-trump-fishy-084308298.html",
-   "source": "yahoo.com",
+   "title": "Taylor Swift strongly reacts to Vanity Fair’s ‘mean girl’ exposé: ‘It feels like…’",
+   "url": "https://jang.com.pk/en/76798-taylor-swift-strongly-reacts-to-vanity-fairs-mean-girl-expos-it-feels-like-news",
+   "source": "jang.com.pk",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
-   "published": "2026-11-24T08:43:08+00:00",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76798_023909_eng.jpg",
+   "published": "2026-11-24T14:51:31+05:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites",
-   "trend_score": 2100
-  },
-  {
-   "title": "Donald Trump Praises Nvidia Reinstating CEO Jensen Huang With AI Bra Pic",
-   "url": "https://www.usmagazine.com/celebrity-news/news/jensen-huangs-affair-and-spying-scandal-explained/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
-   "published": "2026-11-23T21:49:52+00:00",
-   "trending": true,
-   "trend_term": "11 · covered by 2 sites",
-   "trend_score": 2100
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
   },
   {
    "title": "Taylor Swift branded 'Regina George' in bombshell Vanity Fair report as 100+ sources weigh in",
@@ -261,6 +217,28 @@
    "published": "2026-11-24T09:33:21+05:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Dax Shepard opens up about 'offensive' accusations he is 'abusive husband' to Kristen Bell",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/dax-shepard-opens-offensive-accusations-211735769.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/94cdb891993698af2aaf73207660bdc7f46469a4b15d425770b1398a16610d90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F9c9f734b0534ca739b9611e9f96bab42.jpg_up.jpg",
+   "published": "2026-11-24T09:24:38+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Jimmy Kimmel Criticizes Trump’s ‘Fishy’ Support of Nvidia CEO Jensen Huang",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jimmy-kimmel-criticizes-trump-fishy-084308298.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
+   "published": "2026-11-24T08:43:08+00:00",
+   "trending": true,
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -726,6 +704,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Donald Trump Praises Nvidia Reinstating CEO Jensen Huang With AI Bra Pic",
+   "url": "https://www.usmagazine.com/celebrity-news/news/jensen-huangs-affair-and-spying-scandal-explained/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
+   "published": "2026-11-23T21:49:52+00:00",
+   "trending": true,
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Rita Wilson Addresses Claim Her Viral, Massive Back Tattoo Isn't Real",
    "url": "https://www.usmagazine.com/celebrity-body/news/rita-wilson-addresses-claim-viral-back-tattoo-isnt-real/",
    "source": "usmagazine.com",
@@ -803,6 +792,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Justin Timberlake’s mom calls relationship with Britney Spears the ‘definition of insanity’ in new doc trailer",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-mom-calls-relationship-212651740.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
+   "published": "2026-11-23T21:26:51+00:00",
+   "trending": true,
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Cause of Fire on Will Smith and Jada Pinkett Smith's L.A. Property Revealed",
    "url": "https://www.usmagazine.com/celebrity-news/news/cause-of-fire-on-will-smith-jada-pinketts-property-revealed/",
    "source": "usmagazine.com",
@@ -853,6 +853,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/006b5cae126d80deeb458219db0d371b896d27bf2628d0eb8b7a7cf2a61c5c55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fa720e4eb6d15d2afdf2644e82ae46498.jpg",
    "published": "2026-11-23T20:44:43+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Dax Shepard Admits He’s in a ‘Depression’ Amid Kristen Bell Marriage Backlash",
+   "url": "https://www.usmagazine.com/celebrity-news/news/dax-shepard-admits-hes-depressed-amid-marriage-backlash/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2241723226-dax-shepard-kristen-bell.jpg?crop=0px%2C82px%2C1333px%2C753px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T20:12:00+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -1188,6 +1199,28 @@
    "trend_score": 2000
   },
   {
+   "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Apple TV Docuseries Trailer",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-makes-rare-ex-171218001.html",
+   "source": "profiles.yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
+   "published": "2026-11-23T17:12:18+00:00",
+   "trending": true,
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Doc Trailer",
+   "url": "https://www.usmagazine.com/celebrity-news/news/justin-timberlake-makes-rare-comment-on-britney-spears-in-doc/",
+   "source": "usmagazine.com",
+   "category": "Movies",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T17:12:18+00:00",
+   "trending": true,
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Barbara Eden, 95, Breaks Down Her ‘Disciplined’ Fitness Routine Away From the Gym",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/barbara-eden-95-breaks-down-170205656.html",
    "source": "profiles.yahoo.com",
@@ -1271,6 +1304,17 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/7bf1cd7bc2ecf5188835d61dc378a6d3316fa6cde3a94cbb63540dadc734ba1d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4e4edbaa47f45db12b3cbb72b32a8432.jpg",
    "published": "2026-11-23T15:16:34+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Justin Timberlake Doc Trailer Teases Look at Britney Spears Relationship, DUI Arrest, Jessica Biel Marriage and More",
+   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/justin-timberlake-doc-trailer-teases-151352140.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/5813ae41e2de2cd8d478a0e381e676b7e0080d79b530f44dc5531294b8ae984b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3c9a1e4c42e04cf954df0a41c1a27fe3.jpg",
+   "published": "2026-11-23T15:13:52+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -1602,8 +1646,19 @@
    "image": "https://s.yimg.com/lo/mysterio/api/e9818bcf96dc8516fe12f204ef54c456e3761bc54e7d5f666aea8a415bdef348/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F7fb1d59ed2fb83b33c85b61dcf7bfccf.jpg",
    "published": "2026-11-24T08:25:20+00:00",
    "trending": true,
-   "trend_term": "the hunger games the ballad of songbirds & snakes",
-   "trend_score": 500
+   "trend_term": "office",
+   "trend_score": 1000
+  },
+  {
+   "title": "India Could Post Its Highest Box Office Since the Pandemic, Zee Studios’ Girish Johar Tells WAVES Film Bazaar",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/india-could-post-highest-box-052949164.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/c2968b4babc8f925ed7a17400dc454a7af8a5dcd096f601bdc7701461da1f762/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F4d657a9e69341471188154bf5490fc27.jpg_up.jpg",
+   "published": "2026-11-24T05:29:49+00:00",
+   "trending": true,
+   "trend_term": "office",
+   "trend_score": 1000
   },
   {
    "title": "'Hunger Games' prequel 'Sunrise on the Reaping' opens to $225 million at global box office",
@@ -1613,8 +1668,19 @@
    "image": "https://s.yimg.com/lo/mysterio/api/ed6a226d487fd4288f2336e655a181778ba40b41090f938b11c8039a24ee916d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffb94a67b-a507-4cef-ac11-b0ae3cf2b457",
    "published": "2026-11-23T12:28:40+00:00",
    "trending": true,
-   "trend_term": "the hunger games the ballad of songbirds & snakes",
-   "trend_score": 500
+   "trend_term": "office",
+   "trend_score": 1000
+  },
+  {
+   "title": "Don Toliver Concert Evacuated After ‘Substance Believed to Be Tear Gas’ Was Released into Arena Crowd",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-concert-evacuated-substance-024617016.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/040117fcb62861d6334086d0bb86417fb534709839d253c5ee916943dd2f0696/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4b5424200860ad538fe25358b1c06d10.jpg",
+   "published": "2026-11-23T02:46:17+00:00",
+   "trending": true,
+   "trend_term": "mirror",
+   "trend_score": 100
   },
   {
    "title": "Adam Driver Teases His ‘X-Men’ Villain Mister Sinister to Seth Meyers",
@@ -1771,6 +1837,83 @@
    "trend_score": 0
   },
   {
+   "title": "Marvel Officially Reveals Doctor Doom’s First Encounter With Doctor Strange Ahead of ‘Avengers: Doomsday’",
+   "url": "https://collider.com/marvel-doctor-doom-doctor-strange-challenges-of-doom-avengers-doomsday/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/doctor-strange.jpg",
+   "published": "2026-11-24T10:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Nixon had a tell when he lied. His lawyer told Bob Woodward all about it.",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/nixon-had-tell-lied-lawyer-100000067.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/fb0cc84fa04b173e9b231876495ca575de503c6ac6fb1935c03378c8a4a3e28a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwashington_post_entertainment_articles_637%2F6478fe7918b9b9f5cec7b4cd11884d17.jpg",
+   "published": "2026-11-24T10:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Melania Trump Makes 11-Word Remark Amid Marriage Rumors As She Revives Festive Look She Wore With Donald Seven Years Ago",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/melania-trump-makes-11-word-100000368.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e0a9cd833fc98fb7dd2935466999e0367fb9e9bf180b9a0e6de60d9af126788d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F0f8ef30d8246e847dc50c18f462417a9.jpg",
+   "published": "2026-11-24T10:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "“Days of Our Lives” Star AnnaLynne McCord Says the Soap ‘Saved’ Her During Financial Struggles",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/days-lives-star-annalynne-mccord-094850043.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ecbeb088545a725df1456b1548aa447b7f126d5ac9cb2d9da3d29eb9c61d47b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fadcb8fdadbf919db654ceea3cc8f2794.jpg",
+   "published": "2026-11-24T09:48:50+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "UB40 star defends Rooney over I'm a Celeb singing",
+   "url": "https://www.yahoo.com/entertainment/music/articles/ub40-star-defends-rooney-im-153525353.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/788ca7f89eb21243206f54063e621ba1c6a37149c26cd7b95ede4b0717f0385a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F29a7e08353eb7703d4d7428395e0dc9e.png",
+   "published": "2026-11-24T09:46:43+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Fin Vs History’: Stars Of Video Podcast On The Wildly-Popular Satirical History Series, Animation Ambitions & Why Spotify Beats TV",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/fin-vs-history-stars-video-093000574.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/99cc422599b34a0eab9dc164bcb6939b84140b7a3ba3983126a13c756535bd83/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fb4d012001cd776a4e36ad7f23d710a76",
+   "published": "2026-11-24T09:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Steven Spielberg casts Cillian Murphy and Jessie Buckley in his first Western",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/steven-spielberg-casts-cillian-murphy-092555317.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/a1403619cee77b379af31558359fee7fd0696277f9f0fb7f343f8b664561f12b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F0b6117222be35e85fd242d363b5ab3ef.jpg_up.jpg",
+   "published": "2026-11-24T09:25:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "First Children's Booker prize reveals shortlist - and its child judges",
    "url": "https://www.yahoo.com/entertainment/articles/first-childrens-booker-prize-reveals-073429590.html",
    "source": "yahoo.com",
@@ -1843,6 +1986,17 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/415878733d5eb974df6ed5dd231dfcbeadab90c97ac29c6dd3858d1dfe6dd6cd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F8bddaea998ca6699de6eef5b2d2923f0.jpg_up.jpg",
    "published": "2026-11-24T08:20:49+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Drugs, excess and a sex-tape scandal: How Rob Lowe survived the Eighties",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/drugs-excess-sex-tape-scandal-080100857.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/70f6ed7f81f09cc44b02550acb848aeecadc1d0924852fedb8bb80360db33c42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F77eb3075ec1258fcc6ea09c3947c6c50.jpg",
+   "published": "2026-11-24T08:01:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -1969,22 +2123,22 @@
    "trend_score": 0
   },
   {
-   "title": "Helen Fraser, actress best known as Sylvia ‘Bodybag’ Hollamby in the prison drama Bad Girls",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/helen-fraser-actress-best-known-060000045.html",
+   "title": "The fashion brands loved by Prince William, from high street to Savile Row",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/fashion-brands-loved-prince-william-060000143.html",
    "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/765a7fd2acd1144dd638a48df02780edb956730ed3c27ad9946c65f07ba4acc5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F3c299bf65adc93f6d5d48c27b462bb55.jpg",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/ad47eac9521835385007fbcc067bb8ee70d7a7e30869fd017002552755e36f7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F2fe2156cce39cc705005342983037ab8.jpg",
    "published": "2026-11-24T06:00:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
   },
   {
-   "title": "The fashion brands loved by Prince William, from high street to Savile Row",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/fashion-brands-loved-prince-william-060000143.html",
+   "title": "Helen Fraser, actress best known as Sylvia ‘Bodybag’ Hollamby in the prison drama Bad Girls",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/helen-fraser-actress-best-known-060000045.html",
    "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/ad47eac9521835385007fbcc067bb8ee70d7a7e30869fd017002552755e36f7d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F2fe2156cce39cc705005342983037ab8.jpg",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/765a7fd2acd1144dd638a48df02780edb956730ed3c27ad9946c65f07ba4acc5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F3c299bf65adc93f6d5d48c27b462bb55.jpg",
    "published": "2026-11-24T06:00:00+00:00",
    "trending": false,
    "trend_term": null,
@@ -2030,17 +2184,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/9688cd569799af1792849e8dd6d4f78edb998cd166f2e2f1863cc3f948d716eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Feeb9bf81f70fd058e8ff9aca65c2032e.jpg",
    "published": "2026-11-24T05:36:19+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "India Could Post Its Highest Box Office Since the Pandemic, Zee Studios’ Girish Johar Tells WAVES Film Bazaar",
-   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/india-could-post-highest-box-052949164.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/c2968b4babc8f925ed7a17400dc454a7af8a5dcd096f601bdc7701461da1f762/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F4d657a9e69341471188154bf5490fc27.jpg_up.jpg",
-   "published": "2026-11-24T05:29:49+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -3784,17 +3927,6 @@
    "trend_score": 0
   },
   {
-   "title": "Dax Shepard Admits He’s in a ‘Depression’ Amid Kristen Bell Marriage Backlash",
-   "url": "https://www.usmagazine.com/celebrity-news/news/dax-shepard-admits-hes-depressed-amid-marriage-backlash/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2241723226-dax-shepard-kristen-bell.jpg?crop=0px%2C82px%2C1333px%2C753px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T20:12:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Missing Coach Travis Turner's Wife Addresses His Disappearance 1-Year Later",
    "url": "https://www.usmagazine.com/sports/news/missing-coach-travis-turners-wife-addresses-disappearance/",
    "source": "usmagazine.com",
@@ -5011,17 +5143,6 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2276100701-Brooks-Nader-Reacts-to-Rumors-of-Sister-Dating-Pete-Davidson.jpg",
    "published": "2026-11-23T02:57:48+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Don Toliver Concert Evacuated After ‘Substance Believed to Be Tear Gas’ Was Released into Arena Crowd",
-   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-concert-evacuated-substance-024617016.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/040117fcb62861d6334086d0bb86417fb534709839d253c5ee916943dd2f0696/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4b5424200860ad538fe25358b1c06d10.jpg",
-   "published": "2026-11-23T02:46:17+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
