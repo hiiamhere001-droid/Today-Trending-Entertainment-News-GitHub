@@ -1,15 +1,48 @@
 {
- "generated_at": "2026-11-24T00:59:45.414895+00:00",
+ "generated_at": "2026-11-24T02:13:47.840456+00:00",
  "date_us": "2026-11-23",
  "per_site": {
-  "usmagazine.com": 16,
-  "news.meaww.com": 1,
+  "usmagazine.com": 17,
+  "news.meaww.com": 2,
   "profiles.yahoo.com": 8,
   "yahoo.com": 30,
   "jang.com.pk": 6,
-  "collider.com": 9
+  "collider.com": 10
  },
  "items": [
+  {
+   "title": "Hulu and Disney+ fully integrating. What that means for GA viewers",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/hulu-disney-fully-integrating-means-181528249.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/fa50812eedacd88bad3f63fadf38f0dca0e80d5a9861f2b067546aa907895702/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F35b85cf1668ffcdd7a887d3a0f8b4f34.jpg",
+   "published": "2026-11-23T18:15:28+00:00",
+   "trending": true,
+   "trend_term": "disney+ hulu",
+   "trend_score": 5000
+  },
+  {
+   "title": "Miley Cyrus celebrates 34th birthday with new photos from her wedding to Maxx Morando",
+   "url": "https://news.meaww.com/miley-cyrus-celebrates-34th-birthday-with-new-photos-from-her-wedding-to-maxx-morando",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795485194202_a2a88a887e45.jpg",
+   "published": "2026-11-24T01:55:33+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Miley Cyrus Shares First Official Wedding Photos With Maxx Morando, Including Intimate Kiss",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-shares-first-official-233031037.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/eb4af5b495a18aaa6bb38c4983929aca04a58a8b1a4b19241f5ff0b2522ad98c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Ff38fa26b1dbe655b5b25239d76734c90.jpg",
+   "published": "2026-11-23T23:30:31+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
   {
    "title": "‘DWTS’ Judge Derek Hough Opens Up About Childhood Trauma In New Documentary",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dwts-judge-derek-hough-opens-233000635.html",
@@ -55,12 +88,67 @@
    "trend_score": 2000
   },
   {
+   "title": "These traditions built Macy's Thanksgiving Day Parade over 100 marches",
+   "url": "https://www.yahoo.com/entertainment/articles/traditions-built-macys-thanksgiving-day-193447763.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c455eeeaa88a22ae1775dc0e25f01a97c9485aa79734508894b69990cc777810/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fd307dc9b0468dc84c27adb8c37aafdde.jpg",
+   "published": "2026-11-23T19:34:47+00:00",
+   "trending": true,
+   "trend_term": "tee higgins",
+   "trend_score": 2000
+  },
+  {
    "title": "'Dancing with the Stars' judge Derek Hough reveals childhood sexual abuse",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dancing-stars-judge-derek-hough-191659911.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/f105208e6553f3754f09d97f439e27ba9122c9bb8126bac0d83424a47ca5abf8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fb26fd210aa2bf766fe9dd5021367ba73.jpg",
    "published": "2026-11-23T19:16:59+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Selling the OC's Kayla Launches GoFundMe After Son's Medical Emergency",
+   "url": "https://www.usmagazine.com/celebrity-news/news/selling-the-ocs-kayla-reveals-sons-medical-emergency/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/kayla-cardona-son.jpg",
+   "published": "2026-11-23T19:04:34+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Selling the OC’s Kayla Cardona Launches GoFundMe for Son After Life-Threatening Medical Emergency",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/selling-oc-kayla-cardona-launches-190434678.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a7b56ede51fdb592c36dcda655edc010dfaf6ebe67fbbf1fd7e8f9e3814a7103/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2738e504aa809dbded61978781fd6e85.jpg_up.jpg",
+   "published": "2026-11-23T19:04:34+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Karen Read Witness Is Living in Fear After Her Acquittal: 'Scared Every Day'",
+   "url": "https://www.usmagazine.com/crime-news/news/karen-read-trial-witness-says-hes-scared-every-single-day/",
+   "source": "usmagazine.com",
+   "category": "Music",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Karen-Read-Case-Witnesses-Says-Theyre-Scared-Every-Single-Day-1-Year-After-Her-Acquittal.jpg?crop=480px%2C82px%2C1262px%2C713px&resize=1000%2C563&quality=78&strip=all",
+   "published": "2026-11-23T18:42:28+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Karen Read Trial Witness Says He’s ‘Scared Every Single Day’ More Than 1 Year After Her Acquittal",
+   "url": "https://www.yahoo.com/news/us/articles/karen-read-trial-witness-says-184228201.html",
+   "source": "profiles.yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/45fd76215c676494eda4e68ebd8a82c04b9921b3611e4a969e4f8caa87eb1a4b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fabf67f81b5434613ae0f73134cb1d009.jpg",
+   "published": "2026-11-23T18:42:28+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -110,22 +198,22 @@
    "trend_score": 2000
   },
   {
-   "title": "Woman Allegedly Threw Boiling Chemicals on Her Neighbor Over Car Dispute",
-   "url": "https://www.usmagazine.com/crime-news/news/woman-allegedly-threw-boiling-chemicals-on-her-neighbor/",
-   "source": "usmagazine.com",
+   "title": "Florida Woman Allegedly Threw Boiling Chemicals on Her Neighbor Over Car Dispute",
+   "url": "https://www.yahoo.com/news/us/articles/florida-woman-allegedly-threw-boiling-174951767.html",
+   "source": "profiles.yahoo.com",
    "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/woman-threw-boiling-chemicals-on-neighbor.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "image": "https://s.yimg.com/lo/mysterio/api/076e6b2bacc8f2c97607bf476e230f305eeddfe484901287328304dc4938feff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F97439346682e1616f249e1196e9db867.jpg",
    "published": "2026-11-23T17:49:51+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
   },
   {
-   "title": "Florida Woman Allegedly Threw Boiling Chemicals on Her Neighbor Over Car Dispute",
-   "url": "https://www.yahoo.com/news/us/articles/florida-woman-allegedly-threw-boiling-174951767.html",
-   "source": "profiles.yahoo.com",
+   "title": "Woman Allegedly Threw Boiling Chemicals on Her Neighbor Over Car Dispute",
+   "url": "https://www.usmagazine.com/crime-news/news/woman-allegedly-threw-boiling-chemicals-on-her-neighbor/",
+   "source": "usmagazine.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/076e6b2bacc8f2c97607bf476e230f305eeddfe484901287328304dc4938feff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F97439346682e1616f249e1196e9db867.jpg",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/woman-threw-boiling-chemicals-on-neighbor.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
    "published": "2026-11-23T17:49:51+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
@@ -143,17 +231,6 @@
    "trend_score": 2000
   },
   {
-   "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Doc Trailer",
-   "url": "https://www.usmagazine.com/celebrity-news/news/justin-timberlake-makes-rare-comment-on-britney-spears-in-doc/",
-   "source": "usmagazine.com",
-   "category": "Movies",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T17:12:18+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
    "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Apple TV Docuseries Trailer",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-makes-rare-ex-171218001.html",
    "source": "profiles.yahoo.com",
@@ -165,12 +242,12 @@
    "trend_score": 2000
   },
   {
-   "title": "Barbara Eden, 95, Breaks Down Her Fitness Routine Away From the Gym",
-   "url": "https://www.usmagazine.com/celebrity-news/news/barbara-eden-95-breaks-down-fitness-routine-away-from-gym/",
+   "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Doc Trailer",
+   "url": "https://www.usmagazine.com/celebrity-news/news/justin-timberlake-makes-rare-comment-on-britney-spears-in-doc/",
    "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2283651021-barbara-eden.jpg?crop=0px%2C123px%2C1200px%2C678px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T17:02:05+00:00",
+   "category": "Movies",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -187,12 +264,12 @@
    "trend_score": 2000
   },
   {
-   "title": "Boy Was ‘Begging for His Life’ Before Father Killed Family in Murder-Suicide",
-   "url": "https://www.usmagazine.com/crime-news/news/boy-was-begging-for-his-life-before-father-killed-family/",
+   "title": "Barbara Eden, 95, Breaks Down Her Fitness Routine Away From the Gym",
+   "url": "https://www.usmagazine.com/celebrity-news/news/barbara-eden-95-breaks-down-fitness-routine-away-from-gym/",
    "source": "usmagazine.com",
    "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/boy-begged-for-life-father-killed-family.jpg?crop=0px%2C236px%2C1200px%2C678px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T17:00:21+00:00",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2283651021-barbara-eden.jpg?crop=0px%2C123px%2C1200px%2C678px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T17:02:05+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -204,6 +281,28 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/4c158a21ef3f17197093232fe56122c14c6c94f0fe851bba055856a11ca9b7ef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F92bc685eb8f9bd6ec4a26af2e207578c.jpg_up.jpg",
    "published": "2026-11-23T17:00:21+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Boy Was ‘Begging for His Life’ Before Father Killed Family in Murder-Suicide",
+   "url": "https://www.usmagazine.com/crime-news/news/boy-was-begging-for-his-life-before-father-killed-family/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/boy-begged-for-life-father-killed-family.jpg?crop=0px%2C236px%2C1200px%2C678px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T17:00:21+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Miley Cyrus Puts an Edgy Twist on Classic Bridal Hairstyle for Her Wedding to Maxx Morando",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-puts-edgy-twist-164150945.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/af84af71d779fabcee1ac6498298dfb4462cbd6d81ee067131c807475842bd76/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F51590074b283ed036c451e364916bce3.jpg",
+   "published": "2026-11-23T16:41:50+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -583,6 +682,28 @@
    "trend_score": 2000
   },
   {
+   "title": "Miley Cyrus wipes away tears at the altar during Palm Springs wedding to Maxx Morando",
+   "url": "https://www.yahoo.com/entertainment/articles/miley-cyrus-wipes-away-tears-192224533.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/fe4f6baae55e5d7cf49f7a3652822f0b6722a578766850bbb66649993300a82f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F128ff7fdef7f506e446408ecdc0a4d7a.jpg",
+   "published": "2026-11-22T19:22:24+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Bosch Officially Returns With a Dark New Murder Mystery",
+   "url": "https://collider.com/titus-welliver-bosch-michael-connelly-the-hollow-new-book/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/bosch-legacy-titus-welliver.jpg",
+   "published": "2026-11-23T20:00:12+00:00",
+   "trending": true,
+   "trend_term": "titus welliver",
+   "trend_score": 500
+  },
+  {
    "title": "Michelle Randolph Is Growing Up Alongside Her Characters",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/michelle-randolph-growing-alongside-her-221157628.html",
    "source": "yahoo.com",
@@ -649,12 +770,254 @@
    "trend_score": 0
   },
   {
-   "title": "Win Free Tickets to Our 'Hexed' Screening and Q&A",
+   "title": "3 Elite Prime Video Series to Binge This Week (Nov 23-27)",
+   "url": "https://collider.com/prime-video-shows-binge-week-november-23-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/sherlock-holmes-hero-fiennes-tiffin-young-sherlock.jpg",
+   "published": "2026-11-24T02:11:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "“The Bachelor”’s Kelley Flanagan on Why She Hasn’t Dated in 2 Years",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bachelor-kelley-flanagan-why-she-020400346.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/25e6fff586f4115bc78629005f54adf092b65c61ee8ffeab9bd8b51e00c33c3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fdcc22c0a838b88f87ed70b51db8c4efa.jpg",
+   "published": "2026-11-24T02:04:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘The Fall and Rise of Reggie Dinkins’ Bobby Moynihan Explains That Unexpected Thanksgiving ‘Obsession’ Crossover",
+   "url": "https://collider.com/fall-and-rise-of-reggie-dinkins-season-2-episode-4-thanksgiving-bobby-moynihan/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/bobby-moynihan-collider-signature-feature.jpg",
+   "published": "2026-11-24T02:01:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Nicolas Cage’s Terrifying Serial Killer Thriller Officially Comes to Netflix",
+   "url": "https://collider.com/longlegs-nicolas-cage-netflix-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/10/nicolas-cage-1.jpg",
+   "published": "2026-11-24T02:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "39 of the Most Hilarious Tweets from the Week of November 16, 2026",
+   "url": "https://www.yahoo.com/entertainment/articles/39-most-hilarious-tweets-week-020000783.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/03dddbb5a31ea465740ca5e98b482a3cfd5c1435c08e240ab180cc2f571b913b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcracked_901%2F8ca20f028afa5fa5fbbc58109a49fa0b.jpg",
+   "published": "2026-11-24T02:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "19 Years Later, 'The Sopranos' Most Powerful Line Is Also Its Most Misunderstood",
+   "url": "https://collider.com/the-sopranos-tony-soprano-most-powerful-misunderstood-quote/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/07/the-sopranos-tony-outside.jpg",
+   "published": "2026-11-24T01:53:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "2 Chainz shares terrifying footage from Cybertruck accident",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/2-chainz-shares-terrifying-footage-015144116.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4842861b43f4e66eb46d40af034e34fc34ca5239356189bf07cdee00eb7a9df6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthegrio_yahoo_articles_946%2F1d0fd78ef455b490d612761d867ca899.jpg",
+   "published": "2026-11-24T01:51:44+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘I’m A Celebrity’s AJ Odudu Gets Support From ‘BBUK’ Co-Host Will Best & More Stars Amid Microaggressions On ITV Reality Series",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/m-celebrity-aj-odudu-gets-014522321.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/5bedfb2ac325bd99c4e35b8f31f57d779b188e753d51b7ceec9e4ebebdc4e270/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Ffed4035726b3bad336b63b29ca789817.jpg",
+   "published": "2026-11-24T01:45:22+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Money Heist’ Meets ‘Lupin’ in Netflix’s New Global Crime Thriller Hit",
+   "url": "https://collider.com/netflix-collision-course-31-million-views-nielsen-streaming-top-10/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/netflix-logo.jpg",
+   "published": "2026-11-24T01:45:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Prince William Reportedly Set To Let Princess Charlotte Pull A ‘Megxit’ For Her Showbiz Dreams",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-reportedly-set-let-014500999.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4548a1cd27fa24c6fb254a7c187b5a85c2d5c0f6ec57be9e4f6f07bb8d9ab0db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Febe3ed5e8bcf058b09fabcaaed4cec65.jpg",
+   "published": "2026-11-24T01:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "David Fincher Comes Clean About Ben Affleck’s Hat Causing ‘Gone Girl’ Delays: ‘I Made It Up’",
+   "url": "https://www.yahoo.com/entertainment/articles/david-fincher-comes-clean-ben-014444693.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/dd22174dbf963759833565741dbd4a4ad407f380cb839dfc22fe7deb25d02236/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2Fd5d596a92c60fda5656f361f33a2f0fa.jpg",
+   "published": "2026-11-24T01:44:44+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Hooters: The Movie’ Sets Owen Patrick Joyner, Kyle Clark & Audrey Trullinger",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/hooters-movie-sets-owen-patrick-014115678.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/35a9fbc64581fc9c3920d9518e4d5ad39ce92022f955256d0b5cb4704c49b17b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fb9882a8e8377dbb162577eee9b91ed42.jpg",
+   "published": "2026-11-24T01:41:15+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "“Michael” Director Antoine Fuqua and Son Accused of Pistol-Whipping L.A. Bar Manager and Threatening to Kill Him in New Lawsuit",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/michael-director-antoine-fuqua-son-014029071.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/cd7b39c66bfecd315bdcc907de37140e27ffd6ab330187632f585029753e3607/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb36c1da02377344716068d461be2a995.jpg",
+   "published": "2026-11-24T01:40:29+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Jay-Z Super Bowl halftime show gets IMAX treatment",
+   "url": "https://www.yahoo.com/entertainment/music/articles/jay-z-super-bowl-halftime-013610264.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/2286f8918c9530920534f7c1c892fe9c5fc203d9272bc52de4f0fffedea00029/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2Fbe6b144be10244b053a603d1da48f38a.jpg_up.jpg",
+   "published": "2026-11-24T01:36:10+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Billy Ray Cyrus Shares Emotional Photos from Daughter Miley’s Wedding, Says It Was ‘Beautiful’ Having Family in ‘One Room’",
+   "url": "https://www.yahoo.com/entertainment/articles/billy-ray-cyrus-shares-emotional-013421946.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e75e6b475844ac474e8db0e8824fa514b715be2035957927690dd6f03d6519ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F1bdcbcb75a0829158f71d1a52419051e.jpg",
+   "published": "2026-11-24T01:34:21+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "I Love Julie Bowen’s Mom-Coded Way Of Trolling Modern Family Co-Stars Ariel Winter And Nolan Gould",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/love-julie-bowen-mom-coded-013100472.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f95840ba39cdd33e625f14fbe3e0376a6357f20b410a89f417a04e9151d9ecd5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F9588df4b12587b2d1a0802435b1b34c0.jpg",
+   "published": "2026-11-24T01:31:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Daredevil’ Star Who Is Same Age As Robert Pattinson Was Told He Was ‘Too Old’ For James Bond Role",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/daredevil-star-same-age-robert-013026792.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9882a54e952bef3d3c23d73892001f311480ea828d77f0701a747e7c5423c5e4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2Fb1e1227d8b39362d5e4500175081fd16.jpg",
+   "published": "2026-11-24T01:30:26+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Anya Taylor-Joy’s Near-Perfect Masterpiece Officially Returns to Streaming",
+   "url": "https://collider.com/the-witch-anya-taylor-joy-hulu-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/anya-taylor-joy.jpg",
+   "published": "2026-11-24T01:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Zosia Mamet Details Quitting ‘Mad Men’ After ‘Absolutely Horrible’ Run-in With Boss Matthew Weiner",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/zosia-mamet-details-quitting-mad-010217302.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ed8268159d2ea935428c53de2726b79347fbc76eb1f01caa5a371e56818bede4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F4d5f72dcf4d3d066798667298837a2c5.jpg",
+   "published": "2026-11-24T01:02:17+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Child Actors On Challenges Of Finding Jobs As Adults",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/child-actors-challenges-finding-jobs-010103276.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7d680fdd0551dc8d464cf076c1954fb90e8eed89adedf353dbc832b55cb8bbe4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2Fc7c0255b58afc4a2e0524c075a68169c.jpg",
+   "published": "2026-11-24T01:01:03+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Oliver Hudson Jokes His ADHD Medication Sometimes Makes Him Feel Like He's 'On Meth'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/oliver-hudson-jokes-adhd-medication-010023932.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/86dac01c4b06b58d3c261de3c062a694aa52cc90b3874b71f9229cf9981c81ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fad62138a1e19df4571af70b46b233f86.jpg",
+   "published": "2026-11-24T01:00:23+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Win Free Tickets to Our Disney's 'Hexed' Screening and Incredible Q&A",
    "url": "https://collider.com/disney-hexed-screening-jared-bush-kris-bowers-q-and-a/",
    "source": "collider.com",
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/hexed-hailee-steinfeld-4.jpg",
    "published": "2026-11-24T00:53:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Tom Brady Shows Off His Nearly $400,000 Rose Gold Watch in New Photo",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/tom-brady-shows-off-nearly-004519837.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/4cc23b5e4614ee986c345afd2392fdb15d0b0a99ccbc43890b9412d36cc06396/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fdd4b4c05b422e5d1299f87fe17e300a2.jpg",
+   "published": "2026-11-24T00:45:19+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -957,17 +1320,6 @@
    "trend_score": 0
   },
   {
-   "title": "Miley Cyrus Shares First Official Wedding Photos With Maxx Morando, Including Intimate Kiss",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-shares-first-official-233031037.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/eb4af5b495a18aaa6bb38c4983929aca04a58a8b1a4b19241f5ff0b2522ad98c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Ff38fa26b1dbe655b5b25239d76734c90.jpg",
-   "published": "2026-11-23T23:30:31+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Prince William reportedly has a brother in his corner — and it’s not Prince Harry",
    "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-reportedly-brother-corner-232725749.html",
    "source": "yahoo.com",
@@ -996,6 +1348,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/40fd00d2bbd80121bd0d134ecd18b5fd51435e95a31c026a9745e25ea4b677e8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F3b573077b91f7de7c1f9c2344dd06808.jpg",
    "published": "2026-11-23T23:26:34+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Miley Cyrus Wedding Guest Wears Yellow, Breaking All-Black Dress Code: Family Member Explains What Happened",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-wedding-guest-wears-231918963.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/fca258f9f64409b51cddac8f93c9d20785072b21c411cfc28c6000feb22dea42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjust_jared_884%2F3512088eb2fbe99ac25c86a5731c172e.jpg_up.jpg",
+   "published": "2026-11-23T23:19:18+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -1540,6 +1903,17 @@
    "trend_score": 0
   },
   {
+   "title": "The Gilded Age Star Christine Baranski Is The Stylish Blueprint For Staying Chic In Your 70s",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/gilded-age-star-christine-baranski-210000507.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/b0032e5b760f475234245987f715df03155623546ad32f32b32eca20b04e477a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglam_992%2F3c5a1cc07acbb41fb0a9b1fd7b7de0d4.jpg",
+   "published": "2026-11-23T21:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Bella Hadid Says She Felt ‘Strong’ Opening 2026 Victoria’s Secret Fashion Show After Setting ‘Boundaries’",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bella-hadid-says-she-felt-205207910.html",
    "source": "yahoo.com",
@@ -1804,12 +2178,34 @@
    "trend_score": 0
   },
   {
-   "title": "Bosch Officially Returns With a Dark New Murder Mystery",
-   "url": "https://collider.com/titus-welliver-bosch-michael-connelly-the-hollow-new-book/",
-   "source": "collider.com",
+   "title": "Missing Coach Travis Turner's Wife Addresses His Disappearance 1-Year Later",
+   "url": "https://www.usmagazine.com/sports/news/missing-coach-travis-turners-wife-addresses-disappearance/",
+   "source": "usmagazine.com",
    "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/bosch-legacy-titus-welliver.jpg",
-   "published": "2026-11-23T20:00:12+00:00",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2025/12/1US-Marshals-Issue-Reward-for-Missing-High-School-Football-Coach-Travis-Turner.jpg",
+   "published": "2026-11-23T20:01:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Mormon Wives' Avery Woods Claims Explicit Pics Got Sold on 170,000 Porn Sites",
+   "url": "https://www.usmagazine.com/entertainment/news/mormon-wives-avery-woods-says-photos-got-sold-on-porn-sites/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/FullSizeRender-1.heic",
+   "published": "2026-11-23T20:00:58+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Montel Williams Opens Up About Daughter's Addiction Battle, Blames Himself",
+   "url": "https://www.usmagazine.com/celebrity-news/news/montel-williams-opens-up-about-daughters-addiction-battle/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/montel-williams-podcast.jpg",
+   "published": "2026-11-23T20:00:53+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -1843,6 +2239,17 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/0a70e753738f1b62aecb35d25df0fed85faf6e7703c1591b182960a9ef3f1a60/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Faa19a61dedafa378ac97b683a824c96e.jpg_up.jpg",
    "published": "2026-11-23T19:45:39+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Man Killed Coworker With Crossbow After Strangling Woman to Death: Sheriff",
+   "url": "https://www.usmagazine.com/crime-news/news/man-allegedly-killed-woman-on-nature-trail-shot-coworker/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Man-Allegedly-Killed-Woman-on-Nature-Trail-Shot-Co-Worker.jpg?crop=668px%2C156px%2C1311px%2C740px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T19:45:15+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -1925,23 +2332,23 @@
    "trend_score": 0
   },
   {
-   "title": "These traditions built Macy's Thanksgiving Day Parade over 100 marches",
-   "url": "https://www.yahoo.com/entertainment/articles/traditions-built-macys-thanksgiving-day-193447763.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/c455eeeaa88a22ae1775dc0e25f01a97c9485aa79734508894b69990cc777810/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fd307dc9b0468dc84c27adb8c37aafdde.jpg",
-   "published": "2026-11-23T19:34:47+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "How Roger Ebert’s Wife Chaz is Carrying On His Legacy of Film Criticism",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/roger-ebert-wife-chaz-carrying-193340296.html",
    "source": "yahoo.com",
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/83415e1d944834a2a3e0423da319d03d3824586b8998974385e0c795a29aceaf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ffab004859e01d0a80c42fdc561f9c182.jpg",
    "published": "2026-11-23T19:33:40+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "RHOSLC’s Whitney Rose Breaks Down in Tears Discussing Justin Rose Split",
+   "url": "https://www.usmagazine.com/celebrity-news/news/whitney-rose-gets-emotional-discussing-justin-rose-split/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2258137993-Whitney-Rose-Gets-Emotional-Discussing-Split-From-Husband-Justin-Rose.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T19:31:27+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -1975,6 +2382,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/9338b62974dd13e72f3b3febb8395b5bb5e5a7840fb171cf070ed5bd15e50784/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F8f6ddf342262acea077a9001e15a5786.jpg",
    "published": "2026-11-23T19:30:08+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Antoni Porowski Talks Holiday Plans, Partner’s Unwavering Support and ‘RHONY’",
+   "url": "https://www.usmagazine.com/celebrity-news/news/antoni-porowski-on-holiday-plans-partners-support-and-more/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Antoni-Porowski-Talks-Holiday-Plans-His-Partners-Marathon-Support-and-Love-for-RHONY.jpg",
+   "published": "2026-11-23T19:26:42+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2019,6 +2437,28 @@
    "category": "Awards",
    "image": "https://s.yimg.com/lo/mysterio/api/f03ad8c83d4a9a76ddf707d12ebbac1ee3540ef3c21436abf2b5dd54b8b1e898/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fe8ebd6c6597347918f9673d45f23ece9.jpg",
    "published": "2026-11-23T19:22:08+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Lindsey Vonn Shares Video From '1st Trip Out of the House' After ACL Surgery",
+   "url": "https://www.usmagazine.com/sports/news/lindsey-vonn-shares-video-from-1st-outing-after-acl-surgery/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2302841590-lindsey-vonn.jpg?crop=0px%2C64px%2C1281px%2C725px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T19:21:48+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Caregiver Abused Adult With Autism by Hitting Him With His Favorite Toy",
+   "url": "https://www.usmagazine.com/crime-news/news/caregiver-abused-adult-with-autism-by-hitting-him-with-toy/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/caregiver-abused-adult-autism.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-23T19:17:42+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2118,17 +2558,6 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/2043b98a6f62dc5b785965315c8914e5605e042ea91812aba99345e9d840016e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F3c0439402d00de8f0e7f31a2eacff380.jpg",
    "published": "2026-11-23T18:42:35+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Karen Read Witness Is Living in Fear After Her Acquittal: 'Scared Every Day'",
-   "url": "https://www.usmagazine.com/crime-news/news/karen-read-trial-witness-says-hes-scared-every-single-day/",
-   "source": "usmagazine.com",
-   "category": "Music",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Karen-Read-Case-Witnesses-Says-Theyre-Scared-Every-Single-Day-1-Year-After-Her-Acquittal.jpg?crop=480px%2C82px%2C1262px%2C713px&resize=1000%2C563&quality=78&strip=all",
-   "published": "2026-11-23T18:42:28+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2404,17 +2833,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/c144a64a234d00a98a6136a120970f7f58e8f38095344a80fa44da54d166a4cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F321e77bdef0f3f27a4793e30646586c8.jpg",
    "published": "2026-11-23T18:16:07+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Hulu and Disney+ fully integrating. What that means for GA viewers",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/hulu-disney-fully-integrating-means-181528249.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/fa50812eedacd88bad3f63fadf38f0dca0e80d5a9861f2b067546aa907895702/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F35b85cf1668ffcdd7a887d3a0f8b4f34.jpg",
-   "published": "2026-11-23T18:15:28+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2915,17 +3333,6 @@
    "trend_score": 0
   },
   {
-   "title": "Miley Cyrus Puts an Edgy Twist on Classic Bridal Hairstyle for Her Wedding to Maxx Morando",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-puts-edgy-twist-164150945.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/af84af71d779fabcee1ac6498298dfb4462cbd6d81ee067131c807475842bd76/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F51590074b283ed036c451e364916bce3.jpg",
-   "published": "2026-11-23T16:41:50+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Rian Johnson’s 2-Part Detective Series Is Officially Dead",
    "url": "https://collider.com/poker-face-peter-dinklage-revival-dead-rian-johnson/",
    "source": "collider.com",
@@ -3273,17 +3680,6 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/brookewilliamsonexclusive.jpg?crop=0px%2C256px%2C1333px%2C753px&resize=1000%2C563&quality=40&strip=all",
    "published": "2026-11-22T23:11:11+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Miley Cyrus wipes away tears at the altar during Palm Springs wedding to Maxx Morando",
-   "url": "https://www.yahoo.com/entertainment/articles/miley-cyrus-wipes-away-tears-192224533.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/fe4f6baae55e5d7cf49f7a3652822f0b6722a578766850bbb66649993300a82f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F128ff7fdef7f506e446408ecdc0a4d7a.jpg",
-   "published": "2026-11-22T19:22:24+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
