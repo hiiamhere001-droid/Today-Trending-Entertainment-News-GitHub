@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:47:39.013084+00:00",
+ "generated_at": "2026-11-24T00:59:45.414895+00:00",
  "date_us": "2026-11-23",
  "per_site": {
   "usmagazine.com": 16,
@@ -7,7 +7,7 @@
   "profiles.yahoo.com": 8,
   "yahoo.com": 30,
   "jang.com.pk": 6,
-  "collider.com": 10
+  "collider.com": 9
  },
  "items": [
   {
@@ -88,6 +88,50 @@
    "trend_score": 2000
   },
   {
+   "title": "Mariah Carey Claps Back After Holiday Performance Draws Criticism",
+   "url": "https://www.usmagazine.com/entertainment/news/mariah-carey-claps-back-at-holiday-performance-criticism/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2295853820-mariah-carey.jpg?crop=0px%2C134px%2C1200px%2C678px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-23T17:58:33+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Mariah Carey Claps Back After Holiday Performance Makes Headlines: ‘Don’t Believe Everything’",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/mariah-carey-claps-back-holiday-175833283.html",
+   "source": "profiles.yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/bd31aec1501747748e176ebacf19d389673f573574d16b5146052bcc5d365ca8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F3a78147f2e5b21ea02880adb43e85cb3.jpg_up.jpg",
+   "published": "2026-11-23T17:58:33+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Woman Allegedly Threw Boiling Chemicals on Her Neighbor Over Car Dispute",
+   "url": "https://www.usmagazine.com/crime-news/news/woman-allegedly-threw-boiling-chemicals-on-her-neighbor/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/woman-threw-boiling-chemicals-on-neighbor.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-23T17:49:51+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Florida Woman Allegedly Threw Boiling Chemicals on Her Neighbor Over Car Dispute",
+   "url": "https://www.yahoo.com/news/us/articles/florida-woman-allegedly-threw-boiling-174951767.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/076e6b2bacc8f2c97607bf476e230f305eeddfe484901287328304dc4938feff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F97439346682e1616f249e1196e9db867.jpg",
+   "published": "2026-11-23T17:49:51+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Donny Osmond Addresses Sexual Abuse Allegations Against ‘Dear Friend’ Michael Jackson",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/donny-osmond-addresses-sexual-abuse-173833799.html",
    "source": "yahoo.com",
@@ -104,6 +148,17 @@
    "source": "usmagazine.com",
    "category": "Movies",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T17:12:18+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Justin Timberlake Makes Rare Comment About Ex Britney Spears in Apple TV Docuseries Trailer",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-makes-rare-ex-171218001.html",
+   "source": "profiles.yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
@@ -594,12 +649,243 @@
    "trend_score": 0
   },
   {
+   "title": "Win Free Tickets to Our 'Hexed' Screening and Q&A",
+   "url": "https://collider.com/disney-hexed-screening-jared-bush-kris-bowers-q-and-a/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/hexed-hailee-steinfeld-4.jpg",
+   "published": "2026-11-24T00:53:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Stevie Wonder Makes Rare Joke About Being Blind During Concert",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/stevie-wonder-makes-rare-joke-004416429.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/94a5e5679f4264390a338e0b4eee4d0242118c21f756204d11635c0ec2320bb8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2Fdcbddaa65aa5788ccfccf458f1fcc38f.jpg",
+   "published": "2026-11-24T00:44:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Derek Hough Says a Neighbor Was ‘Really Inappropriate with Me Physically’ as a Kid",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/derek-hough-says-neighbor-really-004244939.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9fdb55a19a6da9e155648226252650d0cb842b683a870947614e700b501f765a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4ba646d3eade6928009bbb28fd7750e3.jpg",
+   "published": "2026-11-24T00:42:44+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "See the Sasha & Digweed Poster That Sold for $21,500 at Auction",
+   "url": "https://www.yahoo.com/entertainment/music/articles/see-sasha-digweed-poster-sold-004155799.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/2c1be7a82b51917b293b0c5792701142037f73430e6ed1eda9d741b3af205973/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F0631ed3d4cd563f83450ae73033d373a.jpg",
+   "published": "2026-11-24T00:41:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "'Madden' is 'the craziest, most inexplicable sports biopic anyone's ever made,' says Bill Simmons",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/madden-craziest-most-inexplicable-sports-004057683.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/6b6c9b7a7a5369bb7298c6cdd1dc49c7ccc05aadbb481e101d96fee938592785/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fawful_announcing_173%2F37f3a61b596f4d9b3d06c1ee3f0eb399.jpg",
+   "published": "2026-11-24T00:40:57+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Robert Glasper on the State of R&B, Kendrick Lamar’s ‘To Pimp a Butterfly’ & Why ‘AI Can’t Copy This’",
+   "url": "https://www.yahoo.com/entertainment/music/articles/robert-glasper-state-r-b-003919165.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/d54f7b063f33817990faa06dc13bafed6b88a9a87285f40e77140b4011784a09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F2bbe3250b78c997b9f42aba9fdf8a410.png",
+   "published": "2026-11-24T00:39:19+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "2026-27 Premiere Dates For New & Returning Series On Broadcast, Streaming & Cable",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/2026-premiere-dates-returning-series-170000967.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/b9544869f582b915ee86616ef428ffc2ca9b84df2886b02ccb046628fce0e7d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F892f10f444fc0fae4067647480c520d6.jpg",
+   "published": "2026-11-24T00:37:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Prince Harry and Meghan Markle’s Reason for Staying in the U.K. for Christmas Revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-reason-003609184.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
+   "published": "2026-11-24T00:36:09+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Bela Bajaria Says Her Phone Has Been Ringing Since Netflix Exit, But “I’m Not Really A ‘Just Do The Exact Same Thing’ Kind Of Person”",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/bela-bajaria-says-her-phone-003459600.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/5edb168f7a9f63fe8297d5db2dbefbb3c8ba2aa7d89f07b37d8327d47e333a0b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F4dca91bc2946aef0f8d413dd4c045354.jpg",
+   "published": "2026-11-24T00:34:59+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Godzilla Minus Zero’ Is Officially Getting a New Theatrical Release Next Month",
+   "url": "https://collider.com/godzilla-minus-zero-minus-color-black-white-theatrical-release/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hxsbhwvwqaadtcr.jpeg",
+   "published": "2026-11-24T00:31:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "How Am I Just Learning Chad Michael Murray Has A New Christmas Movie And It’s Streaming Now?",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/am-just-learning-chad-michael-003100578.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/15883ffd265add599731e91279820dd5a8fcbd2ab5f82af3c6412ecfa41ffcc4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F1171b44420bc234f1f581f953688cca8.jpg",
+   "published": "2026-11-24T00:31:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ciara Miller and Shaboozey Fuel Dating Rumors After Getting Cozy at Las Vegas F1 Party",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/ciara-miller-shaboozey-fuel-dating-003023975.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/2bed674ce83e0f787aeff45fe7626ed7bd251c9da872a1ca2a7298ab49262c5b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F044f366e5a0b87177f035f05c4897264.jpg",
+   "published": "2026-11-24T00:30:23+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘I Dream Of Jeannie’ Star Barbara Eden, 95, Reveals The Daily Habit She Refuses To Give Up",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dream-jeannie-star-barbara-eden-003000487.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3da6b95d05948d4a7de000e7d5651fafd0fff2ec4ea578313329755725a3e2d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F84775b75bb298fd703cd500908f0f52d.jpg",
+   "published": "2026-11-24T00:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "With Only 30 Episodes to Watch, MGM+’s Sci-Fi Classic Hits Rare 1.6 Billion Views on Netflix",
+   "url": "https://collider.com/from-mgm-plus-netflix-1-billion-minutes-streaming/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/from-season-4-episode-4-hannah-cheramy.jpg",
+   "published": "2026-11-24T00:26:03+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/australian-music-legend-molly-meldrum-235152003.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/90dfb78860f6a559d1127f7923b57c23f512bf80d7b11cb35de2924fa990a291/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fed719041b99a4f05b658f4f7d5965253.jpg_up.jpg",
+   "published": "2026-11-24T00:23:29+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Kate Middleton Experienced a “Brief Tremor” During Recent Speech—But It Revealed Something Powerful",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-experienced-brief-tremor-001820567.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0814dcb2aa0db6d855ed5ca7aad32208d53b189f308a7fad4e3f27285e300b23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F84aa747b14d6f9f67de1c48f3fc160eb.jpg",
+   "published": "2026-11-24T00:18:20+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Why Kate Middleton’s Role in the Royal Family Is More Important Than Ever: “There Is So Much Pressure”",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/why-kate-middleton-role-royal-001731882.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/73b0bd6db1c5ba9e8d3ef15556343e888754bc48994023a170d6b1b6cc64f8c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F9ca97c9c88f5679afe9423f02107e9f8.jpg",
+   "published": "2026-11-24T00:17:31+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Royal steps out solo for her first engagement since marrying Crown Prince",
    "url": "https://jang.com.pk/en/76786-royal-steps-out-solo-for-her-first-engagement-since-marrying-crown-prince-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76786_121624_eng.jpg",
    "published": "2026-11-24T00:16:21+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "7 Most Perfect HBO Shows of the Last 30 Years, Ranked",
+   "url": "https://collider.com/most-perfect-hbo-shows-last-30-years-ranked/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/idris-elba-the-wire-hbo.jpg",
+   "published": "2026-11-24T00:14:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Is Vanity Fair’s Hit Piece on Taylor Swift Really Journalism?",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/vanity-fair-hit-piece-taylor-001214668.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/73e7e06fea73101366c4c2adbfd0127ca4dbb4c02d8748d6d3c0c288918849f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Ff32f2a3144fb733c7318905dd54c9006.jpg_up.jpg",
+   "published": "2026-11-24T00:12:14+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘The Voice’ top 10 go live — with tributes to a late beloved superstar",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/voice-top-10-live-tributes-000247581.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/cfb6373a5b089e527c44d76eab52028af6f62d3697a13291951b574d4a99cc3f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeseret_news_992%2Fbd2ff610d216d385438ece631cfde5a1.jpg_up.jpg",
+   "published": "2026-11-24T00:02:47+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Tom Hardy’s ‘MobLand’ Just Confirmed a Major Theory in Its Deadly Season 2 Finale",
+   "url": "https://collider.com/mobland-season-2-finale-jan-death-harry-tom-hardy-change/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/mobland-joanne-froggatt-teddie-allen-1.jpg",
+   "published": "2026-11-23T23:52:36+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -1287,6 +1573,17 @@
    "trend_score": 0
   },
   {
+   "title": "Ali Larter Stuns in Wine-Colored Leather Dress at F1 Grand Prix in Las Vegas",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/ali-larter-stuns-wine-colored-204746125.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/630495d7c8d69a75bd0519f0dcb549a52223b0fd9dff3f2262e4aa1935bb04a1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2Fc84d9e6125a5b9010059fa35e0948332.jpg",
+   "published": "2026-11-23T20:47:46+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Michele Obama wears edgy denim look – See the photo",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/michele-obama-wears-edgy-denim-204228197.html",
    "source": "yahoo.com",
@@ -1771,6 +2068,17 @@
    "trend_score": 0
   },
   {
+   "title": "Chris Pratt Shares Holiday Plans With Wife Katherine Schwarzenegger and Kids",
+   "url": "https://www.usmagazine.com/celebrity-moms/news/chris-pratt-shares-holiday-plans-with-wife-katherine-kids/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Chris-Pratt-Shares-Holiday-Plans-With-Wife-Katherine-Schwarzenegger-and-Kids-Football-Family-More.jpg",
+   "published": "2026-11-23T18:56:47+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "‘Mormon Wives: Orange County’ Season 2 Fate Revealed",
    "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/mormon-wives-oc-season-2-185446035.html",
    "source": "yahoo.com",
@@ -1810,6 +2118,17 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/2043b98a6f62dc5b785965315c8914e5605e042ea91812aba99345e9d840016e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F3c0439402d00de8f0e7f31a2eacff380.jpg",
    "published": "2026-11-23T18:42:35+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Karen Read Witness Is Living in Fear After Her Acquittal: 'Scared Every Day'",
+   "url": "https://www.usmagazine.com/crime-news/news/karen-read-trial-witness-says-hes-scared-every-single-day/",
+   "source": "usmagazine.com",
+   "category": "Music",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Karen-Read-Case-Witnesses-Says-Theyre-Scared-Every-Single-Day-1-Year-After-Her-Acquittal.jpg?crop=480px%2C82px%2C1262px%2C713px&resize=1000%2C563&quality=78&strip=all",
+   "published": "2026-11-23T18:42:28+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2002,6 +2321,17 @@
    "trend_score": 0
   },
   {
+   "title": "Knicks' Jalen Brunson Defends Taylor Swift: ‘Can’t Believe I Have to Say This’",
+   "url": "https://www.usmagazine.com/sports/news/jalen-brunson-cant-believe-he-has-to-defend-taylor-swift/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Knicks-Jalen-Brunson-Defends-Taylor-Swift-Amid-Criticism.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=76&strip=all",
+   "published": "2026-11-23T18:26:59+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Ray Nicholson Reveals He Did Not Watch Dad Jack Nicholson’s Movies Until He Was 18",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ray-nicholson-reveals-did-not-182622244.html",
    "source": "yahoo.com",
@@ -2189,12 +2519,45 @@
    "trend_score": 0
   },
   {
+   "title": "Kim Zolciak’s Son KJ Gets Legal Victory in Sexual Assault Case: Learn More",
+   "url": "https://www.usmagazine.com/celebrity-news/news/kim-zolciaks-sons-arrest-for-sexual-assault-what-to-know/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/08/Kim-Zolciak.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-23T18:03:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘DWTS’ Pros Make Their Case for Why Their Partner Deserves Your Finale Vote",
+   "url": "https://www.usmagazine.com/entertainment/news/dwts-pros-on-why-their-partner-deserves-your-finale-vote/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Dancing-With-the-Stars-Pros-Make-Their-Case-for-Why-Their-Partner-Deserves-Your-Finale-Vote.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-23T18:01:14+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Kensington Palace hit back at Tom Skyes' Harry, Meghan's Royal titles claims: 'no factual basis'",
    "url": "https://jang.com.pk/en/76770-kensington-palace-hit-back-at-tom-skyes-harry-meghans-royal-titles-claims-no-factual-basis-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76770_060125_eng.jpg",
    "published": "2026-11-23T18:00:57+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Weakest Link's Jane Lynch Recreates Iconic 'Baywatch' Slo-Motion Sequence",
+   "url": "https://www.usmagazine.com/entertainment/news/celeb-weakest-links-jane-lynch-recreates-baywatch-sequence/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/WL-S2_208_TG_0011_f.jpg",
+   "published": "2026-11-23T18:00:21+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -2217,6 +2580,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/a0353ff2163950b37c9504582c48ef754a5816d0da433f36d0778f85aefe47d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Faf7987e36f744aae756c909fa68742a0.png",
    "published": "2026-11-23T17:58:50+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Celebrity Babies of 2026: Quentin Tarantino and More Stars Who Welcomed Kids",
+   "url": "https://www.usmagazine.com/celebrity-moms/pictures/celebrity-babies-of-2026-stars-who-gave-birth-this-year/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Vanessa-Grimaldi.jpg?crop=0px%2C387px%2C1500px%2C847px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T17:57:56+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
