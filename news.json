@@ -1,21 +1,65 @@
 {
- "generated_at": "2026-11-25T02:21:40.022887+00:00",
+ "generated_at": "2026-11-25T03:58:58.240224+00:00",
  "date_us": "2026-11-24",
  "per_site": {
   "usmagazine.com": 16,
   "news.meaww.com": 6,
-  "profiles.yahoo.com": 8,
+  "profiles.yahoo.com": 10,
   "yahoo.com": 29,
   "jang.com.pk": 11,
-  "collider.com": 6
+  "collider.com": 7
  },
  "items": [
+  {
+   "title": "Dancing With the Stars’ Ezra Frech Addresses Hailey Bills Dating Rumors",
+   "url": "https://www.usmagazine.com/entertainment/news/dwts-ezra-frech-addresses-hailey-bills-dating-rumors/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Ezra-Frech-Reacts-to-Hailey-Bills-Dating-Rumors.png?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-23T15:13:16+00:00",
+   "trending": true,
+   "trend_term": "hailey bills · covered by 2 sites",
+   "trend_score": 4000
+  },
+  {
+   "title": "Dancing With the Stars’ Ezra Frech Addresses Hailey Bills Dating Rumors: ‘Internet Is Crazy’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dancing-stars-ezra-frech-addresses-151316645.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a9d5e3a94541572a0523928c660884b1b0694a6b60591a61d7b9790fc4c651f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Feaf8554207cb8680dfdf7160714f4f43.png",
+   "published": "2026-11-23T15:13:16+00:00",
+   "trending": true,
+   "trend_term": "hailey bills · covered by 2 sites",
+   "trend_score": 4000
+  },
+  {
+   "title": "Billy Ray Cyrus shares emotional message for daughter Noah after Miley's wedding",
+   "url": "https://news.meaww.com/billy-ray-cyrus-shares-emotional-message-for-daughter-noah-after-mileys-wedding",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795576164639_32913fe13383.jpg",
+   "published": "2026-11-25T03:41:27+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
   {
    "title": "Miley Cyrus' Wedding Day Was Free of 'Family Tension' Amid Billy Ray Reunion",
    "url": "https://www.usmagazine.com/celebrity-news/news/miley-cyrus-wedding-had-no-family-tension-with-billy-ray/",
    "source": "usmagazine.com",
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Miley-Cyrus-and-Maxx-Morando-Wedding-Day-Was-Free-of-Family-Tension-Amid-Billy-Ray-Reunion-GettyImages-1096287446.jpg",
+   "published": "2026-11-24T20:06:48+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
+  {
+   "title": "Miley Cyrus and Maxx Morando’s Wedding Day Was Free of ‘Family Tension’ Amid Billy Ray Reunion",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-maxx-morando-wedding-200648217.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e52d670d4d6d3085b99eec086d8fdbeedb6a57ef72f959bb40290dd4146d2540/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F63ea1d5110138ad74c99f6b7fb900ad0.jpg",
    "published": "2026-11-24T20:06:48+00:00",
    "trending": true,
    "trend_term": "covered by 3 sites",
@@ -275,6 +319,17 @@
    "trend_score": 3000
   },
   {
+   "title": "Kristin Cavallari Roasted After Sharing Real Reason She’s Quitting Podcast",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/kristin-cavallari-roasted-sharing-real-024500708.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e31994b25175aba3a59a172ec1167e981e9e1cc1cd28c168876020d64c5b351d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fb37ebd319d199f318a05c3c73d6846ba.jpg",
+   "published": "2026-11-25T02:45:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Christina Applegate Fires Back After Critics Question Her Reaction To MS Misdiagnosis",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/christina-applegate-fires-back-critics-014500410.html",
    "source": "yahoo.com",
@@ -341,12 +396,89 @@
    "trend_score": 2000
   },
   {
+   "title": "Man Killed Wife and 2 Kids in Murder-Suicide That’s Left Family ‘Heartbroken’",
+   "url": "https://www.usmagazine.com/crime-news/news/new-mexico-man-killed-wife-and-2-kids-in-murder-suicide/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/man-killed-wife-2-kids-murder-suicide.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-24T21:44:13+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Missing Coach Travis Turner's Wife Has Been 'Bullied to Death,' Neighbor Says",
+   "url": "https://www.usmagazine.com/sports/news/coach-travis-turners-wife-has-been-bullied-to-death/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2025/11/Leslie-Caudill-Turner-Wife-of-Missing-Virginia-High-School-Coach-Travis-Turner-Addresses-Husband-Mysterious-Disappearance-2.jpg",
+   "published": "2026-11-24T21:31:30+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Wife of Missing High School Coach Travis Turner Has Been ‘Bullied to Death’ Amid His Disappearance",
+   "url": "https://www.yahoo.com/news/us/articles/wife-missing-high-school-coach-213130383.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4c7a5fcc66ee24feed1cfbc6c6e77a8bca251c1c114adf7ed71c78df07d6827f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F690f3d1d6212a5e0b808c986b8981e5d.jpg",
+   "published": "2026-11-24T21:31:30+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "'Bachelor' Star Kelley Flanagan Says She Hasn't Dated in Almost 2 Years After Ex's Alleged Cheating and Dad's Death",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bachelor-star-kelley-flanagan-says-213042119.html",
    "source": "yahoo.com",
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/467d7a6a764585aacf642f9ee75462fdd34e45a5f0c06f0e10ac7103b15e9b6c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fd20b16a22fc22846b6970e5356ed3cb1.jpg",
    "published": "2026-11-24T21:30:42+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Selling Sunset’s Emma Hernan Reveals Where She Stands With Chrishell Stause",
+   "url": "https://www.usmagazine.com/celebrity-news/news/emma-hernan-reveals-where-she-stands-with-chrishell-stause/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Emma-Hernan-Reveals-Where-She-Stands-With-Chrishell.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-24T21:24:54+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Selling Sunset’s Emma Hernan Reveals Where She Stands With Chrishell Stause",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/selling-sunset-emma-hernan-reveals-212454853.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8d7dca1d809e8804c87d446926b109d0245027ea1f735f36022058129989ac8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F32329200f94f343e122a155e5b8bdc09.jpg",
+   "published": "2026-11-24T21:24:54+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Church of Scientology Wants Leah Remini to Pay $2.5 Million in Legal Fees",
+   "url": "https://www.usmagazine.com/celebrity-news/news/church-of-scientology-asks-leah-remini-to-pay-2-5-million/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Church-of-Scientology-Wants-Leah-Remini-to-Pay-More-Than-2-Million-in-Legal-Fees-Amid-Ongoing-Battle-GettyImages-1153340348.jpg",
+   "published": "2026-11-24T21:13:19+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Church of Scientology Wants Leah Remini to Pay More Than $2 Million in Fees Amid Legal Battle",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/church-scientology-wants-leah-remini-211319176.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0b58ea6751160fae0db2d58e6470a76da3754d2afe334107a4f9de0ca7908611/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fb8aa0a267d8804e0e4c0ea84b47051bd.jpg",
+   "published": "2026-11-24T21:13:19+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -363,12 +495,78 @@
    "trend_score": 2000
   },
   {
+   "title": "Husband Saves Wife From Stranger Choking Her Inside In-N-Out Bathroom: Police",
+   "url": "https://www.usmagazine.com/crime-news/news/husband-saves-wife-during-in-n-out-burger-bathroom-attack/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Husband-Saves-Wife-From-Man-Attacking-Her-Inside-In-N-Out-Bathroom.jpg?crop=0px%2C76px%2C2000px%2C1131px&resize=1000%2C563&quality=78&strip=all",
+   "published": "2026-11-24T21:09:53+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Husband Saves Wife From Stranger Choking Her Inside In-N-Out Burger Bathroom: Police",
+   "url": "https://www.yahoo.com/news/us/articles/husband-saves-wife-stranger-choking-210953856.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/30ff394ec850f226fa5bbf712ac70a12f9a2eb798c2cad1aafe8343f44552e02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fc5a8cda3d0a47592494933638e8cd13b.jpg",
+   "published": "2026-11-24T21:09:53+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "What Was Karen Read Charged With? She Was Acquitted of All But 1 Charge",
+   "url": "https://www.usmagazine.com/crime-news/news/what-was-karen-read-charged-with-before-she-was-acquitted/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/What-Was-Karen-Read-Charged-With-She-Was-Acquitted-of-All-But-1-Charge.jpg?crop=4px%2C53px%2C1996px%2C1127px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-24T20:43:29+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "What Was Karen Read Charged With? She Was Acquitted of All But 1 Charge After Boyfriend’s Death",
+   "url": "https://www.yahoo.com/news/us/articles/karen-read-charged-she-acquitted-204329097.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4d4ca70703db6fa25d0298aa2a1e5de1ea1f52b557bb9f2b770092b605fd5234/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F61f8305c93d74e3d8d0624210e6c2937.jpg",
+   "published": "2026-11-24T20:43:29+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Jensen Huang Ditched Signature Look For Nvidia Return",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jensen-huang-ditched-signature-look-195954927.html",
    "source": "yahoo.com",
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/09357d7dc16703745ad56c70652ab1a1fa8677196909d821b5d4a505ac8a27d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F06aab616208a5bbec8095095f7f8a99e.jpg",
    "published": "2026-11-24T19:59:54+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "90 Day Fiance’s Kenny and Armando Defend Sharing Hannah’s Health Emergency",
+   "url": "https://www.usmagazine.com/entertainment/news/90-day-fiances-kenny-and-armando-defend-sharing-emergency/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/90-day-fiance-armando-kenny.jpg",
+   "published": "2026-11-24T19:57:16+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "90 Day Fiance’s Kenny and Armando Defend Sharing Daughter Hannah’s Health Emergency on Reality TV",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/90-day-fiance-kenny-armando-195716273.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/c9b8e6d7a24cc03e0293e4349bdf18a763cbf91cd85f99223b2e6e9b54814941/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fe42ccf988fe873932427b0bce6d880f9.jpg_up.jpg",
+   "published": "2026-11-24T19:57:16+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -480,7 +678,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/9d3e264f0749b2e0db35135b66e6e2c37e81604d94260855148c86af33f8d743/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F1173928b481bc89846195a0ff1eb658e.jpg_up.jpg",
    "published": "2026-11-24T18:44:19+00:00",
    "trending": true,
-   "trend_term": "trinity rodman · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "trinity rodman · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -660,22 +858,22 @@
    "trend_score": 2000
   },
   {
-   "title": "Former Teacher Arrested for Holding Baby After Sexting Underage Student",
-   "url": "https://www.usmagazine.com/crime-news/news/teacher-arrested-for-holding-baby-after-sexting-with-student/",
-   "source": "usmagazine.com",
+   "title": "Former Kentucky Teacher Arrested for Holding Baby After Inappropriate Relationship With Student",
+   "url": "https://www.yahoo.com/news/us/articles/former-kentucky-teacher-arrested-holding-174654568.html",
+   "source": "profiles.yahoo.com",
    "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/teacher-arrested-held-baby-inappropriate-relationship-student.jpg?crop=0px%2C6px%2C1200px%2C678px&resize=1000%2C563&quality=86&strip=all",
+   "image": "https://s.yimg.com/lo/mysterio/api/8e1a2e875d25ded0be0dac12684cd101e025d9762294a0661f4769d317a9c048/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F16dfbba1709389a6a845fe8459232873.jpg_up.jpg",
    "published": "2026-11-24T17:46:54+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
   },
   {
-   "title": "Former Kentucky Teacher Arrested for Holding Baby After Inappropriate Relationship With Student",
-   "url": "https://www.yahoo.com/news/us/articles/former-kentucky-teacher-arrested-holding-174654568.html",
-   "source": "profiles.yahoo.com",
+   "title": "Former Teacher Arrested for Holding Baby After Sexting Underage Student",
+   "url": "https://www.usmagazine.com/crime-news/news/teacher-arrested-for-holding-baby-after-sexting-with-student/",
+   "source": "usmagazine.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8e1a2e875d25ded0be0dac12684cd101e025d9762294a0661f4769d317a9c048/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F16dfbba1709389a6a845fe8459232873.jpg_up.jpg",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/teacher-arrested-held-baby-inappropriate-relationship-student.jpg?crop=0px%2C6px%2C1200px%2C678px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-24T17:46:54+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
@@ -836,6 +1034,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Kristin Cavallari Announces She's Leaving Her Podcast: 'It's Been a Journey'",
+   "url": "https://www.usmagazine.com/celebrity-news/news/kristin-cavallari-announces-shes-leaving-her-podcast/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305775488-kristin-cavallari.jpg?crop=92px%2C98px%2C1173px%2C662px&resize=1000%2C563&quality=78&strip=all",
+   "published": "2026-11-24T15:58:05+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "The best Thanksgiving movies to watch this week to start your holiday season right, from 'Planes, Trains and Automobiles' to 'Pilgrim'",
    "url": "https://www.yahoo.com/entertainment/movies/article/the-best-thanksgiving-movies-to-watch-this-week-to-start-your-holiday-season-right-from-planes-trains-and-automobiles-to-pilgrim-155400359.html",
    "source": "yahoo.com",
@@ -876,7 +1085,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/fcc68eaaa17778d32c89f14673b31e3f89cd7e1f9e7a7c60222f49198f677bc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F12921281523701ed293fb23076aa28fc.jpg_up.jpg",
    "published": "2026-11-24T15:41:32+00:00",
    "trending": true,
-   "trend_term": "jonbenet ramsey · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "jonbenet ramsey · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1074,7 +1283,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/198c080868bad030d86fa99974a3f0fbd40264454fb25be2cd82edab1cd042f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff04c3e00aee1f532f64d753ee9b1c2fe.jpg",
    "published": "2026-11-24T11:04:03+00:00",
    "trending": true,
-   "trend_term": "christie miller · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "christie miller · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1151,7 +1360,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
    "published": "2026-11-24T08:43:08+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1415,7 +1624,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
    "published": "2026-11-24T00:36:09+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1524,6 +1733,17 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/fca258f9f64409b51cddac8f93c9d20785072b21c411cfc28c6000feb22dea42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjust_jared_884%2F3512088eb2fbe99ac25c86a5731c172e.jpg_up.jpg",
    "published": "2026-11-23T23:19:18+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Church of Scientology asks Leah Remini to pay more than $2M in legal fees",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/church-scientology-asks-leah-remini-231612208.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/847763e7aaefe919424089467ca7eeb89194703934a32bbc103d9a30d4d1b026/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F3f58362cec587632536c584782fab77c.jpg",
+   "published": "2026-11-23T23:16:12+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -1723,7 +1943,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
    "published": "2026-11-23T21:49:52+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1811,7 +2031,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
    "published": "2026-11-23T21:26:51+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1892,6 +2112,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Missing Coach Travis Turner's Wife Addresses His Disappearance 1-Year Later",
+   "url": "https://www.usmagazine.com/sports/news/missing-coach-travis-turners-wife-addresses-disappearance/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2025/12/1US-Marshals-Issue-Reward-for-Missing-High-School-Football-Coach-Travis-Turner.jpg",
+   "published": "2026-11-23T20:01:02+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Montel Williams Opens Up for 1st Time About How Daughter Overcame Addiction Battle: ‘So Proud of Her’",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/montel-williams-opens-1st-time-200053368.html",
    "source": "profiles.yahoo.com",
@@ -1954,7 +2185,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/c455eeeaa88a22ae1775dc0e25f01a97c9485aa79734508894b69990cc777810/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fd307dc9b0468dc84c27adb8c37aafdde.jpg",
    "published": "2026-11-23T19:34:47+00:00",
    "trending": true,
-   "trend_term": "tee higgins · covered by 2 sites",
+   "trend_term": "tee higgins · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1987,7 +2218,7 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
    "published": "2026-11-23T19:30:12+00:00",
    "trending": true,
-   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2251,7 +2482,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
    "published": "2026-11-23T17:24:45+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2262,7 +2493,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2273,7 +2504,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2371,28 +2602,6 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/5813ae41e2de2cd8d478a0e381e676b7e0080d79b530f44dc5531294b8ae984b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3c9a1e4c42e04cf954df0a41c1a27fe3.jpg",
    "published": "2026-11-23T15:13:52+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Dancing With the Stars’ Ezra Frech Addresses Hailey Bills Dating Rumors",
-   "url": "https://www.usmagazine.com/entertainment/news/dwts-ezra-frech-addresses-hailey-bills-dating-rumors/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Ezra-Frech-Reacts-to-Hailey-Bills-Dating-Rumors.png?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T15:13:16+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Dancing With the Stars’ Ezra Frech Addresses Hailey Bills Dating Rumors: ‘Internet Is Crazy’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dancing-stars-ezra-frech-addresses-151316645.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/a9d5e3a94541572a0523928c660884b1b0694a6b60591a61d7b9790fc4c651f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Feaf8554207cb8680dfdf7160714f4f43.png",
-   "published": "2026-11-23T15:13:16+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -2618,83 +2827,6 @@
    "trend_score": 2000
   },
   {
-   "title": "Zach Shallcross' Wife Kaity Biggar Leaves Wedding Rings on 'Bachelor' Cruise",
-   "url": "https://www.usmagazine.com/entertainment/news/zach-shallcross-wife-kaity-leaves-wedding-rings-on-cruise/",
-   "source": "usmagazine.com",
-   "category": "TV",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2301859013-Zach-Shallcross-Wife-Kaity-Leaves-Wedding-Rings-on-Cruise.jpg?crop=80px%2C82px%2C1079px%2C610px&resize=1000%2C563&quality=70&strip=all",
-   "published": "2026-11-23T03:53:03+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Zach Shallcross’ Wife Kaity Biggar Leaves Her Wedding Rings on Bachelor Nation Cruise",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/zach-shallcross-wife-kaity-biggar-035303400.html",
-   "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/862204aa137b1bc472d1539129e206d88a297a0ada58e5158cdb977a63695420/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F6ac9799b826287a8b8d510f31ab10543.jpg",
-   "published": "2026-11-23T03:53:03+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Justin Hartley’s ‘Tracker’ Kills Off Surprise Character in Shocking Twist Before Fall Finale",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/justin-hartley-tracker-kills-off-033625302.html",
-   "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/1b5c999354c35e150e058bd1eda1d0f02b36a8f3b3bfdfed56799d187c1f230d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fadc5d44cf918c1d679ffaa5916c712fc.jpg",
-   "published": "2026-11-23T03:36:25+00:00",
-   "trending": true,
-   "trend_term": "tracker - season 4 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Justin Hartley's 'Tracker' Kills [Spoiler] in Shocking Twist Before Finale",
-   "url": "https://www.usmagazine.com/entertainment/news/justin-hartleys-tracker-kills-surprise-character-in-shocking-twist/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/3250994_TRKR_S4_0661b.jpg",
-   "published": "2026-11-23T03:36:25+00:00",
-   "trending": true,
-   "trend_term": "tracker - season 4 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Yellowstone’s ‘Marshals’ Complicates Relationships by Having Kayce Kiss Someone After Multiple Deaths",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/yellowstone-marshals-complicates-relationships-having-022921811.html",
-   "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/2bef6d2e02505cf1459a9a45913fa392019a97364c0c7a468d10f369f2e8fd04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff9a733b45b6fcc80ad220bbdb7052630.jpg",
-   "published": "2026-11-23T02:29:21+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Marshals' Kayce Shares Shocking Kiss With [Spoiler] After Multiple Deaths",
-   "url": "https://www.usmagazine.com/entertainment/news/marshals-kayce-shares-shocking-belle-kiss-after-multiple-deaths/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/3241956_YMAR_S2_0445bc.jpg",
-   "published": "2026-11-23T02:29:21+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "'Dancing With the Stars' finale live updates: Who will take home the mirror ball trophy?",
-   "url": "https://www.yahoo.com/entertainment/tv/live/dancing-with-the-stars-finale-live-updates-who-will-take-home-the-mirror-ball-trophy-220000784.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/186d22a725735834d86f2f1adb49633c11e7171e648f7e2893d81896921077b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-dwts-finale-2_2266.jpg",
-   "published": "2026-11-25T02:13:46+00:00",
-   "trending": true,
-   "trend_term": "mizzou basketball",
-   "trend_score": 500
-  },
-  {
    "title": "Hayden Panettiere left behind a massive fortune for her 11-year-old daughter, new court docs reveal",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-left-behind-massive-002220343.html",
    "source": "yahoo.com",
@@ -2703,7 +2835,7 @@
    "published": "2026-11-25T00:22:20+00:00",
    "trending": true,
    "trend_term": "hayden panettiere",
-   "trend_score": 500
+   "trend_score": 0
   },
   {
    "title": "Hayden Panettiere's estate valued at $6.2 million - report",
@@ -2714,7 +2846,7 @@
    "published": "2026-11-24T23:16:14+00:00",
    "trending": true,
    "trend_term": "hayden panettiere",
-   "trend_score": 500
+   "trend_score": 0
   },
   {
    "title": "Hayden Panettiere’s $6.2 million estate revealed as Ruby Rose makes shocking allegations about Brian Hickerson",
@@ -2725,7 +2857,7 @@
    "published": "2026-11-24T23:14:57+00:00",
    "trending": true,
    "trend_term": "hayden panettiere",
-   "trend_score": 500
+   "trend_score": 0
   },
   {
    "title": "Hayden Panettiere left behind $6.2M estate after her death at 36",
@@ -2736,7 +2868,7 @@
    "published": "2026-11-24T23:13:31+00:00",
    "trending": true,
    "trend_term": "hayden panettiere",
-   "trend_score": 500
+   "trend_score": 0
   },
   {
    "title": "Happy Birthday, Katherine Heigl! See the “Grey’s Anatomy” Actress’s Cutest Family Photos with Her Husband and 3 Kids",
@@ -3058,14 +3190,190 @@
    "trend_score": 0
   },
   {
-   "title": "Don Toliver Concert Evacuated After ‘Substance Believed to Be Tear Gas’ Was Released into Arena Crowd",
-   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/don-toliver-concert-evacuated-substance-024617016.html",
+   "title": "'Dancing With the Stars' finale live updates: Who will take home the mirror ball trophy?",
+   "url": "https://www.yahoo.com/entertainment/tv/live/dancing-with-the-stars-finale-live-updates-who-will-take-home-the-mirror-ball-trophy-220000784.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/66917afa295d4c63d32fc2bf609387da85e43b3ecf76986232fcc1b8b7acd32d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-dwts-live-blog-5_2474.jpg",
+   "published": "2026-11-25T03:54:39+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ezra Frech delivers powerful, tear-jerking DWTS finale freestyle",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/ezra-frech-delivers-powerful-tear-034423275.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/fc76ca4f6dcb55301a7ffb0de0ff8ae183a057accc9687bae29c107b22b199c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Fda4de56f2ef29b6dc0a86af21e2a0ea4.jpg",
+   "published": "2026-11-25T03:44:23+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Dolly Parton’s Sister Opens Up on Final Months With Singer as She Got ‘More and More Frail’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/dolly-parton-sister-opens-final-033626835.html",
    "source": "yahoo.com",
    "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/040117fcb62861d6334086d0bb86417fb534709839d253c5ee916943dd2f0696/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4b5424200860ad538fe25358b1c06d10.jpg",
-   "published": "2026-11-23T02:46:17+00:00",
-   "trending": true,
-   "trend_term": "mirror",
+   "image": "https://s.yimg.com/lo/mysterio/api/922bee87d02969f46d1306d8d1e2440db5741b098dd153505974a273cbe60376/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F8f17dfc14c9ef0b61576d0e39a3a7bd6.jpg",
+   "published": "2026-11-25T03:36:26+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Maura Higgins’DWTS 35 finale freestyle is another Mark Ballas choreo masterclass",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/maura-higgins-dwts-35-finale-033259356.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/1496fbf09806efe57f6fafaa056692de1bfeffea18a1b7f31dd6d1a13da4f8ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Fa65180258b9e4e9d9ea26800545dbb0a.jpg_up.jpg",
+   "published": "2026-11-25T03:32:59+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/ariana-grande-saving-grace-woefully-033157879.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/ceac898107550d2380043451f6e8d71ea85be8dafdc2b99c62d288c4d9ff17c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F41159999cc1d6b7f1f4cd0ceab09e74d.jpg",
+   "published": "2026-11-25T03:31:57+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Dancing With the Stars: The Next Pro’ Renewed for Second Season",
+   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/dancing-stars-next-pro-renewed-032924576.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/002b62408e2157d9bec8f7596660c61a56377f5a5086d0bf02afd497bf0d7e71/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Fe6fb1eab31f199db7fb088778bd3d826.jpg",
+   "published": "2026-11-25T03:29:24+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Miss Universe 2026: Sheynnis Palacios, Alicia Machado, Fátima Bosch and Zuleyka Rivera share the excitement of the grand finale",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/miss-universe-2026-sheynnis-palacios-032233887.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/820bb2f15324b8ab6854762bf82e9e5b442f82248eee48849812ce63ab79b474/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fa749bf391c907e84ce3649d7f638f2b5.jpg",
+   "published": "2026-11-25T03:22:33+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Connor Wood channels Tom Holland on ‘Dancing With the Stars’ with epic drag-filled freestyle inspired by ‘Lip Sync Battle’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/connor-wood-channels-tom-holland-031818780.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/52a8833f13af816fa8f9904c609519f004b4d99be2a39b91393d241f33648c57/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F6952bcd51795a89098eb784ff5f72261.jpg",
+   "published": "2026-11-25T03:18:18+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Connor Wood, Rylee Arnold bring dance comedy to DWTS 35 finale freestyle",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/connor-wood-rylee-arnold-bring-031709521.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/035b16d6d50bbb20c43f5130591eb99c155512fc26ad39e6356dd640f4cc8329/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Fbf398be966371f14b64df321aed7484f.png_up.jpg",
+   "published": "2026-11-25T03:17:09+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "People Are Sharing Which Celebrities Have Aged Like Fine Wine",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/people-sharing-celebrities-aged-fine-031602506.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/78abf651eb0490dfd6756dd3bfc3b78baba323e74e93ff6fc1928198b3614312/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2Fd736f23e2b0a4e5e5229788436580efb.gif",
+   "published": "2026-11-25T03:16:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Philip Rosenberg Dies: Oscar-Winning Production Designer On ‘All That Jazz’ As Well As ‘Network’ & ‘Moonstruck’ Was 91",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/philip-rosenberg-dies-oscar-winning-031536168.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/1a6a8733d4edab11e00ecf2df48b6a96bb92e2a03a0054993dadeb3af5ae14ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F0041e5e9a7b7c0e600991e3ae1636bf2.png",
+   "published": "2026-11-25T03:15:36+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Meghan Markle Reportedly ‘Stung By The Snub’ After Princess Kate Leaves Her And Harry Off 1,600-Guest Christmas Concert List",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-reportedly-stung-snub-031500480.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/825e16065ffb59988f1f3960364a9fc754d6eecc81a4c3bd28f7b7b489b5df7c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F54fef2314a8b922f8f70f9e2a89e2fbc.jpg",
+   "published": "2026-11-25T03:15:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "John Rogers, Youngest Son of “Mister Rogers’ Neighborhood” Star Fred Rogers, Dies at 65: Report",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/john-rogers-youngest-son-mister-031420245.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e8f235f98c098afb29bc15500690b90f8fc91aa98f0f091b863595db74140600/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fdc6c3304cea792ac74a4cccb7828b69e.jpg",
+   "published": "2026-11-25T03:14:20+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Netflix's Heartbreaking 4-Episode Fantasy Takes Less Than 4 Hours to Binge",
+   "url": "https://collider.com/netflix-fantasy-quick-binge-lost-ollie-tv-series/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/lost-ollie.jpg",
+   "published": "2026-11-25T03:12:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘DWTS’ Pro Mark Ballas’ Mom Shirley, 66, Makes Red Carpet Debut With Boyfriend Younger Than Her Son",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/dwts-pro-mark-ballas-mom-025910334.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/225dfc688b71dfc387cc9ae244979bfc50b395102f7cefbab4bec77925eca45e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2Fe8e93281e2897b9258d29e65ee594be0.jpg",
+   "published": "2026-11-25T02:59:10+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "HBO Max Officially Revives ‘Better Call Saul’ Star’s ‘John Wick’ Replacement",
+   "url": "https://collider.com/bob-odenkirk-normal-streaming-success-hbo-max-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/hbo-max-logo-featured.jpg",
+   "published": "2026-11-25T02:45:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Taylor Sheridan Meets ‘Jurassic Park’ in the New Sci-Fi Western Officially Set for 2027",
+   "url": "https://collider.com/dinosaurs-of-the-wild-west-release-window-2027/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/dinosaurs-of-the-wild-west-1.jpg",
+   "published": "2026-11-25T02:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
    "trend_score": 0
   },
   {
@@ -3289,6 +3597,17 @@
    "trend_score": 0
   },
   {
+   "title": "Oprah Winfrey Shows Off Makeup Done With Drugstore Products",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/oprah-winfrey-shows-off-makeup-011835251.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/99d637897a90b5452b177c0e62b64f81fb21aa690de3f9fcede14249c47241df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2Fc5b05ab1f72cb632ac6625e80795f297.jpg",
+   "published": "2026-11-25T01:18:35+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Dolly Parton’s sister reveals heartbreaking reason why music legend withdrew from family and friends in final months of life",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/dolly-parton-sister-reveals-heartbreaking-011708448.html",
    "source": "yahoo.com",
@@ -3339,6 +3658,17 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/reacher-alan-ritchson.jpg",
    "published": "2026-11-25T00:45:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Meghan Trainor Shares How Her Parenting Style Changed for Her Daughter's First Birthday",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/meghan-trainor-shares-her-parenting-004500086.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/894dbae3b92b401e209974ced07d8903684c24c67314468b8f6b1202f12d5b2e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F832b9afd7f38517191c7ec9bd2abf848.jpg",
+   "published": "2026-11-25T00:45:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4015,6 +4345,17 @@
    "trend_score": 0
   },
   {
+   "title": "Hailey Bieber Stuns in Nude 'Vogue France' Photo Released After 30th B-Day",
+   "url": "https://www.usmagazine.com/stylish/news/hailey-bieber-poses-nude-for-vogue-france-photo-shoot/",
+   "source": "usmagazine.com",
+   "category": "Fashion",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Hailey-Bieber-Poses-Nude-for-Vogue-France-3.jpg",
+   "published": "2026-11-24T21:50:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Documentary Filmmaking Legend Frederick Wiseman’s Complete Works to Be Distributed by Janus Films in North America (EXCLUSIVE)",
    "url": "https://www.yahoo.com/entertainment/movies/articles/documentary-filmmaking-legend-frederick-wiseman-214602711.html",
    "source": "yahoo.com",
@@ -4076,6 +4417,17 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/63bc32935690f59ea61500897e193c2c8ce032d9fc0bb42c52fc64acaecb71ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobe_458%2Fcfd520b1256f281773161a721b22f424.jpg",
    "published": "2026-11-24T21:39:15+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "DWTS’ Julianne Hough Confirms Split From Peloton Instructor Adrian Williams",
+   "url": "https://www.usmagazine.com/celebrity-news/news/julianne-hough-confirms-split-from-pelotons-adrian-williams/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Julianne-Hough-Is-Dating-Peloton-Instructor-Adrian-Williams.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-24T21:35:24+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4439,17 +4791,6 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/dig-mike-schur-j-j-philbin-interview.jpg",
    "published": "2026-11-24T20:00:13+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "90 Day Fiance’s Kenny and Armando Defend Sharing Hannah’s Health Emergency",
-   "url": "https://www.usmagazine.com/entertainment/news/90-day-fiances-kenny-and-armando-defend-sharing-emergency/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/90-day-fiance-armando-kenny.jpg",
-   "published": "2026-11-24T19:57:16+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -5429,17 +5770,6 @@
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/copy-of-collider-template-2026-11-24t074650-075.jpg",
    "published": "2026-11-24T16:00:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Kristin Cavallari Announces She's Leaving Her Podcast: 'It's Been a Journey'",
-   "url": "https://www.usmagazine.com/celebrity-news/news/kristin-cavallari-announces-shes-leaving-her-podcast/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305775488-kristin-cavallari.jpg?crop=92px%2C98px%2C1173px%2C662px&resize=1000%2C563&quality=78&strip=all",
-   "published": "2026-11-24T15:58:05+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -7634,17 +7964,6 @@
    "trend_score": 0
   },
   {
-   "title": "Church of Scientology asks Leah Remini to pay more than $2M in legal fees",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/church-scientology-asks-leah-remini-231612208.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/847763e7aaefe919424089467ca7eeb89194703934a32bbc103d9a30d4d1b026/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F3f58362cec587632536c584782fab77c.jpg",
-   "published": "2026-11-23T23:16:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Rosie O’Donnell Returning to Broadway for Second Run in “The Rocky Horror Show ”After Moving to Ireland",
    "url": "https://www.yahoo.com/entertainment/tv/articles/rosie-o-donnell-returning-broadway-231517487.html",
    "source": "yahoo.com",
@@ -8300,17 +8619,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/3b17088117e1aa89017f65f75fc4505ef5cd260d6d09f7338a87f6c6a7b45fd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbf3ca59d98608cc845108746d93c31b4.jpg",
    "published": "2026-11-23T20:14:58+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Missing Coach Travis Turner's Wife Addresses His Disappearance 1-Year Later",
-   "url": "https://www.usmagazine.com/sports/news/missing-coach-travis-turners-wife-addresses-disappearance/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2025/12/1US-Marshals-Issue-Reward-for-Missing-High-School-Football-Coach-Travis-Turner.jpg",
-   "published": "2026-11-23T20:01:02+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -9444,39 +9752,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/c78a9e8a0e4d7b1158c0fce5621654cb5e27b61a6ca52ef24d36efdff0a854c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2F2d8aa2e1557b90eff9bb22bfdb8ba9c9.jpg",
    "published": "2026-11-23T04:11:58+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Taylor Swift cheers Travis Kelce's touchdown, shares sweet moment with niece Wyatt at Chiefs game",
-   "url": "https://news.meaww.com/taylor-swift-cheers-travis-kelces-touchdown-shares-sweet-moment-with-niece-wyatt-at-chiefs-game",
-   "source": "news.meaww.com",
-   "category": "Celebrity",
-   "image": "https://media.pubninja.com/articles/brand-5/covers/1795403058822_09fd6b5a5d46.jpg",
-   "published": "2026-11-23T03:19:01+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Matty Healy expecting first child with wife Gabbriette Bechtel months after wedding",
-   "url": "https://news.meaww.com/matty-healy-expecting-first-child-with-wife-gabbriette-bechtel-months-after-wedding",
-   "source": "news.meaww.com",
-   "category": "Celebrity",
-   "image": "https://media.pubninja.com/articles/brand-5/covers/1795400089698_b972f6a2f735.jpg",
-   "published": "2026-11-23T03:12:21+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Brooks Nader Savagely Responds to Rumors About Sister Dating Pete Davidson",
-   "url": "https://www.usmagazine.com/celebrity-news/news/brooks-nader-reacts-to-rumors-of-sister-dating-pete-davidson/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2276100701-Brooks-Nader-Reacts-to-Rumors-of-Sister-Dating-Pete-Davidson.jpg",
-   "published": "2026-11-23T02:57:48+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
