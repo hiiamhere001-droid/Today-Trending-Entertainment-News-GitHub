@@ -1,300 +1,25 @@
 {
- "generated_at": "2026-11-25T10:07:19.214985+00:00",
+ "generated_at": "2026-11-25T11:58:06.835615+00:00",
  "date_us": "2026-11-25",
  "per_site": {
-  "usmagazine.com": 17,
+  "usmagazine.com": 16,
   "news.meaww.com": 4,
   "profiles.yahoo.com": 9,
   "yahoo.com": 29,
-  "jang.com.pk": 7,
-  "collider.com": 9
+  "jang.com.pk": 4,
+  "collider.com": 10
  },
  "items": [
   {
-   "title": "The best Thanksgiving movies to watch this week to start your holiday season right, from 'Planes, Trains and Automobiles' to 'Pilgrim'",
-   "url": "https://www.yahoo.com/entertainment/movies/article/the-best-thanksgiving-movies-to-watch-this-week-to-start-your-holiday-season-right-from-planes-trains-and-automobiles-to-pilgrim-155400359.html",
+   "title": "15 Marvel movies and shows to watch before 'Avengers: Doomsday' — and what to remember",
+   "url": "https://www.yahoo.com/entertainment/movies/article/15-marvel-movies-and-shows-to-watch-before-avengers-doomsday--and-what-to-remember-114251350.html",
    "source": "yahoo.com",
    "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/9463717d4bc3ee22812563841bceb82f6a535ed49fe70f18b4a0fe62df032411/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-badge-top-left_9048.png",
-   "published": "2026-11-24T15:54:00+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/ad969ac56cba97aa9ee6a01c953fd56107132f2af634e99000b9cd4110d64230/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-what-to-watch-marvel_9819.jpg",
+   "published": "2026-11-25T11:42:51+00:00",
    "trending": true,
-   "trend_term": "best · covered by 2 sites",
-   "trend_score": 7000
-  },
-  {
-   "title": "Netflix’s Best New Christmas Movie Has A Near-Record Rotten Tomatoes Score",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/netflix-best-christmas-movie-near-154116653.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/94e1ef65ba5324f9784f2e208b751227bcb6d084a871ba3562b95b02627f384c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Ff22dd05b7955472ec17588c2aef43fdd.jpg_up.jpg",
-   "published": "2026-11-24T15:41:16+00:00",
-   "trending": true,
-   "trend_term": "best · covered by 2 sites",
-   "trend_score": 7000
-  },
-  {
-   "title": "The 17 Best Christmas Romance Movies on Netflix, Ranked",
-   "url": "https://collider.com/best-netflix-christmas-romantic-movies/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/emma-roberts-and-luke-bracey-in-holidate-1.jpg",
-   "published": "2026-11-24T11:23:12+00:00",
-   "trending": true,
-   "trend_term": "best · covered by 2 sites",
-   "trend_score": 7000
-  },
-  {
-   "title": "3 Best Prime Video Movies To Watch This Week (Nov 23-27)",
-   "url": "https://collider.com/best-movies-prime-video-week-november-23-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/04/hairspray-michelle-pfeiffer2.jpg",
-   "published": "2026-11-23T23:34:34+00:00",
-   "trending": true,
-   "trend_term": "best · covered by 2 sites",
-   "trend_score": 7000
-  },
-  {
-   "title": "3 Best Netflix Movies To Watch This Week (Nov 23-27)",
-   "url": "https://collider.com/best-netflix-movies-watch-week-november-23-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/caught-stealing-regina-king-matt-smith-interview.jpg",
-   "published": "2026-11-23T20:19:12+00:00",
-   "trending": true,
-   "trend_term": "best · covered by 2 sites",
-   "trend_score": 7000
-  },
-  {
-   "title": "8 Sci-Fi Miniseries That Are Bangers From Start to Finish",
-   "url": "https://collider.com/best-sci-fi-miniseries-bangers/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/06/peter-krause-and-julianna-margulies-in-the-lost-room.jpg",
-   "published": "2026-11-25T04:19:12+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "The 10 Best Dark Fantasy Films of All Time, Ranked",
-   "url": "https://collider.com/best-dark-fantasy-movies/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/pan-s-labyrinth-2006.jpg",
-   "published": "2026-11-25T01:52:12+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "Khloé Kardashian's Best Friend Khadijah Haqq Reveals $5,241 Monthly Income and $13K in Expenses Amid Divorce",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/khlo-kardashians-best-friend-khadijah-233010568.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8149ba29e8f35eee04d2209123cb2b38dea6d5f80fb6567ac5427f3e8658f3c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F4ecd4b83a843904036d9ffc14cbc3ad3.jpg",
-   "published": "2026-11-24T23:30:10+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "‘Wild Horse Nine’ sets its sights on 7 Oscars noms, including Best Picture",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/wild-horse-nine-sets-sights-233000893.html",
-   "source": "yahoo.com",
-   "category": "Awards",
-   "image": "https://s.yimg.com/lo/mysterio/api/af1b78222c5de055bb17a75314fac5d7c5faf26ad8405a24101712aab9246a2b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgold_derby_993%2Fb6df388071f938c16ca96392fc490629.jpg",
-   "published": "2026-11-24T23:30:00+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "We Officially Ranked Every James Bond Movie From Worst to Best",
-   "url": "https://collider.com/james-bond-movies-ranked-worst-to-best/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/casino-royale-daniel-craig.jpg",
-   "published": "2026-11-24T22:56:12+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "Bill Maher Declares Obama ‘Best President Of His Lifetime’ Following Trump’s Public Humiliation Tirade",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/bill-maher-declares-obama-best-223000863.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/fd322f6007c6807a08868f677c0a9b77ba96f335073f838f1d9a37d1246e154b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F8f1d5079b54d6b70ba4a2e349aeda8e0.jpg",
-   "published": "2026-11-24T22:30:00+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "The Best Books From the Last 10 Years That Hooked Me From the Opening Chapter",
-   "url": "https://collider.com/best-books-last-10-years-hooked-me-opening-chapter/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/la-belle-sauvage-phillip-pullman.jpg",
-   "published": "2026-11-24T17:45:12+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "Malin Akerman Reveals She Lost “White Lotus” Role to One of Her Best Friends",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/malin-akerman-reveals-she-lost-162714848.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/18f1a46c27a2693a2af4c3b2ab43a463956be9d0be4d0cf77ab0db0c63e1b463/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F7cd5d61bc31b77db57351a74f5bc1e61.jpg",
-   "published": "2026-11-24T16:27:14+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "The 10 Best Fantasy Books of the Last 25 Years, Ranked",
-   "url": "https://collider.com/best-fantasy-books-past-25-years-ranked/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/a-dance-with-dragons.jpg",
-   "published": "2026-11-24T13:14:12+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "Hulu Is Losing One of Tom Hanks’ Best Movies Before Christmas",
-   "url": "https://collider.com/toy-story-2-leaving-hulu-december-23-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/img_2873-1.jpg",
-   "published": "2026-11-24T12:30:12+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "The 10 Best Alternative Rock Bands of All Time, Ranked",
-   "url": "https://collider.com/best-alternative-rock-bands-all-time-ranked/",
-   "source": "collider.com",
-   "category": "Music",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-sound-of-the-smiths-2008-album-crop-1.jpg",
-   "published": "2026-11-24T11:36:12+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "Helen Fraser, actress best known as Sylvia ‘Bodybag’ Hollamby in the prison drama Bad Girls",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/helen-fraser-actress-best-known-060000045.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/765a7fd2acd1144dd638a48df02780edb956730ed3c27ad9946c65f07ba4acc5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F3c299bf65adc93f6d5d48c27b462bb55.jpg",
-   "published": "2026-11-24T06:00:00+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "The 8 Best Tom Clancy Books, Ranked",
-   "url": "https://collider.com/best-tom-clancy-books-ranked/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/the-hunt-for-red-october-40th-annivasary.jpg",
-   "published": "2026-11-24T05:22:12+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "International Emmy Awards 2026 Photos: Best Of The Red Carpet",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/international-emmy-awards-2026-photos-042019752.html",
-   "source": "yahoo.com",
-   "category": "Awards",
-   "image": "https://s.yimg.com/lo/mysterio/api/8188510e4834150ebc9db68af2be61a028311536c3fe0d8690eba5a85f267786/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fd0f1f3e406e543b9a2d2d940b22bd32b.jpg",
-   "published": "2026-11-24T04:20:19+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "The 13 Best Christmas Movies of the Last 5 Years, Ranked",
-   "url": "https://collider.com/christmas-movies-past-5-years-ranked/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/dominic-sessa-paul-giamatti-and-da-vine-joy-randolph-in-the-holdovers-1.jpg",
-   "published": "2026-11-24T04:11:12+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "‘I’m A Celebrity’s AJ Odudu Gets Support From ‘BBUK’ Co-Host Will Best & More Stars Amid Microaggressions On ITV Reality Series",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/m-celebrity-aj-odudu-gets-014522321.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/5bedfb2ac325bd99c4e35b8f31f57d779b188e753d51b7ceec9e4ebebdc4e270/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Ffed4035726b3bad336b63b29ca789817.jpg",
-   "published": "2026-11-24T01:45:22+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "Connor Storrie Named the Best Dressed of 2026 by Vogue Magazine: The ‘Heated Rivalry’ Star Opens Up About Fashion and Life with Hudson Williams",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/connor-storrie-named-best-dressed-000452797.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/86c3c08ad94f758b83e60e13cdd8475c00cdb3cb81fdadf2dd22c8ef95a72a9d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2Fce7c1edd3bd79b1990feb6960aca21f7.jpg",
-   "published": "2026-11-24T00:04:52+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "Erin and Ben Napier Celebrate 18 Years of Marriage: ‘The Best Thing That Ever Happened to Me’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/erin-ben-napier-celebrate-18-233318412.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1c7cccfa1cd3f1ae492ebf86e9e3bfb40a19439efb5faa093df939ff70af19f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F52b96a7a5c1a8a8ae2ce745fa9c1a965.jpg",
-   "published": "2026-11-23T23:33:18+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "Anna and Jackson Klem Reflect on the ‘Best Parts’ of Parenthood So Far as They Share a Peek at Son’s ‘Dream’ Nursery (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/anna-jackson-klem-reflect-best-173000546.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f137c0fafd95304c62bf69ea17cca6f52f00a7105a6be73d768779be55acacde/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F8d000862f5cf954c305b7f4829379f60.jpg",
-   "published": "2026-11-23T17:30:00+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "The 200 Best Songs of the 1990s",
-   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/200-best-songs-1990s-145448081.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/33d14deac92bd5dd182619e53edfe09ddfefc56c48cf6d64484ad4060b7a725a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F49338b4017dc94662f27740a874afb93.jpg",
-   "published": "2026-11-23T14:54:48+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
-  },
-  {
-   "title": "'Dancing With the Stars' has delivered some fierce fashion in Season 35. We asked kids to rate the best looks.",
-   "url": "https://www.yahoo.com/entertainment/tv/article/dancing-with-the-stars-has-delivered-some-fierce-fashion-in-season-35-we-asked-kids-to-rate-the-best-looks-140000376.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/795f28dc4e1426a3a14d2841d112b67e36d21846b65901dc70d0d9900358d29b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-dwts-kids-rate_7442.jpg",
-   "published": "2026-11-23T14:00:00+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 5000
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
   },
   {
    "title": "Miley Cyrus & Maxx Morando’s Wedding Venue Had a Musical Link for This Reason",
@@ -594,6 +319,149 @@
    "trend_score": 3000
   },
   {
+   "title": "‘Never pretended to be perfect’: Taylor Swift reportedly ‘isn’t going to lose sleep’ over Vanity Fair article",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/never-pretended-perfect-taylor-swift-110035657.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d8855ccc4eadb1fad170eba32e6e410850e7688e5489027fdf2a1afbc14d233b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F8f48d2849b9246c23d92e28661e73812.jpg",
+   "published": "2026-11-25T11:00:35+00:00",
+   "trending": true,
+   "trend_term": "regina george · covered by 2 sites",
+   "trend_score": 2200
+  },
+  {
+   "title": "Taylor Swift's music teacher sets record straight over Vanity Fair quote",
+   "url": "https://jang.com.pk/en/76839-taylor-swifts-music-teacher-sets-record-straight-over-vanity-fair-quote-news",
+   "source": "jang.com.pk",
+   "category": "Music",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-25/76839_101724_eng.jpg",
+   "published": "2026-11-25T10:08:42+05:00",
+   "trending": true,
+   "trend_term": "regina george · covered by 2 sites",
+   "trend_score": 2200
+  },
+  {
+   "title": "Vanity Fair’s Taylor Swift article, explained: The Regina George comparison, Ugg boots and Easter eggs",
+   "url": "https://www.yahoo.com/entertainment/celebrity/article/vanity-fairs-taylor-swift-article-explained-the-regina-george-comparison-ugg-boots-and-easter-eggs-225217887.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e1188e40f26b52eabfe87150b0bf4ac45c3278ceca6598253a54bd4a4572078a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-taylor-swift-article_1759.jpg",
+   "published": "2026-11-24T22:52:17+00:00",
+   "trending": true,
+   "trend_term": "regina george · covered by 2 sites",
+   "trend_score": 2200
+  },
+  {
+   "title": "Is Blake Lively behind Taylor Swift Vanity Fair exposé? Shocking details emerge",
+   "url": "https://jang.com.pk/en/76811-is-blake-lively-behind-taylor-swift-vanity-fair-expos-shocking-details-emerge-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76811_065839_eng.jpg",
+   "published": "2026-11-24T18:58:08+05:00",
+   "trending": true,
+   "trend_term": "regina george · covered by 2 sites",
+   "trend_score": 2200
+  },
+  {
+   "title": "How Taylor Swift Reportedly Responded To Vanity Fair's 'Unflattering' Exposé",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-reportedly-responded-vanity-183708652.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1a2a38e177b565ccc092633d623168b707d44fb147a3933fbca7dee6d4871cba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2F5338a5061a9642b185481f33c480f1d4.jpg",
+   "published": "2026-11-24T18:37:08+00:00",
+   "trending": true,
+   "trend_term": "regina george · covered by 2 sites",
+   "trend_score": 2200
+  },
+  {
+   "title": "Travis Kelce stands by Taylor Swift after controversial Vanity Fair article",
+   "url": "https://jang.com.pk/en/76808-travis-kelce-stands-by-taylor-swift-after-controversial-vanity-fair-article-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76808_055554_eng.jpg",
+   "published": "2026-11-24T17:55:36+05:00",
+   "trending": true,
+   "trend_term": "regina george · covered by 2 sites",
+   "trend_score": 2200
+  },
+  {
+   "title": "Taylor Swift strongly reacts to Vanity Fair’s ‘mean girl’ exposé: ‘It feels like…’",
+   "url": "https://jang.com.pk/en/76798-taylor-swift-strongly-reacts-to-vanity-fairs-mean-girl-expos-it-feels-like-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76798_023909_eng.jpg",
+   "published": "2026-11-24T14:51:31+05:00",
+   "trending": true,
+   "trend_term": "regina george · covered by 2 sites",
+   "trend_score": 2200
+  },
+  {
+   "title": "‘Just made me like her even more’: Vanity Fair’s Taylor Swift ‘hit piece’ sparks outrage",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/just-made-her-even-more-113053016.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/53b5b56b146125f375e713543854aa23ebe6d039d9b5a3f7e54f8ee7611656b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F1843e3a3f02e5f55a9cb7c3582395823.jpg",
+   "published": "2026-11-24T11:30:53+00:00",
+   "trending": true,
+   "trend_term": "regina george · covered by 2 sites",
+   "trend_score": 2200
+  },
+  {
+   "title": "Taylor Swift branded 'Regina George' in bombshell Vanity Fair report as 100+ sources weigh in",
+   "url": "https://jang.com.pk/en/76790-taylor-swift-branded-regina-george-in-bombshell-vanity-fair-report-as-100-sources-weigh-in-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76790_093331_eng.jpg",
+   "published": "2026-11-24T09:33:21+05:00",
+   "trending": true,
+   "trend_term": "regina george · covered by 2 sites",
+   "trend_score": 2200
+  },
+  {
+   "title": "Is Vanity Fair’s Hit Piece on Taylor Swift Really Journalism?",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/vanity-fair-hit-piece-taylor-001214668.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/73e7e06fea73101366c4c2adbfd0127ca4dbb4c02d8748d6d3c0c288918849f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Ff32f2a3144fb733c7318905dd54c9006.jpg_up.jpg",
+   "published": "2026-11-24T00:12:14+00:00",
+   "trending": true,
+   "trend_term": "regina george · covered by 2 sites",
+   "trend_score": 2200
+  },
+  {
+   "title": "Taylor Swift slammed as real-life ‘Regina George’ by classmates and acquaintances in brutal Vanity Fair hit piece",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-slammed-real-life-190118182.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a5afbfdaac999879f053b78827a038bd51f3f06faf02ed52606e47634edffc80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F4bf34d7fd4e24baf84f5a9420b383e46.jpg",
+   "published": "2026-11-23T19:01:18+00:00",
+   "trending": true,
+   "trend_term": "regina george · covered by 2 sites",
+   "trend_score": 2200
+  },
+  {
+   "title": "Ariana Grande Went to Surprising Lengths to Prepare for ‘Focker-in-Law,’ Director Reveals",
+   "url": "https://collider.com/ariana-grande-focker-in-law-john-hamburg-ben-still-robert-de-niro-interview/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/focker-in-law-cast-2.jpg",
+   "published": "2026-11-25T11:30:12+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Princess Beatrice’s Husband Sends Rare Public Message To Kate Middleton Amid Prince William’s Plans For ‘Massive Restructuring’ Of Monarchy",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/princess-beatrice-husband-sends-rare-113000901.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/562c2614033787b89504c8d876cda076813f48a75a38568163a8564affad7414/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F0c9bfef73c301a3f5bd694b04bdb95a4.jpg",
+   "published": "2026-11-25T11:30:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Pete Edochie, vetern Nigerian actor dies at 79: Cause of death revealed",
    "url": "https://jang.com.pk/en/76840-pete-edochie-vetern-nigerian-actor-dies-at-79-cause-of-death-revealed-news",
    "source": "jang.com.pk",
@@ -605,12 +473,12 @@
    "trend_score": 2000
   },
   {
-   "title": "Taylor Swift's music teacher sets record straight over Vanity Fair quote",
-   "url": "https://jang.com.pk/en/76839-taylor-swifts-music-teacher-sets-record-straight-over-vanity-fair-quote-news",
-   "source": "jang.com.pk",
-   "category": "Music",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-25/76839_101724_eng.jpg",
-   "published": "2026-11-25T10:08:42+05:00",
+   "title": "Miley Cyrus’ Reaction to Guest Breaking Her All-Black Wedding Dress Code Revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-reaction-guest-breaking-102810459.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/8cec6fbe8922a0f223ac5369c2fc0a491146e0dfb4b639d84893f5ab7f613aa7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2Fd4fcb39eee8f4fc966bb99dcc5f4cf98.jpg",
+   "published": "2026-11-25T10:28:10+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -704,12 +572,67 @@
    "trend_score": 2000
   },
   {
+   "title": "Fans react to Ezra Frech historic ‘Dancing with the Stars’ win and prosthetic leg mishap during breathtaking freestyle",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/fans-react-ezra-frech-historic-051650415.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/cfaae083576769588eb454e9efe18ff4092dba32bca36d85b2d44725ddb2a9c8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F6dc1a14b205637afdcd0a176dd2412b4",
+   "published": "2026-11-25T05:16:50+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Hayden Panettiere’s Daughter Kaya Inherits Huge Fortune After Actress’ Death",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-daughter-kaya-inherits-044805812.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/4e947dbf5c953dfecdc4f71f9faf6724d07528dd35913eb70a57b009b1ba4342/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F0da0a31d96b97f1613deb9de648a1bcc.jpg",
    "published": "2026-11-25T04:48:05+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "'Dancing With the Stars’ Winners Through the Years: Where Are They Now?",
+   "url": "https://www.usmagazine.com/entertainment/pictures/dwts-winners-through-the-years-where-are-they-now/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2020/05/Dancing-With-the-Stars-Winners-Through-the-Years-Feature.jpg?crop=0px%2C0px%2C992px%2C561px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-25T04:22:51+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "‘Dancing With the Stars’ Winners Through the Years: Where Are They Now?",
+   "url": "https://www.yahoo.com/entertainment/slideshows/dancing-stars-winners-years-where-153042284.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/086fccb9a83f2b10bb1a7d8dccc1272f7e8c6703f78f141e449a9af749c32f77/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F934e33c5e35bde5e8af5c7182f88bf5c.jpg",
+   "published": "2026-11-25T04:22:51+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Ezra Frech Expertly Recovers After Prosthetic Mishap During 'DWTS' Finale",
+   "url": "https://www.usmagazine.com/entertainment/news/ezra-frech-reacts-after-prosthetic-mishap-during-dwts-finale/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/ezra-frech-prosthetic-mishap.jpg?crop=0px%2C129px%2C1200px%2C678px&resize=1000%2C563&quality=70&strip=all",
+   "published": "2026-11-25T04:19:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Ezra Frech Expertly Recovers After ‘Crazy’ Prosthetic Mishap During ‘DWTS’ Finale Freestyle",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/ezra-frech-expertly-recovers-crazy-041900916.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/bfa91aba3c04af9ceef38cab37291ac71d651cefdbcb5447f672f0bac5963a4d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F25f1d957aba98dab29434636194ecc37.jpg_up.jpg",
+   "published": "2026-11-25T04:19:00+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -726,6 +649,28 @@
    "trend_score": 2000
   },
   {
+   "title": "'DWTS' Officially Crowns Season 35 Winner: Who Took Home the Mirrorball?",
+   "url": "https://www.usmagazine.com/entertainment/pictures/who-won-dancing-with-the-stars-season-35-finale-recap/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183941_EM202085.jpg?crop=0px%2C152px%2C1600px%2C905px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-25T04:00:03+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "‘Dancing With the Stars’ Officially Crowns Season 35 Winner: Who Took Home the Mirrorball Trophy?",
+   "url": "https://www.yahoo.com/entertainment/slideshows/dancing-stars-officially-crowns-season-040003678.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/e3e4ac157fda05f98b086f36b820f6203f8501fcee9699773c0e5766330aa30d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F84a990672247c4ade5e83df81d7aca68.jpg",
+   "published": "2026-11-25T04:00:03+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Celeb Engagements of 2026: RHOA's Porsha Williams and Sway and More Stars",
    "url": "https://www.usmagazine.com/celebrity-news/pictures/celebrity-engagements-of-2026-rhocs-gina-kirschenheiter-more-stars/",
    "source": "usmagazine.com",
@@ -734,6 +679,17 @@
    "published": "2026-11-25T03:47:39+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/ariana-grande-saving-grace-woefully-033157879.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/ceac898107550d2380043451f6e8d71ea85be8dafdc2b99c62d288c4d9ff17c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F41159999cc1d6b7f1f4cd0ceab09e74d.jpg",
+   "published": "2026-11-25T03:31:57+00:00",
+   "trending": true,
+   "trend_term": "ben stiller · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -931,7 +887,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/b2e618ee23788f99160112490bafe2478ea0e4f3c31a36c1f757ab27fbd85f06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Fdea6dcd2da403a2a84a7e3e6437ad532.jpg",
    "published": "2026-11-25T00:22:20+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1019,7 +975,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/3e53eb32b9a7b96ad93ce0e20bb1265b033ac611532b9da179413672db007070/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F645b5832558b887f1a388d2555d178fd.jpg_up.jpg",
    "published": "2026-11-24T23:16:14+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1030,7 +986,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/1959a16db5ea37846d0c59c3d7d694a9a42427cf4486478cdd97fb0a96ae1afc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F2989a1e80d68d36e386fa58994471967.jpg",
    "published": "2026-11-24T23:13:31+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1095,17 +1051,6 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/7bb28108e5b4490f6bc2edaa0b44d5180427ee064e987846efd23d0fb64ddf76/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F942e4d341510f98561ba6d56a90c260b.jpg",
    "published": "2026-11-24T22:52:33+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Vanity Fair’s Taylor Swift article, explained: The Regina George comparison, Ugg boots and Easter eggs",
-   "url": "https://www.yahoo.com/entertainment/celebrity/article/vanity-fairs-taylor-swift-article-explained-the-regina-george-comparison-ugg-boots-and-easter-eggs-225217887.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e1188e40f26b52eabfe87150b0bf4ac45c3278ceca6598253a54bd4a4572078a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-taylor-swift-article_1759.jpg",
-   "published": "2026-11-24T22:52:17+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -1595,17 +1540,6 @@
    "trend_score": 2000
   },
   {
-   "title": "Is Blake Lively behind Taylor Swift Vanity Fair exposé? Shocking details emerge",
-   "url": "https://jang.com.pk/en/76811-is-blake-lively-behind-taylor-swift-vanity-fair-expos-shocking-details-emerge-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76811_065839_eng.jpg",
-   "published": "2026-11-24T18:58:08+05:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
    "title": "American Horror Story’s Steven Hack Dead at 68 After ‘Cardiac Event’",
    "url": "https://www.usmagazine.com/celebrity-news/pictures/celebrity-deaths-of-2026-grateful-deads-bob-weir-and-more-stars-we-lost/",
    "source": "usmagazine.com",
@@ -1624,18 +1558,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/9d3e264f0749b2e0db35135b66e6e2c37e81604d94260855148c86af33f8d743/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F1173928b481bc89846195a0ff1eb658e.jpg_up.jpg",
    "published": "2026-11-24T18:44:19+00:00",
    "trending": true,
-   "trend_term": "trinity rodman · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "How Taylor Swift Reportedly Responded To Vanity Fair's 'Unflattering' Exposé",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-reportedly-responded-vanity-183708652.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1a2a38e177b565ccc092633d623168b707d44fb147a3933fbca7dee6d4871cba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2F5338a5061a9642b185481f33c480f1d4.jpg",
-   "published": "2026-11-24T18:37:08+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
+   "trend_term": "trinity rodman · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1777,17 +1700,6 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/92797e64b287c6a8cd4af9010908fb8873d747979e9783876fb1c38d936a7a07/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Feba60125b252858f508f173679469774.jpg",
    "published": "2026-11-24T18:00:00+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Travis Kelce stands by Taylor Swift after controversial Vanity Fair article",
-   "url": "https://jang.com.pk/en/76808-travis-kelce-stands-by-taylor-swift-after-controversial-vanity-fair-article-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76808_055554_eng.jpg",
-   "published": "2026-11-24T17:55:36+05:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -2002,6 +1914,17 @@
    "trend_score": 2000
   },
   {
+   "title": "The best Thanksgiving movies to watch this week to start your holiday season right, from 'Planes, Trains and Automobiles' to 'Pilgrim'",
+   "url": "https://www.yahoo.com/entertainment/movies/article/the-best-thanksgiving-movies-to-watch-this-week-to-start-your-holiday-season-right-from-planes-trains-and-automobiles-to-pilgrim-155400359.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/9463717d4bc3ee22812563841bceb82f6a535ed49fe70f18b4a0fe62df032411/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-badge-top-left_9048.png",
+   "published": "2026-11-24T15:54:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Bella Hadid Details 'Intense' Desire to Have 'Lots of Children'",
    "url": "https://www.usmagazine.com/celebrity-news/news/bella-hadid-details-intense-desire-to-have-lots-of-children/",
    "source": "usmagazine.com",
@@ -2031,7 +1954,18 @@
    "image": "https://s.yimg.com/lo/mysterio/api/fcc68eaaa17778d32c89f14673b31e3f89cd7e1f9e7a7c60222f49198f677bc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F12921281523701ed293fb23076aa28fc.jpg_up.jpg",
    "published": "2026-11-24T15:41:32+00:00",
    "trending": true,
-   "trend_term": "jonbenet ramsey · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "jonbenet ramsey · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Netflix’s Best New Christmas Movie Has A Near-Record Rotten Tomatoes Score",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/netflix-best-christmas-movie-near-154116653.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/94e1ef65ba5324f9784f2e208b751227bcb6d084a871ba3562b95b02627f384c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Ff22dd05b7955472ec17588c2aef43fdd.jpg_up.jpg",
+   "published": "2026-11-24T15:41:16+00:00",
+   "trending": true,
+   "trend_term": "best · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2063,17 +1997,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/6d60cca0c39b8c271e069c7aeaa7e0ec8027e62786ded5aa18697a28e8fedc10/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F6080d406dddddeee1dd5424656de7a0e.jpg",
    "published": "2026-11-24T15:14:04+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Taylor Swift strongly reacts to Vanity Fair’s ‘mean girl’ exposé: ‘It feels like…’",
-   "url": "https://jang.com.pk/en/76798-taylor-swift-strongly-reacts-to-vanity-fairs-mean-girl-expos-it-feels-like-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76798_023909_eng.jpg",
-   "published": "2026-11-24T14:51:31+05:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -2156,14 +2079,14 @@
    "trend_score": 2000
   },
   {
-   "title": "‘Just made me like her even more’: Vanity Fair’s Taylor Swift ‘hit piece’ sparks outrage",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/just-made-her-even-more-113053016.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/53b5b56b146125f375e713543854aa23ebe6d039d9b5a3f7e54f8ee7611656b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F1843e3a3f02e5f55a9cb7c3582395823.jpg",
-   "published": "2026-11-24T11:30:53+00:00",
+   "title": "The 17 Best Christmas Romance Movies on Netflix, Ranked",
+   "url": "https://collider.com/best-netflix-christmas-romantic-movies/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/emma-roberts-and-luke-bracey-in-holidate-1.jpg",
+   "published": "2026-11-24T11:23:12+00:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
+   "trend_term": "best · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2207,7 +2130,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/198c080868bad030d86fa99974a3f0fbd40264454fb25be2cd82edab1cd042f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff04c3e00aee1f532f64d753ee9b1c2fe.jpg",
    "published": "2026-11-24T11:04:03+00:00",
    "trending": true,
-   "trend_term": "christie miller · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "christie miller · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2233,12 +2156,12 @@
    "trend_score": 2000
   },
   {
-   "title": "Taylor Swift branded 'Regina George' in bombshell Vanity Fair report as 100+ sources weigh in",
-   "url": "https://jang.com.pk/en/76790-taylor-swift-branded-regina-george-in-bombshell-vanity-fair-report-as-100-sources-weigh-in-news",
-   "source": "jang.com.pk",
+   "title": "Marvel Officially Reveals Doctor Doom’s First Encounter With Doctor Strange Ahead of ‘Avengers: Doomsday’",
+   "url": "https://collider.com/marvel-doctor-doom-doctor-strange-challenges-of-doom-avengers-doomsday/",
+   "source": "collider.com",
    "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76790_093331_eng.jpg",
-   "published": "2026-11-24T09:33:21+05:00",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/doctor-strange.jpg",
+   "published": "2026-11-24T10:00:12+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -2284,7 +2207,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a730126d3ddf64ae29063cecc058370e699af3867d5b284153d8db8703514b06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fb4c9f22bd1ba0e6dfe22e881d638d30a.jpg",
    "published": "2026-11-24T08:43:08+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2305,17 +2228,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/e3031291102a6a1ef57d002adf2b8cd4a76e813862de1d4e7f8e3fc0ebdfa9bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fdfa2f4c1c9114e01ba37e92c9da31ce6.jpg",
    "published": "2026-11-24T08:41:54+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Donny Osmond addresses Michael Jackson sexual abuse allegations",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/donny-osmond-addresses-michael-jackson-211546817.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b9193e97a844e05388b406323db88724f1755adfed295a7d1e1b5500c34a145c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F9fab32e3cbff445eae6e6d626a7bfc69.jpg_up.jpg",
-   "published": "2026-11-24T08:12:08+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -2559,7 +2471,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
    "published": "2026-11-24T00:36:09+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2585,17 +2497,6 @@
    "trend_score": 2000
   },
   {
-   "title": "Is Vanity Fair’s Hit Piece on Taylor Swift Really Journalism?",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/vanity-fair-hit-piece-taylor-001214668.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/73e7e06fea73101366c4c2adbfd0127ca4dbb4c02d8748d6d3c0c288918849f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Ff32f2a3144fb733c7318905dd54c9006.jpg_up.jpg",
-   "published": "2026-11-24T00:12:14+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
    "title": "Sister of Miley Cyrus Wedding Guest Wearing Yellow Reacts to Dress Code Mishap",
    "url": "https://www.usmagazine.com/stylish/news/sister-of-miley-cyrus-wedding-guest-wearing-yellow-speaks-out/",
    "source": "usmagazine.com",
@@ -2615,6 +2516,17 @@
    "published": "2026-11-23T23:57:16+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "3 Best Prime Video Movies To Watch This Week (Nov 23-27)",
+   "url": "https://collider.com/best-movies-prime-video-week-november-23-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/04/hairspray-michelle-pfeiffer2.jpg",
+   "published": "2026-11-23T23:34:34+00:00",
+   "trending": true,
+   "trend_term": "best · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2794,17 +2706,6 @@
    "trend_score": 2000
   },
   {
-   "title": "Donny Osmond Says Abuse Allegations ‘Destroyed’ Michael Jackson, Won’t Share if He Thinks He’s Innocent",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/donny-osmond-says-abuse-allegations-222314950.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/5288f49cd4c5b156b997cc005a327516acd4e554d444534c3f3821e47668b4d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F8c27dff3664f3c31f9bc194f29ea195e.jpg",
-   "published": "2026-11-23T22:23:14+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
    "title": "Texas Mom of 4 Wanted a Divorce Before 2 Relatives Allegedly Killed Her on Her Birthday: Report",
    "url": "https://www.yahoo.com/news/us/articles/texas-mom-4-wanted-divorce-220433617.html",
    "source": "profiles.yahoo.com",
@@ -2878,7 +2779,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2271992036Jensen-Huang-Affair-and-Spying-Scandal-Explained.jpg",
    "published": "2026-11-23T21:49:52+00:00",
    "trending": true,
-   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "11 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2966,7 +2867,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4c017f7f7743afd8b10192f43673160b44e62ed9ca3d57e5b2277ad2ce83f561/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F4f016fc7b867dcb6cc856fec958af894.jpg",
    "published": "2026-11-23T21:26:51+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3022,6 +2923,17 @@
    "published": "2026-11-23T20:44:43+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "3 Best Netflix Movies To Watch This Week (Nov 23-27)",
+   "url": "https://collider.com/best-netflix-movies-watch-week-november-23-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/caught-stealing-regina-king-matt-smith-interview.jpg",
+   "published": "2026-11-23T20:19:12+00:00",
+   "trending": true,
+   "trend_term": "best · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3109,7 +3021,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/c455eeeaa88a22ae1775dc0e25f01a97c9485aa79734508894b69990cc777810/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fd307dc9b0468dc84c27adb8c37aafdde.jpg",
    "published": "2026-11-23T19:34:47+00:00",
    "trending": true,
-   "trend_term": "tee higgins · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "tee higgins · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3142,7 +3054,7 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
    "published": "2026-11-23T19:30:12+00:00",
    "trending": true,
-   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "anthony mackie · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3229,17 +3141,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/a7b56ede51fdb592c36dcda655edc010dfaf6ebe67fbbf1fd7e8f9e3814a7103/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2738e504aa809dbded61978781fd6e85.jpg_up.jpg",
    "published": "2026-11-23T19:04:34+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Taylor Swift slammed as real-life ‘Regina George’ by classmates and acquaintances in brutal Vanity Fair hit piece",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-slammed-real-life-190118182.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/a5afbfdaac999879f053b78827a038bd51f3f06faf02ed52606e47634edffc80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F4bf34d7fd4e24baf84f5a9420b383e46.jpg",
-   "published": "2026-11-23T19:01:18+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -3377,17 +3278,6 @@
    "trend_score": 2000
   },
   {
-   "title": "Donny Osmond Addresses Sexual Abuse Allegations Against ‘Dear Friend’ Michael Jackson",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/donny-osmond-addresses-sexual-abuse-173833799.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/d256bdeb147befa5dff9a1752c3cc11793abcc1345d9a48d005d021a89106385/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc94165f0f338bc9b5fc8ff08d770a996.jpg",
-   "published": "2026-11-23T17:38:33+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
    "title": "Meghan Markle’s Hairstylist Spills Secrets About Life With Prince Harry",
    "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-hairstylist-spills-secrets-172445112.html",
    "source": "yahoo.com",
@@ -3395,7 +3285,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/b538974d08cc6f5365fb199a0ed8eb6f78e198546197e5c9d1dcb8d65f32c8ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F1cab51f43b069661d62307a6a05f53f8.jpg",
    "published": "2026-11-23T17:24:45+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3406,7 +3296,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/53f1e07ab29186160a6f1fcbe4d3c6d2e8f7b6bc1d3f3a0d7d6e5a867df1812e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2bb666ef9c52136b7557f3f3136fe5b9.jpg",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3417,7 +3307,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2255584-justin-timberlake-britney-spears.jpg?crop=0px%2C37px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T17:12:18+00:00",
    "trending": true,
-   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "justin timberlake · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3527,7 +3417,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Ezra-Frech-Reacts-to-Hailey-Bills-Dating-Rumors.png?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T15:13:16+00:00",
    "trending": true,
-   "trend_term": "hailey bills · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hailey bills · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3538,7 +3428,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a9d5e3a94541572a0523928c660884b1b0694a6b60591a61d7b9790fc4c651f6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Feaf8554207cb8680dfdf7160714f4f43.png",
    "published": "2026-11-23T15:13:16+00:00",
    "trending": true,
-   "trend_term": "hailey bills · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hailey bills · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3663,58 +3553,69 @@
    "trend_score": 2000
   },
   {
-   "title": "Donny Osmond Makes Rare Comment About Michael Jackson Child Abuse Claims",
-   "url": "https://www.usmagazine.com/celebrity-news/news/donny-osmond-addresses-michael-jackson-child-abuse-allegations/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Donny-Osmond-Makes-Rare-Comment-About-Michael-Jackson-Child-Abuse-Claims.jpg?crop=0px%2C70px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T11:23:08+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Here's Why A Woman Broke Miley Cyrus's Strict Black-Tie Wedding Dress Code",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/heres-why-woman-broke-miley-112220536.html",
+   "title": "‘He knows the person she is behind closed doors’: Travis Kelce reportedly ‘always going to have’ Taylor Swift’s back",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/knows-person-she-behind-closed-113053849.html",
    "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/7d173dd954f46baac4882fea66c0ef690a3abd6b574972996308882c64fe7d42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F8f8457537872fcaf0cb766923250fcf6.jpg",
-   "published": "2026-11-23T11:22:20+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Jason Tartick Teases Holiday Plans With Fiancee Kathryn After Engagement",
-   "url": "https://www.usmagazine.com/celebrity-news/news/jason-tartick-teases-holiday-plans-with-fiancee-kathryn-hurley/",
-   "source": "usmagazine.com",
    "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2302612913-Jason-Tartick-Teases-Holiday-Plans-With-Fiancee-Kathryn-After-Engagement-e1795209515262.jpg",
-   "published": "2026-11-23T11:00:56+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/526ebabb9d724c7a5db3b1a303c00fb6aff84bff2cf589f3e80dfced63c079c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F6d888a44b92bcb9a329c13a4f9cf8a7c.jpg",
+   "published": "2026-11-25T11:30:53+00:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
+   "trend_term": "regina george",
+   "trend_score": 200
   },
   {
-   "title": "Bachelor Nation’s Jason Tartick Teases Holiday Plans With Fiancee Kathryn Hurley After Engagement",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/bachelor-nation-jason-tartick-teases-110056569.html",
-   "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/0be231e20b99ea6de1b5cd8ca622778850c054015689cc2a1607afe135a24e9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fa7d05a87a144b26d1c9f0cf99182fee4.jpg",
-   "published": "2026-11-23T11:00:56+00:00",
+   "title": "Stop telling us what we already know about Taylor Swift | Opinion",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/stop-telling-us-already-know-093126875.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f64eb1796fdb3436a16f067a4eb2642f932f5dc4302801862a8335222e16f62e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_opinion_532%2F2da1af0d1baa535d17bea9ca28cb57bf.jpg",
+   "published": "2026-11-25T09:31:26+00:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
+   "trend_term": "regina george",
+   "trend_score": 200
   },
   {
-   "title": "AI voice recorder Plaud wins Google Play's 2026 Productivity app award",
-   "url": "https://jang.com.pk/en/76801-ai-voice-recorder-plaud-wins-google-plays-2026-productivity-app-award-news",
-   "source": "jang.com.pk",
-   "category": "Awards",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76801_032713_eng.jpg",
-   "published": "2026-11-24T15:27:57+05:00",
+   "title": "Taylor Swift Accused Of PR Move Over Brenda Lee Video Amid Vanity Fair Drama",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-accused-pr-move-233000143.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0cf6f9fe7e5d798007858763dfd31045d4dcddacbb88d83c944fd296e869095a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Ffa679bd5f6a08413136f6750622b1ad1.jpg",
+   "published": "2026-11-24T23:30:00+00:00",
    "trending": true,
-   "trend_term": "google play",
+   "trend_term": "regina george",
+   "trend_score": 200
+  },
+  {
+   "title": "‘Never forget where you come from’: Taylor Swift’s former classmate defends Vanity Fair’s report, says that she is ‘equally as talented’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/never-forget-where-come-taylor-213226758.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/53b5b56b146125f375e713543854aa23ebe6d039d9b5a3f7e54f8ee7611656b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F1843e3a3f02e5f55a9cb7c3582395823.jpg",
+   "published": "2026-11-24T21:32:26+00:00",
+   "trending": true,
+   "trend_term": "regina george",
+   "trend_score": 200
+  },
+  {
+   "title": "Taylor Swift Hit Piece Takes A Messy Turn Amid New Report Publisher Was Denied Access To Her Exclusive Wedding Photos",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-hit-piece-takes-194000524.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/293e2ca6231318062e0ff8038aab141c9a0ac08f614e48cc50d9fe078b2c5067/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F3b6cdaeeebe185031bfebd433cf4c45b.jpg",
+   "published": "2026-11-24T19:40:00+00:00",
+   "trending": true,
+   "trend_term": "regina george",
+   "trend_score": 200
+  },
+  {
+   "title": "New Report Alludes to Taylor Swift Being Comparable to ‘Mean Girls’ Villain Regina George",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/report-alludes-taylor-swift-being-213412603.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/52ed9ca9b18a66fb02719adf8d7200a4e740cfcd7c67ba090855a45254d14f8c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2Fbfc73abf798486c76adc30355e9ee1dd.jpg",
+   "published": "2026-11-23T21:34:12+00:00",
+   "trending": true,
+   "trend_term": "regina george",
    "trend_score": 200
   },
   {
@@ -3773,14 +3674,14 @@
    "trend_score": 0
   },
   {
-   "title": "Ariana Grande Is the Saving Grace of the Woefully Unfunny Focker In-Law",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/ariana-grande-saving-grace-woefully-033157879.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/ceac898107550d2380043451f6e8d71ea85be8dafdc2b99c62d288c4d9ff17c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F41159999cc1d6b7f1f4cd0ceab09e74d.jpg",
-   "published": "2026-11-25T03:31:57+00:00",
+   "title": "8 Sci-Fi Miniseries That Are Bangers From Start to Finish",
+   "url": "https://collider.com/best-sci-fi-miniseries-bangers/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/06/peter-krause-and-julianna-margulies-in-the-lost-room.jpg",
+   "published": "2026-11-25T04:19:12+00:00",
    "trending": true,
-   "trend_term": "ben stiller",
+   "trend_term": "best",
    "trend_score": 0
   },
   {
@@ -3792,6 +3693,39 @@
    "published": "2026-11-25T01:57:07+00:00",
    "trending": true,
    "trend_term": "cameron brink",
+   "trend_score": 0
+  },
+  {
+   "title": "The 10 Best Dark Fantasy Films of All Time, Ranked",
+   "url": "https://collider.com/best-dark-fantasy-movies/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/pan-s-labyrinth-2006.jpg",
+   "published": "2026-11-25T01:52:12+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
+   "title": "Khloé Kardashian's Best Friend Khadijah Haqq Reveals $5,241 Monthly Income and $13K in Expenses Amid Divorce",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/khlo-kardashians-best-friend-khadijah-233010568.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8149ba29e8f35eee04d2209123cb2b38dea6d5f80fb6567ac5427f3e8658f3c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F4ecd4b83a843904036d9ffc14cbc3ad3.jpg",
+   "published": "2026-11-24T23:30:10+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
+   "title": "‘Wild Horse Nine’ sets its sights on 7 Oscars noms, including Best Picture",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/wild-horse-nine-sets-sights-233000893.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/af1b78222c5de055bb17a75314fac5d7c5faf26ad8405a24101712aab9246a2b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgold_derby_993%2Fb6df388071f938c16ca96392fc490629.jpg",
+   "published": "2026-11-24T23:30:00+00:00",
+   "trending": true,
+   "trend_term": "best",
    "trend_score": 0
   },
   {
@@ -3817,6 +3751,28 @@
    "trend_score": 0
   },
   {
+   "title": "We Officially Ranked Every James Bond Movie From Worst to Best",
+   "url": "https://collider.com/james-bond-movies-ranked-worst-to-best/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/casino-royale-daniel-craig.jpg",
+   "published": "2026-11-24T22:56:12+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
+   "title": "Bill Maher Declares Obama ‘Best President Of His Lifetime’ Following Trump’s Public Humiliation Tirade",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/bill-maher-declares-obama-best-223000863.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/fd322f6007c6807a08868f677c0a9b77ba96f335073f838f1d9a37d1246e154b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F8f1d5079b54d6b70ba4a2e349aeda8e0.jpg",
+   "published": "2026-11-24T22:30:00+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
    "title": "Miss Universe 2026: Here’s Where to Watch the Pageant Online for Free",
    "url": "https://www.yahoo.com/entertainment/articles/miss-universe-2026-where-watch-214236025.html",
    "source": "yahoo.com",
@@ -3839,6 +3795,28 @@
    "trend_score": 0
   },
   {
+   "title": "The Best Books From the Last 10 Years That Hooked Me From the Opening Chapter",
+   "url": "https://collider.com/best-books-last-10-years-hooked-me-opening-chapter/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/la-belle-sauvage-phillip-pullman.jpg",
+   "published": "2026-11-24T17:45:12+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
+   "title": "Malin Akerman Reveals She Lost “White Lotus” Role to One of Her Best Friends",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/malin-akerman-reveals-she-lost-162714848.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/18f1a46c27a2693a2af4c3b2ab43a463956be9d0be4d0cf77ab0db0c63e1b463/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F7cd5d61bc31b77db57351a74f5bc1e61.jpg",
+   "published": "2026-11-24T16:27:14+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
    "title": "I Wanted More Of Maya Hawke’s Wiress At The End Of Sunrise On The Reaping. She Has Another POV",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/wanted-more-maya-hawke-wiress-162320993.html",
    "source": "yahoo.com",
@@ -3847,6 +3825,50 @@
    "published": "2026-11-24T16:23:20+00:00",
    "trending": true,
    "trend_term": "ben wang",
+   "trend_score": 0
+  },
+  {
+   "title": "AI voice recorder Plaud wins Google Play's 2026 Productivity app award",
+   "url": "https://jang.com.pk/en/76801-ai-voice-recorder-plaud-wins-google-plays-2026-productivity-app-award-news",
+   "source": "jang.com.pk",
+   "category": "Awards",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76801_032713_eng.jpg",
+   "published": "2026-11-24T15:27:57+05:00",
+   "trending": true,
+   "trend_term": "google play",
+   "trend_score": 0
+  },
+  {
+   "title": "The 10 Best Fantasy Books of the Last 25 Years, Ranked",
+   "url": "https://collider.com/best-fantasy-books-past-25-years-ranked/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/a-dance-with-dragons.jpg",
+   "published": "2026-11-24T13:14:12+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
+   "title": "Hulu Is Losing One of Tom Hanks’ Best Movies Before Christmas",
+   "url": "https://collider.com/toy-story-2-leaving-hulu-december-23-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/img_2873-1.jpg",
+   "published": "2026-11-24T12:30:12+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
+   "title": "The 10 Best Alternative Rock Bands of All Time, Ranked",
+   "url": "https://collider.com/best-alternative-rock-bands-all-time-ranked/",
+   "source": "collider.com",
+   "category": "Music",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-sound-of-the-smiths-2008-album-crop-1.jpg",
+   "published": "2026-11-24T11:36:12+00:00",
+   "trending": true,
+   "trend_term": "best",
    "trend_score": 0
   },
   {
@@ -3905,6 +3927,17 @@
    "trend_score": 0
   },
   {
+   "title": "Helen Fraser, actress best known as Sylvia ‘Bodybag’ Hollamby in the prison drama Bad Girls",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/helen-fraser-actress-best-known-060000045.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/765a7fd2acd1144dd638a48df02780edb956730ed3c27ad9946c65f07ba4acc5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F3c299bf65adc93f6d5d48c27b462bb55.jpg",
+   "published": "2026-11-24T06:00:00+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
    "title": "India Could Post Its Highest Box Office Since the Pandemic, Zee Studios’ Girish Johar Tells WAVES Film Bazaar",
    "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/india-could-post-highest-box-052949164.html",
    "source": "yahoo.com",
@@ -3916,6 +3949,17 @@
    "trend_score": 0
   },
   {
+   "title": "The 8 Best Tom Clancy Books, Ranked",
+   "url": "https://collider.com/best-tom-clancy-books-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/the-hunt-for-red-october-40th-annivasary.jpg",
+   "published": "2026-11-24T05:22:12+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
    "title": "Anya Taylor-Joy ‘Went Mute’ on ‘Lord of the Rings: The Hunt for Gollum’ Set When Ian McKellen Showed Up: ‘That’s F—ing Gandalf’",
    "url": "https://www.yahoo.com/entertainment/movies/articles/anya-taylor-joy-went-mute-044500265.html",
    "source": "yahoo.com",
@@ -3924,6 +3968,28 @@
    "published": "2026-11-24T04:45:00+00:00",
    "trending": true,
    "trend_term": "anya taylor-joy",
+   "trend_score": 0
+  },
+  {
+   "title": "International Emmy Awards 2026 Photos: Best Of The Red Carpet",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/international-emmy-awards-2026-photos-042019752.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/8188510e4834150ebc9db68af2be61a028311536c3fe0d8690eba5a85f267786/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fd0f1f3e406e543b9a2d2d940b22bd32b.jpg",
+   "published": "2026-11-24T04:20:19+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
+   "title": "The 13 Best Christmas Movies of the Last 5 Years, Ranked",
+   "url": "https://collider.com/christmas-movies-past-5-years-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/dominic-sessa-paul-giamatti-and-da-vine-joy-randolph-in-the-holdovers-1.jpg",
+   "published": "2026-11-24T04:11:12+00:00",
+   "trending": true,
+   "trend_term": "best",
    "trend_score": 0
   },
   {
@@ -3960,6 +4026,17 @@
    "trend_score": 0
   },
   {
+   "title": "‘I’m A Celebrity’s AJ Odudu Gets Support From ‘BBUK’ Co-Host Will Best & More Stars Amid Microaggressions On ITV Reality Series",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/m-celebrity-aj-odudu-gets-014522321.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/5bedfb2ac325bd99c4e35b8f31f57d779b188e753d51b7ceec9e4ebebdc4e270/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Ffed4035726b3bad336b63b29ca789817.jpg",
+   "published": "2026-11-24T01:45:22+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
    "title": "‘Hooters: The Movie’ Sets Owen Patrick Joyner, Kyle Clark & Audrey Trullinger",
    "url": "https://www.yahoo.com/entertainment/movies/articles/hooters-movie-sets-owen-patrick-014115678.html",
    "source": "yahoo.com",
@@ -3979,6 +4056,28 @@
    "published": "2026-11-24T01:30:12+00:00",
    "trending": true,
    "trend_term": "anya taylor-joy",
+   "trend_score": 0
+  },
+  {
+   "title": "Connor Storrie Named the Best Dressed of 2026 by Vogue Magazine: The ‘Heated Rivalry’ Star Opens Up About Fashion and Life with Hudson Williams",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/connor-storrie-named-best-dressed-000452797.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/86c3c08ad94f758b83e60e13cdd8475c00cdb3cb81fdadf2dd22c8ef95a72a9d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2Fce7c1edd3bd79b1990feb6960aca21f7.jpg",
+   "published": "2026-11-24T00:04:52+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
+   "title": "Erin and Ben Napier Celebrate 18 Years of Marriage: ‘The Best Thing That Ever Happened to Me’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/erin-ben-napier-celebrate-18-233318412.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1c7cccfa1cd3f1ae492ebf86e9e3bfb40a19439efb5faa093df939ff70af19f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F52b96a7a5c1a8a8ae2ce745fa9c1a965.jpg",
+   "published": "2026-11-23T23:33:18+00:00",
+   "trending": true,
+   "trend_term": "best",
    "trend_score": 0
   },
   {
@@ -4158,6 +4257,17 @@
    "trend_score": 0
   },
   {
+   "title": "Anna and Jackson Klem Reflect on the ‘Best Parts’ of Parenthood So Far as They Share a Peek at Son’s ‘Dream’ Nursery (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/anna-jackson-klem-reflect-best-173000546.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f137c0fafd95304c62bf69ea17cca6f52f00a7105a6be73d768779be55acacde/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F8d000862f5cf954c305b7f4829379f60.jpg",
+   "published": "2026-11-23T17:30:00+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
    "title": "Marvel’s Spider-Man Officially Gets Stunning Makeover For New Release",
    "url": "https://collider.com/marvel-spider-man-peach-momoko-art-book-exclusive/",
    "source": "collider.com",
@@ -4180,6 +4290,28 @@
    "trend_score": 0
   },
   {
+   "title": "The 200 Best Songs of the 1990s",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/200-best-songs-1990s-145448081.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/33d14deac92bd5dd182619e53edfe09ddfefc56c48cf6d64484ad4060b7a725a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F49338b4017dc94662f27740a874afb93.jpg",
+   "published": "2026-11-23T14:54:48+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
+   "title": "'Dancing With the Stars' has delivered some fierce fashion in Season 35. We asked kids to rate the best looks.",
+   "url": "https://www.yahoo.com/entertainment/tv/article/dancing-with-the-stars-has-delivered-some-fierce-fashion-in-season-35-we-asked-kids-to-rate-the-best-looks-140000376.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/795f28dc4e1426a3a14d2841d112b67e36d21846b65901dc70d0d9900358d29b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-dwts-kids-rate_7442.jpg",
+   "published": "2026-11-23T14:00:00+00:00",
+   "trending": true,
+   "trend_term": "best",
+   "trend_score": 0
+  },
+  {
    "title": "'Hunger Games' prequel 'Sunrise on the Reaping' opens to $225 million at global box office",
    "url": "https://www.yahoo.com/entertainment/movies/article/hunger-games-prequel-sunrise-on-the-reaping-opens-to-225-million-at-global-box-office-122631323.html",
    "source": "yahoo.com",
@@ -4197,6 +4329,270 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-25/76849_011641_eng.jpg",
    "published": "2026-11-25T13:16:09+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "We Officially Ranked the 8 Best Netflix Shows of All Time",
+   "url": "https://collider.com/best-netflix-shows-all-time-ranked/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/01/money-heist-2017-2021-1.jpg",
+   "published": "2026-11-25T11:56:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 10 Most Overrated Rock Songs of All Time, Ranked",
+   "url": "https://collider.com/most-overrated-rock-songs-all-time-ranked/",
+   "source": "collider.com",
+   "category": "Music",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/the-beatles-abbey-road-1969.jpg",
+   "published": "2026-11-25T11:49:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "'Dancing With the Stars' crowns mirror ball winner: Finale recap and latest updates",
+   "url": "https://www.yahoo.com/entertainment/tv/live/dancing-with-the-stars-crowns-mirror-ball-winner-finale-recap-and-latest-updates-044656350.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/0f87ef7ec8b2254e5bcdc2e3499a56a09ab98d4ae77dd93908efe800853de1d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-dwts_5810.jpg",
+   "published": "2026-11-25T11:48:21+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "'GTA 6' Meets 'Pulp Fiction' in Quentin Tarantino’s Masterpiece Crime Thriller 'True Romance'",
+   "url": "https://collider.com/quentin-tarantino-grand-theft-auto-6-true-romance-streaming-free-tubi-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/true-romance-gary-oldman.jpg",
+   "published": "2026-11-25T11:38:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The Filmmakers Behind ‘Andrew Tate: Toxic Empire’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/filmmakers-behind-andrew-tate-toxic-113627236.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/1cdeba999717642aaa1ed3a0e563eac02b19e239419f277eecc240eb2e64fd18/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Feae36d7187eff3cff46223b132d02fb2.jpg_up.jpg",
+   "published": "2026-11-25T11:36:27+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "7 Years Later, Quentin Tarantino Officially Returns to Theaters",
+   "url": "https://collider.com/the-further-mis-adventures-of-cliff-booth-imax-theaters-netflix-release/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/quentin-tarantino1.jpg",
+   "published": "2026-11-25T11:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "See the 7 Most Nostalgic Photos from “I Love Lucy”",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/see-7-most-nostalgic-photos-113000392.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/2898b6c5d4d5170ddad41eb11f8b80213b7c8c328967e0c7c9e8fabf71a0906c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbc8a79f98369a72f2984b37a3d19d41d.jpg",
+   "published": "2026-11-25T11:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "“Platoon” actor Reveals Why He Lives in Florida and ‘Never’ Moved to Hollywood, Even at the Height of His Career",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/platoon-actor-reveals-why-lives-113000440.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/92164a48e4c7ce317aeddd99130fc5075ae1fceebb8c49e8acc81a3f44d2fd6d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F495d354ac6eeb9f2b83db9e885407243.jpg",
+   "published": "2026-11-25T11:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "How much money Dave Portnoy has made from just the first video of the Internet Invitational",
+   "url": "https://www.yahoo.com/entertainment/music/articles/much-money-dave-portnoy-made-113000745.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/683666c6044d23c222717a87a7a1e96b211d25b30eb6ca7e4926506718ed286b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2F9e1dd108327c7b00a1f4f9a9c848e0c1.jpg",
+   "published": "2026-11-25T11:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/hundreds-complain-im-celebrity-frostrup-105541470.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/6176eb4f0834804295e5aabdf378b31e03d05bcf81febd4222a58ccf0fc8e10e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7852c93558dcd022d31639086dec524a.jpg",
+   "published": "2026-11-25T11:26:48+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Iconic ’90s Rock Band Sparks MAGA Backlash With Scathing Condemnation Of ICE",
+   "url": "https://www.yahoo.com/entertainment/music/articles/iconic-90s-rock-band-sparks-112641696.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/55013fb6d59ea70c0a264f132a3611dccf91fae32941dddee0a8412174a59dca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F1ed275b6d4d8e95c25313174c326e3e7.jpg",
+   "published": "2026-11-25T11:26:41+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Cole Sprouse Says He Didn’t Make ‘Substantial Money’ on ‘Riverdale’ Until Season 4: TV Is ‘Not as Profitable for Actors Anymore’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/cole-sprouse-says-didn-t-112630856.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/6b97431e9810d91cdacc0622260f38c9c6587b3b4ed9761ba509f5ef3cd10c52/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Ffdcfdd44711b54c6ce712777337c3169.jpg",
+   "published": "2026-11-25T11:26:30+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Kendall & Kylie Jenner Join Hailey Bieber for 30th Birthday in the Bahamas",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kendall-kylie-jenner-join-hailey-111753939.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/32f1063847c54eb739c8527c0ea9fdc8c09f586316af8de9d1ef2f891b231b55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fdaf1f94280dc632bbc88152820512cc7.jpg",
+   "published": "2026-11-25T11:17:53+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "‘Blade Runner’ Meets ‘Who Framed Roger Rabbit’ in Netflix’s 119-Minute Sci-Fi Mystery",
+   "url": "https://collider.com/ray-gunn-blade-runner-replacement-sci-fi-mystery-netflix/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/03/blade-runner-1982.jpg",
+   "published": "2026-11-25T11:07:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "10 Essential Cyberpunk Books That Aren’t ‘Neuromancer,’ Ranked",
+   "url": "https://collider.com/essential-cyberpunk-books-that-arent-neuromancer-ranked/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/neuromancer.jpg",
+   "published": "2026-11-25T11:07:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The 10 Best Film Noir Movies in Cinema History, Ranked",
+   "url": "https://collider.com/best-film-noir-movies-cinema-history/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/07/gene-tierney_laura-1944.jpg",
+   "published": "2026-11-25T11:05:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ridley Scott and James Cameron’s Sci-Fi Masterpieces Officially Leave Netflix in 6 Days",
+   "url": "https://collider.com/alien-aliens-ridley-scott-james-cameron-leaving-netflix-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/aliens-carrie-henn-1.jpeg",
+   "published": "2026-11-25T11:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Prince William’s Plan to ‘Cut Off’ Ex-Prince Andrew May ‘Backfire’ If Disgraced Royal Seeks ‘Revenge’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-plan-cut-off-110010956.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f62e87e04da736519c2e50c644bdbd83de461300c452637d3946e5653e221cdf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_examiner_239%2F7bf227f650267c010230e6b824cadd3a.jpg",
+   "published": "2026-11-25T11:00:10+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "John Travolta and Daughter Ella Blue Are a Lookalike Duo in Italy, Plus Sandra Bullock, Arnold Schwarzenegger, and More",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/john-travolta-daughter-ella-blue-110000457.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/3f873260d0f1fe5f56cba8c7d63d62763cb0792f413d222556f4a365382ac910/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F7a9914f8d81de9a2353e3e8c12ee5fff.jpg_up.jpg",
+   "published": "2026-11-25T11:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "22 Years Later, This 'Battlestar Galactica' Episode Is Still a Perfect Hour of Television",
+   "url": "https://collider.com/battlestar-galactica-33-episode-perfect-hour/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/battlestar-galactica-miniseries-starbuck-1.jpeg",
+   "published": "2026-11-25T10:58:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ultra famous child star looks unrecognizable – 14 years after TV debut",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/ultra-famous-child-star-looks-105408151.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/ed01be9cd4035de43df1251c4dc0deb81b829ed6f8d0d5b4e5aca4f39feab640/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F29136dbdc76754f38c36b58b75d8f154.jpg",
+   "published": "2026-11-25T10:54:08+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Gwyneth Paltrow’s High-Slit Skirt Gets Feathery Twist With Michael Kors Top",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/gwyneth-paltrow-high-slit-skirt-105350575.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/9c11d5b27990f8424878a1680bb522f154f14e6224380185ab57a24cfc2d19f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2F46cd195b4f086858d4f20aabfe2e3eae.jpg",
+   "published": "2026-11-25T10:53:50+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Queen Elizabeth II's 'extremely fragile' wedding dress sparks debate - 79 years later",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/queen-elizabeth-iis-extremely-fragile-104755832.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/bfea04145bc931e55c25162b99607a2d5102af0ff131a726e92eba651cc69390/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F664e08f3f2c4b30b31289f09aa14a6d0.jpg",
+   "published": "2026-11-25T10:47:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Cardi B’s Manish Malhotra High-Slit Dress Gets the Biggest Keyhole Cutout",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/cardi-b-manish-malhotra-high-103928139.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/0ddd91bb98055cb5cba8937e42ab7661f23aea04352dcff241111751a0f18416/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ff5977ff5ce5cbd99a19dc59f9c3ce6de.jpg",
+   "published": "2026-11-25T10:39:28+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4257,17 +4653,6 @@
    "trend_score": 0
   },
   {
-   "title": "'Dancing With the Stars' crowns mirror ball winner: Finale recap and latest updates",
-   "url": "https://www.yahoo.com/entertainment/tv/live/dancing-with-the-stars-crowns-mirror-ball-winner-finale-recap-and-latest-updates-044656350.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/0f87ef7ec8b2254e5bcdc2e3499a56a09ab98d4ae77dd93908efe800853de1d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-dwts_5810.jpg",
-   "published": "2026-11-25T09:52:13+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Travis Barker Says Phil Collins Suggested They ‘Do Something Together’ Following Rock Hall Induction Ceremony",
    "url": "https://www.yahoo.com/entertainment/music/articles/travis-barker-says-phil-collins-094832098.html",
    "source": "yahoo.com",
@@ -4318,17 +4703,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/3d3b00aa3033a32e5db072317d71b8c5fa2d831045b8a1d6034d05d31d5b880d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F77b301ac0efa667e360dea02c5a24c2d.jpg",
    "published": "2026-11-25T09:32:35+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Stop telling us what we already know about Taylor Swift | Opinion",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/stop-telling-us-already-know-093126875.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f64eb1796fdb3436a16f067a4eb2642f932f5dc4302801862a8335222e16f62e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_opinion_532%2F2da1af0d1baa535d17bea9ca28cb57bf.jpg",
-   "published": "2026-11-25T09:31:26+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4769,17 +5143,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/9b4fba97fd47ae498179601620ccc1085b381eb067da38c3c42d3f3f35c40898/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F28d6161e2553a682d9bb40cb59dae9a7.jpg",
    "published": "2026-11-25T05:25:48+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Fans react to Ezra Frech historic ‘Dancing with the Stars’ win and prosthetic leg mishap during breathtaking freestyle",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/fans-react-ezra-frech-historic-051650415.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/cfaae083576769588eb454e9efe18ff4092dba32bca36d85b2d44725ddb2a9c8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F6dc1a14b205637afdcd0a176dd2412b4",
-   "published": "2026-11-25T05:16:50+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -5709,17 +6072,6 @@
    "trend_score": 0
   },
   {
-   "title": "Taylor Swift Accused Of PR Move Over Brenda Lee Video Amid Vanity Fair Drama",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-accused-pr-move-233000143.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/0cf6f9fe7e5d798007858763dfd31045d4dcddacbb88d83c944fd296e869095a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Ffa679bd5f6a08413136f6750622b1ad1.jpg",
-   "published": "2026-11-24T23:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Amelia Dimoldenberg Explains How 2 Panic Attacks in a Week Convinced Her to End ‘Chicken Shop Date’",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/amelia-dimoldenberg-explains-2-panic-232954416.html",
    "source": "yahoo.com",
@@ -6089,17 +6441,6 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/192566f52b5dc0dee63f9e08b13230929e8b34f7544d0df44ba26bac24f6fc40/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fholly_chatter_853%2F84b1783d7c69785b09ef084f9c5c7bf6_up.jpg",
    "published": "2026-11-24T21:34:28+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "‘Never forget where you come from’: Taylor Swift’s former classmate defends Vanity Fair’s report, says that she is ‘equally as talented’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/never-forget-where-come-taylor-213226758.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/53b5b56b146125f375e713543854aa23ebe6d039d9b5a3f7e54f8ee7611656b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F1843e3a3f02e5f55a9cb7c3582395823.jpg",
-   "published": "2026-11-24T21:32:26+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -6518,17 +6859,6 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/54296f1f15b596e7696b7d16b1359f03977f4980512e16406ece965758b38332/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F467d40b430375207755e064d2b4e132b.jpg",
    "published": "2026-11-24T19:40:14+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Taylor Swift Hit Piece Takes A Messy Turn Amid New Report Publisher Was Denied Access To Her Exclusive Wedding Photos",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-hit-piece-takes-194000524.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/293e2ca6231318062e0ff8038aab141c9a0ac08f614e48cc50d9fe078b2c5067/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F3b6cdaeeebe185031bfebd433cf4c45b.jpg",
-   "published": "2026-11-24T19:40:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -8261,17 +8591,6 @@
    "trend_score": 0
   },
   {
-   "title": "Marvel Officially Reveals Doctor Doom’s First Encounter With Doctor Strange Ahead of ‘Avengers: Doomsday’",
-   "url": "https://collider.com/marvel-doctor-doom-doctor-strange-challenges-of-doom-avengers-doomsday/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/doctor-strange.jpg",
-   "published": "2026-11-24T10:00:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Nixon had a tell when he lied. His lawyer told Bob Woodward all about it.",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/nixon-had-tell-lied-lawyer-100000067.html",
    "source": "yahoo.com",
@@ -8388,6 +8707,17 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/415878733d5eb974df6ed5dd231dfcbeadab90c97ac29c6dd3858d1dfe6dd6cd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F8bddaea998ca6699de6eef5b2d2923f0.jpg_up.jpg",
    "published": "2026-11-24T08:20:49+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Donny Osmond addresses Michael Jackson sexual abuse allegations",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/donny-osmond-addresses-michael-jackson-211546817.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b9193e97a844e05388b406323db88724f1755adfed295a7d1e1b5500c34a145c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F9fab32e3cbff445eae6e6d626a7bfc69.jpg_up.jpg",
+   "published": "2026-11-24T08:12:08+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -9581,6 +9911,17 @@
    "trend_score": 0
   },
   {
+   "title": "Donny Osmond Says Abuse Allegations ‘Destroyed’ Michael Jackson, Won’t Share if He Thinks He’s Innocent",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/donny-osmond-says-abuse-allegations-222314950.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5288f49cd4c5b156b997cc005a327516acd4e554d444534c3f3821e47668b4d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F8c27dff3664f3c31f9bc194f29ea195e.jpg",
+   "published": "2026-11-23T22:23:14+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Nicola Coughlan Revisits the Golden Age of Couture in Richard Quinn",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/nicola-coughlan-revisits-golden-age-222302473.html",
    "source": "yahoo.com",
@@ -9664,17 +10005,6 @@
    "category": "TV",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/paramount-plus-streaming-service-logo.jpg",
    "published": "2026-11-23T21:38:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "New Report Alludes to Taylor Swift Being Comparable to ‘Mean Girls’ Villain Regina George",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/report-alludes-taylor-swift-being-213412603.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/52ed9ca9b18a66fb02719adf8d7200a4e740cfcd7c67ba090855a45254d14f8c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2Fbfc73abf798486c76adc30355e9ee1dd.jpg",
-   "published": "2026-11-23T21:34:12+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -10824,6 +11154,17 @@
    "trend_score": 0
   },
   {
+   "title": "Donny Osmond Addresses Sexual Abuse Allegations Against ‘Dear Friend’ Michael Jackson",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/donny-osmond-addresses-sexual-abuse-173833799.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d256bdeb147befa5dff9a1752c3cc11793abcc1345d9a48d005d021a89106385/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc94165f0f338bc9b5fc8ff08d770a996.jpg",
+   "published": "2026-11-23T17:38:33+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Made By All Hires Ex-Spotter & Rolling Stone Exec Christina Tom",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/made-hires-ex-spotter-rolling-173754430.html",
    "source": "yahoo.com",
@@ -10967,17 +11308,6 @@
    "trend_score": 0
   },
   {
-   "title": "'Stranger Things' cast makes surprising confession as prequel series builds excitement",
-   "url": "https://jang.com.pk/en/76769-stranger-things-cast-makes-surprising-confession-as-prequel-series-builds-excitement-news",
-   "source": "jang.com.pk",
-   "category": "TV",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76769_043006_eng.jpg",
-   "published": "2026-11-23T16:30:03+05:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "'The Gilded Age' Just Made Larian's Love Story More Complicated Than Ever",
    "url": "https://collider.com/the-gilded-age-season-4-episode-4-marian-pregnant/",
    "source": "collider.com",
@@ -11050,17 +11380,6 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2305952279.jpg-colton-mckivitz.jpg?crop=0px%2C70px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-23T15:50:28+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Princess Charlene attends special ceremony with brother Gareth Wittstock",
-   "url": "https://jang.com.pk/en/76766-princess-charlene-attends-special-ceremony-with-brother-gareth-wittstock-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-23/76766_033632_eng.jpg",
-   "published": "2026-11-23T15:36:04+05:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
