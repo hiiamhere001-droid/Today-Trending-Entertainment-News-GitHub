@@ -1,70 +1,15 @@
 {
- "generated_at": "2026-11-25T21:54:40.154621+00:00",
+ "generated_at": "2026-11-25T22:52:39.811925+00:00",
  "date_us": "2026-11-25",
  "per_site": {
-  "usmagazine.com": 15,
+  "usmagazine.com": 17,
   "news.meaww.com": 3,
-  "profiles.yahoo.com": 9,
+  "profiles.yahoo.com": 10,
   "yahoo.com": 30,
   "jang.com.pk": 6,
   "collider.com": 10
  },
  "items": [
-  {
-   "title": "What to watch over Thanksgiving: Macy's parade, National Dog Show, new movies",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/watch-over-thanksgiving-macys-parade-130006295.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/527dada61989b55c26fbfd3aa44e45e389679a09459fb17fda1abaa298c6d842/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F9e88d65d9604ea88056ce6a15921d72b.jpg_up.jpg",
-   "published": "2026-11-25T13:00:06+00:00",
-   "trending": true,
-   "trend_term": "thanksgiving dog show · covered by 2 sites",
-   "trend_score": 7000
-  },
-  {
-   "title": "Duran Duran guitarist Andy Taylor dies, aged 65",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/duran-duran-guitarist-andy-taylor-214350897.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/89a918583260c1b7ef78b38f04b5103eaea480d1242aa7c036ad421bdd5c8c7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Feacc445a16bad395a321f68c30822e3f.jpg_up.jpg",
-   "published": "2026-11-25T21:43:50+00:00",
-   "trending": true,
-   "trend_term": "andy taylor",
-   "trend_score": 5000
-  },
-  {
-   "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-guitarist-wave-icons-214214869.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/2faac46fbab5015dbad04f1b98e327f6e916b2486b0ab56ce0aa3518a26c1191/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa1b481b2fc32bae0c5039a4923c60e63.jpg",
-   "published": "2026-11-25T21:42:14+00:00",
-   "trending": true,
-   "trend_term": "andy taylor",
-   "trend_score": 5000
-  },
-  {
-   "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-guitarist-duran-duran-214134962.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/5cb274e4074a4c8375f7c856c79feb41086ad157a97bd08f88bd6777c3a870bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F70f736d4e179d3e1816261a8c40e681e.jpg",
-   "published": "2026-11-25T21:41:34+00:00",
-   "trending": true,
-   "trend_term": "andy taylor",
-   "trend_score": 5000
-  },
-  {
-   "title": "Andy Taylor, Duran Duran Guitarist, Dies at 65 After ‘Courageous Battle’ with Prostate Cancer",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-duran-duran-guitarist-213556403.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/5d9501e6b7570cfa2a31aebd66ab0a49b30ee61db616669564a3f4950cd0151c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F0ad77d8b4209f0d6fd42584ebba2aa5c.jpg",
-   "published": "2026-11-25T21:35:56+00:00",
-   "trending": true,
-   "trend_term": "andy taylor",
-   "trend_score": 5000
-  },
   {
    "title": "Patrick Stewart's Cause of Death Revealed in New Report",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/patrick-stewarts-cause-death-revealed-152655636.html",
@@ -75,6 +20,17 @@
    "trending": true,
    "trend_term": "covered by 4 sites",
    "trend_score": 4000
+  },
+  {
+   "title": "Ben Shelton Made Curious Comments About Trinity Rodman Before Reported Split",
+   "url": "https://www.usmagazine.com/sports/news/ben-shelton-made-odd-comments-about-trinity-rodman-pre-split/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2281540914.jpg-ben-shelton-trinity-rodman.jpg?crop=160px%2C80px%2C1565px%2C883px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-25T16:06:33+00:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
   },
   {
    "title": "15 Marvel movies and shows to watch before 'Avengers: Doomsday' — and what to remember",
@@ -143,6 +99,17 @@
    "trend_score": 3000
   },
   {
+   "title": "Ben Shelton, Trinity Rodman spark breakup rumors after finals losses",
+   "url": "https://jang.com.pk/en/76834-ben-shelton-trinity-rodman-spark-breakup-rumors-after-finals-losses-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76834_115416_eng.jpg",
+   "published": "2026-11-24T23:49:29+05:00",
+   "trending": true,
+   "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
+  {
    "title": "Marvel Is Planning a Tribute ‘That Honors and Respects’ Patrick Stewart in “Avengers: Doomsday”, His Final Movie",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/marvel-planning-tribute-honors-respects-225233420.html",
    "source": "yahoo.com",
@@ -184,6 +151,17 @@
    "published": "2026-11-24T19:17:28+00:00",
    "trending": true,
    "trend_term": "covered by 3 sites",
+   "trend_score": 3000
+  },
+  {
+   "title": "Did Ben Shelton and Trinity Rodman break up? Couple reportedly splits",
+   "url": "https://www.yahoo.com/entertainment/articles/did-ben-shelton-trinity-rodman-184419958.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9d3e264f0749b2e0db35135b66e6e2c37e81604d94260855148c86af33f8d743/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F1173928b481bc89846195a0ff1eb658e.jpg_up.jpg",
+   "published": "2026-11-24T18:44:19+00:00",
+   "trending": true,
+   "trend_term": "trinity rodman · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 3 sites",
    "trend_score": 3000
   },
   {
@@ -352,17 +330,6 @@
    "trend_score": 3000
   },
   {
-   "title": "Elizabeth Hurley Helped Billy Ray Cyrus Reconnect With Miley Before Her Wedding, Source Says",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/elizabeth-hurley-helped-billy-ray-223002568.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3fe25ed3ed80a4906f71cbe49bbcf3d4f1dac3778c113c53a8afddc3470594d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fe72601f6c4125909aa0d8c6329a59ce3.jpg",
-   "published": "2026-11-23T22:30:02+00:00",
-   "trending": true,
-   "trend_term": "covered by 3 sites",
-   "trend_score": 3000
-  },
-  {
    "title": "All About the 2026 Macy’s Thanksgiving Day Parade",
    "url": "https://www.yahoo.com/entertainment/music/festivals/articles/2026-macy-thanksgiving-day-parade-130000538.html",
    "source": "yahoo.com",
@@ -370,18 +337,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/7caa6287c52a7efeca5604aaf25caa32505e0d0d3689aabd3041b3a174c3dc83/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F24662c2d392e44fca094eb72afc10704.jpg",
    "published": "2026-11-25T13:00:00+00:00",
    "trending": true,
-   "trend_term": "philadelphia thanksgiving day parade · covered by 2 sites",
-   "trend_score": 2500
-  },
-  {
-   "title": "How to watch historic 100th Macy's Thanksgiving Day Parade",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/watch-historic-100th-macys-thanksgiving-052923994.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/4f7ecba66033672a1b8c4cd049737e48372f61364992be1397a331f1d9767953/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_enquirer_natl_articles_358%2Fe3d13879672f9ce71a6f80ee1c35000e.jpg",
-   "published": "2026-11-25T05:29:23+00:00",
-   "trending": true,
-   "trend_term": "philadelphia thanksgiving day parade · covered by 2 sites",
+   "trend_term": "is chick fil a open on thanksgiving · covered by 2 sites",
    "trend_score": 2500
   },
   {
@@ -392,7 +348,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2186814001-macys-parade.jpg?crop=0px%2C20px%2C2000px%2C1130px&resize=1000%2C563&quality=55&strip=all",
    "published": "2026-11-24T19:33:50+00:00",
    "trending": true,
-   "trend_term": "philadelphia thanksgiving day parade · covered by 2 sites",
+   "trend_term": "is chick fil a open on thanksgiving · covered by 2 sites",
    "trend_score": 2500
   },
   {
@@ -403,8 +359,19 @@
    "image": "https://s.yimg.com/lo/mysterio/api/266300b104f7796679412a2478610f1753bbbdd7bbe2291ca8a02d4900007f6a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff522f9891f433c375cd747a86632be97.jpg",
    "published": "2026-11-24T19:33:50+00:00",
    "trending": true,
-   "trend_term": "philadelphia thanksgiving day parade · covered by 2 sites",
+   "trend_term": "is chick fil a open on thanksgiving · covered by 2 sites",
    "trend_score": 2500
+  },
+  {
+   "title": "‘Nobody Wants This’ Star Tovah Feldshuh Details Conversation With Adam Brody Amid Offscreen Drama",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/nobody-wants-star-tovah-feldshuh-132435228.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a1585f92a9f86da9dcd1644e82c7fc405bdaac92b5bc381fae4d35ae9b479cfd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Feec7e7805dbfe7b8a101b226584838aa.jpg",
+   "published": "2026-11-24T13:24:35+00:00",
+   "trending": true,
+   "trend_term": "conversation · covered by 2 sites",
+   "trend_score": 2200
   },
   {
    "title": "Macy’s Thanksgiving Day Parade Might Not Happen This Year",
@@ -495,12 +462,166 @@
    "trend_score": 2000
   },
   {
+   "title": "Miss Universe 2026 Makes History as 1st Mom and Married Woman to Win Pageant",
+   "url": "https://www.usmagazine.com/celebrity-news/news/miss-universe-2026-makes-history-as-1st-mom-to-win-pageant/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Miss-Universe-2026-Makes-History-as-1st-Mother-to-Win-Pageant-Jennifer-Barreto.jpg?crop=51px%2C23px%2C1949px%2C1102px&resize=1000%2C563&quality=70&strip=all",
+   "published": "2026-11-25T16:19:14+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Hailey Bieber Rocks Tiny Bikini on 30th Birthday Trip With Justin Bieber",
+   "url": "https://www.usmagazine.com/stylish/news/hailey-bieber-rocks-tiny-gold-bikini-on-30th-birthday-trip-with-husband-justin-bieber/",
+   "source": "usmagazine.com",
+   "category": "Fashion",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Hailey-Bieber-Poses-in-Bikini-on-Birthday-Trip.jpg?crop=0px%2C912px%2C1500px%2C848px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-25T16:08:52+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Hailey Bieber Rocks Tiny Gold Bikini on 30th Birthday Trip With Husband Justin Bieber",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/hailey-bieber-rocks-tiny-gold-160852893.html",
+   "source": "profiles.yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/db0188d333608800ef913560f16303406b807f44fa15688ab802e5dabbd442e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F8206e5cf48b068784491026e0d2ea0fe.jpg",
+   "published": "2026-11-25T16:08:52+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Patrick Clancy's Lawsuit Against Medical Professionals Will Move Forward",
+   "url": "https://www.usmagazine.com/crime-news/news/patrick-clancys-civil-lawsuit-will-move-forward/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Judge-Says-Patrick-Clancy-Lawsuit-Against-Medical-Professionals-Can-Move-Forward.jpg?crop=0px%2C176px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-25T16:08:36+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Patrick Clancy’s Lawsuit Against Medical Professionals Will Move Forward, Judge Says",
+   "url": "https://www.yahoo.com/news/us/articles/patrick-clancy-lawsuit-against-medical-160836027.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/dfb3a6c0c97864c890e09ad2a85094f2b9b0c424300e88778e97d00d178d7524/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4d6607245f56de6058db940d1275a091.jpg",
+   "published": "2026-11-25T16:08:36+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Ben Shelton Made Curious Comments About Trinity Rodman Relationship Before Reported Split",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/ben-shelton-made-curious-comments-160633578.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8868516c69c54ec66f28f7865ee8d2ef16b4a1e639747709478ece4b6cc6d317/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fa71e5a6b15e0337b939001de85d00378.jpg",
+   "published": "2026-11-25T16:06:33+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Joan Vassos Reveals If She's Ready to Date After Chock Chapple Split",
+   "url": "https://www.usmagazine.com/celebrity-news/news/golden-bachelorettes-joan-isnt-ready-to-date-after-split/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Joan-Vassos-GettyImages-2266196492.jpg?crop=0px%2C277px%2C1334px%2C754px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-25T15:58:07+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Golden Bachelorette’s Joan Vassos Reveals If She’s ‘Ready’ to Date Again After Chock Chapple Split",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/golden-bachelorette-joan-vassos-reveals-155807968.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/14da4c8a3afce3bdd1b7c8bf4f5b26de6038b72eeb05529fde87629553bd7190/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fb160ccaceb0207c21c5a538666f4881d.jpg",
+   "published": "2026-11-25T15:58:07+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Watch: Gabriel 'Fluffy' Iglesias addresses his onstage health scare",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/watch-gabriel-fluffy-iglesias-addresses-155151425.html",
    "source": "yahoo.com",
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/fab245156385896dcb4925bdc600791435c44cb79afc3f4c182ce1565118c3a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F1e143e8a1cda929306cf1836bedb42f8.jpg_up.jpg",
    "published": "2026-11-25T15:51:51+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Pregnant Jen Affleck Shares Hospital Pic, Thought Baby Was Coming Early",
+   "url": "https://www.usmagazine.com/celebrity-moms/news/jen-affleck-shares-hospital-pic-amid-early-labor-concerns/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Jen-Affleck-IG.jpg?crop=0px%2C848px%2C1080px%2C609px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-25T15:51:44+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Pregnant Jen Affleck Shares Photo From Hospital, Thought 4th Baby ‘Was Coming a Couple Weeks Early’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/pregnant-jen-affleck-shares-photo-155144563.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/06ddc8ab19855d6d92e539421f550b9187924298626e646126741a836520ebd0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F0c3b32695cbab2c366d6c601735c2ac4.jpg_up.jpg",
+   "published": "2026-11-25T15:51:44+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Noah Beck's Sister Accused of Grooming and Sexual Misconduct by 2nd Student",
+   "url": "https://www.usmagazine.com/celebrity-news/news/noah-becks-sister-haley-accused-of-grooming-and-sexual-misconduct-by-2nd-student-seeking-7-million/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Noah-Beck-Sister-Haley-Accused-of-Grooming-and-Sexual-Misconduct-by-2nd-Student.jpg?crop=0px%2C253px%2C1440px%2C814px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-25T15:45:03+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Noah Beck’s Sister Haley Accused of Grooming and Sexual Misconduct by 2nd Student Seeking $7 Million",
+   "url": "https://www.yahoo.com/news/us/articles/noah-beck-sister-haley-accused-154503810.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0231258ff749cde7fdb7433a35cbd8414f1faa6d95d91df93bb543aa4327e23c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fa73e28b874e016f49fffa60dc78bef89.jpg",
+   "published": "2026-11-25T15:45:03+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Candace Cameron Bure Addresses Distance From Mary-Kate and Ashley Olsen",
+   "url": "https://www.usmagazine.com/entertainment/news/candace-cameron-bure-explains-mary-kate-ashley-olsen-distance/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2025/06/ashleymarykate.jpg",
+   "published": "2026-11-25T15:37:41+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Candace Cameron Bure Makes Rare Comment About ‘Full House’ Cast’s Distance From Mary-Kate, Ashley Olsen",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/candace-cameron-bure-makes-rare-153741681.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/36a50a906c645a7f7a0be4269d5deb55491b6b7b261bf8d7f7b577cc193251ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F3b90a37e50ef3161e1119e904d31973f.jpg",
+   "published": "2026-11-25T15:37:41+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -638,6 +759,17 @@
    "trend_score": 2000
   },
   {
+   "title": "What to watch over Thanksgiving: Macy's parade, National Dog Show, new movies",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/watch-over-thanksgiving-macys-parade-130006295.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/527dada61989b55c26fbfd3aa44e45e389679a09459fb17fda1abaa298c6d842/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F9e88d65d9604ea88056ce6a15921d72b.jpg_up.jpg",
+   "published": "2026-11-25T13:00:06+00:00",
+   "trending": true,
+   "trend_term": "thanksgiving dog show · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Rob Lowe: ‘I was advised not to defend myself’ after 1989 sex tape scandal",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rob-lowe-advised-not-defend-125734300.html",
    "source": "yahoo.com",
@@ -744,7 +876,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/d8855ccc4eadb1fad170eba32e6e410850e7688e5489027fdf2a1afbc14d233b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F8f48d2849b9246c23d92e28661e73812.jpg",
    "published": "2026-11-25T11:00:35+00:00",
    "trending": true,
-   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -968,12 +1100,34 @@
    "trend_score": 2000
   },
   {
+   "title": "How to watch historic 100th Macy's Thanksgiving Day Parade",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/watch-historic-100th-macys-thanksgiving-052923994.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/4f7ecba66033672a1b8c4cd049737e48372f61364992be1397a331f1d9767953/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_enquirer_natl_articles_358%2Fe3d13879672f9ce71a6f80ee1c35000e.jpg",
+   "published": "2026-11-25T05:29:23+00:00",
+   "trending": true,
+   "trend_term": "philadelphia thanksgiving day parade · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Fans react to Ezra Frech historic ‘Dancing with the Stars’ win and prosthetic leg mishap during breathtaking freestyle",
    "url": "https://www.yahoo.com/entertainment/tv/articles/fans-react-ezra-frech-historic-051650415.html",
    "source": "yahoo.com",
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/cfaae083576769588eb454e9efe18ff4092dba32bca36d85b2d44725ddb2a9c8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F6dc1a14b205637afdcd0a176dd2412b4",
    "published": "2026-11-25T05:16:50+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Miss Universe 2026 Crowns Miss Puerto Rico as Winner, Marking First Mom to Win Pageant",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miss-universe-2026-becomes-first-045353329.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/afb5973ce17ce2cefef3c52087fa5170032dc32b4c1f94d5ee7ea449db243fd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbc42d50f2499c5306c15b88ad04b2472.jpg",
+   "published": "2026-11-25T04:53:53+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -1009,6 +1163,17 @@
    "published": "2026-11-25T04:22:51+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Miss Universe 2026 has been crowned – See the pageant's 75th winner",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miss-universe-2026-crowned-see-042028873.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/063b43bfb450b22ed53d046cf3c91d29eea00dc2cc6b29cae1f22c393f7ae1f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F080c809118311f80a149a5a8ddad0da5.jpg",
+   "published": "2026-11-25T04:20:28+00:00",
+   "trending": true,
+   "trend_term": "miss international 2026 · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1096,7 +1261,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/ceac898107550d2380043451f6e8d71ea85be8dafdc2b99c62d288c4d9ff17c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F41159999cc1d6b7f1f4cd0ceab09e74d.jpg",
    "published": "2026-11-25T03:31:57+00:00",
    "trending": true,
-   "trend_term": "ben stiller · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "ben stiller · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1305,7 +1470,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/b2e618ee23788f99160112490bafe2478ea0e4f3c31a36c1f757ab27fbd85f06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Fdea6dcd2da403a2a84a7e3e6437ad532.jpg",
    "published": "2026-11-25T00:22:20+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1326,17 +1491,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/d1b6f5716751ec2d4256d7e7b3d4254632ed28a401dee9bf0a326b5ff84964b8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F169c920451791093489e3a0d981bd6e8.jpg",
    "published": "2026-11-25T00:17:32+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Ben Shelton, Trinity Rodman spark breakup rumors after finals losses",
-   "url": "https://jang.com.pk/en/76834-ben-shelton-trinity-rodman-spark-breakup-rumors-after-finals-losses-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76834_115416_eng.jpg",
-   "published": "2026-11-24T23:49:29+05:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -1393,7 +1547,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/3e53eb32b9a7b96ad93ce0e20bb1265b033ac611532b9da179413672db007070/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F645b5832558b887f1a388d2555d178fd.jpg_up.jpg",
    "published": "2026-11-24T23:16:14+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1404,7 +1558,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/1959a16db5ea37846d0c59c3d7d694a9a42427cf4486478cdd97fb0a96ae1afc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F2989a1e80d68d36e386fa58994471967.jpg",
    "published": "2026-11-24T23:13:31+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1661,6 +1815,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Miss Universe 2026: Here’s Where to Watch the Pageant Online for Free",
+   "url": "https://www.yahoo.com/entertainment/articles/miss-universe-2026-where-watch-214236025.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/36b3bfcd467779c8bfcc7f72b66eba5783d43bb16c45eae5fc363376ccf4c5ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_ecomm_884%2F71d97ce623f69108efd904c80f591225.png",
+   "published": "2026-11-24T21:42:36+00:00",
+   "trending": true,
+   "trend_term": "miss international 2026 · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "DWTS’ Julianne Hough Confirms Split From Peloton Instructor Adrian Williams",
    "url": "https://www.usmagazine.com/celebrity-news/news/julianne-hough-confirms-split-from-pelotons-adrian-williams/",
    "source": "usmagazine.com",
@@ -1700,17 +1865,6 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2025/11/Leslie-Caudill-Turner-Wife-of-Missing-Virginia-High-School-Coach-Travis-Turner-Addresses-Husband-Mysterious-Disappearance-2.jpg",
    "published": "2026-11-24T21:31:30+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "'Bachelor' Star Kelley Flanagan Says She Hasn't Dated in Almost 2 Years After Ex's Alleged Cheating and Dad's Death",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bachelor-star-kelley-flanagan-says-213042119.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/467d7a6a764585aacf642f9ee75462fdd34e45a5f0c06f0e10ac7103b15e9b6c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fd20b16a22fc22846b6970e5356ed3cb1.jpg",
-   "published": "2026-11-24T21:30:42+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -1921,7 +2075,7 @@
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76811_065839_eng.jpg",
    "published": "2026-11-24T18:58:08+05:00",
    "trending": true,
-   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1936,17 +2090,6 @@
    "trend_score": 2000
   },
   {
-   "title": "Did Ben Shelton and Trinity Rodman break up? Couple reportedly splits",
-   "url": "https://www.yahoo.com/entertainment/articles/did-ben-shelton-trinity-rodman-184419958.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9d3e264f0749b2e0db35135b66e6e2c37e81604d94260855148c86af33f8d743/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F1173928b481bc89846195a0ff1eb658e.jpg_up.jpg",
-   "published": "2026-11-24T18:44:19+00:00",
-   "trending": true,
-   "trend_term": "trinity rodman · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
    "title": "How Taylor Swift Reportedly Responded To Vanity Fair's 'Unflattering' Exposé",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-reportedly-responded-vanity-183708652.html",
    "source": "yahoo.com",
@@ -1954,7 +2097,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/1a2a38e177b565ccc092633d623168b707d44fb147a3933fbca7dee6d4871cba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2F5338a5061a9642b185481f33c480f1d4.jpg",
    "published": "2026-11-24T18:37:08+00:00",
    "trending": true,
-   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2108,7 +2251,7 @@
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76808_055554_eng.jpg",
    "published": "2026-11-24T17:55:36+05:00",
    "trending": true,
-   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2350,7 +2493,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/fcc68eaaa17778d32c89f14673b31e3f89cd7e1f9e7a7c60222f49198f677bc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F12921281523701ed293fb23076aa28fc.jpg_up.jpg",
    "published": "2026-11-24T15:41:32+00:00",
    "trending": true,
-   "trend_term": "jonbenet ramsey · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "jonbenet ramsey · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2361,7 +2504,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/94e1ef65ba5324f9784f2e208b751227bcb6d084a871ba3562b95b02627f384c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Ff22dd05b7955472ec17588c2aef43fdd.jpg_up.jpg",
    "published": "2026-11-24T15:41:16+00:00",
    "trending": true,
-   "trend_term": "best · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "best · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2405,7 +2548,7 @@
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76798_023909_eng.jpg",
    "published": "2026-11-24T14:51:31+05:00",
    "trending": true,
-   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2437,17 +2580,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/d2768204dfb4c1d7d0efb2bea7b39c0713bbc91162f75b7a1a542d62d46c369d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4f643876fe1c5c395d532736a319e69d.jpg",
    "published": "2026-11-24T14:31:11+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "‘Nobody Wants This’ Star Tovah Feldshuh Details Conversation With Adam Brody Amid Offscreen Drama",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/nobody-wants-star-tovah-feldshuh-132435228.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/a1585f92a9f86da9dcd1644e82c7fc405bdaac92b5bc381fae4d35ae9b479cfd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Feec7e7805dbfe7b8a101b226584838aa.jpg",
-   "published": "2026-11-24T13:24:35+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -2493,7 +2625,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/53b5b56b146125f375e713543854aa23ebe6d039d9b5a3f7e54f8ee7611656b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F1843e3a3f02e5f55a9cb7c3582395823.jpg",
    "published": "2026-11-24T11:30:53+00:00",
    "trending": true,
-   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2504,7 +2636,7 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/emma-roberts-and-luke-bracey-in-holidate-1.jpg",
    "published": "2026-11-24T11:23:12+00:00",
    "trending": true,
-   "trend_term": "best · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "best · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2548,7 +2680,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/198c080868bad030d86fa99974a3f0fbd40264454fb25be2cd82edab1cd042f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff04c3e00aee1f532f64d753ee9b1c2fe.jpg",
    "published": "2026-11-24T11:04:03+00:00",
    "trending": true,
-   "trend_term": "christie miller · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "christie miller · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2581,7 +2713,7 @@
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76790_093331_eng.jpg",
    "published": "2026-11-24T09:33:21+05:00",
    "trending": true,
-   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2680,7 +2812,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/70f12b797a3d2a0237e92f339dbeaf75547b510bb9085c76c91c40eb494c674b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F010e0003ef9c2c5d9b8b31cd3e929c3e.jpg",
    "published": "2026-11-24T04:45:00+00:00",
    "trending": true,
-   "trend_term": "anya taylor-joy · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "anya taylor-joy · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2772,17 +2904,6 @@
    "trend_score": 2000
   },
   {
-   "title": "“The Bachelor”’s Kelley Flanagan on Why She Hasn’t Dated in 2 Years",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bachelor-kelley-flanagan-why-she-020400346.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/25e6fff586f4115bc78629005f54adf092b65c61ee8ffeab9bd8b51e00c33c3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fdcc22c0a838b88f87ed70b51db8c4efa.jpg",
-   "published": "2026-11-24T02:04:00+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
    "title": "'St. Denis Medical' EP Addresses Ariana Madix Exit After Shocking Show Split",
    "url": "https://www.usmagazine.com/entertainment/news/st-denis-medical-ep-addresses-ariana-madix-exit-after-show-split/",
    "source": "usmagazine.com",
@@ -2867,7 +2988,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/e3e5dd9d1c39c4e6b70b9fba8cf3b49a98ae64059cefd59544db90ec5d9e85a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F668ecd45e42d071c3f92a870fc6bf3d0.jpg",
    "published": "2026-11-24T00:36:09+00:00",
    "trending": true,
-   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "prince harry · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2900,7 +3021,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/73e7e06fea73101366c4c2adbfd0127ca4dbb4c02d8748d6d3c0c288918849f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Ff32f2a3144fb733c7318905dd54c9006.jpg_up.jpg",
    "published": "2026-11-24T00:12:14+00:00",
    "trending": true,
-   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2933,7 +3054,7 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/04/hairspray-michelle-pfeiffer2.jpg",
    "published": "2026-11-23T23:34:34+00:00",
    "trending": true,
-   "trend_term": "best · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "best · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2976,17 +3097,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/847763e7aaefe919424089467ca7eeb89194703934a32bbc103d9a30d4d1b026/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F3f58362cec587632536c584782fab77c.jpg",
    "published": "2026-11-23T23:16:12+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Jack Nicholson’s Son Ray Nicholson Reveals He ‘Didn’t Watch’ His Father’s Films Until He Was an Adult",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jack-nicholson-son-ray-nicholson-231249691.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/5f26d8c944dd9d7474246ee303ef4e3ea3e8b64778d376d19a210e8dca579144/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_examiner_239%2Fedb3da6040099b247e841073563c8639.jpg",
-   "published": "2026-11-23T23:12:49+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -3047,114 +3157,48 @@
    "trend_score": 2000
   },
   {
-   "title": "Mom Arrested After Falsely Claiming Daughter, 4, Was Diagnosed With Cancer",
-   "url": "https://www.usmagazine.com/crime-news/news/mom-falsely-claimed-daughter-4-was-diagnosed-with-cancer/",
+   "title": "Why Did the Lights Go Out on 'Monday Night Football'? Outage Explained",
+   "url": "https://www.usmagazine.com/sports/news/why-did-the-lights-go-out-on-monday-night-football/",
    "source": "usmagazine.com",
    "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/mom-falsely-claimed-daughter-had-cancer.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
-   "published": "2026-11-23T22:40:14+00:00",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2306571363-joe-burrow-why-did-lights-go-out-on-mnf-e1795495415735.jpg?crop=0px%2C6px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-24T04:49:11+00:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
+   "trend_term": "who plays football tonight",
+   "trend_score": 200
   },
   {
-   "title": "Mom Falsely Claimed Daughter, 4, Was Diagnosed With Cancer, Made Her Undergo Unnecessary Treatments",
-   "url": "https://www.yahoo.com/news/us/articles/mom-falsely-claimed-daughter-4-224014851.html",
-   "source": "profiles.yahoo.com",
+   "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-guitarist-wave-icons-214214869.html",
+   "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/93c8b4db1454bc074d29ddd4eb8f189aad7dc4cc5d3b0f53bcaa948dec7218b1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F81b8f660343062da236eeb136cb61ac0.jpg",
-   "published": "2026-11-23T22:40:14+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/2faac46fbab5015dbad04f1b98e327f6e916b2486b0ab56ce0aa3518a26c1191/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa1b481b2fc32bae0c5039a4923c60e63.jpg",
+   "published": "2026-11-25T21:42:14+00:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
+   "trend_term": "andy taylor",
+   "trend_score": 0
   },
   {
-   "title": "The Bachelor’s Kelley Flanagan Explains Why She Hasn’t Dated in 2 Years",
-   "url": "https://www.usmagazine.com/celebrity-news/news/kelley-flanagan-explains-why-she-hasnt-dated-in-2-years/",
-   "source": "usmagazine.com",
-   "category": "TV",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2211523632-kelley-flanagan.jpg?crop=0px%2C186px%2C1428px%2C806px&resize=1000%2C563&quality=78&strip=all",
-   "published": "2026-11-23T22:26:22+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "The Bachelor’s Kelley Flanagan Explains Why She Hasn’t Been on a Date in 2 Years: ‘It Takes Time’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bachelor-kelley-flanagan-explains-why-222622506.html",
-   "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/54971bcf16a0f6bbbd13753bb1331ed8e100418c9b79a3fe4b84439193f7ac8d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F88cf31bc3f6581078588b07aee5b38a8.jpg",
-   "published": "2026-11-23T22:26:22+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Texas Mom of 4 Wanted a Divorce Before 2 Relatives Allegedly Killed Her on Her Birthday: Report",
-   "url": "https://www.yahoo.com/news/us/articles/texas-mom-4-wanted-divorce-220433617.html",
-   "source": "profiles.yahoo.com",
+   "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-guitarist-duran-duran-214134962.html",
+   "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/cc3235330e604ab184364a484648467f39897d725b492ccd2cd536fde5b8daa3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fc8b728a12941e56e760bb22349419081.jpg",
-   "published": "2026-11-23T22:04:33+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/5cb274e4074a4c8375f7c856c79feb41086ad157a97bd08f88bd6777c3a870bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F70f736d4e179d3e1816261a8c40e681e.jpg",
+   "published": "2026-11-25T21:41:34+00:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
+   "trend_term": "andy taylor",
+   "trend_score": 0
   },
   {
-   "title": "Texas Mom of 4 Wanted a Divorce Before Relatives Allegedly Killed Her: Report",
-   "url": "https://www.usmagazine.com/crime-news/news/texas-mom-wanted-a-divorce-was-killed-by-relatives-report/",
-   "source": "usmagazine.com",
+   "title": "Andy Taylor, Duran Duran Guitarist, Dies at 65 After ‘Courageous Battle’ with Prostate Cancer",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-duran-duran-guitarist-213556403.html",
+   "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Texas-Mom-Wanted-a-Divorce-Was-Killed-By-Relatives-Report-2.jpg",
-   "published": "2026-11-23T22:04:33+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/5d9501e6b7570cfa2a31aebd66ab0a49b30ee61db616669564a3f4950cd0151c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F0ad77d8b4209f0d6fd42584ebba2aa5c.jpg",
+   "published": "2026-11-25T21:35:56+00:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Wife Gushed She Was ‘So Proud’ of Husband Before He Killed Her and 3 Kids",
-   "url": "https://www.usmagazine.com/crime-news/news/wife-was-so-proud-of-husband-before-he-killed-her-3-kids/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/wife-gushed-proud-husband-killed-her-kids.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
-   "published": "2026-11-23T21:57:55+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Wife Gushed She Was ‘So Proud’ of Husband in Sentimental Post Before He Killed Her and 3 Kids",
-   "url": "https://www.yahoo.com/news/us/articles/wife-gushed-she-proud-husband-215755459.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/46f4d83c8b29bd14554c1513fce867cbd5c176f4d1690bff0838213e2984c2f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4d07f600450f48219d394e7cdd844148.jpg_up.jpg",
-   "published": "2026-11-23T21:57:55+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Jack Nicholson's Son Didn't Watch Any of His Dad's Movies Until He Was 18",
-   "url": "https://www.usmagazine.com/entertainment/news/jack-nicholsons-son-didnt-watch-his-movies-until-age-18/",
-   "source": "usmagazine.com",
-   "category": "Movies",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-1254337087-Jack-Nicholson-Son-Ray-Nicholson-Hadnt-Seen-Dads-Movies-Until-Age-18.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-23T21:55:00+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Jack Nicholson’s Son Ray Didn’t Watch Any of His Dad’s Movies Until He Was 18",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jack-nicholson-son-ray-didn-215500571.html",
-   "source": "profiles.yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/e9eca624809edfcb1eba57b52f4b7fca0a211672253a320e53f7e9f7cc65a9b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fc72eb36035ac1a9dc7b29e451db6fdce.jpg",
-   "published": "2026-11-23T21:55:00+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
+   "trend_term": "andy taylor",
+   "trend_score": 0
   },
   {
    "title": "Jon Bernthal’s Hit Action Sequel Officially Leaves Streaming in 6 Days",
@@ -3267,17 +3311,6 @@
    "trend_score": 0
   },
   {
-   "title": "Miss Universe 2026 has been crowned – See the pageant's 75th winner",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miss-universe-2026-crowned-see-042028873.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/063b43bfb450b22ed53d046cf3c91d29eea00dc2cc6b29cae1f22c393f7ae1f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F080c809118311f80a149a5a8ddad0da5.jpg",
-   "published": "2026-11-25T04:20:28+00:00",
-   "trending": true,
-   "trend_term": "miss international 2026",
-   "trend_score": 0
-  },
-  {
    "title": "8 Sci-Fi Miniseries That Are Bangers From Start to Finish",
    "url": "https://collider.com/best-sci-fi-miniseries-bangers/",
    "source": "collider.com",
@@ -3385,17 +3418,6 @@
    "published": "2026-11-24T22:30:00+00:00",
    "trending": true,
    "trend_term": "best",
-   "trend_score": 0
-  },
-  {
-   "title": "Miss Universe 2026: Here’s Where to Watch the Pageant Online for Free",
-   "url": "https://www.yahoo.com/entertainment/articles/miss-universe-2026-where-watch-214236025.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/36b3bfcd467779c8bfcc7f72b66eba5783d43bb16c45eae5fc363376ccf4c5ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_ecomm_884%2F71d97ce623f69108efd904c80f591225.png",
-   "published": "2026-11-24T21:42:36+00:00",
-   "trending": true,
-   "trend_term": "miss international 2026",
    "trend_score": 0
   },
   {
@@ -3652,17 +3674,6 @@
    "trend_score": 0
   },
   {
-   "title": "Why Did the Lights Go Out on 'Monday Night Football'? Outage Explained",
-   "url": "https://www.usmagazine.com/sports/news/why-did-the-lights-go-out-on-monday-night-football/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2306571363-joe-burrow-why-did-lights-go-out-on-mnf-e1795495415735.jpg?crop=0px%2C6px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-24T04:49:11+00:00",
-   "trending": true,
-   "trend_term": "football tonight",
-   "trend_score": 0
-  },
-  {
    "title": "International Emmy Awards 2026 Photos: Best Of The Red Carpet",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/international-emmy-awards-2026-photos-042019752.html",
    "source": "yahoo.com",
@@ -3817,50 +3828,6 @@
    "trend_score": 0
   },
   {
-   "title": "Adam Driver: ‘No One Was Paying Us’ to Develop ‘The Hunt for Ben Solo’ and ‘Star Wars’ Boss Said ‘We Have a 100% Approval’ to Make It, Then Disney Killed It",
-   "url": "https://www.yahoo.com/entertainment/articles/adam-driver-no-one-paying-223553021.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/d4897d4ac21f927ce8d485174e1cb181a662a88a5b2401443334e3f3f01d4342/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F788c070ac253f9a0b4fc323de80bf591.jpg",
-   "published": "2026-11-23T22:35:53+00:00",
-   "trending": true,
-   "trend_term": "adam driver",
-   "trend_score": 0
-  },
-  {
-   "title": "Anya Taylor-Joy’s Brutal Revenge Fantasy Officially Returns",
-   "url": "https://collider.com/the-northman-anya-taylor-joy-free-streaming-fandango/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/08/anya-taylor-joy-in-the-northman.jpg",
-   "published": "2026-11-23T22:30:12+00:00",
-   "trending": true,
-   "trend_term": "anya taylor-joy",
-   "trend_score": 0
-  },
-  {
-   "title": "Jenna Bush Hager Comes Clean About ‘Weird’ Childhood Bathroom Habit That ‘Worried’ Her Parents",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jenna-bush-hager-comes-clean-222257725.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e2fb88ffc3ac527709bc85b2790ff38dd8227734ab13a95a33e553ad54af37fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffirst_for_women_articles_145%2Fbc7a5800bfe90caaec3bcc4c24ed3540.jpg",
-   "published": "2026-11-23T22:22:57+00:00",
-   "trending": true,
-   "trend_term": "jenna bush hager",
-   "trend_score": 0
-  },
-  {
-   "title": "Michelle Randolph Is Growing Up Alongside Her Characters",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/michelle-randolph-growing-alongside-her-221157628.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/c36f39aa40fb5342a1e7f6bb794d33fcd0284bb37f205f57e9deea23237697b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2Fc5ef9490f7c656f905053e1896bd0b82.jpg",
-   "published": "2026-11-23T22:11:57+00:00",
-   "trending": true,
-   "trend_term": "michelle randolph",
-   "trend_score": 0
-  },
-  {
    "title": "Kensington Palace issues new update after Prince William, Kate face burglary incident",
    "url": "https://jang.com.pk/en/76884-kensington-palace-issues-new-update-after-prince-william-kate-face-burglary-incident-news",
    "source": "jang.com.pk",
@@ -3872,12 +3839,188 @@
    "trend_score": 0
   },
   {
+   "title": "The 10 Best Fantasy Books in Literary History, Ranked",
+   "url": "https://collider.com/the-10-best-fantasy-books-in-literary-history/",
+   "source": "collider.com",
+   "category": "Music",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/copy-of-collider-template-2026-04-03t100921-191.jpg",
+   "published": "2026-11-25T22:52:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/angelina-jolie-brad-pitt-settle-223629528.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b64feafa096ce32e591ae65f746fabb62f98af1ecb24b332dface57796160910/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd4057e23cd8fa4c6cd482581c816a2d7.jpg_up.jpg",
+   "published": "2026-11-25T22:49:07+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Hayden Panettiere’s Boyfriend’s Brother Breaks Silence Amid Backlash Over Her Death",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-boyfriend-brother-breaks-224500694.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7f7a0f69f4db679f1af4aefb11a313fc2b4ca9d40f8215482b3b2b811610fde3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F1a0102a2d54fdcbd45cd1c3975a00742.jpg",
+   "published": "2026-11-25T22:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Brad Pitt and Angelina Jolie settle bitter winery battle",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brad-pitt-angelina-jolie-settle-224231107.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3b341fc169bb28ee3360f7067f8ef6af24649944b6e8ccae552eb1eee7306cb2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F262c221a7a393e7275b9a8c51bc764dd.jpg_up.jpg",
+   "published": "2026-11-25T22:42:31+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Kim Kardashian’s Daughter North West, 13, Steps Out in Goth Ensemble After Saying She’s Not ‘Demonic’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kim-kardashian-daughter-north-west-224139754.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/8ef8bdf09cef8896b621e8f7fb321d60ef2e58c0ba962788069933110c97dbc0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F5bfcd8bf9ed19cc4c809f9f069171606.jpg",
+   "published": "2026-11-25T22:41:39+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Andy Taylor: Duran Duran's livewire guitarist who was a true Wild Boy",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-duran-durans-livewire-222234192.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/dafd419de75b08156aaaa75596f4a1603a57dbc76e7f43b9a5a4453caf1d1d66/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F22a13805517889e72536b90789c5ffaa.jpg",
+   "published": "2026-11-25T22:39:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/duran-duran-guitarist-andy-taylor-214350897.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/89a918583260c1b7ef78b38f04b5103eaea480d1242aa7c036ad421bdd5c8c7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Feacc445a16bad395a321f68c30822e3f.jpg_up.jpg",
+   "published": "2026-11-25T22:39:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Andy Taylor, Duran Duran guitarist, dies at 65",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-duran-duran-guitarist-223934462.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ce16b596a9899119190d01c66e86a5d0c07b9a24420cad6946c541855cf10a3e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fccceffe4c9cd89d5b62165f3f577781c.jpg",
+   "published": "2026-11-25T22:39:34+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "2026-27 Premiere Dates For New & Returning Series On Broadcast, Streaming & Cable",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/2026-premiere-dates-returning-series-170000967.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/b9544869f582b915ee86616ef428ffc2ca9b84df2886b02ccb046628fce0e7d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F892f10f444fc0fae4067647480c520d6.jpg",
+   "published": "2026-11-25T22:39:33+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "“The Hunting Wives”’ Jaime Ray Newman Reflects on Reaching New Heights in Her 40s: ‘You Work Your Whole Life for This’ (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/hunting-wives-jaime-ray-newman-223902511.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ff26df1e5404191cb5b160ab86156ca8b4e0b17852fa8a178ebbc5083ebd955d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F93bc99e3d9cc5a5361e8105d424f1b91.jpg",
+   "published": "2026-11-25T22:39:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Breaking Down the Ending of The Remarried Empress",
+   "url": "https://www.yahoo.com/entertainment/tv/reviews/articles/breaking-down-ending-remarried-empress-223346877.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/00a9d1b88e5b6f84ee0293627b7e5e7e7083530223540dca858fb5f56b18566b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2Fafe087f001bcbaa6d2442748c4ad8842.jpg",
+   "published": "2026-11-25T22:33:46+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Duran Duran’s Andy Taylor Dies, Bandmates Pay Tribute",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/duran-duran-andy-taylor-dies-223232123.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/13e996760def7855432a0dcb13e07209d081a8ac784b0f69417057a4c06c9b11/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F6c16b862969f7cf52525035be7381b76.jpg",
+   "published": "2026-11-25T22:32:32+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Meghan Markle Takes On Hands-On Mom Role Amid ‘Real Effort’ With British School Life",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-takes-hands-mom-223000749.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ae71939c2401214652b0697ba638faa656a4f23f4ea85ec80b95ac91c076a1e4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fe9aeeafaaacf0d4032475b4eaa040d40.jpg",
+   "published": "2026-11-25T22:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "5 Greatest Classic Fantasy Books To Read in the Winter",
+   "url": "https://collider.com/best-classic-fantasy-books-read-2026-holidays/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/northern-lights-book-cover.jpg",
+   "published": "2026-11-25T22:29:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Taylor Swift makes blunt statement amid explosive 'Showgirl' trademark drama",
    "url": "https://jang.com.pk/en/76881-taylor-swift-makes-blunt-statement-amid-explosive-showgirl-trademark-drama-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-25/76881_102619_eng.jpg",
    "published": "2026-11-25T22:26:13+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "King Crimson Co-Founder Michael Giles Dead at 84",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/king-crimson-co-founder-michael-222236501.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3c4bdd535eae66771bdb8b68671bb1d77dadcf784a8c462997d74b1c59a02bc7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F82cc7c82ba209ac625a79de6c927bd48.jpg",
+   "published": "2026-11-25T22:22:36+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Tracee Ellis Ross' Best Shoes Through the Years [Photos]",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/tracee-ellis-ross-best-shoes-221719569.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/6ae0a0b72379132f57edee22687ebb175e58270918b86be723a5ef0c1883e21e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootwear_news_642%2F0ba0bc4453aaaac22b08679b821b5ed1.jpg",
+   "published": "2026-11-25T22:17:19+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4010,6 +4153,17 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the_hunting_wives_n_s2_e2_00_33_15_11rc_c.jpg",
    "published": "2026-11-25T21:12:24+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brad-pitt-angelina-jolie-call-210000904.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1a549d6d24e042ad400c88c441d05eca25e8e66caf27a862b627f6b368452ca5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F40407dd80a1d841837df45611396d546.jpg",
+   "published": "2026-11-25T21:00:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4917,6 +5071,28 @@
    "trend_score": 0
   },
   {
+   "title": "Jordan Rodgers Breaks His Silence After Brother Aaron's Shocking Benching",
+   "url": "https://www.usmagazine.com/sports/news/jordan-rodgers-breaks-silence-after-brother-aarons-benching/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/aaron-rodgers-jordan-rodgers-2026.jpg?crop=0px%2C158px%2C1867px%2C1055px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-25T16:50:52+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Woman Neglected Adopted Son Until He Needed Both Legs Amputated",
+   "url": "https://www.usmagazine.com/crime-news/news/woman-neglected-adopted-son-he-needed-both-legs-amputated/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/woman-neglected-son-legs-amputated.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-25T16:47:54+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Jodie Sweetin Reveals the Hilarious Nickname Her 2 Teenage Daughters Call Her When She’s Being Cringy",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/jodie-sweetin-reveals-hilarious-nickname-164612596.html",
    "source": "yahoo.com",
@@ -4989,17 +5165,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/6350d59c33b49d110c36c70ac4403552a08ffc6cf75bda31c50d4bf604e35391/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Ff3afe96b4a89db23fade9a6202da7fce.jpg",
    "published": "2026-11-25T16:40:38+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "2026-27 Premiere Dates For New & Returning Series On Broadcast, Streaming & Cable",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/2026-premiere-dates-returning-series-170000967.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/b9544869f582b915ee86616ef428ffc2ca9b84df2886b02ccb046628fce0e7d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F892f10f444fc0fae4067647480c520d6.jpg",
-   "published": "2026-11-25T16:38:59+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -5093,6 +5258,17 @@
    "trend_score": 0
   },
   {
+   "title": "Khloe Kardashian's BFF Malika Haqq Addresses Rumored Feud: 'Not This Petty'",
+   "url": "https://www.usmagazine.com/celebrity-news/news/khloe-kardashians-bff-malika-haqq-denies-petty-feud-rumor/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/malika-haqq_.jpg",
+   "published": "2026-11-25T16:11:21+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "CBS Officially Unleashes New Look at This Week’s ‘FBI’",
    "url": "https://collider.com/fbi-season-8-episode-9-sneak-peek/",
    "source": "collider.com",
@@ -5148,17 +5324,6 @@
    "trend_score": 0
   },
   {
-   "title": "Pregnant Jen Affleck Shares Hospital Pic, Thought Baby Was Coming Early",
-   "url": "https://www.usmagazine.com/celebrity-moms/news/jen-affleck-shares-hospital-pic-amid-early-labor-concerns/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Jen-Affleck-IG.jpg?crop=0px%2C848px%2C1080px%2C609px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-25T15:51:44+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "A Deep Dive Into Bono’s Wife Ali Hewson & Their Family",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/deep-dive-bono-wife-ali-154616858.html",
    "source": "yahoo.com",
@@ -5192,17 +5357,6 @@
    "trend_score": 0
   },
   {
-   "title": "Noah Beck's Sister Accused of Grooming and Sexual Misconduct by 2nd Student",
-   "url": "https://www.usmagazine.com/celebrity-news/news/noah-becks-sister-haley-accused-of-grooming-and-sexual-misconduct-by-2nd-student-seeking-7-million/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Noah-Beck-Sister-Haley-Accused-of-Grooming-and-Sexual-Misconduct-by-2nd-Student.jpg?crop=0px%2C253px%2C1440px%2C814px&resize=1000%2C563&quality=40&strip=all",
-   "published": "2026-11-25T15:45:03+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Caitlin Clark stuns in $998 designer dress at Fever teammate Lexie Hull’s wedding",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/caitlin-clark-stuns-998-designer-154500398.html",
    "source": "yahoo.com",
@@ -5231,17 +5385,6 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/976f7394ff660486a764b35890f761b88d7a668a6e0e3cfccc81f6fa36b39e16/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Ffbefb56c6b6b0f6dc7405087771b5cc1.jpg",
    "published": "2026-11-25T15:43:48+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Candace Cameron Bure Addresses Distance From Mary-Kate and Ashley Olsen",
-   "url": "https://www.usmagazine.com/entertainment/news/candace-cameron-bure-explains-mary-kate-ashley-olsen-distance/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2025/06/ashleymarykate.jpg",
-   "published": "2026-11-25T15:37:41+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -5335,22 +5478,22 @@
    "trend_score": 0
   },
   {
-   "title": "Jenn Tran Tells Sam Hartman ‘Good Luck’ as Next “Bachelor” Star: ‘You Are in for a Roller Coaster’ (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/jenn-tran-tells-sam-hartman-150000804.html",
+   "title": "How Nara Smith Crafted Her Style From Scratch",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/nara-smith-crafted-her-style-150000763.html",
    "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/a7de1e1e22115fccdeda46a7a499e0e364b7290339622f660c56528768baae56/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F2c3be64e4ef05b505c3ac7590ea50241.jpg",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/2b5b9a70785326216302da93af0a8c8555ad3f80029b8492190a9f4b2d05b635/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2Fd8103ad124ecfd42eea9d0d60fd306ba.jpg",
    "published": "2026-11-25T15:00:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
   },
   {
-   "title": "How Nara Smith Crafted Her Style From Scratch",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/nara-smith-crafted-her-style-150000763.html",
+   "title": "Jenn Tran Tells Sam Hartman ‘Good Luck’ as Next “Bachelor” Star: ‘You Are in for a Roller Coaster’ (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/jenn-tran-tells-sam-hartman-150000804.html",
    "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/2b5b9a70785326216302da93af0a8c8555ad3f80029b8492190a9f4b2d05b635/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2Fd8103ad124ecfd42eea9d0d60fd306ba.jpg",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/a7de1e1e22115fccdeda46a7a499e0e364b7290339622f660c56528768baae56/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F2c3be64e4ef05b505c3ac7590ea50241.jpg",
    "published": "2026-11-25T15:00:00+00:00",
    "trending": false,
    "trend_term": null,
@@ -6710,17 +6853,6 @@
    "trend_score": 0
   },
   {
-   "title": "Miss Universe 2026 Crowns Miss Puerto Rico as Winner, Marking First Mom to Win Pageant",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miss-universe-2026-becomes-first-045353329.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/afb5973ce17ce2cefef3c52087fa5170032dc32b4c1f94d5ee7ea449db243fd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbc42d50f2499c5306c15b88ad04b2472.jpg",
-   "published": "2026-11-25T04:53:53+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "'Dancing with the Stars' season 35: Who won and who was eliminated",
    "url": "https://www.yahoo.com/entertainment/tv/articles/dancing-stars-season-35-see-020106420.html",
    "source": "yahoo.com",
@@ -7948,6 +8080,17 @@
    "category": "Awards",
    "image": "https://s.yimg.com/lo/mysterio/api/91ddeeeb71138c0844d0454ada2c838459464ab0372743e660b11b16e5e6a90b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F67b69e2abd79d372c2085942c4ce7d3c.png",
    "published": "2026-11-24T21:31:40+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "'Bachelor' Star Kelley Flanagan Says She Hasn't Dated in Almost 2 Years After Ex's Alleged Cheating and Dad's Death",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bachelor-star-kelley-flanagan-says-213042119.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/467d7a6a764585aacf642f9ee75462fdd34e45a5f0c06f0e10ac7103b15e9b6c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fd20b16a22fc22846b6970e5356ed3cb1.jpg",
+   "published": "2026-11-24T21:30:42+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -10758,6 +10901,17 @@
    "trend_score": 0
   },
   {
+   "title": "“The Bachelor”’s Kelley Flanagan on Why She Hasn’t Dated in 2 Years",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bachelor-kelley-flanagan-why-she-020400346.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/25e6fff586f4115bc78629005f54adf092b65c61ee8ffeab9bd8b51e00c33c3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fdcc22c0a838b88f87ed70b51db8c4efa.jpg",
+   "published": "2026-11-24T02:04:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "‘The Fall and Rise of Reggie Dinkins’ Bobby Moynihan Explains That Unexpected Thanksgiving ‘Obsession’ Crossover",
    "url": "https://collider.com/fall-and-rise-of-reggie-dinkins-season-2-episode-4-thanksgiving-bobby-moynihan/",
    "source": "collider.com",
@@ -11209,6 +11363,17 @@
    "trend_score": 0
   },
   {
+   "title": "Jack Nicholson’s Son Ray Nicholson Reveals He ‘Didn’t Watch’ His Father’s Films Until He Was an Adult",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jack-nicholson-son-ray-nicholson-231249691.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/5f26d8c944dd9d7474246ee303ef4e3ea3e8b64778d376d19a210e8dca579144/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_examiner_239%2Fedb3da6040099b247e841073563c8639.jpg",
+   "published": "2026-11-23T23:12:49+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "Bella Hadid gets raw about health scare at Victoria's Secret show",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bella-hadid-gets-raw-health-231059717.html",
    "source": "yahoo.com",
@@ -11259,182 +11424,6 @@
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/die-another-day-pierce-brosnan.jpg",
    "published": "2026-11-23T22:53:24+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "“Cathy” Comic Strip Creator Cathy Guisewite Thanks ‘Wonderful Women’ for ‘Letting Me Know I Wasn’t Alone’ as Cartoon Celebrates 50th Anniversary",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/cathy-comic-strip-creator-cathy-224726270.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1aa3c9bbe2bb01299b9971e935d2e4ac2644590c61feddf8a9279182f897e0a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F45412c72710134ab47b50fafed21e372.jpg",
-   "published": "2026-11-23T22:47:26+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Forget the Race Track: Kacey Musgraves Had the Wildest Ride of Las Vegas Grand Prix Weekend",
-   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/forget-race-track-kacey-musgraves-223906096.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/314fbacd3d6f568f886c808dbde94d91208469e28e42f912c789e78c2ced3353/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F6bdeee5fac1be9952173ef802f9d5bcc.jpg",
-   "published": "2026-11-23T22:39:06+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "‘The Carol Burnett Show’ Star Says Iconic ‘The Family’ Sketch Character Was Written for Carol Burnett",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/carol-burnett-show-star-says-223544535.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/bee80fd244bd5a90b620575035a5a38acefdfae02bec6bf1fe3eef46c625bf98/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_examiner_239%2F69d6c5887694e6ef08697356da568c7a.png",
-   "published": "2026-11-23T22:35:44+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "David Greaves Says ‘Once Upon a Time in Harlem’ Is “An Act of Resistance” Against Efforts to Erase Black History",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/david-greaves-says-once-upon-223306522.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/59d605d91c5d4427236b44d10ce4023f0db3ef35a9f65679fe0edf306b02b3ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F1dd2110c32b5fd1fbef80c4f49e758ac.jpg",
-   "published": "2026-11-23T22:33:06+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Brandi Passante Reflects On Losing Storage Wars’ Darrell Sheets: ‘It Definitely Changed The Dynamic’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/brandi-passante-reflects-losing-storage-223100508.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/56ebe5f29c7310c3d183ff05234154fd4ad3d2d6b8252258cb0b44debdea2a55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2Fdc383dd8ca4f6d7a43688609e594e2ac.jpg",
-   "published": "2026-11-23T22:31:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Martha Stewart's Genius Two-in-One Jacket Replaces a Scarf",
-   "url": "https://www.usmagazine.com/stylish/news/martha-stewart-two-in-one-jacket-look-for-less/",
-   "source": "usmagazine.com",
-   "category": "Fashion",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/red.png",
-   "published": "2026-11-23T22:30:38+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Mindy Cohn as a Nun? See ‘Facts of Life’ Star on ‘NCIS’",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/mindy-cohn-nun-see-facts-223020862.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/eb36a7991cb666ca6c20466b2c108668587a394ad7e9c950b687c0f11b184996/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fadf6c70dbaeb0d21054e20fd010e9c3c.jpg",
-   "published": "2026-11-23T22:30:20+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Melania Trump Under Fire Over $150 Digital Photo Collection, Sparking ‘Shameful Grift’ Backlash",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/melania-trump-under-fire-over-223000178.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/eb2dcc54ea85154c74a69f8a1c6f61a3b2527184d5085b746f3e6dec28a31e02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F5c12018c10a266137d8dc7fd9028e062.jpg",
-   "published": "2026-11-23T22:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Robert De Niro, Timothée Chalamet to host 'Saturday Night Live'",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/robert-niro-timoth-e-chalamet-223000671.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/d1df1690d514667a5cc6a709e0d7c6e8c6886abc7d3c5d6407c9c1a7da55657a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fabc_audio_244%2F647f966828348b5313fbe9e2aa44107e.png_up.jpg",
-   "published": "2026-11-23T22:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "‘If anything, you were one of the bullies’: Taylor Swift’s former classmates dispute her origin story",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/anything-were-one-bullies-taylor-222636438.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/10e4da3e5268f207028287db92760a22930ef023dac0be120d3aac33c8fce324/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F40d36005eb61b1f87fc25bf282e78df3.jpg",
-   "published": "2026-11-23T22:26:36+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Where The Celebs Ate At F1 Las Vegas, From An $8,400 Soirée To A $3,000 Caviar Helmet",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/where-celebs-ate-f1-las-222500486.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/2972b2544dc39374ae8e67fa71b58fc7514d1cb227abd2a7bb53a5c0fe2bc9e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F8d2c8451498cf2c2d434895b655edeb3.jpg_up.jpg",
-   "published": "2026-11-23T22:25:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Donny Osmond Says Abuse Allegations ‘Destroyed’ Michael Jackson, Won’t Share if He Thinks He’s Innocent",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/donny-osmond-says-abuse-allegations-222314950.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/5288f49cd4c5b156b997cc005a327516acd4e554d444534c3f3821e47668b4d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F8c27dff3664f3c31f9bc194f29ea195e.jpg",
-   "published": "2026-11-23T22:23:14+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Nicola Coughlan Revisits the Golden Age of Couture in Richard Quinn",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/nicola-coughlan-revisits-golden-age-222302473.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/f3b8c4a9662dab1f9e0357448648afaf315084fd325be46e1cc7e29188f3ca6b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2Fd61e065e099c51ed0c14d1884399a21d.jpg_up.jpg",
-   "published": "2026-11-23T22:23:02+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Simone Ashley Brings Spring 2003 Gucci Heels to ‘Only Murders in London’ Premiere",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/simone-ashley-brings-spring-2003-221117494.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/99f6cc7d00e0a37358df41041e8f38fff27ef1036b81e3ee3bfd1990840155e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootwear_news_642%2F750586309d90766b66b45502c341e5f8.jpg",
-   "published": "2026-11-23T22:11:17+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "10 Saddest Deaths in 'Sunrise on the Reaping,' Ranked",
-   "url": "https://collider.com/sunrise-on-the-reaping-deaths-ranked/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/hunger-games-sunrise-on-the-reaping-joseph-zada-mckenna-grace.jpg",
-   "published": "2026-11-23T22:08:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "'Percy Jackson and the Olympians' Season 4 Fate Revealed Ahead of Season 3 Finale",
-   "url": "https://collider.com/percy-jackson-and-the-olympians-season-4-fate-revealed-walker-scobell/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-02-at-12-13-28-pm.png",
-   "published": "2026-11-23T22:00:12+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
