@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-26T14:56:27.542355+00:00",
+ "generated_at": "2026-11-26T15:57:58.346889+00:00",
  "date_us": "2026-11-26",
  "per_site": {
-  "usmagazine.com": 13,
+  "usmagazine.com": 12,
   "news.meaww.com": 1,
-  "profiles.yahoo.com": 6,
+  "profiles.yahoo.com": 5,
   "yahoo.com": 29,
   "jang.com.pk": 9,
-  "collider.com": 9
+  "collider.com": 8
  },
  "items": [
   {
@@ -52,28 +52,6 @@
    "published": "2026-11-26T09:37:15+00:00",
    "trending": true,
    "trend_term": "covered by 3 sites",
-   "trend_score": 3000
-  },
-  {
-   "title": "'The Voice' Star Josh Sanders Arrested on Suspicion of DWI, Making Threats",
-   "url": "https://www.usmagazine.com/crime-news/news/the-voices-josh-sanders-arrested-on-suspicion-of-dwi-threats/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Josh-Sanders-Arrested-on-Suspicion-of-DWI-e1795669613118.jpg",
-   "published": "2026-11-26T05:43:48+00:00",
-   "trending": true,
-   "trend_term": "north carolina · covered by 2 sites",
-   "trend_score": 3000
-  },
-  {
-   "title": "‘The Voice’ Finalist Josh Sanders Is Arrested on Suspicion of Driving While Impaired, Making Threats",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/voice-finalist-josh-sanders-arrested-054348832.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f4af7304d1ead4e22d6434261dabaed8b2d35043f96204aec91882af01297eab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F48564fd8336d8ba74fa724109d05a1fb.jpg",
-   "published": "2026-11-26T05:43:48+00:00",
-   "trending": true,
-   "trend_term": "north carolina · covered by 2 sites",
    "trend_score": 3000
   },
   {
@@ -227,7 +205,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/9d3e264f0749b2e0db35135b66e6e2c37e81604d94260855148c86af33f8d743/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F1173928b481bc89846195a0ff1eb658e.jpg_up.jpg",
    "published": "2026-11-24T18:44:19+00:00",
    "trending": true,
-   "trend_term": "trinity rodman · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites",
+   "trend_term": "trinity rodman · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites · covered by 3 sites",
    "trend_score": 3000
   },
   {
@@ -253,47 +231,47 @@
    "trend_score": 3000
   },
   {
-   "title": "Julianne Hough Splits From Adrian Williams Days After Instagram Debut",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/julianne-hough-splits-adrian-williams-054332290.html",
+   "title": "Brad Pitt and Angelina Jolie Settle Fight Over Winery Where They Married, 10 Years After Their Split",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brad-pitt-angelina-jolie-settle-153017608.html",
    "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8ab3bd8a3f243290952c6dda9dcf63b8b033edeb8574a78e11c2d1c9014f34e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F79f8a8c712b5875f7d966a13254888f0.jpg",
-   "published": "2026-11-25T05:43:32+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/2080d8ba41a3b865209ee292569caafdcb0cc355abf8e0a77f1feee44cf85eda/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F0b74d49a8702c7e41e48e7b53c46907b.jpg",
+   "published": "2026-11-26T15:30:17+00:00",
    "trending": true,
-   "trend_term": "peloton · covered by 2 sites",
-   "trend_score": 2200
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
   },
   {
-   "title": "DWTS’ Julianne Hough Confirms Split From Peloton Instructor Adrian Williams",
-   "url": "https://www.usmagazine.com/celebrity-news/news/julianne-hough-confirms-split-from-pelotons-adrian-williams/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Julianne-Hough-Is-Dating-Peloton-Instructor-Adrian-Williams.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-24T21:35:24+00:00",
+   "title": "The Further Mis-Adventures Of Cliff Booth Review",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/further-mis-adventures-cliff-booth-153000327.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/19d4915dcb5d5a4556c3ecc1a3efb4c63355d8637de70ec8ded7541fae1f14e8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcg_magazine_431%2F0aa0dc28f6afdddf4b509732dd9a60dd.jpg",
+   "published": "2026-11-26T15:30:00+00:00",
    "trending": true,
-   "trend_term": "peloton · covered by 2 sites",
-   "trend_score": 2200
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
   },
   {
-   "title": "‘DWTS’ Cohost Julianne Hough Confirms Split From Peloton Instructor Adrian Williams",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/dwts-cohost-julianne-hough-confirms-213524120.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/38c43010c0026acbdf79dd01f3e172664e7050d27a38ef4af0cf05565f8955b3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4ea6318468f4882dc4801f357ad6219c.jpg",
-   "published": "2026-11-24T21:35:24+00:00",
-   "trending": true,
-   "trend_term": "peloton · covered by 2 sites",
-   "trend_score": 2200
-  },
-  {
-   "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/g-rard-depardieu-stand-trial-144430927.html",
+   "title": "Candace Cameron Bure says she still gets residuals from 'Full House'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/candace-cameron-bure-says-she-151728572.html",
    "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e1e602b955b1e40f32fc44180223f541dc51ffa6360819c73bfe286b8b20918e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F711971fa9edd70eec887dfc103d1d238.jpg",
-   "published": "2026-11-26T14:44:30+00:00",
+   "image": "https://s.yimg.com/lo/mysterio/api/5ae14ae8486f262bf8be11bba145319cbf4aeb6ca392e834b4390f2a598225e0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Ff73de8b10aea90ac910ef504e2056b40.jpg",
+   "published": "2026-11-26T15:17:28+00:00",
    "trending": true,
-   "trend_term": "charlotte arnould",
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "Candace Cameron Bure Gives Jodie Sweetin Advice Regarding ‘Full House’ Residuals",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/candace-cameron-bure-gives-jodie-151500432.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1d437a80113c3202f7cd30aa8a72a3e446dca02c80d9b478984c5ea113154e68/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F8414436017b117ab40329ea352a7f078.jpg_up.jpg",
+   "published": "2026-11-26T15:15:00+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -315,7 +293,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/30538f0ea15f91a6348465110ad6239599c2a18edb3df9f64f9be8ecd55951d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F84cee3b574c839d33b0f7ef0a9f43b7f.jpg",
    "published": "2026-11-26T13:00:00+00:00",
    "trending": true,
-   "trend_term": "is food city open on thanksgiving · covered by 2 sites · covered by 2 sites",
+   "trend_term": "is food city open on thanksgiving · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -473,6 +451,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Hoda Kotb Addresses Macy’s Thanksgiving Day Parade Being Postponed for 1st Time in History",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/hoda-kotb-addresses-macy-thanksgiving-084622864.html",
+   "source": "profiles.yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/9fa5e34ac597c36288846a9453c0e5c85ab6b283b10c3bf9e1caaa86a9b6a2de/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fb9c7b5be93dc3bab822d2864d7084951.jpg",
+   "published": "2026-11-26T08:46:22+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Duran Duran pays tribute to guitarist Andy Taylor, dead at 65 after battle with prostate cancer",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/duran-duran-pays-tribute-guitarist-082433233.html",
    "source": "yahoo.com",
@@ -491,7 +480,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/d8c386174cf15f2ae8295ce41377e5a98bd4b7647b93aa86bafd2e92b4bf8804/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F09c51a8a8bc89bd29ed44db60b109b09.jpg_up.jpg",
    "published": "2026-11-26T08:20:15+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -501,6 +490,28 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/81618f2f85b49d880346571ae268383ac29a44a94537bc5b63580806b714bf17/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F4506f964cf3e1c198ce8da7b64e66046.jpg_up.jpg",
    "published": "2026-11-26T06:13:02+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "'The Voice' Star Josh Sanders Arrested on Suspicion of DWI, Making Threats",
+   "url": "https://www.usmagazine.com/crime-news/news/the-voices-josh-sanders-arrested-on-suspicion-of-dwi-threats/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Josh-Sanders-Arrested-on-Suspicion-of-DWI-e1795669613118.jpg",
+   "published": "2026-11-26T05:43:48+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "‘The Voice’ Finalist Josh Sanders Is Arrested on Suspicion of Driving While Impaired, Making Threats",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/voice-finalist-josh-sanders-arrested-054348832.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f4af7304d1ead4e22d6434261dabaed8b2d35043f96204aec91882af01297eab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F48564fd8336d8ba74fa724109d05a1fb.jpg",
+   "published": "2026-11-26T05:43:48+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -832,7 +843,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/7f7a0f69f4db679f1af4aefb11a313fc2b4ca9d40f8215482b3b2b811610fde3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F1a0102a2d54fdcbd45cd1c3975a00742.jpg",
    "published": "2026-11-25T22:45:00+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -964,7 +975,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/2faac46fbab5015dbad04f1b98e327f6e916b2486b0ab56ce0aa3518a26c1191/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa1b481b2fc32bae0c5039a4923c60e63.jpg",
    "published": "2026-11-25T21:42:14+00:00",
    "trending": true,
-   "trend_term": "andy taylor · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "andy taylor · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -975,7 +986,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/5cb274e4074a4c8375f7c856c79feb41086ad157a97bd08f88bd6777c3a870bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F70f736d4e179d3e1816261a8c40e681e.jpg",
    "published": "2026-11-25T21:41:34+00:00",
    "trending": true,
-   "trend_term": "andy taylor · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "andy taylor · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1052,7 +1063,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/5d9501e6b7570cfa2a31aebd66ab0a49b30ee61db616669564a3f4950cd0151c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F0ad77d8b4209f0d6fd42584ebba2aa5c.jpg",
    "published": "2026-11-25T21:35:56+00:00",
    "trending": true,
-   "trend_term": "andy taylor · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "andy taylor · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1415,7 +1426,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Hayden-Panettiere-GettyImages-1438988174.jpg?crop=0px%2C84px%2C1530px%2C864px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-25T18:15:06+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1943,7 +1954,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/527dada61989b55c26fbfd3aa44e45e389679a09459fb17fda1abaa298c6d842/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F9e88d65d9604ea88056ce6a15921d72b.jpg_up.jpg",
    "published": "2026-11-25T13:00:06+00:00",
    "trending": true,
-   "trend_term": "thanksgiving dog show · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "thanksgiving dog show · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -1954,7 +1965,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/7caa6287c52a7efeca5604aaf25caa32505e0d0d3689aabd3041b3a174c3dc83/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F24662c2d392e44fca094eb72afc10704.jpg",
    "published": "2026-11-25T13:00:00+00:00",
    "trending": true,
-   "trend_term": "is chick fil a open on thanksgiving · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "is chick fil a open on thanksgiving · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2233,6 +2244,17 @@
    "trend_score": 2000
   },
   {
+   "title": "Julianne Hough Splits From Adrian Williams Days After Instagram Debut",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/julianne-hough-splits-adrian-williams-054332290.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8ab3bd8a3f243290952c6dda9dcf63b8b033edeb8574a78e11c2d1c9014f34e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F79f8a8c712b5875f7d966a13254888f0.jpg",
+   "published": "2026-11-25T05:43:32+00:00",
+   "trending": true,
+   "trend_term": "peloton · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
    "title": "Jenelle Evans Tearfully Hits Back at Claims She’s ‘Faking a Disability’",
    "url": "https://www.usmagazine.com/celebrity-news/news/jenelle-evans-hits-back-at-claims-shes-faking-a-disability/",
    "source": "usmagazine.com",
@@ -2284,7 +2306,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4f7ecba66033672a1b8c4cd049737e48372f61364992be1397a331f1d9767953/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_enquirer_natl_articles_358%2Fe3d13879672f9ce71a6f80ee1c35000e.jpg",
    "published": "2026-11-25T05:29:23+00:00",
    "trending": true,
-   "trend_term": "philadelphia thanksgiving day parade · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "philadelphia thanksgiving day parade · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2317,7 +2339,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/4e947dbf5c953dfecdc4f71f9faf6724d07528dd35913eb70a57b009b1ba4342/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F0da0a31d96b97f1613deb9de648a1bcc.jpg",
    "published": "2026-11-25T04:48:05+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2350,7 +2372,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/063b43bfb450b22ed53d046cf3c91d29eea00dc2cc6b29cae1f22c393f7ae1f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F080c809118311f80a149a5a8ddad0da5.jpg",
    "published": "2026-11-25T04:20:28+00:00",
    "trending": true,
-   "trend_term": "miss international 2026 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "miss international 2026 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2449,7 +2471,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/ceac898107550d2380043451f6e8d71ea85be8dafdc2b99c62d288c4d9ff17c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F41159999cc1d6b7f1f4cd0ceab09e74d.jpg",
    "published": "2026-11-25T03:31:57+00:00",
    "trending": true,
-   "trend_term": "ben stiller · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "ben stiller · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2592,7 +2614,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-488339087-Hayden-Panettiere-Reportedly-Leaves-More-Than-6-Million-to-Daughter.jpg?crop=182px%2C61px%2C1030px%2C582px&resize=1000%2C563&quality=55&strip=all",
    "published": "2026-11-25T01:50:18+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2680,7 +2702,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/b2e618ee23788f99160112490bafe2478ea0e4f3c31a36c1f757ab27fbd85f06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Fdea6dcd2da403a2a84a7e3e6437ad532.jpg",
    "published": "2026-11-25T00:22:20+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2757,7 +2779,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/3e53eb32b9a7b96ad93ce0e20bb1265b033ac611532b9da179413672db007070/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F645b5832558b887f1a388d2555d178fd.jpg_up.jpg",
    "published": "2026-11-24T23:16:14+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2768,7 +2790,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/1959a16db5ea37846d0c59c3d7d694a9a42427cf4486478cdd97fb0a96ae1afc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F2989a1e80d68d36e386fa58994471967.jpg",
    "published": "2026-11-24T23:13:31+00:00",
    "trending": true,
-   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "hayden panettiere cause of death · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -2822,17 +2844,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/dcb63062c4b7a32859d3001239c24189827c3b706ea79d930ba3f1a978cf3680/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F0aeda7924bc894b516cb48545d73b7ce.jpg",
    "published": "2026-11-24T22:56:05+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Melissa McCarthy, Clive Owen lead chilling series 'JonBenét Ramsey Murder'",
-   "url": "https://jang.com.pk/en/76828-melissa-mccarthy-clive-owen-lead-chilling-series-jonbent-ramsey-murder-news",
-   "source": "jang.com.pk",
-   "category": "TV",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76828_104125_eng.jpg",
-   "published": "2026-11-24T22:41:22+05:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
    "trend_score": 2000
@@ -3021,7 +3032,29 @@
    "image": "https://s.yimg.com/lo/mysterio/api/36b3bfcd467779c8bfcc7f72b66eba5783d43bb16c45eae5fc363376ccf4c5ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_ecomm_884%2F71d97ce623f69108efd904c80f591225.png",
    "published": "2026-11-24T21:42:36+00:00",
    "trending": true,
-   "trend_term": "miss international 2026 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "miss international 2026 · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "DWTS’ Julianne Hough Confirms Split From Peloton Instructor Adrian Williams",
+   "url": "https://www.usmagazine.com/celebrity-news/news/julianne-hough-confirms-split-from-pelotons-adrian-williams/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Julianne-Hough-Is-Dating-Peloton-Instructor-Adrian-Williams.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-24T21:35:24+00:00",
+   "trending": true,
+   "trend_term": "peloton · covered by 2 sites · covered by 2 sites",
+   "trend_score": 2000
+  },
+  {
+   "title": "‘DWTS’ Cohost Julianne Hough Confirms Split From Peloton Instructor Adrian Williams",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/dwts-cohost-julianne-hough-confirms-213524120.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/38c43010c0026acbdf79dd01f3e172664e7050d27a38ef4af0cf05565f8955b3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4ea6318468f4882dc4801f357ad6219c.jpg",
+   "published": "2026-11-24T21:35:24+00:00",
+   "trending": true,
+   "trend_term": "peloton · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3098,7 +3131,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/30ff394ec850f226fa5bbf712ac70a12f9a2eb798c2cad1aafe8343f44552e02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fc5a8cda3d0a47592494933638e8cd13b.jpg",
    "published": "2026-11-24T21:09:53+00:00",
    "trending": true,
-   "trend_term": "in n out · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "in n out · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3109,7 +3142,7 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Husband-Saves-Wife-From-Man-Attacking-Her-Inside-In-N-Out-Bathroom.jpg?crop=0px%2C76px%2C2000px%2C1131px&resize=1000%2C563&quality=78&strip=all",
    "published": "2026-11-24T21:09:53+00:00",
    "trending": true,
-   "trend_term": "in n out · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "in n out · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3197,7 +3230,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/266300b104f7796679412a2478610f1753bbbdd7bbe2291ca8a02d4900007f6a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Ff522f9891f433c375cd747a86632be97.jpg",
    "published": "2026-11-24T19:33:50+00:00",
    "trending": true,
-   "trend_term": "is chick fil a open on thanksgiving · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "is chick fil a open on thanksgiving · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3274,7 +3307,7 @@
    "image": "https://s.yimg.com/lo/mysterio/api/1a2a38e177b565ccc092633d623168b707d44fb147a3933fbca7dee6d4871cba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2F5338a5061a9642b185481f33c480f1d4.jpg",
    "published": "2026-11-24T18:37:08+00:00",
    "trending": true,
-   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
+   "trend_term": "regina george · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
    "trend_score": 2000
   },
   {
@@ -3586,48 +3619,48 @@
    "trend_score": 2000
   },
   {
-   "title": "Bella Hadid Details 'Intense' Desire to Have 'Lots of Children'",
-   "url": "https://www.usmagazine.com/celebrity-news/news/bella-hadid-details-intense-desire-to-have-lots-of-children/",
-   "source": "usmagazine.com",
+   "title": "Holly Ramsay, Adam Peaty welcome baby girl, reveal daughter's adorable name",
+   "url": "https://jang.com.pk/en/76917-holly-ramsay-adam-peaty-welcome-baby-girl-reveal-daughters-adorable-name-news",
+   "source": "jang.com.pk",
    "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2276954819-Bella-Hadid-Details-Intense-Desire-to-Have-Kids.jpg?crop=0px%2C115px%2C1333px%2C753px&resize=1000%2C563&quality=40&strip=all",
-   "published": "2026-11-24T15:45:08+00:00",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-26/76917_070956_eng.jpg",
+   "published": "2026-11-26T19:10:44+05:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
+   "trend_term": "gordon ramsay",
+   "trend_score": 500
   },
   {
-   "title": "Bella Hadid Details ‘Intense’ Desire to Have ‘Lots of Children’ After Going Public With Nathan Lacy",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bella-hadid-details-intense-desire-154508673.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/d05e6afdc89708ce6a224108cbc8756e73be111f3ee144f4ed26615aa655ced8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4a03ecd578afa9bd4d1b078af3b8b6d2.jpg",
-   "published": "2026-11-24T15:45:08+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000
-  },
-  {
-   "title": "Watch: Melissa McCarthy, Clive Owen star in JonBenet Ramsey series",
-   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/watch-melissa-mccarthy-clive-owen-154132011.html",
+   "title": "Richard Hammond Says He Was Approached About ‘Top Gear’ Return, but Decided: ‘No, I’m Too Old’",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/richard-hammond-says-approached-top-113302461.html",
    "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/fcc68eaaa17778d32c89f14673b31e3f89cd7e1f9e7a7c60222f49198f677bc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F12921281523701ed293fb23076aa28fc.jpg_up.jpg",
-   "published": "2026-11-24T15:41:32+00:00",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/8cab4993247fccd2f0e78361f91093ab4792653c8206f5aaae06b47b663f3fa3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F93e48837709bd786be96c8deb2fd9af6.jpg_up.jpg",
+   "published": "2026-11-26T11:33:02+00:00",
    "trending": true,
-   "trend_term": "jonbenet ramsey · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
-   "trend_score": 2000
+   "trend_term": "gordon ramsay",
+   "trend_score": 500
   },
   {
-   "title": "Ciara Miller Breaks Down ‘Severe Stage Fright’ She Overcame on 'DWTS'",
-   "url": "https://www.usmagazine.com/entertainment/news/ciara-miller-had-stage-fright-on-dancing-with-the-stars/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Ciara-Miller-Had-Severe-Stage-Fright-on-Dancing-With-the-Stars-Reflects-on-Her-Experience-183731_EM107953.jpg",
-   "published": "2026-11-24T20:11:55+00:00",
+   "title": "Richard Hammond Says He Was Approached By BBC About ‘Top Gear’ Return",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/richard-hammond-says-approached-bbc-105230702.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/b6f2e44dbaa8b35a46ffe8be16bbc367c8b049ed5c8a6beecc67c112699f49b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fe91a3f12ad3984938db59a7b4dc534da.png",
+   "published": "2026-11-26T10:52:30+00:00",
    "trending": true,
-   "trend_term": "ciara",
-   "trend_score": 1000
+   "trend_term": "gordon ramsay",
+   "trend_score": 500
+  },
+  {
+   "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/g-rard-depardieu-stand-trial-144430927.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e1e602b955b1e40f32fc44180223f541dc51ffa6360819c73bfe286b8b20918e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F711971fa9edd70eec887dfc103d1d238.jpg",
+   "published": "2026-11-26T14:44:30+00:00",
+   "trending": true,
+   "trend_term": "charlotte arnould",
+   "trend_score": 0
   },
   {
    "title": "Julianne Hough shares cryptic quotes about ‘love’ and ‘trust’ after whiplash fling with Peloton trainer",
@@ -3638,18 +3671,7 @@
    "published": "2026-11-26T03:39:34+00:00",
    "trending": true,
    "trend_term": "peloton",
-   "trend_score": 200
-  },
-  {
-   "title": "Julianne Hough and Adrian Williams’ Short-Lived Romance Ends Hours After Relationship News Went Public",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/julianne-hough-adrian-williams-short-052548808.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9b4fba97fd47ae498179601620ccc1085b381eb067da38c3c42d3f3f35c40898/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F28d6161e2553a682d9bb40cb59dae9a7.jpg",
-   "published": "2026-11-25T05:25:48+00:00",
-   "trending": true,
-   "trend_term": "peloton",
-   "trend_score": 200
+   "trend_score": 0
   },
   {
    "title": "New R-Rated Batman Movie Officially Sets HBO Max Release Ahead of Sequel",
@@ -3839,6 +3861,17 @@
    "trend_score": 0
   },
   {
+   "title": "Julianne Hough and Adrian Williams’ Short-Lived Romance Ends Hours After Relationship News Went Public",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/julianne-hough-adrian-williams-short-052548808.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9b4fba97fd47ae498179601620ccc1085b381eb067da38c3c42d3f3f35c40898/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F28d6161e2553a682d9bb40cb59dae9a7.jpg",
+   "published": "2026-11-25T05:25:48+00:00",
+   "trending": true,
+   "trend_term": "peloton",
+   "trend_score": 0
+  },
+  {
    "title": "Ben Stiller’s Encounters With Confused Fans Have Adam Sandler Involved",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/ben-stiller-encounters-confused-fans-042846294.html",
    "source": "yahoo.com",
@@ -4015,6 +4048,17 @@
    "trend_score": 0
   },
   {
+   "title": "Ciara Miller Breaks Down ‘Severe Stage Fright’ She Overcame on 'DWTS'",
+   "url": "https://www.usmagazine.com/entertainment/news/ciara-miller-had-stage-fright-on-dancing-with-the-stars/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Ciara-Miller-Had-Severe-Stage-Fright-on-Dancing-With-the-Stars-Reflects-on-Her-Experience-183731_EM107953.jpg",
+   "published": "2026-11-24T20:11:55+00:00",
+   "trending": true,
+   "trend_term": "ciara",
+   "trend_score": 0
+  },
+  {
    "title": "Jensen Huang Ditched Signature Look For Nvidia Return",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jensen-huang-ditched-signature-look-195954927.html",
    "source": "yahoo.com",
@@ -4103,34 +4147,12 @@
    "trend_score": 0
   },
   {
-   "title": "Netflix’s Best New Christmas Movie Has A Near-Record Rotten Tomatoes Score",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/netflix-best-christmas-movie-near-154116653.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/94e1ef65ba5324f9784f2e208b751227bcb6d084a871ba3562b95b02627f384c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Ff22dd05b7955472ec17588c2aef43fdd.jpg_up.jpg",
-   "published": "2026-11-24T15:41:16+00:00",
-   "trending": true,
-   "trend_term": "best · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites · covered by 2 sites",
-   "trend_score": 0
-  },
-  {
-   "title": "Details Emerge About the Sudden Death of ESPN Legend Tom Jackson at 75",
-   "url": "https://www.usmagazine.com/sports/news/tom-jacksons-sudden-death-at-75-sees-new-details-emerge/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-82886427.jpg-tom-jackson.jpg?crop=0px%2C82px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-24T15:19:21+00:00",
-   "trending": true,
-   "trend_term": "espn",
-   "trend_score": 0
-  },
-  {
-   "title": "Holly Ramsay, Adam Peaty welcome baby girl, reveal daughter's adorable name",
-   "url": "https://jang.com.pk/en/76917-holly-ramsay-adam-peaty-welcome-baby-girl-reveal-daughters-adorable-name-news",
+   "title": "Prince William breaks silence after Diana Award goes into administration",
+   "url": "https://jang.com.pk/en/76920-prince-william-breaks-silence-after-diana-award-goes-into-administration-news",
    "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-26/76917_070956_eng.jpg",
-   "published": "2026-11-26T19:10:44+05:00",
+   "category": "Awards",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-26/76920_082837_eng.jpg",
+   "published": "2026-11-26T20:29:23+05:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4175,6 +4197,171 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-26/76907_040327_eng.jpg",
    "published": "2026-11-26T16:05:00+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "“Hart to Hart”’s Stefanie Powers Posts Vintage Thanksgiving Photo with Onscreen Husband Robert Wagner",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/hart-hart-stefanie-powers-posts-154755922.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/57bc39d2b8bbbb72f5898e5c3533dee07363bdb49e4e728cce8de5037c731064/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Feeb4c771f7eb65e8ea8010f8fa69042f.jpg",
+   "published": "2026-11-26T15:47:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Nile Rodgers and The Streets announced as part of Boomtown 2027 festival line-up",
+   "url": "https://www.yahoo.com/entertainment/music/festivals/articles/boomtown-announces-nile-rodgers-streets-142740736.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/96037c868975faf10ea172f8d356137160e10dcce1bbf76527715876032eba20/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F034831758bff00f80a053d7fccfabd9f.jpg",
+   "published": "2026-11-26T15:46:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "After Being Removed from 2,000 Theaters, Alexander Skarsgård’s New Adults-Only Fantasy Movie Officially Hits Digital",
+   "url": "https://collider.com/wicker-olivia-colman-alexander-skarsgard-digital-debut-removed-from-2000-theaters-box-office/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/alexander-skarsgard.jpg",
+   "published": "2026-11-26T15:45:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Maxx Morando’s Creative Connection To Miley Cyrus Began Before Romance Went Public",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/maxx-morando-creative-connection-miley-154500970.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/64cd0fc6e396aa84430bf7412c009ee787e9de510533e000f96c07cde1dfdaef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fc6e682b48104857013c18acb23fd5210.jpg",
+   "published": "2026-11-26T15:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "The Best Audible Books to Listen to Right Now: ‘ACOTAR,’ ‘Hunger Games,’ ‘Pride & Prejudice’ and More",
+   "url": "https://www.yahoo.com/entertainment/articles/best-audible-books-listen-now-185906137.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/adc2687cb419ca6a4679d3666d7c6b5b757516779c7ca6c673fe9576f7af4499/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety_ecomm_820%2F5f5a6423188067b449ce5e5faa37d4ff.png",
+   "published": "2026-11-26T15:43:04+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Kate Middleton makes surprise appearance ahead of rare glimpse inside emotional cancer battle",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-makes-surprise-appearance-145503023.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/117c0030ef763ce41492dfad0c8cf6a6e09506cd989e4f0ca2ddc4432a81d09b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F1dccb237565c2e3318ea9f6612af5331.jpg",
+   "published": "2026-11-26T15:42:47+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Which Look From Kim Kardashian’s ‘All’s Fair’ Press Tour Was Your Favourite?",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/look-kim-kardashian-fair-press-153433070.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/621294825f7401eb45d6e178b885f5a44fadee92e9bbe3e8aaa29ca3c219a623/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2F518b37a3080c3e02dfcd31ae17e47295.jpg",
+   "published": "2026-11-26T15:34:33+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Two of Marvel’s Biggest X-Men Stories Officially Collide in New Release",
+   "url": "https://collider.com/marvel-x-men-incursions-house-of-m-days-of-future-past/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/xmen92incur2027001_covera_vecchio-4x5.jpg",
+   "published": "2026-11-26T15:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Ranking the 15 hottest nearly nude celebrity underwear ads of all time",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/ranking-15-hottest-nearly-nude-153002169.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/2e706c9863f218c26234350bc0886df033dfbc139989da680a0752fbc9bad252/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fout_articles_481%2Feb2be15294aa3412be2d4f862ef12428.jpg",
+   "published": "2026-11-26T15:30:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Prince Harry And William’s Bitter Rift Could Outlive King Charles As Royal Expert Makes Grim Prediction",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-william-bitter-rift-153000869.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/87ee1d92333c52b34654565448c07d7857fb3e8e3fa92c0913be6b577a27ff3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fac5b7abe3b949be5ebdeb917050b9d93.jpg",
+   "published": "2026-11-26T15:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Al Roker Reveals Why His Thanksgiving Won’t Be the Same This Year",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/al-roker-reveals-why-thanksgiving-152607590.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3dc4b3658567bc30f84af55f3de85e137b8e80131653de1eb01ba105bde7cde9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F50c2a6c3d53ad51abae7f617698b2d30.png",
+   "published": "2026-11-26T15:26:07+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Rare clip of Princess Charlotte's speaking voice has fans all saying the same thing – watch",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/rare-clip-princess-charlottes-speaking-151716209.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4730361660fba187676a958310fcfb600237651c04e6fcfa0124660ca0c24b41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F265a2097bea70cec0e341038673e8136.jpg",
+   "published": "2026-11-26T15:17:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Alabama Barker is Marilyn Monroe's double with shortest hair yet",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/alabama-barker-marilyn-monroes-double-151559188.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/9a14a07b174a9b0f891a4efbb999cda0f839cf690fc03c7aa6cddd0eba7a84f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F9ee0f0399916d7b0fd65f983b5b7b4bd.jpg",
+   "published": "2026-11-26T15:15:59+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Nathan Fielder’s New 3-Hour A24 Movie Is an Instant Digital Hit",
+   "url": "https://collider.com/you-can-see-everything-digital-debut-box-office-removed-from-1400-theaters/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/you-can-see-everything-2026-1.jpg",
+   "published": "2026-11-26T15:15:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "9 Greatest Crime Movies of the 2000s, Ranked",
+   "url": "https://collider.com/greatest-crime-movies-2000s-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/11/in-layer-cake.jpg",
+   "published": "2026-11-26T15:06:12+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -4686,17 +4873,6 @@
    "trend_score": 0
   },
   {
-   "title": "Richard Hammond Says He Was Approached About ‘Top Gear’ Return, but Decided: ‘No, I’m Too Old’",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/richard-hammond-says-approached-top-113302461.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/8cab4993247fccd2f0e78361f91093ab4792653c8206f5aaae06b47b663f3fa3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F93e48837709bd786be96c8deb2fd9af6.jpg_up.jpg",
-   "published": "2026-11-26T11:33:02+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
    "title": "Rihanna’s Unbuttoned Dior Shirt Comes With a Sheer Twist for New Campaign",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/rihanna-unbuttoned-dior-shirt-comes-113239342.html",
    "source": "yahoo.com",
@@ -4835,17 +5011,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/334aa30b46be53a4756a08f7bfd764b7cf9c13e6505e24bdb449b06041815f7b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmomtastic_536%2F8ba1f7cceac044094aa94fed3704617a.jpg",
    "published": "2026-11-26T10:54:08+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Richard Hammond Says He Was Approached By BBC About ‘Top Gear’ Return",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/richard-hammond-says-approached-bbc-105230702.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/b6f2e44dbaa8b35a46ffe8be16bbc367c8b049ed5c8a6beecc67c112699f49b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fe91a3f12ad3984938db59a7b4dc534da.png",
-   "published": "2026-11-26T10:52:30+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -5539,6 +5704,17 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/b43db1ed8b3c996156cc3e2821b9658860f70c9a0f7c6010f052a3fa15bc8269/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F7937dd8d2caa4e66f6cac5771e321742.jpg",
    "published": "2026-11-26T04:46:05+00:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
+   "title": "Fans Are 'Obsessed' With Gwen Stefani's 'Stunning' Chain Dress On Rock & Roll Hall Of Fame Red Carpet",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/fans-obsessed-gwen-stefanis-stunning-044558833.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/60f991ee3a1b35ebed96c263998dc3335551d9342e928a82d8974094369bf89f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fshefinds_255%2Fd8efda9e9870b5f5e53d4af73aa94dfa.jpg",
+   "published": "2026-11-26T04:45:58+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
@@ -10164,6 +10340,17 @@
    "trend_score": 0
   },
   {
+   "title": "Melissa McCarthy, Clive Owen lead chilling series 'JonBenét Ramsey Murder'",
+   "url": "https://jang.com.pk/en/76828-melissa-mccarthy-clive-owen-lead-chilling-series-jonbent-ramsey-murder-news",
+   "source": "jang.com.pk",
+   "category": "TV",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76828_104125_eng.jpg",
+   "published": "2026-11-24T22:41:22+05:00",
+   "trending": false,
+   "trend_term": null,
+   "trend_score": 0
+  },
+  {
    "title": "‘Madden’ exclusive interview: Simms May",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/madden-exclusive-interview-simms-may-224100129.html",
    "source": "yahoo.com",
@@ -11622,193 +11809,6 @@
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/copy-of-collider-template-2026-11-24t074650-075.jpg",
    "published": "2026-11-24T16:00:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "The best Thanksgiving movies to watch this week to start your holiday season right, from 'Planes, Trains and Automobiles' to 'Pilgrim'",
-   "url": "https://www.yahoo.com/entertainment/movies/article/the-best-thanksgiving-movies-to-watch-this-week-to-start-your-holiday-season-right-from-planes-trains-and-automobiles-to-pilgrim-155400359.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/9463717d4bc3ee22812563841bceb82f6a535ed49fe70f18b4a0fe62df032411/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-badge-top-left_9048.png",
-   "published": "2026-11-24T15:54:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Irish reality star dances her way to final of Dancing with the Stars",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/irish-reality-star-dances-her-154226072.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/790e1eab39c3226404b4dc084e1f531adc4e27d52915304e98c12636ce119066/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff4860356e95374e1b919088dac3dad53.jpg",
-   "published": "2026-11-24T15:53:07+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Jimmy Kimmel on Jensen Huang’s return to Nvidia: ‘What a profoundly stupid time to be alive’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jimmy-kimmel-jensen-huang-return-155100760.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/724a819ff4e60078e37965c42abb23c1a9f450a0d2dc3b9d3c77c1e20b6b10b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F57184700ab289f38be331c9c6163b1fb.jpg",
-   "published": "2026-11-24T15:51:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "“When CC Don’t Forget About You”: Kid Cudi Flaunts Multi-Pair Haul of Caitlin Clark’s Nike CC1 Sneakers in Heartfelt Shoutout",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/cc-don-t-forget-kid-154829908.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/745ec5f9d380d1ff1b4717b00f537a3d05c074987a0f66e3eeb587e1fe7468f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcollege_football_network_979%2Fb399416bc8b74d348d048d382728f9ab.jpg",
-   "published": "2026-11-24T15:48:29+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Stevie Wonder concert marks 50th anniversary with surprise Dave Chappelle appearance",
-   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/stevie-wonder-concert-marks-50th-154616087.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/1b8f231f903e57b8dc4f6054c8ffa7e6aebf2fb9a5bfa44e8f1e4267e70b73c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F76df59a83dab86abf40a088395726376.jpg",
-   "published": "2026-11-24T15:46:16+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Man-Xi Ho’s Miu MIu Floral Fantasy at the Golden Horse Awards",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/man-xi-ho-miu-miu-154357819.html",
-   "source": "yahoo.com",
-   "category": "Awards",
-   "image": "https://s.yimg.com/lo/mysterio/api/269edbf845467fe797522272b39b90b9e16cc52e3b06a34b43799bcd317dec63/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2F552134c53d4fe0a5c384ae2d9dd10989.jpg_up.jpg",
-   "published": "2026-11-24T15:43:57+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Aardman Getting 50th Anniversary Doc Special ‘Cracking Job Gromit’ at BBC",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/aardman-getting-50th-anniversary-doc-154309410.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/c52a0ac8ae48f4ee62438537aa4cc59da2b0cfbebe138858bae4eed6fe99612e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F7cb0fe4426a35c7934a48cf164f18ef1.jpg_up.jpg",
-   "published": "2026-11-24T15:43:09+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Ray Nicholson Shares Surprising Story About How Dad Jack Nicholson’s Hollywood Career Took Shape (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ray-nicholson-shares-surprising-story-153954884.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/46fd04a7225da7566d1537626185eb0105be5047e7d6261a764b70a7b7c8e986/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F76177c411d37c7ef5fe56cfc279e3c0f.jpg_up.jpg",
-   "published": "2026-11-24T15:39:54+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Billy Bob Thornton Sticks to Old-School Thanksgiving, Admits He’s a Holiday ‘Purist’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/billy-bob-thornton-sticks-old-153727314.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8aa7e4c5c5d59f1e76102960e7c799a7f75195c5385861ce1a6973631f0c4860/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffirst_for_women_articles_145%2Fcf923642c4c0b600c976ca639c75312d.jpg",
-   "published": "2026-11-24T15:37:27+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Justin Timberlake ‘Wanted a Chance to Tell His Side of the Story,’ Flaws and All (Exclusive Source)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-wanted-chance-tell-153638009.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/61c211b14a98abd7a3854590c1359bed700c5ae006feeac4dc0e15638aacd40f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F288bdfe8455c6e8161df9eb3d5827a1a.jpg",
-   "published": "2026-11-24T15:36:38+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Miley Cyrus walks down the aisle in a stunning Saint Laurent wedding dress",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-walks-down-aisle-153316621.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/ffe8b5308bf4157cfb691a3cf3d22ba08471dd501923e0cad77d92f5a5bc9df5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F8fd829a27655aaa03e57ca90964c9f76.jpg",
-   "published": "2026-11-24T15:33:16+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "This pop band sold out concerts in the '70s but now their music is barely played - do you remember them?",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/whatever-happened-70s-pop-sensations-140000688.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/c2a53ff15b2c914e84d8ac72db738962969d4175fdd71d66dd1eb9f79b1423e3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F17f563e3c7d5951aa04937125a0e0e83.jpg",
-   "published": "2026-11-24T15:32:03+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Prince Harry And Meghan Markle’s Team Shuts Down ‘Entirely False’ Visa Claims Amid Speculation Donald Trump Forced Their Return To Britain",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-team-153000854.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/5dc331734c7b966ac585af7d4282501e0753c02684eabf47b43b3a3c8721e95f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fce288716c4dbdfa379430dcbf2ae003a.jpg",
-   "published": "2026-11-24T15:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Jennifer Lopez’s Marine Serre Dress Goes Sheer Up Top & Down Below for NYT",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jennifer-lopez-marine-serre-dress-153000555.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/5e634b17734348b916b2c6713724035dfa27beded45bbc58d6bda0c1103054d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Feb44340c44693ad62e9d220c9d16953c.jpg",
-   "published": "2026-11-24T15:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "Tracker's Justin Hartley and Wife Sofia Pernas Get Involved in New TV Show",
-   "url": "https://www.usmagazine.com/entertainment/news/trackers-justin-hartley-wife-sofia-pernas-join-new-tv-show/",
-   "source": "usmagazine.com",
-   "category": "TV",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/01/3135130_0367b.jpg",
-   "published": "2026-11-24T15:23:59+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "A Miley Cyrus Wedding Guest Broke the Dress Code in Bright Yellow—Her Sister Explains Why",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-wedding-guest-broke-151404670.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/6d60cca0c39b8c271e069c7aeaa7e0ec8027e62786ded5aa18697a28e8fedc10/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F6080d406dddddeee1dd5424656de7a0e.jpg",
-   "published": "2026-11-24T15:14:04+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0
-  },
-  {
-   "title": "ASMR Fashion Is Here to Make You Feel Something",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/asmr-fashion-feel-something-150000870.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/68bfd87cb9d7b58e165ceffc980f85ad4926243f6792816989a919747c477d5d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Felle_570%2Fb0e108771b6a51659adc0502bb6ecade.jpg_up.jpg",
-   "published": "2026-11-24T15:00:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0
