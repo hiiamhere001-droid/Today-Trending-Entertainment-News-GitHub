@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>US Entertainment Trends Desk</title>
+<title>LIMON WORK STATION</title>
 <style>
 :root{--bg:#f4f3ef;--card:#fff;--text:#1b1b1f;--muted:#6b6b75;--line:#e4e2dc;--accent:#d6336c;--accent2:#5b4bdb;--fresh:#12b76a}
 @media (prefers-color-scheme:dark){:root{--bg:#121215;--card:#1b1b20;--text:#f0eff2;--muted:#9a9aa6;--line:#2b2b33;--accent:#f06595;--accent2:#8f84ff;--fresh:#32d583}}
@@ -31,6 +31,8 @@ h2{margin:0 0 12px;font-size:16px;display:flex;align-items:center;gap:8px}
 .tag{display:inline-block;padding:1px 8px;border-radius:99px;border:1px solid var(--line);font-size:11px;color:var(--muted)}
 .meta{font-size:12px;color:var(--muted)}
 .hot{color:var(--accent);font-weight:700;font-size:12px}
+.mw{color:#f59f00;font-weight:700;font-size:12px}
+.chip.mwc.on{background:#f59f00;border-color:#f59f00;color:#1b1b1f}
 aside .box{position:sticky;top:calc(var(--hh,84px) + 12px);max-height:calc(100vh - var(--hh,84px) - 24px);overflow:auto;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:0 14px 14px}
 aside .box h2{position:sticky;top:0;z-index:3;background:var(--card);margin:0;padding:14px 0 10px}
 main>h2{position:sticky;top:var(--hh,84px);z-index:4;background:var(--bg);margin:0 0 4px;padding:10px 0}
@@ -84,7 +86,7 @@ main>h2{position:sticky;top:var(--hh,84px);z-index:4;background:var(--bg);margin
 </style></head><body>
 <header>
   <div class="top">
-    <h1>US Entertainment <span>Trends Desk</span></h1>
+    <h1>LIMON <span>WORK STATION</span></h1>
     <span class="dd"><button class="ibtn" id="statbtn" title="Update info" aria-label="Update info">ⓘ</button><div class="ddm" id="stat" hidden>Loading…</div></span>
     <button class="btn lost" id="lostbtn">🕘 Lost news 24 h <b id="lostn">0</b></button>
     <button class="btn ok" id="okbtn">✓ Ok work <b id="okn">0</b></button>
@@ -129,7 +131,7 @@ main>h2{position:sticky;top:var(--hh,84px);z-index:4;background:var(--bg);margin
 </div></div>
 <script>
 var FRESH_HOURS=3;
-var DATA=null,src="All",cat="All",onlyTrend=false;
+var DATA=null,src="All",cat="All",onlyTrend=false,onlyMW=false;
 function $(i){return document.getElementById(i)}
 var DONE={},IDX={},STORE_OK=true,pressing=false;
 function nu(u){try{var p=new URL(u);return "u:"+p.hostname.replace(/^www\./,"").toLowerCase()+p.pathname.replace(/\/+$/,"").toLowerCase()}catch(e){return "u:"+String(u||"").toLowerCase()}}
@@ -166,7 +168,7 @@ function renderLost(list){
     var a=document.createElement("a");a.className="fs";a.href=i.url;a.target="_blank";a.rel="noopener noreferrer";
     a.appendChild(img(i.image,""));a.appendChild(tickBtn(i));
     var d=document.createElement("div");var h=document.createElement("h3");h.textContent=i.title;d.appendChild(h);
-    var m=document.createElement("div");m.className="meta";m.textContent=i.source+" · "+i.category+" · "+ago(i.published)+(i.trending?" · 🔥":"");d.appendChild(m);
+    var m=document.createElement("div");m.className="meta";m.textContent=i.source+" · "+i.category+" · "+ago(i.published)+(i.trending?" · 🔥":"")+(isMW(i)?" · ⭐":"");d.appendChild(m);
     a.appendChild(d);box.appendChild(a)})}
 function ago(iso){var m=Math.max(0,Math.round((Date.now()-new Date(iso))/60000));
   if(m<60)return m+" min ago";var h=Math.floor(m/60);return h+" h "+(m%60)+" min ago"}
@@ -179,7 +181,8 @@ function load(){
   $("stat").textContent="Loading…";
   fetch("news.json?t="+Date.now()).then(function(r){return r.json()}).then(function(d){DATA=d;if(!pressing)render()})
   .catch(function(){$("stat").textContent="Could not load news.json"})}
-function pass(i){return !isDone(i)&&(src==="All"||i.source===src)&&(cat==="All"||i.category===cat)&&(!onlyTrend||i.trending)}
+function pass(i){return !isDone(i)&&(src==="All"||i.source===src)&&(cat==="All"||i.category===cat)&&(!onlyTrend||i.trending)&&(!onlyMW||isMW(i))}
+function isMW(i){return !!(i.mw&&i.mw.length)}
 function statRender(){var s=$("stat");s.textContent="";
   function row(a,b,cls){var d=document.createElement("div");d.className=cls||"srow";var x=document.createElement("span");x.textContent=a;d.appendChild(x);if(b!=null){var y=document.createElement("b");y.textContent=b;d.appendChild(y)}s.appendChild(d)}
   if(!STORE_OK)row("⚠ Browser storage blocked: read marks will not be saved",null,"sup");
@@ -197,6 +200,7 @@ function render(){
   var sp=document.createElement("span");sp.className="sep";sp.textContent="|";f.appendChild(sp);
   ["All","Celebrity","Music","Movies","TV","Streaming","Awards","Fashion"].forEach(function(c){f.appendChild(chip(c,"cat",c===cat,function(){cat=c;render()}))});
   f.appendChild(chip("🔥 Trending only","cat",onlyTrend,function(){onlyTrend=!onlyTrend;render()}));
+  f.appendChild(chip("⭐ Most Work","cat mwc",onlyMW,function(){onlyMW=!onlyMW;render()}));
   prune();setHH();
   var vis=DATA.items.filter(pass);
   var H=3600000,age=function(i){return Date.now()-new Date(i.published)};
@@ -219,6 +223,7 @@ function render(){
     var h=document.createElement("h3");h.textContent=i.title;b.appendChild(h);
     var m=document.createElement("div");m.className="meta";m.textContent=i.source+" · "+ago(i.published);b.appendChild(m);
     if(i.trending){var x=document.createElement("div");x.className="hot";x.textContent="🔥 Trending: "+i.trend_term;b.appendChild(x)}
+    if(isMW(i)){var y=document.createElement("div");y.className="mw";y.textContent="⭐ Most Work: "+i.mw.join(", ");b.appendChild(y)}
     a.appendChild(b);g.appendChild(a)})}
   var fl=$("fresh");fl.textContent="";
   if(!fresh.length){var e2=document.createElement("div");e2.className="empty";e2.textContent="Nothing new in the last "+FRESH_HOURS+" hours.";fl.appendChild(e2)}
@@ -229,7 +234,7 @@ function render(){
     var h=document.createElement("h3");h.textContent=i.title;d.appendChild(h);
     var m=document.createElement("div");m.className="meta";
     var s=document.createElement("span");s.className="ago";s.textContent=ago(i.published);
-    m.appendChild(s);m.appendChild(document.createTextNode(" · "+i.source+" · "+i.category+(i.trending?" · 🔥":"")));
+    m.appendChild(s);m.appendChild(document.createTextNode(" · "+i.source+" · "+i.category+(i.trending?" · 🔥":"")+(isMW(i)?" · ⭐":"")));
     d.appendChild(m);a.appendChild(d);fl.appendChild(a)});
   renderOk()}
 $("refresh").onclick=load;

@@ -45,7 +45,7 @@ STRONG = re.compile(
     r"britney|royal|late[- ]night|talk show|snl|broadway|kate middleton|prince|princess)\b", re.I)
 BLOCK = re.compile(
     r"\b(politic\w*|election|senate|congress|nfl|nba|mlb|nhl|stocks?|crypto|recipe|"
-    r"shopping|deals?|amazon|walmart|bigfoot|ufo|weather|crash|shooting|war|"
+    r"shopping|deals?|amazon|walmart|bigfoot|ufo|weather|war|"
     r"classic books|reading list|novels?|gaming|video games?|tabletop|wrestling)\b", re.I)
 CATEGORIES = [
     ("Awards", r"\b(awards?|oscars?|emmys?|grammys?|golden globes?|nominat\w*)\b"),
@@ -55,6 +55,34 @@ CATEGORIES = [
     ("Music", r"\b(singer|rapper|album|concert|tour|song|single|band|music)\b"),
     ("Fashion", r"\b(fashion|red carpet|dress|outfit|met gala|style)\b"),
 ]
+
+# "Most Work" = big, sudden, personal news: death, split, wedding, illness, accident, shock, big move.
+MOST_WORK = [
+    ("Death", r"\b(dead|dies|died|death|deaths|passes away|passed away|passing|killed|funeral|obituary|"
+              r"mourn\w*|memorial|rest in peace|pays tribute|late (star|actor|actress|singer)|found dead|"
+              r"life support|last words)\b"),
+    ("Split", r"\b(divorce\w*|splits?|split up|breakup|breaks? up|broke up|separat\w*|calls it quits|"
+              r"called it quits|ends? (their )?(engagement|marriage|relationship)|cheat\w*|files? for divorce)\b"),
+    ("Wedding", r"\b(weddings?|weds?|wed|married|marries|marriage|engaged|engagement|gets engaged|"
+                r"proposal|proposes|proposed|ties the knot|bride|groom|elope\w*|honeymoon)\b"),
+    ("Illness", r"\b(cancer|diagnos\w*|illness|disease|hospitali[sz]ed|surgery|battle with|battling|"
+                r"chemo\w*|tumou?rs?|stroke|heart attack|rehab|health scare|health crisis|infection|"
+                r"dementia|alzheimer\w*|parkinson\w*|leukemia|overdose|medical emergency|intensive care|"
+                r"rushed to (the )?(hospital|er))\b"),
+    ("Accident", r"\b(accident\w*|crash\w*|injur\w*|collision|car wreck|wreck|plane|helicopter|"
+                 r"explosion|house fire|wildfire|catches fire|burned|drown\w*|stabbed|shot dead|"
+                 r"shooting|gunman|trapped|critically)\b"),
+    ("Sudden", r"\b(shock\w*|stunning|sudden\w*|breaking|arrested|arrest|lawsuit|sues|sued|scandal|"
+               r"fired|cancell?ed|postponed|banned|burglar\w*|break-in|missing|evacuat\w*|"
+               r"leaked|exposed|rushed|emergency)\b"),
+    ("Big move", r"\b(retire\w*|retirement|farewell|final (season|tour|episode|film|show)|comeback|reunion|"
+                 r"reunite\w*|steps? down|steps? away|quits|quitting|leaving|signs? (a )?deal|biggest|"
+                 r"historic|first time in history|world tour|set to (return|star|host|leave)|"
+                 r"plans to|to leave|new baby|welcomes? (a )?(baby|child))\b"),
+]
+
+def most_work(text):
+    return [name for name, pat in MOST_WORK if re.search(pat, text, re.I)]
 
 def get(url):
     try:
@@ -255,6 +283,34 @@ def add_buzz(items):
                 srcs.add(fam(o["source"]))
         it["buzz"] = len(srcs)
 
+def dedupe(items):
+    """Same story on different sites -> keep only the one published FIRST, drop the later copies.
+    Stories match if their headlines share 3+ key words (see overlap), or they use the same
+    image and share 2+ key words. The kept story remembers the other sites in it['also']."""
+    def when(i):
+        return parse_dt(i.get("published", "")) or dt.datetime.max.replace(tzinfo=dt.timezone.utc)
+    kept, dropped = [], 0
+    for it in sorted(items, key=when):          # oldest first = first uploader wins
+        t = toks(it["title"])
+        twin = None
+        for k in kept:
+            if fam(k["source"]) == fam(it["source"]):
+                continue                        # only compare across different websites
+            kt = toks(k["title"])
+            same_img = it.get("image") and it.get("image") == k.get("image") and len(t & kt) >= 2
+            if overlap(t, kt) or same_img:
+                twin = k
+                break
+        if twin is None:
+            it.setdefault("also", [])
+            kept.append(it)
+        else:
+            dropped += 1
+            also = set(twin.get("also", [])) | set(it.get("also", [])) | {fam(it["source"])}
+            twin["also"] = sorted(also - {fam(twin["source"])})
+    print("duplicates removed:", dropped)
+    return kept
+
 def norm_url(u):
     q = urlparse(u or "")
     return (q.netloc.lower().replace("www.", "") + q.path.rstrip("/")).lower()
@@ -323,6 +379,7 @@ def main():
             continue
         seen_urls.add(norm_url(o["url"]))
         items.append(o)
+    items = dedupe(items)   # same story on 2 sites: only the earliest-published copy stays
     # Trending = matches a Google Trends (US) topic, OR the same story is covered by 2+ of our sites.
     for it in items:
         was = (it.get("trending"), it.get("trend_term"))
@@ -332,15 +389,19 @@ def main():
         if t:
             it["trending"], it["trend_term"], it["trend_score"] = True, t["term"], t["traffic"]
         elif was[0] and was[1] and not str(was[1]).startswith("covered by"):
-            it["trending"], it["trend_term"] = True, was[1]   # was trending in an earlier run, keep it
-    add_buzz(items)
+            old_term = re.sub(r"(\s*·\s*covered by \d+ sites)+$", "", str(was[1]))
+            it["trending"], it["trend_term"] = True, old_term   # was trending in an earlier run, keep it
     for it in items:
-        n = it.pop("buzz", 1)
+        n = 1 + len(it.get("also", []))      # this site + the other sites that had the same story
         if n >= 2:
             it["trend_score"] = it.get("trend_score", 0) + n * 1000
             label = f"covered by {n} sites"
             it["trend_term"] = f"{it['trend_term']} · {label}" if it["trending"] else label
             it["trending"] = True
+        it.pop("_s", None)
+    for it in items:
+        if "mw" not in it:            # computed once, then remembered in news.json
+            it["mw"] = most_work(f"{it['title']} {it.get('_s', '')}")
         it.pop("_s", None)
     items.sort(key=lambda i: i["published"], reverse=True)
     items.sort(key=lambda i: -i.get("trend_score", 0))
