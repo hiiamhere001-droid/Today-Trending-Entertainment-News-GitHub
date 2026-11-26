@@ -1,38 +1,25 @@
 {
- "generated_at": "2026-11-26T17:55:06.397758+00:00",
+ "generated_at": "2026-11-26T18:54:15.263202+00:00",
  "date_us": "2026-11-26",
  "per_site": {
   "usmagazine.com": 11,
   "news.meaww.com": 1,
-  "profiles.yahoo.com": 5,
-  "yahoo.com": 29,
+  "profiles.yahoo.com": 7,
+  "yahoo.com": 28,
   "jang.com.pk": 8,
-  "collider.com": 10
+  "collider.com": 9
  },
  "items": [
   {
-   "title": "Charlotte Dobre Makes A Compelling Case For Real Names On YouTube Comments",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/charlotte-dobre-makes-compelling-case-142827757.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9250a1ebc2b161f8f68f007db137be73ff37fc9fef706a69ad577c0bcc980253/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2Fd25a0d9f222f66072a7974585075b8e2.jpg",
-   "published": "2026-11-26T14:28:27+00:00",
+   "title": "Win Tickets to Our Screening of 'Ink' and Q&A With Danny Boyle",
+   "url": "https://collider.com/ink-screening-danny-boyle-netflix-q-and-a/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/ink-jack-o-connell-1.jpg",
+   "published": "2026-11-26T14:40:39+00:00",
    "trending": true,
-   "trend_term": "youtube tv",
-   "trend_score": 5000,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Horror ‘Soulala’ Reinforces Saudi YouTube Generation Boom as Director Says U.S. Is ‘a Decade Behind’ on Online-to-Cinema Phenomenon",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/horror-soulala-reinforces-saudi-youtube-194116179.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/e3da66de7e4f17c93fc882800113905e3fefb2122489818ca2631bf633157453/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F515020e5b8143c017a5a1b2bd5ef77d2.png",
-   "published": "2026-11-25T19:41:16+00:00",
-   "trending": true,
-   "trend_term": "youtube tv",
-   "trend_score": 5000,
+   "trend_term": "mr irrelevant",
+   "trend_score": 10000,
    "also": [],
    "mw": []
   },
@@ -51,23 +38,6 @@
     "usmagazine.com"
    ],
    "mw": []
-  },
-  {
-   "title": "Hayden Panettiere left behind $6.2M estate after her death at 36",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-left-behind-6-231331115.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1959a16db5ea37846d0c59c3d7d694a9a42427cf4486478cdd97fb0a96ae1afc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F2989a1e80d68d36e386fa58994471967.jpg",
-   "published": "2026-11-24T23:13:31+00:00",
-   "trending": true,
-   "trend_term": "wladimir klitschko hayden panettiere probate · covered by 2 sites",
-   "trend_score": 3000,
-   "also": [
-    "usmagazine.com"
-   ],
-   "mw": [
-    "Death"
-   ]
   },
   {
    "title": "Marvel Is Planning a Tribute ‘That Honors and Respects’ Patrick Stewart in “Avengers: Doomsday”, His Final Movie",
@@ -105,22 +75,19 @@
    ]
   },
   {
-   "title": "Did Ben Shelton and Trinity Rodman break up? Couple reportedly splits",
-   "url": "https://www.yahoo.com/entertainment/articles/did-ben-shelton-trinity-rodman-184419958.html",
-   "source": "yahoo.com",
+   "title": "Jenny McCarthy Details $6K Mold Treatment Amid Her 2-Year Health Struggles",
+   "url": "https://www.usmagazine.com/celebrity-news/news/jenny-mccarthy-details-6k-mold-treatment-amid-health-ordeal/",
+   "source": "usmagazine.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9d3e264f0749b2e0db35135b66e6e2c37e81604d94260855148c86af33f8d743/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F1173928b481bc89846195a0ff1eb658e.jpg_up.jpg",
-   "published": "2026-11-24T18:44:19+00:00",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2268524831Jenny-McCarthy-Details-Mold-Treatment-Amid-Her-Health-Struggles.jpg",
+   "published": "2026-11-26T11:44:33+00:00",
    "trending": true,
-   "trend_term": "trinity rodman · covered by 3 sites",
-   "trend_score": 3000,
+   "trend_term": "covered by 2 sites",
    "also": [
-    "jang.com.pk",
-    "usmagazine.com"
+    "yahoo.com"
    ],
-   "mw": [
-    "Split"
-   ]
+   "trend_score": 2000,
+   "mw": []
   },
   {
    "title": "Khloe Kardashian Reveals If She Would Ever Consider a Lavender Marriage",
@@ -152,6 +119,19 @@
     "yahoo.com"
    ],
    "trend_score": 2000,
+   "mw": []
+  },
+  {
+   "title": "Hailee Steinfeld Shares Personal Message Before Bills Thanksgiving Game",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/hailee-steinfeld-shares-personal-message-091141640.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ab820c7d541b0447f4b74417cc3062c798283d32a448e6249ca6431f898fa89c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fe3d0202b5632bcd7a7b4c15788dd6921.jpg",
+   "published": "2026-11-26T09:11:41+00:00",
+   "trending": true,
+   "trend_term": "hailee steinfeld",
+   "trend_score": 2000,
+   "also": [],
    "mw": []
   },
   {
@@ -1044,6 +1024,21 @@
    "mw": []
   },
   {
+   "title": "‘The Rings of Power’ Season 3 Finale Explained",
+   "url": "https://www.yahoo.com/entertainment/tv/reviews/articles/rings-power-season-3-finale-020057364.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/d79db85a9e31c705a05aacc96127d0027a0435cc39413668bbdb6de9db98544b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F012cf7ca2ccecc2569bc6c67f6d7785b.jpg",
+   "published": "2026-11-25T02:00:57+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000,
+   "also": [
+    "collider.com"
+   ],
+   "mw": []
+  },
+  {
    "title": "‘Seinfeld’ actor Steven Hack’s cause of death revealed after sudden passing at 68",
    "url": "https://news.meaww.com/seinfeld-actor-steven-hacks-cause-of-death-revealed-after-sudden-passing-at-68",
    "source": "news.meaww.com",
@@ -1144,6 +1139,23 @@
    ]
   },
   {
+   "title": "Hayden Panettiere left behind $6.2M estate after her death at 36",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-left-behind-6-231331115.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1959a16db5ea37846d0c59c3d7d694a9a42427cf4486478cdd97fb0a96ae1afc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F2989a1e80d68d36e386fa58994471967.jpg",
+   "published": "2026-11-24T23:13:31+00:00",
+   "trending": true,
+   "trend_term": "wladimir klitschko hayden panettiere probate · covered by 2 sites",
+   "trend_score": 2000,
+   "also": [
+    "usmagazine.com"
+   ],
+   "mw": [
+    "Death"
+   ]
+  },
+  {
    "title": "Sia Addresses Court Battle With Ex After Request to Be Declared Legally Single",
    "url": "https://www.usmagazine.com/celebrity-news/news/sia-addresses-ongoing-legal-battle-with-ex-daniel-bernad/",
    "source": "usmagazine.com",
@@ -1191,6 +1203,21 @@
    "mw": []
   },
   {
+   "title": "10 Greatest Thanksgiving Sitcom Episodes of All Time, Ranked",
+   "url": "https://collider.com/thanksgiving-best-sitcom-episodes-ranked/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/bart-vs.jpg",
+   "published": "2026-11-24T22:44:12+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000,
+   "also": [
+    "yahoo.com"
+   ],
+   "mw": []
+  },
+  {
    "title": "The Bachelor’s Lauren Burnham Reveals Where She Stands With Alex Cooper",
    "url": "https://www.usmagazine.com/celebrity-news/news/lauren-burnham-reveals-where-she-stands-with-alex-cooper/",
    "source": "usmagazine.com",
@@ -1202,6 +1229,21 @@
    "trend_score": 2000,
    "also": [
     "yahoo.com"
+   ],
+   "mw": []
+  },
+  {
+   "title": "CLAYFACE’s Latest Box Office Milestone Proves DC Made A Mistake",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/clayface-latest-box-office-milestone-223055614.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/1b8ef46d8ebb817e9cebdc2068dcb31618285802a4a6fdab74945ab63d2352ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffangoria_208%2F4a7a47385855dc5dee07aac068e4d3d3.jpg_up.jpg",
+   "published": "2026-11-24T22:30:55+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000,
+   "also": [
+    "collider.com"
    ],
    "mw": []
   },
@@ -1529,185 +1571,17 @@
    ]
   },
   {
-   "title": "How Taylor Swift Reportedly Responded To Vanity Fair's 'Unflattering' Exposé",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/taylor-swift-reportedly-responded-vanity-183708652.html",
+   "title": "15 Marvel movies and shows to watch before 'Avengers: Doomsday' — and what to remember",
+   "url": "https://www.yahoo.com/entertainment/movies/article/15-marvel-movies-and-shows-to-watch-before-avengers-doomsday--and-what-to-remember-114251350.html",
    "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1a2a38e177b565ccc092633d623168b707d44fb147a3933fbca7dee6d4871cba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2F5338a5061a9642b185481f33c480f1d4.jpg",
-   "published": "2026-11-24T18:37:08+00:00",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/ad969ac56cba97aa9ee6a01c953fd56107132f2af634e99000b9cd4110d64230/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-what-to-watch-marvel_9819.jpg",
+   "published": "2026-11-25T11:42:51+00:00",
    "trending": true,
-   "trend_term": "regina george · covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "jang.com.pk"
-   ],
-   "mw": []
-  },
-  {
-   "title": "New Jersey Man Attacked Neighbor With Sword Before He Died in Fiancee's Arms",
-   "url": "https://www.usmagazine.com/crime-news/news/new-jersey-man-killed-neighbor-with-sword-in-front-of-fiancee/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/man-killed-neighbor-sword.jpg?crop=0px%2C40px%2C1200px%2C678px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-24T18:36:19+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "David Mamet's Daughter Spills On His Love For Trump",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/david-mamets-daughter-spills-love-183015897.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/4cb65d37f1b08726b4b5c09cb8f7499460d9a31ba08ee2c1673344246fb63ca7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F19aaa29b06789d0d3e3feb34f4bd78ad.jpg_up.jpg",
-   "published": "2026-11-24T18:30:15+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "usmagazine.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Woman Pretended Child Died to Befriend Elderly Woman, Defrauded Her of $85K",
-   "url": "https://www.usmagazine.com/crime-news/news/woman-pretended-child-died-stole-from-victim-with-dementia/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Woman-Lied-About-Child-Death-to-Defraud-Woman-With-Dementia.jpg?crop=0px%2C82px%2C2000px%2C1131px&resize=1000%2C563&quality=62&strip=all",
-   "published": "2026-11-24T18:14:48+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Christina Applegate Fires Back at Trolls After MS Misdiagnosis",
-   "url": "https://www.usmagazine.com/celebrity-news/news/christina-applegate-fires-back-at-trolls-after-misdiagnosis/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-1200731154-christina-applegate-misdiagnosis.jpg?crop=0px%2C29px%2C1333px%2C753px&resize=1000%2C563&quality=55&strip=all",
-   "published": "2026-11-24T18:00:48+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "‘The Rings of Power’ Officially Renewed for Season 4 With Showrunners Returning",
-   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/rings-power-officially-renewed-season-180000936.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/92797e64b287c6a8cd4af9010908fb8873d747979e9783876fb1c38d936a7a07/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Feba60125b252858f508f173679469774.jpg",
-   "published": "2026-11-24T18:00:00+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "collider.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Hayden Panettiere’s Boyfriend’s Brother Breaks Silence Amid Backlash Over Her Death",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-boyfriend-brother-breaks-224500694.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/7f7a0f69f4db679f1af4aefb11a313fc2b4ca9d40f8215482b3b2b811610fde3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F1a0102a2d54fdcbd45cd1c3975a00742.jpg",
-   "published": "2026-11-25T22:45:00+00:00",
-   "trending": true,
-   "trend_term": "wladimir klitschko hayden panettiere probate",
-   "trend_score": 1000,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Hayden Panettiere’s Daughter Kaya Inherits Huge Fortune After Actress’ Death",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-daughter-kaya-inherits-044805812.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/4e947dbf5c953dfecdc4f71f9faf6724d07528dd35913eb70a57b009b1ba4342/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F0da0a31d96b97f1613deb9de648a1bcc.jpg",
-   "published": "2026-11-25T04:48:05+00:00",
-   "trending": true,
-   "trend_term": "wladimir klitschko hayden panettiere probate",
-   "trend_score": 1000,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Hayden Panettiere Reportedly Left 11-Year-Old Daughter More Than $6 Million After Shocking Death",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-reportedly-left-11-015018385.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/562aaadb3fcae1774ecda14d513094c5733842ead3950b05c6ae86a369dd6daf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2ef2663858bd70cb276a1bbda74ee35a.jpg",
-   "published": "2026-11-25T01:50:18+00:00",
-   "trending": true,
-   "trend_term": "wladimir klitschko hayden panettiere probate",
+   "trend_term": "josh allen wife",
    "also": [],
    "trend_score": 1000,
-   "mw": [
-    "Death",
-    "Sudden"
-   ]
-  },
-  {
-   "title": "Hayden Panettiere left behind a massive fortune for her 11-year-old daughter, new court docs reveal",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-left-behind-massive-002220343.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b2e618ee23788f99160112490bafe2478ea0e4f3c31a36c1f757ab27fbd85f06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Fdea6dcd2da403a2a84a7e3e6437ad532.jpg",
-   "published": "2026-11-25T00:22:20+00:00",
-   "trending": true,
-   "trend_term": "wladimir klitschko hayden panettiere probate",
-   "trend_score": 1000,
-   "also": [],
    "mw": []
-  },
-  {
-   "title": "Hayden Panettiere's estate valued at $6.2 million - report",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettieres-estate-valued-6-231614881.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3e53eb32b9a7b96ad93ce0e20bb1265b033ac611532b9da179413672db007070/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F645b5832558b887f1a388d2555d178fd.jpg_up.jpg",
-   "published": "2026-11-24T23:16:14+00:00",
-   "trending": true,
-   "trend_term": "wladimir klitschko hayden panettiere probate",
-   "trend_score": 1000,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Hayden Panettiere’s $6.2 million estate revealed as Ruby Rose makes shocking allegations about Brian Hickerson",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-6-2-million-231457154.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/6344dc7c5b3e7ce728b946a91c3b6b72281fa0e6074e88bc70c478989162d653/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F34b904f219146bb9bb90d97c8a28b413.jpg",
-   "published": "2026-11-24T23:14:57+00:00",
-   "trending": true,
-   "trend_term": "wladimir klitschko hayden panettiere probate",
-   "trend_score": 1000,
-   "also": [],
-   "mw": [
-    "Sudden"
-   ]
   },
   {
    "title": "Veruschka, the German Model Who Helped Usher in the Era of the Supermodel, Dies at 87",
@@ -1719,91 +1593,7 @@
    "trending": true,
    "trend_term": "father",
    "also": [],
-   "trend_score": 200,
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Meghan Markle Faces First UK Thanksgiving In 8 Years Without Mom Doria Amid Father’s Disturbing Scandal",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-faces-first-uk-080000046.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/7c337eaea8368fe8384ed2e5392a9d5e4516961c486e821945cb53c416eada0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F90b6c2c716f8cce62fb5d6f7d40cebd2.jpg",
-   "published": "2026-11-26T08:00:00+00:00",
-   "trending": true,
-   "trend_term": "father",
-   "trend_score": 200,
-   "also": [],
-   "mw": [
-    "Sudden"
-   ]
-  },
-  {
-   "title": "Meghan Markle ‘Desperately Wishes’ for One Thing Amid Father’s Controversy — Source",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-desperately-wishes-one-093427278.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/c43636838a8a387276c5dfc4b5f8c21222b3fd3e94e432cb058f7babd08dcdd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F6c3fd285b7859dc8dfd97af51664da72.jpg",
-   "published": "2026-11-25T09:34:27+00:00",
-   "trending": true,
-   "trend_term": "father",
-   "trend_score": 200,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Meghan Markle ‘Desperately Wishes’ for One Thing Amid Father’s Controversy — Source",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-desperately-wishes-one-093125054.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/07849dfffbfd30faeed426b785c60033bc5ad6a87600c423744da5cdc7701ee2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fb55ba3a206994b16b710cdfe2e19eaac.jpg",
-   "published": "2026-11-25T09:31:25+00:00",
-   "trending": true,
-   "trend_term": "father",
-   "trend_score": 200,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jack Nicholson’s Son Ray Shares the Surprising Story Behind His Famous Father’s Hollywood Break",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jack-nicholson-son-ray-shares-013551543.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/77d211145ff89387ae08aacce1eeadfe043dfc679f5a506938c3bf2184ebe9b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2Faab0e412cc52c87baa20d26d19f0912e.jpg",
-   "published": "2026-11-25T01:35:51+00:00",
-   "trending": true,
-   "trend_term": "father",
-   "trend_score": 200,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Man Remembered as 'Loving Father' Before He Killed Wife, Kids in Murder-Suicide",
-   "url": "https://www.usmagazine.com/crime-news/news/man-called-loving-father-before-he-killed-wife-and-kids/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/man-remembered-loving-father-killed-family.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
-   "published": "2026-11-24T22:28:37+00:00",
-   "trending": true,
-   "trend_term": "father",
-   "trend_score": 200,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Bruno Mars Announces His Father Has Passed Away",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/bruno-mars-announces-father-passed-221406656.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/a9062bbf4fcbe0f1f86bc3264b6aeca576665ec1af204ba5ffe52d3a3a1c8a6c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F561b9990770acdf7116a593401aa7e80.jpg",
-   "published": "2026-11-24T22:14:06+00:00",
-   "trending": true,
-   "trend_term": "father",
-   "trend_score": 200,
-   "also": [],
+   "trend_score": 0,
    "mw": [
     "Death"
    ]
@@ -1817,6 +1607,19 @@
    "published": "2026-11-26T14:44:30+00:00",
    "trending": true,
    "trend_term": "charlotte arnould",
+   "trend_score": 0,
+   "also": [],
+   "mw": []
+  },
+  {
+   "title": "Charlotte Dobre Makes A Compelling Case For Real Names On YouTube Comments",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/charlotte-dobre-makes-compelling-case-142827757.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9250a1ebc2b161f8f68f007db137be73ff37fc9fef706a69ad577c0bcc980253/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2Fd25a0d9f222f66072a7974585075b8e2.jpg",
+   "published": "2026-11-26T14:28:27+00:00",
+   "trending": true,
+   "trend_term": "youtube tv",
    "trend_score": 0,
    "also": [],
    "mw": []
@@ -1859,6 +1662,21 @@
    "trend_score": 0,
    "also": [],
    "mw": []
+  },
+  {
+   "title": "Meghan Markle Faces First UK Thanksgiving In 8 Years Without Mom Doria Amid Father’s Disturbing Scandal",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-faces-first-uk-080000046.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7c337eaea8368fe8384ed2e5392a9d5e4516961c486e821945cb53c416eada0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F90b6c2c716f8cce62fb5d6f7d40cebd2.jpg",
+   "published": "2026-11-26T08:00:00+00:00",
+   "trending": true,
+   "trend_term": "father",
+   "trend_score": 0,
+   "also": [],
+   "mw": [
+    "Sudden"
+   ]
   },
   {
    "title": "Julianne Hough shares cryptic quotes about ‘love’ and ‘trust’ after whiplash fling with Peloton trainer",
@@ -1913,6 +1731,21 @@
    "mw": []
   },
   {
+   "title": "Hayden Panettiere’s Boyfriend’s Brother Breaks Silence Amid Backlash Over Her Death",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-boyfriend-brother-breaks-224500694.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7f7a0f69f4db679f1af4aefb11a313fc2b4ca9d40f8215482b3b2b811610fde3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F1a0102a2d54fdcbd45cd1c3975a00742.jpg",
+   "published": "2026-11-25T22:45:00+00:00",
+   "trending": true,
+   "trend_term": "wladimir klitschko hayden panettiere probate",
+   "trend_score": 0,
+   "also": [],
+   "mw": [
+    "Death"
+   ]
+  },
+  {
    "title": "5 Greatest Classic Fantasy Books To Read in the Winter",
    "url": "https://collider.com/best-classic-fantasy-books-read-2026-holidays/",
    "source": "collider.com",
@@ -1954,6 +1787,19 @@
    "mw": [
     "Death"
    ]
+  },
+  {
+   "title": "Horror ‘Soulala’ Reinforces Saudi YouTube Generation Boom as Director Says U.S. Is ‘a Decade Behind’ on Online-to-Cinema Phenomenon",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/horror-soulala-reinforces-saudi-youtube-194116179.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/e3da66de7e4f17c93fc882800113905e3fefb2122489818ca2631bf633157453/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F515020e5b8143c017a5a1b2bd5ef77d2.png",
+   "published": "2026-11-25T19:41:16+00:00",
+   "trending": true,
+   "trend_term": "youtube tv",
+   "trend_score": 0,
+   "also": [],
+   "mw": []
   },
   {
    "title": "The Shocking Cost of Nvidia CEO Jensen Huang’s Signature Leather Jacket, Picked Out by Wife Lori",
@@ -2088,6 +1934,19 @@
    "mw": []
   },
   {
+   "title": "Meghan Markle ‘Desperately Wishes’ for One Thing Amid Father’s Controversy — Source",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-desperately-wishes-one-093427278.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c43636838a8a387276c5dfc4b5f8c21222b3fd3e94e432cb058f7babd08dcdd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F6c3fd285b7859dc8dfd97af51664da72.jpg",
+   "published": "2026-11-25T09:34:27+00:00",
+   "trending": true,
+   "trend_term": "father",
+   "trend_score": 0,
+   "also": [],
+   "mw": []
+  },
+  {
    "title": "Stop telling us what we already know about Taylor Swift | Opinion",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/stop-telling-us-already-know-093126875.html",
    "source": "yahoo.com",
@@ -2096,6 +1955,19 @@
    "published": "2026-11-25T09:31:26+00:00",
    "trending": true,
    "trend_term": "regina george",
+   "trend_score": 0,
+   "also": [],
+   "mw": []
+  },
+  {
+   "title": "Meghan Markle ‘Desperately Wishes’ for One Thing Amid Father’s Controversy — Source",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-desperately-wishes-one-093125054.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/07849dfffbfd30faeed426b785c60033bc5ad6a87600c423744da5cdc7701ee2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fb55ba3a206994b16b710cdfe2e19eaac.jpg",
+   "published": "2026-11-25T09:31:25+00:00",
+   "trending": true,
+   "trend_term": "father",
    "trend_score": 0,
    "also": [],
    "mw": []
@@ -2220,6 +2092,21 @@
    "mw": []
   },
   {
+   "title": "Hayden Panettiere’s Daughter Kaya Inherits Huge Fortune After Actress’ Death",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-daughter-kaya-inherits-044805812.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4e947dbf5c953dfecdc4f71f9faf6724d07528dd35913eb70a57b009b1ba4342/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F0da0a31d96b97f1613deb9de648a1bcc.jpg",
+   "published": "2026-11-25T04:48:05+00:00",
+   "trending": true,
+   "trend_term": "wladimir klitschko hayden panettiere probate",
+   "trend_score": 0,
+   "also": [],
+   "mw": [
+    "Death"
+   ]
+  },
+  {
    "title": "Ben Stiller’s Encounters With Confused Fans Have Adam Sandler Involved",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/ben-stiller-encounters-confused-fans-042846294.html",
    "source": "yahoo.com",
@@ -2300,6 +2187,19 @@
    "mw": []
   },
   {
+   "title": "Jack Nicholson’s Son Ray Shares the Surprising Story Behind His Famous Father’s Hollywood Break",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jack-nicholson-son-ray-shares-013551543.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/77d211145ff89387ae08aacce1eeadfe043dfc679f5a506938c3bf2184ebe9b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2Faab0e412cc52c87baa20d26d19f0912e.jpg",
+   "published": "2026-11-25T01:35:51+00:00",
+   "trending": true,
+   "trend_term": "father",
+   "trend_score": 0,
+   "also": [],
+   "mw": []
+  },
+  {
    "title": "William Shatner Clarifies His Stance On Grand Theft Auto VI After Backlash",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/william-shatner-clarifies-stance-grand-003100412.html",
    "source": "yahoo.com",
@@ -2308,6 +2208,19 @@
    "published": "2026-11-25T00:31:00+00:00",
    "trending": true,
    "trend_term": "gta 6 chapter 2 mission list",
+   "trend_score": 0,
+   "also": [],
+   "mw": []
+  },
+  {
+   "title": "Hayden Panettiere left behind a massive fortune for her 11-year-old daughter, new court docs reveal",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-left-behind-massive-002220343.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b2e618ee23788f99160112490bafe2478ea0e4f3c31a36c1f757ab27fbd85f06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Fdea6dcd2da403a2a84a7e3e6437ad532.jpg",
+   "published": "2026-11-25T00:22:20+00:00",
+   "trending": true,
+   "trend_term": "wladimir klitschko hayden panettiere probate",
    "trend_score": 0,
    "also": [],
    "mw": []
@@ -2354,6 +2267,34 @@
    "mw": []
   },
   {
+   "title": "Hayden Panettiere's estate valued at $6.2 million - report",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettieres-estate-valued-6-231614881.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3e53eb32b9a7b96ad93ce0e20bb1265b033ac611532b9da179413672db007070/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F645b5832558b887f1a388d2555d178fd.jpg_up.jpg",
+   "published": "2026-11-24T23:16:14+00:00",
+   "trending": true,
+   "trend_term": "wladimir klitschko hayden panettiere probate",
+   "trend_score": 0,
+   "also": [],
+   "mw": []
+  },
+  {
+   "title": "Hayden Panettiere’s $6.2 million estate revealed as Ruby Rose makes shocking allegations about Brian Hickerson",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-6-2-million-231457154.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/6344dc7c5b3e7ce728b946a91c3b6b72281fa0e6074e88bc70c478989162d653/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F34b904f219146bb9bb90d97c8a28b413.jpg",
+   "published": "2026-11-24T23:14:57+00:00",
+   "trending": true,
+   "trend_term": "wladimir klitschko hayden panettiere probate",
+   "trend_score": 0,
+   "also": [],
+   "mw": [
+    "Sudden"
+   ]
+  },
+  {
    "title": "Amanda Seyfried’s 'Twilight' Replacement Is Officially Free to Stream",
    "url": "https://collider.com/amanda-seyfried-twilight-replacement-red-riding-hood-streaming-tubi-december-2026/",
    "source": "collider.com",
@@ -2391,6 +2332,36 @@
    "trend_score": 0,
    "also": [],
    "mw": []
+  },
+  {
+   "title": "Man Remembered as 'Loving Father' Before He Killed Wife, Kids in Murder-Suicide",
+   "url": "https://www.usmagazine.com/crime-news/news/man-called-loving-father-before-he-killed-wife-and-kids/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/man-remembered-loving-father-killed-family.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-24T22:28:37+00:00",
+   "trending": true,
+   "trend_term": "father",
+   "trend_score": 0,
+   "also": [],
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "Bruno Mars Announces His Father Has Passed Away",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/bruno-mars-announces-father-passed-221406656.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a9062bbf4fcbe0f1f86bc3264b6aeca576665ec1af204ba5ffe52d3a3a1c8a6c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F561b9990770acdf7116a593401aa7e80.jpg",
+   "published": "2026-11-24T22:14:06+00:00",
+   "trending": true,
+   "trend_term": "father",
+   "trend_score": 0,
+   "also": [],
+   "mw": [
+    "Death"
+   ]
   },
   {
    "title": "Jay-Z’s Super Bowl halftime show to screen in IMAX theaters",
@@ -2473,6 +2444,19 @@
    ]
   },
   {
+   "title": "Charles Spencer makes major announcement after blow to Princess Diana's legacy",
+   "url": "https://jang.com.pk/en/76927-charles-spencer-makes-major-announcement-after-blow-to-princess-dianas-legacy-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-26/76927_113651_eng.jpg",
+   "published": "2026-11-26T23:37:41+05:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "Kate Middleton embarks on solo Scotland trip after Anmer Hall security breach",
    "url": "https://jang.com.pk/en/76923-kate-middleton-embarks-on-solo-scotland-trip-after-anmer-hall-security-breach-news",
    "source": "jang.com.pk",
@@ -2514,6 +2498,138 @@
    ]
   },
   {
+   "title": "Hoda Kotb Admits She’s ‘Relieved’ Macy’s Thanksgiving Day Parade Got Postponed",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/hoda-kotb-admits-she-relieved-184155566.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/8472adba7f7aec8609aee20b9dc3b32070e8174db009f4a9db07c676e9ae85dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F03141ad2372113217c2d02268d08504f.jpg",
+   "published": "2026-11-26T18:41:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Sudden"
+   ]
+  },
+  {
+   "title": "Megan Trainor to open music festival",
+   "url": "https://www.yahoo.com/entertainment/music/festivals/articles/megan-trainor-open-music-festival-183855355.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/deeed94c9316d023cd853c4bc3317e6119130f309fb0ec7d3406acf5148c40f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7c09afdba7be77f0bf1ee7b4d1cdd3c2.jpg",
+   "published": "2026-11-26T18:38:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Why Michelle Yeoh didn't mind grabbing Hunter Schafer by the throat in 'Blade Runner 2099'",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/why-michelle-yeoh-didnt-mind-183054100.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/ca6d273a3471fd9464ae51b8a76a99bd2118a853cbe6aef8ab45e0c51f5bab56/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F3d02d873eb6950dca32a4117a756f97a.jpg",
+   "published": "2026-11-26T18:30:54+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Widow says she learned her husband of 17 years had other families when she called his life insurer. Now his ashes are going in the dumpster",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/widow-says-she-learned-her-183000014.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/41e64a326651c512e49b2e1398c65d51769c2d79a7b23a1c754c98bf192eda40/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_mary_sue_427%2F896102deaf85761e9da7fc56c2d8edf2.jpg",
+   "published": "2026-11-26T18:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Duchess Meghan hails 'little touches' as she shares hosting advice",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/duchess-meghan-hails-little-touches-182103700.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d80b22295ccd6451524a8e537c72e6c77a1d5294576db6adcb464896187795b8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F39342f88b39d2149dbf683daf2d6eaf2.jpg",
+   "published": "2026-11-26T18:21:03+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Christian Horner and Geri Halliwell reportedly snap up \"Pride and Prejudice\" mansion",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/christian-horner-geri-halliwell-reportedly-182023606.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7108c1bab24530a704e8223ea3c4e9f0ca4eb9df638099c43bd213e8d5014b4b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotorsport_articles_445%2Fed1c64dfd9193a2d45de48809d3f9100.jpg_up.jpg",
+   "published": "2026-11-26T18:20:23+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "8 Thriller Movies That Are Even Better the Second Time Around, Ranked",
+   "url": "https://collider.com/thriller-movies-better-second-time-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/inception-2010.jpg",
+   "published": "2026-11-26T18:19:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Justin Timberlake and Jimmy Fallon Bust Out the ‘Cha Cha Slide’ in Thanksgiving Special Sneak Peek",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/justin-timberlake-jimmy-fallon-bust-181520398.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/762dc889f0bed6f9838cfa5de8a3c3ed6770a61bc359c4ceeb35fb71aa664c99/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fce38af529a8a8e85d457081fe28825f9.jpg",
+   "published": "2026-11-26T18:15:20+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Disney’s Bob Iger Affair With Employee Ended in ‘Traumatic Termination Procedure,’ Bombshell Book Claims",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/disney-bob-iger-affair-employee-181500491.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/b924afacc32ed8e97959a715bbc4187c804206816acde8c515e110275ef7ceba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fc22880ace4b090d7815081ebce5d9c0b.jpg",
+   "published": "2026-11-26T18:15:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Netflix’s Historical Epic Officially Removed From 53 Theaters Ahead of Streaming Debut",
+   "url": "https://collider.com/netflix-la-bola-negra-removed-from-53-theaters/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/la-bola-negra-1.jpg",
+   "published": "2026-11-26T18:12:28+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "Prince Harry hailed for 'patriotic spirit' after emotional military admission",
    "url": "https://jang.com.pk/en/76914-prince-harry-hailed-for-patriotic-spirit-after-emotional-military-confession-news",
    "source": "jang.com.pk",
@@ -2527,12 +2643,107 @@
    "mw": []
   },
   {
+   "title": "Queen Disney adult Lacey Chabert defends fandom from internet hatred: ‘They don’t understand the perspective’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/queen-disney-adult-lacey-chabert-180356415.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/2795f78b9ce2c85ebb6c5d24490adb726c137b309f75369c5605834c3a0c4ddc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2F1d8f5cfc6a7110293cfa3db98376067e.jpg",
+   "published": "2026-11-26T18:03:56+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Netflix’s 10-Part ‘Ted Lasso’ Replacement Officially Cancelled After 1 Season",
+   "url": "https://collider.com/netflix-ted-lasso-replacement-the-hawk-season-2-cancelled/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/netflix.jpg",
+   "published": "2026-11-26T18:03:34+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Sudden"
+   ]
+  },
+  {
+   "title": "Lacey Chabert Reflects on the ‘Full-Circle’ Journey That Led to 45 Hallmark Movies: ‘I Feel Like I’m in the Right Place’ (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/lacey-chabert-reflects-full-circle-180000696.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/6df6e1644f5b809cca3408227ca296bba23e82ec77da628cb9dd55a5bad26d00/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F30a00218bbb9b61d14fc7bd9825da016.jpg",
+   "published": "2026-11-26T18:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "The 8 Best Rock Bands You’ve Probably Never Heard Of",
    "url": "https://collider.com/best-rock-bands-youve-never-heard-of/",
    "source": "collider.com",
    "category": "Music",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/tallulah-album-cover-the-go-betweens-1987.jpg",
    "published": "2026-11-26T17:52:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Sarah Michelle Gellar slays NYC in striking red dress that leaves fans 'obsessed'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/sarah-michelle-gellar-slays-nyc-175154520.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/9b001200c36bfee62397866eed0064d6367bd2175c928b618feb93eaf41f28ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F5a8b8c21945c4459693ce6fe0b646765.jpg",
+   "published": "2026-11-26T17:51:54+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Rob Lowe Exposes Tom Cruise’s Pre-Fame Diva Move in New Netflix Doc",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rob-lowe-exposes-tom-cruise-175056858.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/9972b699811db74ecfd1e94786ef6ae6fe9af68ffbfc6222b6d1130ddc9c6b2f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fc01b29ef4bc7e182d16ad24f2a716bad.png",
+   "published": "2026-11-26T17:50:56+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "WWE Legend Dustin Rhodes Mourns Heartbreaking Family Tragedy",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/wwe-legend-dustin-rhodes-mourns-174551063.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/dae162eaf735b3758866004f7b64c104d37e33aca1336e91a1884349005bf19c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F22abe4792e6c60d024cc253fd63767d5.jpg",
+   "published": "2026-11-26T17:45:51+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "Brooke Hogan’s Thanksgiving Tribute to Dad Hulk Hints at Family Drama",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/brooke-hogan-thanksgiving-tribute-dad-174536146.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ea79e975914a3099fdf44c7f07ac89863bd1f431aa2dfea67f65c4f7ae52202a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F893779ea8b4fadb9d30aee27830e7c58.png",
+   "published": "2026-11-26T17:45:36+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -3384,6 +3595,19 @@
    "mw": []
   },
   {
+   "title": "Sofia Vergara Puts Her Curves on Display in a Sheer Corset Dress That Mirrors Her Larger-Than-Life Statue",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/sofia-vergara-puts-her-curves-150323767.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/b5a89865f2baa8a7353ab22243b72ecbf6ca4660ffa5f1e178fb92cdac3881dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2Febf7d3be19fcb4d5542ad53e0611783b.jpg",
+   "published": "2026-11-26T15:03:23+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "U2 receives rave reviews for historic Thanksgiving Eve halftime show on Netflix",
    "url": "https://www.yahoo.com/entertainment/music/concerts/articles/u2-receives-rave-reviews-historic-144654065.html",
    "source": "yahoo.com",
@@ -3425,19 +3649,6 @@
    "mw": [
     "Sudden"
    ]
-  },
-  {
-   "title": "Win Tickets to Our Screening of 'Ink' and Q&A With Danny Boyle",
-   "url": "https://collider.com/ink-screening-danny-boyle-netflix-q-and-a/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/ink-jack-o-connell-1.jpg",
-   "published": "2026-11-26T14:40:39+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
   },
   {
    "title": "Woman whose 'real-life ghost story' inspired TV series reveals scariest encounter",
@@ -3875,6 +4086,19 @@
    "mw": []
   },
   {
+   "title": "Jim Curtis Shares Rare Post About ‘Love’ for His Girlfriend Jennifer Aniston",
+   "url": "https://www.usmagazine.com/celebrity-news/news/jennifer-anistons-boyfriend-jim-curtis-shares-sweet-post/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Jennifer-Anistons-Boyfriend-Jim-Curtis-Shares-Rare-Post-Declaring-His-Love-for-the-Actress.jpg",
+   "published": "2026-11-26T12:40:38+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "Veruschka: Striking images of one of the world's first supermodels, who has died aged 87",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/veruschka-striking-images-one-worlds-103225875.html",
    "source": "yahoo.com",
@@ -4008,19 +4232,6 @@
    "trend_term": null,
    "trend_score": 0,
    "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jenny McCarthy Details $6K Mold Treatment Amid Her 2-Year Health Struggles",
-   "url": "https://www.usmagazine.com/celebrity-news/news/jenny-mccarthy-details-6k-mold-treatment-amid-health-ordeal/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2268524831Jenny-McCarthy-Details-Mold-Treatment-Amid-Her-Health-Struggles.jpg",
-   "published": "2026-11-26T11:44:33+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
    "mw": []
   },
   {
@@ -4528,19 +4739,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/4ed395e2fa645dfd80556563226687e4e5cb7119866cae0c4606f4b9a30754be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2F94f68fa5b91bacf3e97f41e9c3549374.jpg",
    "published": "2026-11-26T09:13:58+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Hailee Steinfeld Shares Personal Message Before Bills Thanksgiving Game",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/hailee-steinfeld-shares-personal-message-091141640.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ab820c7d541b0447f4b74417cc3062c798283d32a448e6249ca6431f898fa89c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fe3d0202b5632bcd7a7b4c15788dd6921.jpg",
-   "published": "2026-11-26T09:11:41+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0,
@@ -9088,19 +9286,6 @@
    "mw": []
   },
   {
-   "title": "15 Marvel movies and shows to watch before 'Avengers: Doomsday' — and what to remember",
-   "url": "https://www.yahoo.com/entertainment/movies/article/15-marvel-movies-and-shows-to-watch-before-avengers-doomsday--and-what-to-remember-114251350.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/ad969ac56cba97aa9ee6a01c953fd56107132f2af634e99000b9cd4110d64230/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-what-to-watch-marvel_9819.jpg",
-   "published": "2026-11-25T11:42:51+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
    "title": "'GTA 6' Meets 'Pulp Fiction' in Quentin Tarantino’s Masterpiece Crime Thriller 'True Romance'",
    "url": "https://collider.com/quentin-tarantino-grand-theft-auto-6-true-romance-streaming-free-tubi-november-2026/",
    "source": "collider.com",
@@ -10549,19 +10734,6 @@
    "mw": []
   },
   {
-   "title": "‘The Rings of Power’ Season 3 Finale Explained",
-   "url": "https://www.yahoo.com/entertainment/tv/reviews/articles/rings-power-season-3-finale-020057364.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/d79db85a9e31c705a05aacc96127d0027a0435cc39413668bbdb6de9db98544b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F012cf7ca2ccecc2569bc6c67f6d7785b.jpg",
-   "published": "2026-11-25T02:00:57+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
    "title": "John Travolta’s Son Ben Turns 16, and Fans Say He Looks Just Like His Dad",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/john-travolta-son-ben-turns-020009233.html",
    "source": "yahoo.com",
@@ -10612,6 +10784,22 @@
    "trend_score": 0,
    "also": [],
    "mw": []
+  },
+  {
+   "title": "Hayden Panettiere Reportedly Left 11-Year-Old Daughter More Than $6 Million After Shocking Death",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-reportedly-left-11-015018385.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/562aaadb3fcae1774ecda14d513094c5733842ead3950b05c6ae86a369dd6daf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2ef2663858bd70cb276a1bbda74ee35a.jpg",
+   "published": "2026-11-25T01:50:18+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death",
+    "Sudden"
+   ]
   },
   {
    "title": "Julianne Hough catches attention for fringe miniskirt at ‘DWTS’ finale",
@@ -11165,21 +11353,6 @@
    "mw": []
   },
   {
-   "title": "Buckingham Palace breaks silence after Prince Harry's controversial visa scandal",
-   "url": "https://jang.com.pk/en/76830-buckingham-palace-breaks-silence-after-prince-harrys-controversial-visa-scandal-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-24/76830_112039_eng.jpg",
-   "published": "2026-11-24T23:20:30+05:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Sudden"
-   ]
-  },
-  {
    "title": "Who Was Fela Kuti? The Rock Hall Inductee, By His Inner Circle",
    "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/fela-kuti-rock-hall-inductee-231926980.html",
    "source": "yahoo.com",
@@ -11247,19 +11420,6 @@
    "mw": []
   },
   {
-   "title": "10 Greatest Thanksgiving Sitcom Episodes of All Time, Ranked",
-   "url": "https://collider.com/thanksgiving-best-sitcom-episodes-ranked/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/bart-vs.jpg",
-   "published": "2026-11-24T22:44:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
    "title": "‘Madden’ exclusive interview: Simms May",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/madden-exclusive-interview-simms-may-224100129.html",
    "source": "yahoo.com",
@@ -11318,19 +11478,6 @@
    "category": "Fashion",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/coat_36df21.png",
    "published": "2026-11-24T22:30:56+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "CLAYFACE’s Latest Box Office Milestone Proves DC Made A Mistake",
-   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/clayface-latest-box-office-milestone-223055614.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/1b8ef46d8ebb817e9cebdc2068dcb31618285802a4a6fdab74945ab63d2352ea/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffangoria_208%2F4a7a47385855dc5dee07aac068e4d3d3.jpg_up.jpg",
-   "published": "2026-11-24T22:30:55+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0,
@@ -12292,287 +12439,6 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/song-hye-kyo-gong-yoo-tantara-1.jpg",
    "published": "2026-11-24T18:54:31+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "The Most Perfect Movie of Every Genre in the 1970s",
-   "url": "https://collider.com/most-perfect-movies-1970s-every-genre/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/star-wars-a-new-hope-poster.jpeg",
-   "published": "2026-11-24T18:52:13+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jennifer Lopez Reveals Son Max’s Blunt Question About Her Las Vegas Stage Outfits",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennifer-lopez-reveals-son-max-184932159.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/fecdf9ce3b56647bc11dc0293011dd1038e8324ccb35c419ec6c98389eba931f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F18c35344667385e1185abeeb29d474f2.jpg",
-   "published": "2026-11-24T18:49:32+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "One of Stephen King’s Worst Remakes Officially Returns to Streaming",
-   "url": "https://collider.com/firestarter-2022-streaming-stephen-king-peacock/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/01/stephen-king-under-the-dome-on-set.jpg",
-   "published": "2026-11-24T18:48:07+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Look: 'Fight for '84' photos introduce Jamie Foxx as Olympic boxing coach",
-   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/look-fight-84-photos-introduce-184738071.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/0ca7b22820c697368fb1d280642f4bedd31a8cb81440e7c41fc61378bd17b843/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Ff77404d6a8aeadbd9c267410e4aac89d.jpg_up.jpg",
-   "published": "2026-11-24T18:47:38+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘The Rings of Power’ Renewed Ahead of Finale’s Surprise Early Drop",
-   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/rings-power-renewed-ahead-finale-184702686.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/eafb1fb8ad6f24f1a086ca37828b77e7684d749d464147d1cefdcda193ab5b0d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fb20926f3798156f5912538e0bd2e6f7f.jpg",
-   "published": "2026-11-24T18:47:02+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Adéla speaks out after queerbaiting criticism draws controversy",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/ad-la-speaks-queerbaiting-criticism-184512736.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f91629a8ac3e4a18032798f3e2620b61ab586d71e2c01dd2e322af7463669295/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F42ad0f5c66d156a477f241a7edde5fa2.jpg",
-   "published": "2026-11-24T18:45:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Will Mariah Carey’s ‘All I Want for Christmas Is You’ Be the First Christmas Song to No. 1 Again This Year?",
-   "url": "https://www.yahoo.com/entertainment/music/articles/mariah-carey-want-christmas-first-184433531.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/acd15fdd005b50b7a30f396187964b8d06d80d2453d85711efd2f940dd862f4e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2Fd50104a4e88b9a2cd4118f9c6481ac34.jpg",
-   "published": "2026-11-24T18:44:33+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘The Floor’ & ’99 To Beat’ Undergo Schedule Changes",
-   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/floor-99-beat-undergo-schedule-184151332.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/d98f89b6b71d055be6da2e9d7ef8dc7c3cd69f46a35990cf6176ab78cf7c3553/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F013e11897543a33620649533d0f51052.jpg",
-   "published": "2026-11-24T18:41:51+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Uma Thurman teases daughter Maya Hawke's Valentine's Day wedding: 'It was beautiful'",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/uma-thurman-teases-daughter-maya-183958341.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/0c1e25f8a19b4853e936e7b86fe25aea09b596827f06ad2dee099680dc649bfa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F306aa2f997b790417283708e48c2d86a.jpg",
-   "published": "2026-11-24T18:39:58+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Wedding"
-   ]
-  },
-  {
-   "title": "Original 'Baywatch' stars compete on 'Weakest Link' season finale",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/original-baywatch-stars-compete-weakest-183702294.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/bd130b4a7fea702f9a149a4b6285f75310932c90f86fd23fddc7753e582b9f03/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fef18be26770f13ac6c0d9ff2e7d2b988.jpg_up.jpg",
-   "published": "2026-11-24T18:37:02+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Sylvester Stallone Wants Arnold Schwarzenegger for a ‘Tulsa King’ Spinoff: “I Hope He Agrees”",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/sylvester-stallone-wants-tulsa-king-183247656.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8db05cd149d5bfbb60a37c9afdec7282995d5976ece9c9a62ef3df34524a1c59/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Fa40fc3487497351f849f553688cdd54d.jpg",
-   "published": "2026-11-24T18:32:47+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "“Falcon Crest ”Star Gregory Harrison Opens Up About Daughter Kate’s Marriage to Chloë Grace Moretz",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/falcon-crest-star-gregory-harrison-183158326.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b51233f6af781cbe1fcdae04338928b838360666f30795fb51a861a32dd48e89/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F5ef2fb22e544924199c06840d084985f.jpg",
-   "published": "2026-11-24T18:31:58+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Wedding"
-   ]
-  },
-  {
-   "title": "Billy Bob Thornton Stuns 'Fox & Friends' Hosts by Reciting Their Birthdays, Then Gets One Wrong",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/billy-bob-thornton-stuns-fox-183048820.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/df1f9b5297756549545d9cf8adc15dddf20cf4625b5af41b7a5cfe2c918c3e8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F571e661b7b2888384f338a49c414e9b3.jpg",
-   "published": "2026-11-24T18:30:48+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Superman Officially Faces DC’s God of Death in New Release",
-   "url": "https://collider.com/superman-comics-nekron-return-dc-release-green-lantern-corps/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/copy-of-collider-template-25.jpg",
-   "published": "2026-11-24T18:30:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Bella Hadid Recalls Being Body-Shamed When She Was 17 and Told She Needed to ‘Lose a Couple of Pounds’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bella-hadid-recalls-being-body-182906256.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/380dcf19e96eacac467e2b2e4cbfdb99522b918cbed900f994715c4ed71d1b85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F834d7e9af4195930be049c6994caffd7.jpg",
-   "published": "2026-11-24T18:29:06+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Brett Eldredge Opens Up About the Perks of Having His Wife Join Him on the ‘Lonely Journey’ That Is Touring",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/brett-eldredge-opens-perks-having-182856012.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b4676a82c73875cd22ccca2954e1d9a0ff8d2d62e993f4412a818289a9641af5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fa80af03e6a2bc7bfefeb7c5180d26c51.jpg",
-   "published": "2026-11-24T18:28:56+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "A-Ha Frontman Morten Harket, 67, Reveals He’s Likely Had Parkinson’s for Over 30 Years: ‘I Am Still Here. I Am Still Me’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/frontman-morten-harket-67-reveals-182534441.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/17c8e82aee55dec05bc95eda58c4765972c45e65d32b8f5759a5685cd9d8c8c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fd451e7ab03485415dd49ed26029ed1d0.jpg",
-   "published": "2026-11-24T18:25:34+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Illness"
-   ]
-  },
-  {
-   "title": "For Trish Summerville, Every Iconic Character Starts With the Right Clothes",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/trish-summerville-every-iconic-character-182034188.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/01343919f1343835357be6505576bdd901d614f98eabb650b957375182f9854f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fdfffe8ee2a6bda0611af3819346d7b4d.jpg",
-   "published": "2026-11-24T18:20:34+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Dane Cook and Wife Kelsi's Complete Relationship Timeline",
-   "url": "https://www.usmagazine.com/celebrity-news/pictures/dane-cook-and-kelsi-taylor-relationship-timeline-photos/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2022/10/Dane-Cook-Addresses-27-Year-Age-Gap-With-Fiancee-Kelsi-Taylor.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=55&strip=all",
-   "published": "2026-11-24T18:20:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Celebrity Pregnancy Announcements of 2026: Dane Cook’s Wife Kelsi and More",
-   "url": "https://www.usmagazine.com/celebrity-moms/pictures/celebrity-pregnancy-announcements-of-2026-charles-melton-and-more/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/dane-cook-kelsi-cook2_4481ac.jpg?crop=169px%2C152px%2C850px%2C480px&resize=1000%2C563&quality=55&strip=all",
-   "published": "2026-11-24T18:16:21+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Patrick Stewart’s final performance: Marvel family calls Xavier ‘the conscience’ of new “Avengers” (exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/patrick-stewart-final-performance-marvel-180000832.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/74289c55936090d73cd095e76cd9c1d4308949a13788b9c85ac0b4a4a03c036f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2F552461a8d4f98ba9d95fb59a5fa34019.jpg",
-   "published": "2026-11-24T18:00:00+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0,
