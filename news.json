@@ -1,86 +1,15 @@
 {
- "generated_at": "2026-11-26T20:01:24.274645+00:00",
+ "generated_at": "2026-11-26T20:52:48.926318+00:00",
  "date_us": "2026-11-26",
  "per_site": {
-  "usmagazine.com": 11,
+  "usmagazine.com": 12,
   "news.meaww.com": 0,
-  "profiles.yahoo.com": 7,
+  "profiles.yahoo.com": 8,
   "yahoo.com": 29,
   "jang.com.pk": 8,
   "collider.com": 9
  },
  "items": [
-  {
-   "title": "Netflix’s Historical Epic Officially Removed From 53 Theaters Ahead of Streaming Debut",
-   "url": "https://collider.com/netflix-la-bola-negra-removed-from-53-theaters/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/la-bola-negra-1.jpg",
-   "published": "2026-11-26T18:12:28+00:00",
-   "trending": true,
-   "trend_term": "will ferrell",
-   "also": [],
-   "trend_score": 100000,
-   "mw": []
-  },
-  {
-   "title": "Netflix’s 10-Part ‘Ted Lasso’ Replacement Officially Cancelled After 1 Season",
-   "url": "https://collider.com/netflix-ted-lasso-replacement-the-hawk-season-2-cancelled/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/netflix.jpg",
-   "published": "2026-11-26T18:03:34+00:00",
-   "trending": true,
-   "trend_term": "will ferrell",
-   "also": [],
-   "trend_score": 100000,
-   "mw": [
-    "Sudden"
-   ]
-  },
-  {
-   "title": "Will Ferrell's The Hawk cancelled after one season",
-   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/ferrells-hawk-cancelled-one-season-233132322.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/143e712b1d74d0d3d3d261001236bb5817c324c5857c9dee99cd8d8cf8f92da5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F1d0b1dc036a22cbb47b5429289e8d66e.jpg_up.jpg",
-   "published": "2026-11-25T23:31:32+00:00",
-   "trending": true,
-   "trend_term": "will ferrell",
-   "trend_score": 100000,
-   "also": [],
-   "mw": [
-    "Sudden"
-   ]
-  },
-  {
-   "title": "Jay-Z’s Super Bowl halftime show to screen in IMAX theaters",
-   "url": "https://www.yahoo.com/entertainment/music/articles/jay-z-super-bowl-halftime-214036621.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/adc73faca8ab765025085d7ba384c6258c3c0f6811979c44d2749fb8621348ce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fholly_chatter_853%2F5dd7d49796af62629aa859663ccd2000_up.jpg",
-   "published": "2026-11-24T21:40:36+00:00",
-   "trending": true,
-   "trend_term": "super bowl halftime show 2027",
-   "trend_score": 10000,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Miss Universe 2026: Here’s Where to Watch the Pageant Online for Free",
-   "url": "https://www.yahoo.com/entertainment/articles/miss-universe-2026-where-watch-214236025.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/36b3bfcd467779c8bfcc7f72b66eba5783d43bb16c45eae5fc363376ccf4c5ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_ecomm_884%2F71d97ce623f69108efd904c80f591225.png",
-   "published": "2026-11-24T21:42:36+00:00",
-   "trending": true,
-   "trend_term": "cowboys halftime show thanksgiving 2026 · covered by 2 sites",
-   "trend_score": 4000,
-   "also": [
-    "usmagazine.com"
-   ],
-   "mw": []
-  },
   {
    "title": "Britney Spears Spending Thanksgiving With Family in Louisiana After Long Estrangement: Report",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/britney-spears-spending-thanksgiving-family-021147186.html",
@@ -114,23 +43,19 @@
    "mw": []
   },
   {
-   "title": "Miley Cyrus' Wedding Day Was Free of 'Family Tension' Amid Billy Ray Reunion",
-   "url": "https://www.usmagazine.com/celebrity-news/news/miley-cyrus-wedding-had-no-family-tension-with-billy-ray/",
+   "title": "Luke Wilson Teases ‘The Family Stone’ Sequel, Reuniting With Cast Members",
+   "url": "https://www.usmagazine.com/entertainment/news/luke-wilson-teases-the-family-stone-sequel-cast-reunion/",
    "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Miley-Cyrus-and-Maxx-Morando-Wedding-Day-Was-Free-of-Family-Tension-Amid-Billy-Ray-Reunion-GettyImages-1096287446.jpg",
-   "published": "2026-11-24T20:06:48+00:00",
+   "category": "Movies",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Luke-Wilson-Teases-The-Family-Stone-Sequel-Reuniting-With-Cast-After-20-Plus-Years.jpg",
+   "published": "2026-11-26T13:53:57+00:00",
    "trending": true,
-   "trend_term": "covered by 3 sites",
-   "trend_score": 3000,
+   "trend_term": "covered by 2 sites",
    "also": [
-    "news.meaww.com",
     "yahoo.com"
    ],
-   "mw": [
-    "Wedding",
-    "Big move"
-   ]
+   "trend_score": 2000,
+   "mw": []
   },
   {
    "title": "Which 'Hunting Wives' Stars Are, Aren't Returning for Season 3 After Deaths?",
@@ -541,6 +466,21 @@
    "trend_score": 2000,
    "also": [
     "yahoo.com"
+   ],
+   "mw": []
+  },
+  {
+   "title": "Dropout’s ‘Very Important People’ Reveals Season 4 Release Date; Adds Ben Schwartz, Kirby Howell-Baptiste and More Guests",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/dropout-very-important-people-reveals-183012141.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/870dc68b5367f19fb28ce230cbd5abf0bf7a22518471968f6ff984de14cd0f48/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F99860d222d7fd9c132737a37529ac7b9.jpg",
+   "published": "2026-11-25T18:30:12+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000,
+   "also": [
+    "collider.com"
    ],
    "mw": []
   },
@@ -1438,6 +1378,21 @@
    ]
   },
   {
+   "title": "Miss Universe 2026: Here’s Where to Watch the Pageant Online for Free",
+   "url": "https://www.yahoo.com/entertainment/articles/miss-universe-2026-where-watch-214236025.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/36b3bfcd467779c8bfcc7f72b66eba5783d43bb16c45eae5fc363376ccf4c5ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_ecomm_884%2F71d97ce623f69108efd904c80f591225.png",
+   "published": "2026-11-24T21:42:36+00:00",
+   "trending": true,
+   "trend_term": "cowboys halftime show thanksgiving 2026 · covered by 2 sites",
+   "trend_score": 2000,
+   "also": [
+    "usmagazine.com"
+   ],
+   "mw": []
+  },
+  {
    "title": "DWTS’ Julianne Hough Confirms Split From Peloton Instructor Adrian Williams",
    "url": "https://www.usmagazine.com/celebrity-news/news/julianne-hough-confirms-split-from-pelotons-adrian-williams/",
    "source": "usmagazine.com",
@@ -1518,34 +1473,45 @@
    "mw": []
   },
   {
-   "title": "What Was Karen Read Charged With? She Was Acquitted of All But 1 Charge",
-   "url": "https://www.usmagazine.com/crime-news/news/what-was-karen-read-charged-with-before-she-was-acquitted/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/What-Was-Karen-Read-Charged-With-She-Was-Acquitted-of-All-But-1-Charge.jpg?crop=4px%2C53px%2C1996px%2C1127px&resize=1000%2C563&quality=55&strip=all",
-   "published": "2026-11-24T20:43:29+00:00",
+   "title": "Star Trek Fans Are Wrong About 'Deep Space Nine,' and This Episode Proves It",
+   "url": "https://collider.com/star-trek-deep-space-nine-little-green-men-episode/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/10/star-trek-deep-space-nine-cast-picture.jpg",
+   "published": "2026-11-26T19:38:12+00:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
+   "trend_term": "ncis new york",
+   "also": [],
+   "trend_score": 500,
    "mw": []
   },
   {
-   "title": "Rylee Arnold tears up after beautiful DWTS finale gift from Connor Wood",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rylee-arnold-tears-beautiful-dwts-201336283.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9272fd51004a870484c74f90f4ad85c1ad476dcf9b5f2c31682e76af61a14276/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Fed4aebae75c693f920b46e228f6c4ab4.jpg",
-   "published": "2026-11-24T20:13:36+00:00",
+   "title": "Netflix’s Historical Epic Officially Removed From 53 Theaters Ahead of Streaming Debut",
+   "url": "https://collider.com/netflix-la-bola-negra-removed-from-53-theaters/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/la-bola-negra-1.jpg",
+   "published": "2026-11-26T18:12:28+00:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "usmagazine.com"
-   ],
+   "trend_term": "will ferrell",
+   "also": [],
+   "trend_score": 0,
    "mw": []
+  },
+  {
+   "title": "Netflix’s 10-Part ‘Ted Lasso’ Replacement Officially Cancelled After 1 Season",
+   "url": "https://collider.com/netflix-ted-lasso-replacement-the-hawk-season-2-cancelled/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/netflix.jpg",
+   "published": "2026-11-26T18:03:34+00:00",
+   "trending": true,
+   "trend_term": "will ferrell",
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Sudden"
+   ]
   },
   {
    "title": "Veruschka, the German Model Who Helped Usher in the Era of the Supermodel, Dies at 87",
@@ -1719,6 +1685,21 @@
    "also": [],
    "trend_score": 0,
    "mw": []
+  },
+  {
+   "title": "Will Ferrell's The Hawk cancelled after one season",
+   "url": "https://www.yahoo.com/entertainment/tv/renewed-canceled/articles/ferrells-hawk-cancelled-one-season-233132322.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/143e712b1d74d0d3d3d261001236bb5817c324c5857c9dee99cd8d8cf8f92da5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F1d0b1dc036a22cbb47b5429289e8d66e.jpg_up.jpg",
+   "published": "2026-11-25T23:31:32+00:00",
+   "trending": true,
+   "trend_term": "will ferrell",
+   "trend_score": 0,
+   "also": [],
+   "mw": [
+    "Sudden"
+   ]
   },
   {
    "title": "Hayden Panettiere’s Boyfriend’s Brother Breaks Silence Amid Backlash Over Her Death",
@@ -2352,6 +2333,19 @@
    ]
   },
   {
+   "title": "Jay-Z’s Super Bowl halftime show to screen in IMAX theaters",
+   "url": "https://www.yahoo.com/entertainment/music/articles/jay-z-super-bowl-halftime-214036621.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/adc73faca8ab765025085d7ba384c6258c3c0f6811979c44d2749fb8621348ce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fholly_chatter_853%2F5dd7d49796af62629aa859663ccd2000_up.jpg",
+   "published": "2026-11-24T21:40:36+00:00",
+   "trending": true,
+   "trend_term": "super bowl halftime show 2027",
+   "trend_score": 0,
+   "also": [],
+   "mw": []
+  },
+  {
    "title": "‘Never forget where you come from’: Taylor Swift’s former classmate defends Vanity Fair’s report, says that she is ‘equally as talented’",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/never-forget-where-come-taylor-213226758.html",
    "source": "yahoo.com",
@@ -2360,32 +2354,6 @@
    "published": "2026-11-24T21:32:26+00:00",
    "trending": true,
    "trend_term": "regina george",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Elizabeth Holmes’ Former Assistant Opens Up About ‘You Can See Everything,’ Praises Amanda Seyfried",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/elizabeth-holmes-former-assistant-opens-201204305.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9b25577a70ae8ad23d1bbe7611d89c11722b54927324e4753327cd0bb3d45511/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F52292f96e7f5678bbf94ae8f8aa16f71.jpg",
-   "published": "2026-11-24T20:12:04+00:00",
-   "trending": true,
-   "trend_term": "amanda seyfried you can see everything",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Ciara Miller Breaks Down ‘Severe Stage Fright’ She Overcame on 'DWTS'",
-   "url": "https://www.usmagazine.com/entertainment/news/ciara-miller-had-stage-fright-on-dancing-with-the-stars/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Ciara-Miller-Had-Severe-Stage-Fright-on-Dancing-With-the-Stars-Reflects-on-Her-Experience-183731_EM107953.jpg",
-   "published": "2026-11-24T20:11:55+00:00",
-   "trending": true,
-   "trend_term": "ciara",
    "trend_score": 0,
    "also": [],
    "mw": []
@@ -2417,12 +2385,293 @@
    "mw": []
   },
   {
+   "title": "Gerald R. Molen, Oscar-Winning Producer on ‘Schindler’s List,’ Dies at 91",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/gerald-r-molen-oscar-winning-204711668.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/35b18cf7e7a85268582a3ca91d1ec6c7ac17b7e2da533f8cafdd719a663f670e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Fb386e16fb8148a489ef1345f30c93ea6.jpg",
+   "published": "2026-11-26T20:47:11+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "TV’s Best Sci-Fi Thriller Is Officially the New King of Netflix",
+   "url": "https://collider.com/from-streaming-success-netflix-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/from-season-4-episode-3-catalina-sandino-moreno.jpg",
+   "published": "2026-11-26T20:45:46+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Tom Hanks Made A Change To SNL’s David S Pumpkins Anniversary Sketch After Dress Rehearsal",
+   "url": "https://www.yahoo.com/entertainment/articles/tom-hanks-made-change-snl-204500127.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/ae7e4f8269a780ade25c9eda98caac09430c7c6874daed66455f4fad7f6a25d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F04fdd1448e062a7025fb599c8386d268.jpg",
+   "published": "2026-11-26T20:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Russell Brand ‘In Shock’ Over Prison Life As Inmates ‘Want Nothing To Do With Him’ Despite ‘Being A Celebrity’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/russell-brand-shock-over-prison-204500741.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5633d5ba91aeb172222857eec276e0276a8541a15b5c557074086f0ee438a61e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fd4017e81beb9d042e7f99e3296ad33e7.jpg",
+   "published": "2026-11-26T20:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Sudden"
+   ]
+  },
+  {
+   "title": "‘9-1-1’ and ‘9-1-1: Nashville’ Will Officially Return in 2027",
+   "url": "https://collider.com/9-1-1-season-10-nashville-season-2-return-2027-abc/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/01/athena.jpg",
+   "published": "2026-11-26T20:43:37+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "UK: London's Gingerbread City returns with 50 edible architectural creations",
+   "url": "https://www.yahoo.com/entertainment/articles/uk-londons-gingerbread-city-returns-203707042.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/12598f88212d2aa4e5b2d953f628302b416d698c33172f2d9e6f017f07b9c792/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F10157ae54b188481571d37c584c00128.jpg_up.jpg",
+   "published": "2026-11-26T20:37:07+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Guy Fieri Recalls Epic Thanksgiving Disaster Involving Melted Flip-Flop and Turkey That ‘Jettisoned Across the Lawn’",
+   "url": "https://www.yahoo.com/entertainment/articles/guy-fieri-recalls-epic-thanksgiving-203500531.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/41a26e68c9daf35cad042b1e4f188d7a7632e5a4b9a012f24eb19adf87725bb8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F952dcc4a97df648dbe7e58c41bab7127.jpg",
+   "published": "2026-11-26T20:35:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "The Perfect Lord of the Rings Cast if It Were Made in 2026",
+   "url": "https://collider.com/perfect-lord-of-the-rings-cast-in-2026/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/09/Lord-of-the-Rings_-The-Fellowship-of-the-Ring.jpg",
+   "published": "2026-11-26T20:34:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "“Twilight ”Director Reveals Robert Pattinson Inspired the James Bond Line in the 2008 Film: ‘He Looked So Suave’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/twilight-director-reveals-robert-pattinson-203038974.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/95ea8753437cdb777a44ac8c9477e410b216d04803f83eadb78963e164534f21/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F074a765e739858856c78c9ce681ea0fd.jpg",
+   "published": "2026-11-26T20:30:38+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Gordon Ramsay, 60, Lands ‘Top Gear’ as Richard Hammond, 56, Says He’s ‘Too Old’ to Return",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/gordon-ramsay-60-lands-top-203026102.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/886086bf61d427d6e6b6fdb3f50f33063378b0016efb7dbf614186237625fd46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fbd9a53168c98a0a607d71ba83ab4f6ec.jpg",
+   "published": "2026-11-26T20:30:26+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Prince Harry ‘Changed’ After Meeting Meghan Markle, Royal Photographer Claims As He Recalls Painful Snub",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-changed-meeting-meghan-203000572.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/52dcbef498cb3fd62d9341ff8ece658a7b20c951d800416fb1c64ebcceec24d2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fca626ed2df7b882e940fa1bdbb19c913.jpg",
+   "published": "2026-11-26T20:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "Prince William breaks silence after Diana Award goes into administration",
    "url": "https://jang.com.pk/en/76920-prince-william-breaks-silence-after-diana-award-goes-into-administration-news",
    "source": "jang.com.pk",
    "category": "Awards",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-26/76920_082837_eng.jpg",
    "published": "2026-11-26T20:29:23+05:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Kailey Levy, William Levy’s daughter, proves this ’90s hairstyle is perfect for your 2026 holiday parties",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kailey-levy-william-levy-daughter-202816411.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/6650a4141c5bfed24ae47826774249873785c1347fa0bcd765d0cc233901ad01/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fcb8573e6839bae761d32244ec78c75cf.jpg",
+   "published": "2026-11-26T20:28:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Feid and Snoop Dogg Drop Thanksgiving Collaboration ‘Gracias x Todo’",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/feid-snoop-dogg-drop-thanksgiving-202554382.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/daca9f606cb1f045cd8659bb85c6616be982ce96de1fcc1764a1d7a83821795a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F6c5fdd1e585fffc1a8661cfd14eda443.png",
+   "published": "2026-11-26T20:25:54+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "CBS anchor announces surprise retirement in Thanksgiving sign-off after 40 years on air",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/cbs-anchor-announces-surprise-retirement-201205921.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/f3be2ecddf09a0fafe3429a7b6dea12f80aa462c2477f34b309108d493baf147/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F0366f346952885900bfd509121433cd0.png",
+   "published": "2026-11-26T20:22:46+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Big move"
+   ]
+  },
+  {
+   "title": "Colin Farrell Told His Dad One ‘Little Fib’ Before He Died. It Helped Him Purge Years of ‘Resentment and Anger’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/colin-farrell-told-dad-one-202000149.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/86fb2b629c7db50c425215d47cd304bc4f1b160788c98197caf32628091e31e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F97212fb6f8435f9c885c826d93c2e562.jpg",
+   "published": "2026-11-26T20:20:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "Queen Rania’s subtle sleeve detail broke tradition: Royal protocol expert explains how",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/queen-rania-subtle-sleeve-detail-201651524.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/627c01150c9cedd5589139aa4513a6471baca1e5ad84c57e1ccc74b844707bc6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F97797217fb8bfb847f59c817691091b3.jpg",
+   "published": "2026-11-26T20:16:51+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘Only Murders in the Building’ Gets a Christmas Spin in Netflix‘s Near-Perfect Mystery",
+   "url": "https://collider.com/netflix-mistletoe-murders-christmas-mystery-series-hallmark/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/only-murders-building-selena-gomez.jpg",
+   "published": "2026-11-26T20:14:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Ross Chastain’s Buzz Cut Sparks Wild NASCAR Fan Debate",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/ross-chastain-buzz-cut-sparks-201332002.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/4a5ff1b8c33abb826df5288e30525adb2d4128b4c609905fd7ce527539978397/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgameday_chatter_552%2F72da5cec3eb0f650ec050dc739b065b7.jpg",
+   "published": "2026-11-26T20:13:32+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Ms. Rachel Says She Started Swearing as a Result of Upsetting Gaza Conflict: ‘How Is This Possible?’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ms-rachel-says-she-started-200331784.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f7bf999e117c2673c5e39e48f3608e4c06e73e8c69be26122bd0ddfb029a02b4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2Fd964575e05cc5e1beacb952bb154c718.jpg",
+   "published": "2026-11-26T20:03:31+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘Broadchurch’ Meets ‘Dept. Q’ in Netflix’s Mystery Thriller Officially Returning for Season 2",
+   "url": "https://collider.com/the-are-murders-season-2-release-date-netflix-crime-thriller/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-are-murders-season-2.jpeg",
+   "published": "2026-11-26T20:02:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Gwen Stefani Shares a Peek Inside $4 Million Oklahoma Mansion Decorated for Thanksgiving",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/gwen-stefani-shares-peek-inside-200133496.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/6f59cd4d9092d60f0d326ce21e74ffa25c68ec2e11c5b7b2a6d776dc4577f74e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fb32326fce064e9b3f71ef59aaf927770.jpg",
+   "published": "2026-11-26T20:01:33+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -2508,19 +2757,6 @@
    "mw": [
     "Big move"
    ]
-  },
-  {
-   "title": "Star Trek Fans Are Wrong About 'Deep Space Nine,' and This Episode Proves It",
-   "url": "https://collider.com/star-trek-deep-space-nine-little-green-men-episode/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/10/star-trek-deep-space-nine-cast-picture.jpg",
-   "published": "2026-11-26T19:38:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
   },
   {
    "title": "How Jill Zarin reacted to daughter Ally Shapiro connecting with her sperm donor dad ahead of holidays",
@@ -3929,6 +4165,19 @@
    "mw": []
   },
   {
+   "title": "Brooke Williamson Previews Her Delicious Thanksgiving Feast With Bobby Flay",
+   "url": "https://www.usmagazine.com/celebrity-news/news/brooke-williamson-previews-thanksgiving-meal-with-bobby-flay/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/brooke-williamson2.jpg",
+   "published": "2026-11-26T14:30:43+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "23 Hilariously Bad Translations That Leave Us With Questions",
    "url": "https://www.yahoo.com/entertainment/articles/23-hilariously-bad-translations-leave-143025665.html",
    "source": "yahoo.com",
@@ -4049,6 +4298,19 @@
    "trend_term": null,
    "trend_score": 0,
    "also": [],
+   "mw": []
+  },
+  {
+   "title": "'Real Housewives' Stars Reveal Costars They're Grateful for This Thanksgiving",
+   "url": "https://www.usmagazine.com/entertainment/news/real-housewives-reveal-the-costars-theyre-thankful-for/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/2305196829-dorit-kemsley-thanksgiving.jpg",
+   "published": "2026-11-26T14:00:04+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -7759,19 +8021,6 @@
    "mw": [
     "Big move"
    ]
-  },
-  {
-   "title": "Dropout’s ‘Very Important People’ Reveals Season 4 Release Date; Adds Ben Schwartz, Kirby Howell-Baptiste and More Guests",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/dropout-very-important-people-reveals-183012141.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/870dc68b5367f19fb28ce230cbd5abf0bf7a22518471968f6ff984de14cd0f48/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F99860d222d7fd9c132737a37529ac7b9.jpg",
-   "published": "2026-11-25T18:30:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
   },
   {
    "title": "Weekend Watchlist: What's new in theaters, on streaming",
@@ -12012,233 +12261,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/df878e492b8b4f847441015212a05be9dcfb20da90e9518bfb9e796a7b24f534/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F1e24b8bd4823be8e48109cf249483d1c.jpg",
    "published": "2026-11-24T20:53:36+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Leonardo DiCaprio’s 120-Minute Classic Is Officially Leaving HBO Max",
-   "url": "https://collider.com/romeo-and-juliet-leaving-hbo-max-december-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/leonardo-di-caprio.jpg",
-   "published": "2026-11-24T20:51:58+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Big move"
-   ]
-  },
-  {
-   "title": "John Travolta Matches Daughter Ella Bleu, 26, in Coordinating Black Outfits for Italian Red Carpet Appearance",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/john-travolta-matches-daughter-ella-204717750.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/8f7ee3318ad511865fc1416757b5868a1e56092785f3a18f933f31cb92bf7932/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb11aeff8bdee7f35b48b4c14d4cf9b20.jpg",
-   "published": "2026-11-24T20:47:17+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "5 'Tulsa King' Actors Who Also Appeared in 'The Sopranos'",
-   "url": "https://collider.com/tulsa-king-actors-in-the-sopranos/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/10/robert-patrick_jeremiah-dunmire_tulsa-king.jpg",
-   "published": "2026-11-24T20:44:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Tom Hardy's 5 Most Stylish Characters, Ranked",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/tom-hardys-5-most-stylish-204258536.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/bf4bbbd42ba3a800eeaf752c810b4a213e7666eb6dd2572ce0357c6c4d48a495/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fesquire_269%2Faca46d123fd2dcb816e8ed964240c70d.jpg_up.jpg",
-   "published": "2026-11-24T20:42:58+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Ariana Grande’s Eternal Sunshine Tour Is Going To Peacock And Fans Are Freaking Out",
-   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/ariana-grande-eternal-sunshine-tour-203811017.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/1f0561571c3583d157724e7ed500066e99c6a5b49f73ca675ea2fcff8ab2ff78/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F7f4c761b9c1195c5dde365a186a1624c.png",
-   "published": "2026-11-24T20:38:11+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jason Tartick Reveals How Adopting a Dog Led Him to His Future Wife: ‘It Changed the Entirety of My Life’ (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jason-tartick-reveals-adopting-dog-203457571.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/85b4cbd9dcb580ffc22bf05895d1344d5a417d7e007ba43ac988892c40e949bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F35316d560a386cc5560686e51d273ce4.jpg",
-   "published": "2026-11-24T20:34:57+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "The man who wrote the Carpenters’ bank jingle also gave a frog his signature song",
-   "url": "https://www.yahoo.com/entertainment/music/articles/man-wrote-carpenters-bank-jingle-203219151.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/7c088ef66eecb51cbf6dab55f2e117dc0ece2550b1b5ef538e82e3abb82f9709/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fupworthy_219%2F529c63e0dbd40718b60e3d18c99876e5.jpg_up.jpg",
-   "published": "2026-11-24T20:32:19+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Robert De Niro’s CIA buddy shared an ‘uncomfortable’ part of his training. The actor turned it into the scene that made ‘Meet the Parents.’",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/robert-niro-cia-buddy-shared-203014405.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/d92b36bac339ed4fd9520919cd62a79d8aa5c122560ca5ba0a38de1f38781484/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fupworthy_219%2F0be0829c9e892d36a2c975d47ab9c729.jpg_up.jpg",
-   "published": "2026-11-24T20:30:14+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "ABC’s Biggest Crime Hit Officially Gets Coveted Super Bowl Time Slot",
-   "url": "https://collider.com/high-potential-season-3-post-super-bowl-bonus-episode-february-14/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/high-potential-season-2-episode-15.jpg",
-   "published": "2026-11-24T20:30:13+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Big move"
-   ]
-  },
-  {
-   "title": "‘GTA VI’ Just Achieved Something Completely Unexpected",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/gta-vi-just-achieved-something-203001874.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/df8bf901fcc006d7a0380ffa0e895d1a967ebb3213ba05a91260265fa41c5ad9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F0484cdb01c20aacfb4736c97aa938021.jpg",
-   "published": "2026-11-24T20:30:01+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Russell Brand’s 10-Year Sentence Has A Surprising One-Year Twist Buried In The Judge’s Damning Remarks",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/russell-brand-10-sentence-surprising-203000177.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/345b07496da02eddc5e11512fdb5790a02018779abc7b05469362adf8f8f8ab8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F29aa607d7be4b99aaa64edb366579a4b.jpg",
-   "published": "2026-11-24T20:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jimmy Kimmel Says Donald Trump Made His ‘Saddest’ Plea Yet in Manila",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jimmy-kimmel-says-donald-trump-203000565.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/94f260263def642e5734e71e1b5fd7a6fab7f34f8910ed3f37e782db3dd980a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Faf9c6f7d3863f2d7a4ac621c1eb3b19e.jpg",
-   "published": "2026-11-24T20:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Robert Irwin Left Mortified After Prince William Saw His Racy Underwear Photos: ‘Every Shade of Red’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/robert-irwin-left-mortified-prince-202939320.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/0febd2e1d9c763456b707e4892d2d8bba6fa416f4bb0ef07c9e3e1956a57bf81/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2F36142e0bfc8647b3e953fb1dff5650b7.jpg",
-   "published": "2026-11-24T20:29:39+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "California influencer posts emotional video from beyond the grave: ‘If you are seeing this, I am dead’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/california-influencer-posts-emotional-video-202935071.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/961500385243bed20562da28785032c8ea4a0ee07601a828983c8310298adc53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Fe802aaf3d3a6d25cca74a440be2c00e0.jpg",
-   "published": "2026-11-24T20:29:35+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "A Monkee wanted to show people his new song. The film he made pointed toward the future of MTV.",
-   "url": "https://www.yahoo.com/entertainment/music/articles/monkee-wanted-show-people-song-202909894.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/ed262d1f83202e7d80260e7047fae2bafcc72e99cb1d3343192889a8ef22ca9d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fupworthy_219%2Fb060e9fc53855a94a0d60b44c4ad9580.jpg_up.jpg",
-   "published": "2026-11-24T20:29:09+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "8 Perfect Sci-Fi Books With No Bad Characters",
-   "url": "https://collider.com/perfect-sci-fi-books-no-bad-characters/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/the-left-hand-of-darkness-book-cover.jpg",
-   "published": "2026-11-24T20:23:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Queen Máxima makes an unexpected makeup-free appearance at a Buenos Aires beauty salon",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/queen-m-xima-makes-unexpected-201911804.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/461d32c16e6f7e6c6fb19a65a9cc87e7dd4dd69a9e1b05ab48fd27868ce5e993/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F7e1f6bdcf343c5be50ba04cbce4e4b09.jpg",
-   "published": "2026-11-24T20:19:11+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0,
