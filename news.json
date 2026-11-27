@@ -1,15 +1,192 @@
 {
- "generated_at": "2026-11-27T10:02:41.509400+00:00",
+ "generated_at": "2026-11-27T10:56:35.037018+00:00",
  "date_us": "2026-11-27",
  "per_site": {
   "usmagazine.com": 13,
   "news.meaww.com": 5,
   "profiles.yahoo.com": 6,
-  "yahoo.com": 28,
-  "jang.com.pk": 6,
+  "yahoo.com": 27,
+  "jang.com.pk": 4,
   "collider.com": 10
  },
  "items": [
+  {
+   "title": "Sir Norman Wisdom memorabilia set for auction",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/sir-norman-wisdom-memorabilia-set-104556560.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b2fe623e91921eb3433a6ab949922ef4927b5f36c9321d52587615097341cc3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F51ec716ebf2548ca1ff9e57a88417d05.jpg",
+   "published": "2026-11-27T10:45:56+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "36 Years Later, Kevin Costner’s Western Masterpiece 'Dances With Wolves' Is Still Better Than ‘Yellowstone’",
+   "url": "https://collider.com/kevin-costner-dances-with-wolves-western-yellowstone-streaming-free-tubi-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/dances-with-wolves-1990.jpg",
+   "published": "2026-11-27T10:41:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Sugarbabes and Craig David to headline GuilFest",
+   "url": "https://www.yahoo.com/entertainment/music/festivals/articles/sugarbabes-craig-david-headline-guilfest-103937917.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/9f8c0944d02ad5bf692a56d6ceb66f787fb3f5e52149e89613ec4b3d68e2cb20/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2a917cf3dc106f9f75cd44eebe0c5950.jpg",
+   "published": "2026-11-27T10:39:37+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "HBO Max Officially Removes ‘My Big Fat Greek Wedding’ in 4 Days",
+   "url": "https://collider.com/my-big-fat-greek-wedding-leaving-hbo-max-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/my-big-fat-greek-wedding-3-1-1.jpg",
+   "published": "2026-11-27T10:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Wedding"
+   ]
+  },
+  {
+   "title": "Meghan Markle Could Cement Acting Comeback With Possible James Bond Role Amid Growing Ties To Jeff Bezos",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-could-cement-acting-103000046.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7e3d156e5e5ef80988e6e45bc26f6d2ac5cb13cc502501a4273f2ec088e9e2ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fd140adda11b2c2f66d513bd1ca000f84.jpg",
+   "published": "2026-11-27T10:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Big move"
+   ]
+  },
+  {
+   "title": "Chiwetel Ejiofor Was Afraid to Make ‘Backrooms’ Because of Director Kane Parsons’ Age: ‘He Was So Young!’",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/chiwetel-ejiofor-afraid-backrooms-because-102130762.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/edd6bed9c05e15cc5e7dbc7b95888df318210c855fd72fd495da0a56a118af90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F5ef263f6f079a4aa86ad2dd94b4e48ba.jpg_up.jpg",
+   "published": "2026-11-27T10:21:30+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "The 10 Greatest Rock Christmas Songs, Ranked",
+   "url": "https://collider.com/the-10-greatest-rock-christmas-songs-ranked/",
+   "source": "collider.com",
+   "category": "Music",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/07/john-lennon-yoko-ono.jpg",
+   "published": "2026-11-27T10:21:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Prince Harry Hopes A-List Friend Can Help Him Win Over King Charles — Source",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-hopes-list-friend-101502755.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1c7d02f8d4e4dca3cc1908fdf845b0e57e8d7b7c3ca28854e8c2a42296365a92/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F7414e34f32c6ddbb5c8d4664c775e3e7.jpg",
+   "published": "2026-11-27T10:15:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Grandpa Gordon Ramsay Calls Daughter’s Baby Girl an Early Christmas Present",
+   "url": "https://www.yahoo.com/entertainment/articles/grandpa-gordon-ramsay-calls-daughter-101452699.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4ddc2ad5ddb66459cc9d1cb3553f1682c522a8301732d3a801017dc4378dfdc0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fc6065db9c883ae731db972cb9d52251f.jpg",
+   "published": "2026-11-27T10:14:52+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Fiona Phillips’s husband shares rare photo of presenter in Alzheimer’s update",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/fiona-phillips-husband-shares-rare-101116803.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/279bef7ec6e762e9e51054724296503b9a1523e872e7195e7baf53c19516e3b7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fad37684745ff67b957b043b43441eb3c.jpg",
+   "published": "2026-11-27T10:11:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Illness"
+   ]
+  },
+  {
+   "title": "Taylor Swift Hit With ‘Kiss The Ring’ Claim Amid Vanity Fair Firestorm",
+   "url": "https://www.yahoo.com/entertainment/music/articles/taylor-swift-hit-kiss-ring-101000681.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/480409edfb1f03fcbc8ef47458ef5e7a8e35898b69014d6c8dfd4297842cf826/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F1cf6fa73024cab3a42b1f5e888971e19.jpg",
+   "published": "2026-11-27T10:10:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Jennifer Lopez Gives Drew Barrymore Parenting Advice About Single Motherhood: ‘We Only Get 18 Years’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennifer-lopez-gives-drew-barrymore-100719082.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/794996a08d1e78eefb6151dd4fd8a5bddf678a5bbe4af23cf5a4f9f93e4367c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2F34206ff115cbff11c3ef2e8c276e8834.jpg",
+   "published": "2026-11-27T10:07:19+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Veruschka: Striking images of one of the first supermodels, who has died aged 87",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/veruschka-striking-images-one-worlds-103225875.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/81c760cb3be3e686f0813a0c7e622e62bd0a1f3bbb108e80d2b0d82611880188/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F68d0346860204e6e2e814ced4fb2d5a8.jpg",
+   "published": "2026-11-27T10:03:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
   {
    "title": "Milla Jovovich’s Sci-Fi Cult Classic Officially Leaves Netflix in 4 Days",
    "url": "https://collider.com/milla-jovovich-resident-evil-retribution-leaving-netflix-december-2026/",
@@ -17,6 +194,32 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/06/resident-evil-retribution_vprudm-1.jpg",
    "published": "2026-11-27T10:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "What Happened to Toos Van der Valk? Inside the Dutch Businesswoman’s Terrifying Abduction",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/happened-toos-van-der-valk-100000910.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/03cf568f5bd5eaee8a644363577fd984e8d28fcd61597c538415bda0f6265bee/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff79500428463283d0202fe01d428d59e.jpg",
+   "published": "2026-11-27T10:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Prince Harry’s Ukraine Move Could ‘Rile’ Prince William, Expert Says",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-ukraine-move-could-094824901.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/796475aa75d3b55d5c36a7e68477f54cd16fe3646be0fb91412c1218f1f5f9b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F7dbfc8977e1010068cf140b921180a80.jpg",
+   "published": "2026-11-27T09:48:24+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -173,10 +376,10 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/214b56449df24d281c9f011c18bda81a577f01aa195ec323dcd266bba2f5da44/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F1627a00804eb56a057ec9e0fc88b546e.jpg",
    "published": "2026-11-27T09:13:17+00:00",
-   "trending": true,
-   "trend_term": "white",
+   "trending": false,
+   "trend_term": null,
    "also": [],
-   "trend_score": 1000,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -217,7 +420,7 @@
    "trending": true,
    "trend_term": "white",
    "also": [],
-   "trend_score": 1000,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -911,6 +1114,19 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/sharp-objects-eliza-scanlen.jpg",
    "published": "2026-11-27T04:19:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Jen Affleck, Her Ex Zac and Their 3 Kids Reveal Gender of Baby No. 4 in Beach Picnic Celebration",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jen-affleck-her-ex-zac-041623867.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3fa825d7f609eee5d4c7a6963f91bdee269d95f08d48570e8ff6ca9ce0b7a1bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F716edd4cbb418827099f37ba8428f241.jpg",
+   "published": "2026-11-27T04:16:23+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -1853,11 +2069,12 @@
    "image": "https://s.yimg.com/lo/mysterio/api/1518caa8bb3fd3f53d99565ada711924b9e84ad767dc5a0034a507b5d0d409d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F2be7c8f986260404b6175a12d57e6e8e.jpg",
    "published": "2026-11-26T23:26:09+00:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
+   "trend_term": "covered by 3 sites",
    "also": [
-    "news.meaww.com"
+    "news.meaww.com",
+    "usmagazine.com"
    ],
-   "trend_score": 2000,
+   "trend_score": 3000,
    "mw": [
     "Big move"
    ]
@@ -3041,12 +3258,10 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Gisele-Bundchen-Shares-Rare-Glimpse-at-3-Kids-Husband-While-Celebrating-Goodness-on-Thanksgiving-Family.jpg",
    "published": "2026-11-26T19:26:12+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "yahoo.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -3677,7 +3892,7 @@
    "trending": true,
    "trend_term": "white",
    "also": [],
-   "trend_score": 1000,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -3905,9 +4120,9 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/0cec29180f3c14a817475e568922ca070e2dd38d10c94a6b481a5fc7ac441686/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F5ee97ba73c6092f68695f9fca8d94174.png",
    "published": "2026-11-26T16:43:10+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "sun",
+   "trend_score": 100,
    "also": [],
    "mw": []
   },
@@ -5047,21 +5262,6 @@
    "also": [],
    "trend_score": 0,
    "mw": []
-  },
-  {
-   "title": "Veruschka: Striking images of one of the world's first supermodels, who has died aged 87",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/veruschka-striking-images-one-worlds-103225875.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/81c760cb3be3e686f0813a0c7e622e62bd0a1f3bbb108e80d2b0d82611880188/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F68d0346860204e6e2e814ced4fb2d5a8.jpg",
-   "published": "2026-11-26T12:37:56+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
   },
   {
    "title": "‘Fourth Wing’ Author’s New Book Officially Passes First Major Milestone",
@@ -10376,7 +10576,7 @@
    "published": "2026-11-25T14:58:36+00:00",
    "trending": true,
    "trend_term": "mirror",
-   "trend_score": 100,
+   "trend_score": 0,
    "also": [],
    "mw": []
   },
@@ -11532,10 +11732,12 @@
    "category": "Streaming",
    "image": "https://s.yimg.com/lo/mysterio/api/a8b76ea8b727dd4f4928eefa1583c0c95bab1ca8420ecc73a4f9243609622201/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-badge-top-left-copy-2_9665.png",
    "published": "2026-11-25T11:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "collider.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -11563,93 +11765,6 @@
    "trend_score": 0,
    "also": [],
    "mw": []
-  },
-  {
-   "title": "Ultra famous child star looks unrecognizable – 14 years after TV debut",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/ultra-famous-child-star-looks-105408151.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/ed01be9cd4035de43df1251c4dc0deb81b829ed6f8d0d5b4e5aca4f39feab640/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F29136dbdc76754f38c36b58b75d8f154.jpg",
-   "published": "2026-11-25T10:54:08+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Gwyneth Paltrow’s High-Slit Skirt Gets Feathery Twist With Michael Kors Top",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/gwyneth-paltrow-high-slit-skirt-105350575.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/9c11d5b27990f8424878a1680bb522f154f14e6224380185ab57a24cfc2d19f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2F46cd195b4f086858d4f20aabfe2e3eae.jpg",
-   "published": "2026-11-25T10:53:50+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "WWE Star Thea Hail Shaves Head on Live TV Amid Alopecia Diagnosis at Age 23",
-   "url": "https://www.usmagazine.com/sports/news/wwes-thea-hail-23-shaves-head-on-live-tv-due-to-alopecia/",
-   "source": "usmagazine.com",
-   "category": "TV",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/WWE-Star-Thea-Hail-Shaves-Head-on-Live-TV-Amid-Alopecia-Diagnosis-at-Age-23-2.jpg",
-   "published": "2026-11-25T10:48:24+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Illness"
-   ]
-  },
-  {
-   "title": "Queen Elizabeth II's 'extremely fragile' wedding dress sparks debate - 79 years later",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/queen-elizabeth-iis-extremely-fragile-104755832.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/bfea04145bc931e55c25162b99607a2d5102af0ff131a726e92eba651cc69390/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F664e08f3f2c4b30b31289f09aa14a6d0.jpg",
-   "published": "2026-11-25T10:47:55+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Wedding"
-   ]
-  },
-  {
-   "title": "Cardi B’s Manish Malhotra High-Slit Dress Gets the Biggest Keyhole Cutout",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/cardi-b-manish-malhotra-high-103928139.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/0ddd91bb98055cb5cba8937e42ab7661f23aea04352dcff241111751a0f18416/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ff5977ff5ce5cbd99a19dc59f9c3ce6de.jpg",
-   "published": "2026-11-25T10:39:28+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Big move"
-   ]
-  },
-  {
-   "title": "Miley Cyrus’ Reaction to Guest Breaking Her All-Black Wedding Dress Code Revealed",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miley-cyrus-reaction-guest-breaking-102810459.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/8cec6fbe8922a0f223ac5369c2fc0a491146e0dfb4b639d84893f5ab7f613aa7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2Fd4fcb39eee8f4fc966bb99dcc5f4cf98.jpg",
-   "published": "2026-11-25T10:28:10+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Wedding",
-    "Sudden"
-   ]
   }
  ]
 }
