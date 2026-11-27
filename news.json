@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-27T01:36:48.454237+00:00",
+ "generated_at": "2026-11-27T01:41:37.421106+00:00",
  "date_us": "2026-11-26",
  "per_site": {
   "usmagazine.com": 15,
-  "news.meaww.com": 0,
-  "profiles.yahoo.com": 8,
-  "yahoo.com": 28,
+  "news.meaww.com": 1,
+  "profiles.yahoo.com": 7,
+  "yahoo.com": 29,
   "jang.com.pk": 8,
   "collider.com": 8
  },
@@ -30,6 +30,19 @@
    "category": "TV",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/outlander-blood-of-my-blood-season-2-digby-edgley-finley-glasgow.jpg",
    "published": "2026-11-27T01:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Gordon Ramsay Has Another Reason To Celebrate Eight Days After His Hollywood Walk Of Fame Honor",
+   "url": "https://www.yahoo.com/entertainment/articles/gordon-ramsay-another-reason-celebrate-013000919.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d24a43ac4a227e1dd548bdcf61f4b542b00426c16dcf75d1c9d818d9c8734b79/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fb91d01b6ea67ce79fc790b220542b6ce.jpg",
+   "published": "2026-11-27T01:30:00+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -3240,12 +3253,13 @@
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-26/76917_070956_eng.jpg",
    "published": "2026-11-26T19:10:44+05:00",
    "trending": true,
-   "trend_term": "covered by 3 sites",
+   "trend_term": "covered by 4 sites",
    "also": [
+    "news.meaww.com",
     "usmagazine.com",
     "yahoo.com"
    ],
-   "trend_score": 3000,
+   "trend_score": 4000,
    "mw": [
     "Big move"
    ]
@@ -3298,12 +3312,10 @@
    "category": "Movies",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Luke-Wilson-Teases-The-Family-Stone-Sequel-Reuniting-With-Cast-After-20-Plus-Years.jpg",
    "published": "2026-11-26T13:53:57+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "yahoo.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -11933,19 +11945,6 @@
    "mw": [
     "Big move"
    ]
-  },
-  {
-   "title": "Gregory Harrison recalls Doris Day not looking ‘anything’ like movie self, dropping the F-bomb on set",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/gregory-harrison-recalls-doris-day-013808828.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/117575167c56b99b38cd5dc51c03bd36a0fc00da6e1c781badebb3b01029144f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2Fe05b91fb39eaa78beaa1622a226f6c59.jpg",
-   "published": "2026-11-25T01:38:08+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
   }
  ]
 }
