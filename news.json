@@ -1,15 +1,28 @@
 {
- "generated_at": "2026-11-26T23:53:48.802680+00:00",
+ "generated_at": "2026-11-27T01:08:53.071894+00:00",
  "date_us": "2026-11-26",
  "per_site": {
-  "usmagazine.com": 16,
+  "usmagazine.com": 15,
   "news.meaww.com": 0,
   "profiles.yahoo.com": 8,
   "yahoo.com": 29,
   "jang.com.pk": 8,
-  "collider.com": 9
+  "collider.com": 8
  },
  "items": [
+  {
+   "title": "Aaron Rodgers’ Ex-Packers Teammate Slams His 'Despicable' Mike McCarthy Remarks",
+   "url": "https://www.usmagazine.com/sports/news/aaron-rodgers-exteammate-slams-his-mike-mccarthy-remarks/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Aaron-Rodgers-Former-Packers-Teammate-TJ-Lang-Calls-His-Allegations-Against-Mike-McCarthy-Despicable-GettyImages-587143328.jpg",
+   "published": "2026-11-26T17:51:49+00:00",
+   "trending": true,
+   "trend_term": "jerry jones",
+   "also": [],
+   "trend_score": 10000,
+   "mw": []
+  },
   {
    "title": "Holly Ramsay, Adam Peaty welcome baby girl, reveal daughter's adorable name",
    "url": "https://jang.com.pk/en/76917-holly-ramsay-adam-peaty-welcome-baby-girl-reveal-daughters-adorable-name-news",
@@ -42,6 +55,21 @@
     "jang.com.pk",
     "usmagazine.com"
    ],
+   "mw": []
+  },
+  {
+   "title": "Julianne Hough and Stylist Respond to ‘DWTS’ Criticism: ‘Don’t Give a F***’",
+   "url": "https://www.usmagazine.com/stylish/news/julianne-hough-and-stylist-respond-to-dwts-criticism/",
+   "source": "usmagazine.com",
+   "category": "Fashion",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Julianne-Hough-and-Stylist-Brad-Goreski-Respond-to-DWTS-Criticism-I-Dont-Give-a-F-Anymore-183939_EM106951.jpg",
+   "published": "2026-11-26T18:37:48+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -123,21 +151,19 @@
    "mw": []
   },
   {
-   "title": "Which 'Hunting Wives' Stars Are, Aren't Returning for Season 3 After Deaths?",
-   "url": "https://www.usmagazine.com/entertainment/news/which-hunting-wives-stars-are-arent-returning-for-season-3/",
-   "source": "usmagazine.com",
-   "category": "TV",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2025/07/huntingwives.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
-   "published": "2026-11-26T13:16:30+00:00",
+   "title": "Taylor Swift’s ex-guitar teacher backs her mom as ‘fat pop star’ remark resurfaces in hit piece",
+   "url": "https://news.meaww.com/taylor-swifts-ex-guitar-teacher-backs-her-mom-as-fat-pop-star-remark-resurfaces-in-hit-piece",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795661091834_acfb849141f5.jpg",
+   "published": "2026-11-26T03:10:56+00:00",
    "trending": true,
    "trend_term": "covered by 2 sites",
+   "trend_score": 2000,
    "also": [
     "yahoo.com"
    ],
-   "trend_score": 2000,
-   "mw": [
-    "Death"
-   ]
+   "mw": []
   },
   {
    "title": "Two men charged over break-in at Prince William and Kate Middleton’s country home",
@@ -783,6 +809,21 @@
    "mw": []
   },
   {
+   "title": "'DWTS' Runner-Up Amber Glenn Breaks Silence After Emotional Finale",
+   "url": "https://www.usmagazine.com/entertainment/news/dwts-runner-up-amber-glenn-breaks-silence-after-finale/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183941_EM103502.jpg",
+   "published": "2026-11-25T12:38:13+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000,
+   "also": [
+    "yahoo.com"
+   ],
+   "mw": []
+  },
+  {
    "title": "Rivals' Nafessa Williams Breaks Silence on Decreased Season 2 Screen Time",
    "url": "https://www.usmagazine.com/entertainment/news/rivals-nafessa-williams-addresses-decreased-season-2-screen-time/",
    "source": "usmagazine.com",
@@ -1107,53 +1148,6 @@
    "mw": []
   },
   {
-   "title": "Gabriel Iglesias Breaks Silence after Onstage Health Scare: \"Really Bad'",
-   "url": "https://www.usmagazine.com/celebrity-body/news/gabriel-iglesias-breaks-silence-after-onstage-health-scare/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Gabriel-Iglesias-Breaks-Silence-About-His-Onstage-Health-Scare-Admits-Need-to-Slow-Down-GettyImages-2275533052.jpg?crop=88px%2C323px%2C1106px%2C623px&resize=1000%2C563&quality=70&strip=all",
-   "published": "2026-11-25T00:39:16+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": [
-    "Illness"
-   ]
-  },
-  {
-   "title": "Shane Gillis' Ex-GF Reveals 'Red Flags' in Relationship, What Led to Split",
-   "url": "https://www.usmagazine.com/celebrity-news/news/shane-gillis-ex-gf-reveals-red-flags-in-relationship-split/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Shane-Gillis-Ex-GF-Reveals-Red-Flags-in-Relationship-What-Led-to-Split-Walking-on-Eggshells.jpg",
-   "published": "2026-11-25T00:17:32+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": [
-    "Split"
-   ]
-  },
-  {
-   "title": "‘Home Alone’ Gets Major Reveal 36 Years Later as Macaulay Culkin Prepares for Reboot",
-   "url": "https://collider.com/home-alone-macaulay-culkin-catherine-ohara-storyline-fatherhood/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/home-alone.jpg",
-   "published": "2026-11-26T14:00:12+00:00",
-   "trending": true,
-   "trend_term": "macaulay culkin",
-   "trend_score": 1000,
-   "also": [],
-   "mw": []
-  },
-  {
    "title": "Star Trek Fans Are Wrong About 'Deep Space Nine,' and This Episode Proves It",
    "url": "https://collider.com/star-trek-deep-space-nine-little-green-men-episode/",
    "source": "collider.com",
@@ -1244,6 +1238,19 @@
    "published": "2026-11-26T14:28:27+00:00",
    "trending": true,
    "trend_term": "youtube tv",
+   "trend_score": 0,
+   "also": [],
+   "mw": []
+  },
+  {
+   "title": "‘Home Alone’ Gets Major Reveal 36 Years Later as Macaulay Culkin Prepares for Reboot",
+   "url": "https://collider.com/home-alone-macaulay-culkin-catherine-ohara-storyline-fatherhood/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/home-alone.jpg",
+   "published": "2026-11-26T14:00:12+00:00",
+   "trending": true,
+   "trend_term": "macaulay culkin",
    "trend_score": 0,
    "also": [],
    "mw": []
@@ -1876,29 +1883,230 @@
    "mw": []
   },
   {
-   "title": "William Shatner Clarifies His Stance On Grand Theft Auto VI After Backlash",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/william-shatner-clarifies-stance-grand-003100412.html",
+   "title": "Fact Check: Video Of Russell Brand Being Assaulted In Jail Is Fake -- AI Altered Another Video",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/fact-check-video-russell-brand-010216961.html",
    "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/72f4c9bbbc14890bb0f0f149043f7bd4e69b23e0b0016e91f38ccbc045d0b4e0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F38c4f74d5d564a60450b656f5808de96.jpg",
-   "published": "2026-11-25T00:31:00+00:00",
-   "trending": true,
-   "trend_term": "gta 6 chapter 2 mission list",
-   "trend_score": 0,
+   "image": "https://s.yimg.com/lo/mysterio/api/f142707ce1930181e36215aaf3f7bde9352fcd7513cb7cca7067f33630a226dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2Fc01f884c00603c8162ae68a6559ed937.jpg",
+   "published": "2026-11-27T01:02:16+00:00",
+   "trending": false,
+   "trend_term": null,
    "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
-   "title": "Hayden Panettiere left behind a massive fortune for her 11-year-old daughter, new court docs reveal",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-left-behind-massive-002220343.html",
+   "title": "Apple TV’s 2-Part Detective Series Officially Returns in 2026",
+   "url": "https://collider.com/apple-tv-bad-monkey-season-2-release-date-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/bad-monkey-season-2-episode-3-vince-vaughn.jpg",
+   "published": "2026-11-27T01:01:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Jay-Z Jokes Muhammad Ali ‘Wanted to Punch Me in the Face’ Every Time He Saw Him",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jay-z-jokes-muhammad-ali-005352374.html",
    "source": "yahoo.com",
    "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b2e618ee23788f99160112490bafe2478ea0e4f3c31a36c1f757ab27fbd85f06/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Fdea6dcd2da403a2a84a7e3e6437ad532.jpg",
-   "published": "2026-11-25T00:22:20+00:00",
-   "trending": true,
-   "trend_term": "wladimir klitschko hayden panettiere probate",
-   "trend_score": 0,
+   "image": "https://s.yimg.com/lo/mysterio/api/b04444a6c3317a9e1a28925b4c517d65521f9a2b525fbe1c368ac6d79330961a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F133a2c44aa9177e074d3441ba325fe4a.jpg",
+   "published": "2026-11-27T00:53:52+00:00",
+   "trending": false,
+   "trend_term": null,
    "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Ella Langley shares adorable Thanksgiving dinner prep video with grandfather",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/ella-langley-shares-adorable-thanksgiving-004705233.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/63a12920dcadec0dd2eb97a742660c47abc1cb433c86edfc6182915c100b0874/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Fdd222676ec5bc16d595c3889abba2d1d.jpg",
+   "published": "2026-11-27T00:47:05+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Elf Is A Holiday Classic Now, But One Star Admits It Was ‘Risky’ Business At The Time",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/elf-holiday-classic-now-one-004500195.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/100669bf4a4bc1f095806cf00582909c7cedbb4869543d489418b29f3d819d19/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F59c8fe8eebac13675efc90d3d2fb8f5a.jpg",
+   "published": "2026-11-27T00:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "How hardships made Jordyn Woods and Karl-Anthony Towns’ married life ‘real easy’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/hardships-made-jordyn-woods-karl-004304644.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9d771fd443520fdc84620fa1b9f1b0ff11c02fdc87d4a75f583a54611bb43f68/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fclutchpoints_articles_939%2Fdfe1bec95dd972913de2bdeb1cd086ac.jpg_up.jpg",
+   "published": "2026-11-27T00:43:04+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Wedding"
+   ]
+  },
+  {
+   "title": "7 Sci-Fi Books That Are Better Than 'Neuromancer'",
+   "url": "https://collider.com/sci-fi-books-better-than-neuromancer/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/neuromancer-case-callum-turner-apple-tv-1.jpg",
+   "published": "2026-11-27T00:39:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Bill Burr Says Comedy Central Didn't Find 'Chappelle's Show' Funny At First",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/bill-burr-says-comedy-central-003627881.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/fae371f765eb59942a3f7bd5717998e3c04f5f336422d246865c2ed1a992fa85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F3071fcc242f8091ad1181d11c652313b.jpg",
+   "published": "2026-11-27T00:36:27+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Gerald R. Molen Dies: Oscar-Winning ‘Schindler’s List’ Producer Was 91",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/gerald-r-molen-dies-oscar-003350577.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/09de61d91cc9bc38017903cdcc93e4f9b489003a593af7767a2ef5de9b78e690/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F76fd414ef25044aaf84b50adf9b2df0b.jpg",
+   "published": "2026-11-27T00:33:50+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "Jennifer Lopez Says Watching ‘West Side Story’ Every Thanksgiving Inspired Her Career",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennifer-lopez-says-watching-west-003037709.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c72ee774680086f2353b95f98cecb7cb96d92ef69e7c4194b651850d35690d5a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fc7a2d54a5f1e3504573d59f4a78b44b9.jpg",
+   "published": "2026-11-27T00:30:37+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Netflix’s New Jane Austen Adaptation Officially Debuts in 1 Week",
+   "url": "https://collider.com/netflix-pride-and-prejudice-release-date-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/pride-and-prejudice-netflix-emma-corrin-1.jpeg",
+   "published": "2026-11-27T00:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Cassie Randolph Is Pregnant! “The Bachelor” Alum is Expecting Her First Child with Husband Brighton Reinhardt",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/cassie-randolph-pregnant-bachelor-alum-002708352.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/7ccd549a8e61843a06ec9e76ccb36806999bf733cb067d525216d8f76657824a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F716d1b85894bbc4b9d8b1ee865711129.jpg",
+   "published": "2026-11-27T00:27:08+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Taylor Sheridan’s ‘Tulsa King’ Officially Returns With Major Season 4 Episode",
+   "url": "https://collider.com/taylor-sheridan-tulsa-king-season-4-episode-7-release-date-paramount-plus-november-2026/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/tulsa-king-mckenna-quigley-harrington.jpg",
+   "published": "2026-11-27T00:16:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "The Best Miniseries of the 2010s, Ranked Year by Year",
+   "url": "https://collider.com/best-miniseries-2010s-every-year-ranked/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/chernobyl-hbo-1.jpg",
+   "published": "2026-11-27T00:12:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "The Salma Hayek Action Classic With A Scene She Could Barely Film",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/salma-hayek-action-classic-scene-001200384.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/4bda7335b4455e9932cf487e2c5db5bc8acdbf7a0116d39932e52609c3ac1620/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgiant_freakin_robot_articles_628%2Ff0d87bf8bea53631347159a81cb029e7.png",
+   "published": "2026-11-27T00:12:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Harry Potter Reboot Series Will Officially Reunite a Fractured Fanbase, According to Franchise Historian",
+   "url": "https://collider.com/hbo-harry-potter-reboot-fandom-melissa-anelli/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/copy-of-collider-template-2026-11-26t130106-546.jpg",
+   "published": "2026-11-27T00:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Big move"
+   ]
+  },
+  {
+   "title": "Netflix Perfected the Taylor Sheridan Formula With This 7-Part Western Miniseries",
+   "url": "https://collider.com/east-of-eden-netflix-perfected-taylor-sheridan-formula/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/east-of-eden-mike-faist-charles-trask.png",
+   "published": "2026-11-26T23:58:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -2646,19 +2854,6 @@
    "mw": [
     "Wedding"
    ]
-  },
-  {
-   "title": "Julianne Hough’s stylist hits back at haters of her ‘DWTS’ fashion: ‘I love it’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/julianne-hough-stylist-hits-back-211318669.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/27bc04f9904ec9d669149c7dd29fc7ce1ea3fd40c90d71a9fd34ba56165ddc87/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F31ea9f4bf9f9ac57bc61e866eda3ab4d.jpg",
-   "published": "2026-11-26T21:13:18+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
   },
   {
    "title": "Judi Dench Has Some Blunt Words About Her Biggest Acting Regrets",
@@ -4726,6 +4921,21 @@
    "mw": []
   },
   {
+   "title": "Which 'Hunting Wives' Stars Are, Aren't Returning for Season 3 After Deaths?",
+   "url": "https://www.usmagazine.com/entertainment/news/which-hunting-wives-stars-are-arent-returning-for-season-3/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2025/07/huntingwives.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-26T13:16:30+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
    "title": "Hailey Bieber’s Gucci Lace Embroidered Dress Goes Sheer for Vogue France",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/hailey-bieber-gucci-lace-embroidered-131148806.html",
    "source": "yahoo.com",
@@ -6519,19 +6729,6 @@
     "Death",
     "Illness"
    ]
-  },
-  {
-   "title": "Taylor Swift’s ex-guitar teacher backs her mom as ‘fat pop star’ remark resurfaces in hit piece",
-   "url": "https://news.meaww.com/taylor-swifts-ex-guitar-teacher-backs-her-mom-as-fat-pop-star-remark-resurfaces-in-hit-piece",
-   "source": "news.meaww.com",
-   "category": "Celebrity",
-   "image": "https://media.pubninja.com/articles/brand-5/covers/1795661091834_acfb849141f5.jpg",
-   "published": "2026-11-26T03:10:56+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
   },
   {
    "title": "Sam Rockwell’s New Spy Thriller Officially Says Goodbye to 1,000 Theaters",
@@ -9965,19 +10162,6 @@
    "mw": []
   },
   {
-   "title": "'DWTS' Runner-Up Amber Glenn Breaks Silence After Emotional Finale",
-   "url": "https://www.usmagazine.com/entertainment/news/dwts-runner-up-amber-glenn-breaks-silence-after-finale/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183941_EM103502.jpg",
-   "published": "2026-11-25T12:38:13+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
    "title": "Palace Has Right To Be ‘Infuriated’ by Prince Harry’s Latest Moves, Expert Says",
    "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/palace-infuriated-prince-harry-latest-122846932.html",
    "source": "yahoo.com",
@@ -11717,350 +11901,6 @@
    "trend_score": 0,
    "also": [],
    "mw": []
-  },
-  {
-   "title": "Disney’s ‘Rings of Power’ Replacement Is Officially a No. 1 Streaming Hit",
-   "url": "https://collider.com/percy-jackson-season-3-streaming-success-disney-plus-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/01/poly.jpg",
-   "published": "2026-11-25T01:00:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Anya Taylor-Joy’s Biggest Sci-Fi Movie Ever Is Officially Coming to Netflix",
-   "url": "https://collider.com/anya-taylor-joy-super-mario-galaxy-movie-netflix-streaming-release-date-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/anya-taylor-joy.jpg",
-   "published": "2026-11-25T01:00:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Big move"
-   ]
-  },
-  {
-   "title": "The Princess Diana Look That Sold For Over $1 Million At Auction — No, Not The Revenge Dress",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/princess-diana-look-sold-over-010000879.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/784aeff903571c9e9655cead443e7b5e198584ccc0b38418d5d40a913dcc76e4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_list_205%2F1957e336aad107cb54b82d61d13cf6d9.jpg",
-   "published": "2026-11-25T01:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "10 Celebs Who Had Major Style Transformations In Their 40s & Beyond",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/10-celebs-had-major-style-010000991.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/a53e17bba428497e026a10537ed2b1d4b05eebbf3e05ec7ccd6740752667cebf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglam_992%2Fdf1f1530c4f882d7f503f281b481e013.jpg",
-   "published": "2026-11-25T01:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Philip Rosenberg, Oscar-Winning Production Designer for ‘All That Jazz,’ Dies at 91",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/philip-rosenberg-oscar-winning-production-005047182.html",
-   "source": "yahoo.com",
-   "category": "Awards",
-   "image": "https://s.yimg.com/lo/mysterio/api/531e4876279f8fe4662e6408542aae5c9f9b71cedeb2f7a3d5fac48dcba1001c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fe3f8cfca8beb0e847a33e2cda0361d89.jpg",
-   "published": "2026-11-25T00:50:47+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Alan Ritchson’s Reacher Franchise Officially Refuses to Back Down on Prime Video",
-   "url": "https://collider.com/alan-ritchson-reacher-neagley-streaming-success-prime-video-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/reacher-alan-ritchson.jpg",
-   "published": "2026-11-25T00:45:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Meghan Trainor Shares How Her Parenting Style Changed for Her Daughter's First Birthday",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/meghan-trainor-shares-her-parenting-004500086.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/894dbae3b92b401e209974ced07d8903684c24c67314468b8f6b1202f12d5b2e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F832b9afd7f38517191c7ec9bd2abf848.jpg",
-   "published": "2026-11-25T00:45:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Kandi Burruss Teams Up With Oprah In New TV Show 2 Years After Exiting ‘RHOA’",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/kandi-burruss-teams-oprah-tv-004500704.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/d59b317d3a20e79a78bce29a10d9cf907356192781d50d9a34ce52388b86f8e5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F905e7008f0dfd6700ca65fdbc36ffd3a.jpg",
-   "published": "2026-11-25T00:45:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Millions Of People Are Desperate To Decode This Viral Clip Of A Couple's Fight",
-   "url": "https://www.yahoo.com/entertainment/articles/millions-people-desperate-decode-viral-004158390.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e143466a90543383f87c5c2118f55d6e77305368772b0ca797c4153549ed2b66/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2Ff283d78e1ff0a73962de474d889f0d54.jpg",
-   "published": "2026-11-25T00:41:58+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Mark Ballas' mom, 66, makes red carpet debut with rumored boyfriend, 36",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/mark-ballas-mom-66-makes-003947384.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/6663f3976675b9a1e62914d3b20971afb255ca8ee832df7ec8851a623e406ffb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fc222b95163d4d6c13d45ef831a863c55.jpg",
-   "published": "2026-11-25T00:39:47+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Woody Harrelson Reveals Why He Turned Down ‘Hunger Games’ Role Twice",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/woody-harrelson-reveals-why-turned-003818432.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/10da937c1121d4944cf2b7a89f119245b1d99a677ba30c1631a766bd90090b8e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F77fd27b19cfa6bebf7b5b7f46b8675eb.jpg",
-   "published": "2026-11-25T00:38:18+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Ava DuVernay’s 4-Part Netflix Miniseries Is a Devastating Masterpiece",
-   "url": "https://collider.com/ava-duvernay-masterpiece-when-they-see-us-netflix-series-exonerated-five-true-story/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/when-they-see-us-john-leguizamo-series-netflix.jpeg",
-   "published": "2026-11-25T00:37:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Last-minute Thanksgiving plans? Here's what's playing in theaters",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/last-minute-thanksgiving-plans-heres-003508792.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/73f1292568116a83d0a8199be80ff9e8e7fa93c75945d633a4a8715b3a39c429/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fbcb07091832713817f7437ec0557c3c2.jpg",
-   "published": "2026-11-25T00:35:08+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Ethan Klein puts out lengthy statement regarding the future of 'H3 Podcast'",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/ethan-klein-puts-lengthy-statement-003432161.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/fe0d666ffac42fdfea28da45c1fffede34f939a0238610ab562721a7645d86c4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fc6176ed398e1d029497efc436a639424.jpg",
-   "published": "2026-11-25T00:34:32+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Kelsey Plum boyfriend reveal sends WNBA fans into frenzy",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/kelsey-plum-boyfriend-reveal-sends-003231972.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/29dbc2bb81ce3274af4c640a20de9be753590539a8bfaf298b3ffabc4558b5e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F6f4f87fb6313379cbb4f7f2bc0745fbe.jpg",
-   "published": "2026-11-25T00:32:31+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "The Coolest Fashion Hub of the ’00s Was in a SoHo Basement",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/coolest-fashion-hub-00s-soho-003200496.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/fe6246ef01a27bd37def744b5701a7d55540b9f6ebe63042944a4b790c2999a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2F512fcc0da3e6e197486acac4d1bab756.jpg",
-   "published": "2026-11-25T00:32:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "'Landman's Billy Bob Thornton Officially Leaves Taylor Sheridan Behind for New Historical Series",
-   "url": "https://collider.com/billy-bob-thornton-the-mayflower-release-fox-nation-november-2026/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/goliath-billy-bob-thornton.jpg",
-   "published": "2026-11-25T00:31:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘One Last Order’: Beloved Drive-Thru Worker Sighle Williams Says ‘I Miss the Community’ as Viral Netflix Doc Streams",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/one-last-order-beloved-drive-003000995.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/acb814445b1d0d992576e3c7579324568ecbb878e7fc8b8a5925c92dc3135f22/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fd38e7bce6096ea2bb56c23fbdc273f11.jpg",
-   "published": "2026-11-25T00:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘X-Men’s James Marsden On Cyclops Leading In ‘Avengers: Doomsday’ After Taking “Back Seat To Wolverine”: “It Was Important That My Return Felt Meaningful”",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/x-men-james-marsden-cyclops-002255986.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/640490ed842616806ca7b8f9fbae2755831c5bb8ebf8b91e85e80cab663cdda8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F9905e30c31fb1cd5a837abaf2607cf90.jpg",
-   "published": "2026-11-25T00:22:55+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "6 Psychological Thrillers From the 2000s That Are 10/10 Masterpieces",
-   "url": "https://collider.com/psychological-thrillers-2000s-perfect-masterpieces/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/orphan.jpeg",
-   "published": "2026-11-25T00:21:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "7 Years Later, HBO’s Sci-Fi Thriller Series Doesn't Have a Single Bad Episode",
-   "url": "https://collider.com/hbos-years-and-years-sc-fi-thriller-seven-years-later/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/years-and-years-1.jpg",
-   "published": "2026-11-25T00:19:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "9 Years Later, Netflix's 3-Season Sci-Fi Masterpiece Is Drawing 64 Million Viewing Hours",
-   "url": "https://collider.com/dark-netflix-viewing-hours-sci-fi-masterpiece/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/01/dark-2017-1.jpg",
-   "published": "2026-11-25T00:18:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Ariana Grande’s ‘Meet the Parents’ Sequel Is Officially One of the Franchise’s Worst Ever Movies",
-   "url": "https://collider.com/ariana-grande-focker-in-law-rotten-tomatoes-score/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/focker-in-law-robert-de-niro-ariana-grande.jpg",
-   "published": "2026-11-25T00:15:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Top 7 Book Prequels That Made Us Rethink the Original",
-   "url": "https://collider.com/best-book-prequels/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-hunger-games-sunrise-on-the-reaping.jpeg",
-   "published": "2026-11-25T00:15:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "John Travolta’s Daughter Ella Bleu, 26, Towers Over Him While Coordinating in Black Ruffles on Red Carpet",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/john-travolta-daughter-ella-bleu-001116814.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/3d09799ac3c73e5662088c698094426b0a5b3b58b455c2f9a6bda4044a621d68/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F828ce7e1917a77eca21099ad890cfd2a.jpg",
-   "published": "2026-11-25T00:11:16+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Stella Parton Says Sister Dolly ‘Was Sparing All of Us the Pain’ of Seeing Her ‘Frail’ After Cancer Diagnosis (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/stella-parton-says-sister-dolly-235559053.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/d95c3733e33eda85f305396640895e292e1bc61d535ae40741f7046e14207e84/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F1bbc6eff9e28f2a3220aaf35260433d3.jpg",
-   "published": "2026-11-24T23:55:59+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Illness"
-   ]
   }
  ]
 }
