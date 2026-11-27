@@ -207,7 +207,8 @@ function render(){
   var recent=vis.filter(function(i){return age(i)<=24*H});
   var old=vis.filter(function(i){return age(i)>24*H&&age(i)<=48*H})
     .sort(function(a,b){return new Date(b.published)-new Date(a.published)});
-  var all=recent.filter(function(i){return !isFresh(i)});
+  var all=recent.filter(function(i){return !isFresh(i)})
+    .sort(function(a,b){return new Date(b.published)-new Date(a.published)});
   var fresh=recent.filter(isFresh)
     .sort(function(a,b){return new Date(b.published)-new Date(a.published)});
   renderLost(old);

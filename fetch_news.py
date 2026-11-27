@@ -403,9 +403,8 @@ def main():
         if "mw" not in it:            # computed once, then remembered in news.json
             it["mw"] = most_work(f"{it['title']} {it.get('_s', '')}")
         it.pop("_s", None)
-    items.sort(key=lambda i: i["published"], reverse=True)
-    items.sort(key=lambda i: -i.get("trend_score", 0))
-    items.sort(key=lambda i: not i["trending"])
+    # Newest first, oldest last (trending stories are no longer pushed to the top).
+    items.sort(key=lambda i: parse_dt(i["published"]) or dt.datetime.min.replace(tzinfo=dt.timezone.utc), reverse=True)
     print("trending stories:", sum(1 for i in items if i["trending"]))
     out = {"generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
            "date_us": str(today), "per_site": status, "items": items}
