@@ -1,15 +1,345 @@
 {
- "generated_at": "2026-11-27T21:53:01.513758+00:00",
+ "generated_at": "2026-11-27T22:54:10.115932+00:00",
  "date_us": "2026-11-27",
  "per_site": {
-  "usmagazine.com": 12,
+  "usmagazine.com": 16,
   "news.meaww.com": 3,
-  "profiles.yahoo.com": 6,
-  "yahoo.com": 27,
+  "profiles.yahoo.com": 8,
+  "yahoo.com": 28,
   "jang.com.pk": 9,
-  "collider.com": 7
+  "collider.com": 10
  },
  "items": [
+  {
+   "title": "3 Best Prime Video Movies To Watch This Weekend (Nov 28-29)",
+   "url": "https://collider.com/best-prime-video-movies-watch-weekend-november-28-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/01/spotlight-liev-schreiber.jpg",
+   "published": "2026-11-27T22:48:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Brad Pitt and Ines de Ramon remain happy after four years with no wedding plans",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brad-pitt-ines-ramon-remain-224742694.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4ed6f02bd18813138ba296ad77fd39fb5b8053beee6c81728e0347f28e095fa3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftinsel_buzz_844%2F1709ece5d66c1cb44c3633d9905ee511_up.jpg",
+   "published": "2026-11-27T22:47:42+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Wedding"
+   ]
+  },
+  {
+   "title": "Gary Sinise Reveals What He Found In Son’s Journals After His Death",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/gary-sinise-reveals-found-son-224500591.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/21c61e6ee0b9691520e58a6df6ee55f84ad8785d55e7aa0614cf1fcee76724a5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F4b2e491e4640eb005b7b219d45c4d613.jpg",
+   "published": "2026-11-27T22:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "‘Avengers: Doomsday’ Officially Confirms the Name of Victor Von Doom’s Son in New Footage",
+   "url": "https://collider.com/avengers-doomsday-doctor-doom-son-malachi-new-footage/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/iron-studios-victor-von-doom-image.jpg",
+   "published": "2026-11-27T22:44:09+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Jonathan Frakes shares warning sign that led to his cancer diagnosis",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jonathan-frakes-shares-warning-sign-224026568.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/744e5a87e5fb40054413b8f8c99a0c0db1b9b802485b31c2c7f19fcf2bb0088c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F895739fc95f18395dd28b0b0fbd958f3.jpg",
+   "published": "2026-11-27T22:40:26+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Illness"
+   ]
+  },
+  {
+   "title": "U2 pays tribute to Dolly Parton with her final recording at Thanksgiving Eve halftime show",
+   "url": "https://www.yahoo.com/entertainment/music/articles/u2-pays-tribute-dolly-parton-223510119.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/5f4d11fa292082bbcfe82bbcb2f56f9941690e96ff1ec2bbd1633484c043eeae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftinsel_buzz_844%2F112a173f70d5fe57b3def3622acf352d_up.jpg",
+   "published": "2026-11-27T22:35:10+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "Soul Train Awards 2026: Here’s Where to Watch the Awards Ceremony Online Free",
+   "url": "https://www.yahoo.com/entertainment/music/festivals/articles/soul-train-awards-2026-where-223312732.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/36b3bfcd467779c8bfcc7f72b66eba5783d43bb16c45eae5fc363376ccf4c5ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_ecomm_884%2F71d97ce623f69108efd904c80f591225.png",
+   "published": "2026-11-27T22:33:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "10 Greatest Star Trek Characters of All Time, Ranked",
+   "url": "https://collider.com/best-star-trek-characters-all-time-ranked/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/06/captain-picard.jpg",
+   "published": "2026-11-27T22:32:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Jennifer Lopez Reunites With Her 18-Year-Old Twins for Her First Thanksgiving as an Empty Nester",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jennifer-lopez-reunites-her-18-223017660.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5b3844d39e359ee2d096342f9cd3dedcb6a5dce08d96237718fed40a5b057676/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F7a35ae182d2e538f0010037a4a353b2f.jpg",
+   "published": "2026-11-27T22:30:17+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Big move"
+   ]
+  },
+  {
+   "title": "‘Hunger Games: Sunrise on the Reaping’ Officially Claims Victory at the Box Office",
+   "url": "https://collider.com/the-hunger-games-sunrise-on-the-reaping-box-office-250-million/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/maysilee.jpg",
+   "published": "2026-11-27T22:30:17+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘Yellowjackets’ Star Sophie Nélisse Unpacks That Brutal Episode 2 Beatdown",
+   "url": "https://collider.com/yellowjackets-sophie-nelisse-season-4-episode-2/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/yellowjackets-season-4-interview-sophie-ne-lisse.jpg",
+   "published": "2026-11-27T22:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "The Holiday Ever After Cast And Co. Have Ideas For Another Disney Park Romance. I’m Obsessed",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/holiday-ever-cast-co-ideas-223000523.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/25357ff8d60f021a36e6d0f6ca7e400cd053e94f2054dd93083629effe360c74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F52a64d1976ced27122fa8c08c24b79a9.jpg",
+   "published": "2026-11-27T22:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Prince William Reportedly Sees Plan To Remove Harry, Meghan And Kids’ Titles As ‘Nothing Personal’ Despite Bitter Royal Feud",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-reportedly-sees-plan-223000571.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b5fd0a8b54c662a08d7fe8768a1c701f434bd73d0e0d023d3f2d3f65f1ad9f2f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F894ecad02c93e63eac6d4edf9ce4d2bc.jpg",
+   "published": "2026-11-27T22:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Ariana Grande and Her “Focker-in-Law” Costars Rode to Set Together Every Day: ‘We Still Have the Millennial Van Group Text’ (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/ariana-grande-her-focker-law-222500939.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/090acca6e2d365e3355211c81113747dea7c0882f34cfcfdd03a99d693449f8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc930c3b04b154991ca5c524c923bf72e.jpg",
+   "published": "2026-11-27T22:25:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Best photos of Brittany Mahomes, wife of Patrick Mahomes",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/best-photos-brittany-mahomes-wife-222402716.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/ea06c24f1710dc9c608315cd56763cc3f1daa350214b9bc35860b251885e6dfb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flist_wire_usa_today_articles_325%2Fe2c4e5bf8b93ec165c603a469c76c71c.jpg",
+   "published": "2026-11-27T22:24:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "RJ Mitte’s Mom Marks ‘Incredibly Difficult’ First Thanksgiving 1 Month After His Death: ‘Not the Same Without You’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/rj-mitte-mom-marks-incredibly-222310249.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9f131e0c64ed9ffc9d4772120835464ff7a65d106223e4c4d6e7e08b5a75bb8a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F742507fe99912528d55b79b99baaa591.jpg",
+   "published": "2026-11-27T22:23:10+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "‘Dark Winds’ Next Netflix Release Will Officially Face a Major Issue in 2027",
+   "url": "https://collider.com/dark-winds-season-5-2027-netflix-licensing-problem/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/dark-winds.jpg",
+   "published": "2026-11-27T22:22:41+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Food Network favorite Guy Fieri looks unrecognizable with shocking new hairstyle",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/food-network-favorite-guy-fieri-222048117.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/5a5027fe1eb1ea2976698f9de54a7d4ffd83ca2c4fe73810eb70030f94012965/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Fc6e9c3d0030ed97c2cdcc188faa08e5e.jpg",
+   "published": "2026-11-27T22:20:48+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Sudden"
+   ]
+  },
+  {
+   "title": "James Bond Star’s Western Masterclass Officially Becomes the No. 1 Hit on Paramount+",
+   "url": "https://collider.com/unholy-trinity-pierce-brosnan-western-paramount-plus-streaming-success-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/the-unholy-trinity-pierce-brosnan.jpg",
+   "published": "2026-11-27T22:15:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Netflix’s Is Officially Removing Christopher Nolan’s Breakout Mystery Masterpiece",
+   "url": "https://collider.com/christopher-nolan-memento-leaving-netflix-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/mcdmeme_ec022.jpg",
+   "published": "2026-11-27T22:12:40+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "'The Challenge' alum Tyler Duckworth's cause of death revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/challenge-alum-tyler-duckworths-cause-220944272.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5846ef7dd1bdf63dd5b4c27879fd08a9116edb29e5589876e76d8e3228b846bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F422dc35e63c361c921f05b3874614f26.jpg",
+   "published": "2026-11-27T22:09:44+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "Gayle King Taking Next Week Off From ‘CBS Mornings’ Following Son-In-Law’s Death",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/gayle-king-taking-next-week-220915819.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3cbd98ab91ef1191d857032c2208f9fb8a87b96a56bb37985169848eda2a4984/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F3c9d01460f84fa6fd27358a651693d1e.jpg_up.jpg",
+   "published": "2026-11-27T22:09:15+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "'NCIS' Spin-Off Officially Changes Its Winning Formula in 2027",
+   "url": "https://collider.com/ncis-origins-season-3-10-episodes-2027-finale/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/ncis-sydney-feature-1.jpg",
+   "published": "2026-11-27T22:06:27+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "The 10 Most Important Albums of All Time, Ranked",
+   "url": "https://collider.com/most-important-albums-all-time-ranked/",
+   "source": "collider.com",
+   "category": "Music",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/sgt-pepper-s-lonely-hearts-club-band-1967-album-cover.jpg",
+   "published": "2026-11-27T22:05:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
   {
    "title": "‘Property Brothers’ Star Jonathan Scott Shares Thanksgiving Family Photo With Zooey Deschanel and Her Two Kids",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/property-brothers-star-jonathan-scott-214543980.html",
@@ -1255,6 +1585,19 @@
    "mw": []
   },
   {
+   "title": "Ashton Kutcher Announces Memoir With Once-Estranged Twin Brother Michael",
+   "url": "https://www.usmagazine.com/celebrity-news/news/ashton-kutcher-announces-memoir-with-twin-brother-michael/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Ashton-Kutcher-Announces-Memoir-With-Once-Estranged-Twin-Brother-Michael.jpg?crop=203px%2C29px%2C1680px%2C950px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-27T16:45:43+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "‘Sunrise On The Reaping’ Cooks Up $11M+ Thanksgiving, 2nd Best For Franchise; ‘Focker In-Law’ Seeing $40M 5-Day  – Update",
    "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/sunrise-reaping-16m-tuesday-scores-154642212.html",
    "source": "yahoo.com",
@@ -1300,6 +1643,19 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/004c86b8bdd2c1cecbe88994b9ffe4c4a7f7b72404224501989489105d2c50ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F25f70281a34cf178b784e919615676fb.jpg",
    "published": "2026-11-27T16:44:36+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "'Hunting Wives' Writer Addresses Donald Trump Jr.'s Criticism of Sex Scene",
+   "url": "https://www.usmagazine.com/entertainment/news/hunting-wives-writer-slams-donald-trump-jr-s-criticism/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/TCDHUWI_ZX017.jpg",
+   "published": "2026-11-27T16:42:22+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -1375,6 +1731,19 @@
    ]
   },
   {
+   "title": "Nicole Scherzinger and Thom Evans: A Timeline of Their Relationship",
+   "url": "https://www.usmagazine.com/celebrity-news/pictures/nicole-scherzinger-thom-evans-relationship-timeline-photos/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2025/06/Nicole-Shouts-Out-Thom-Tony-Speech.jpg?crop=217px%2C100px%2C954px%2C539px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-27T16:34:36+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "Candace Cameron Bure Claims She Was ‘Duped’ When She Joined ‘The View’ and ‘Didn’t Sign Up for This’",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/candace-cameron-bure-claims-she-163105462.html",
    "source": "yahoo.com",
@@ -1427,6 +1796,49 @@
    "also": [],
    "trend_score": 0,
    "mw": []
+  },
+  {
+   "title": "Man Had Violent Criminal History Before Killing Girlfriend in Murder-Suicide",
+   "url": "https://www.usmagazine.com/crime-news/news/man-had-criminal-history-before-killing-gf-in-murder-suicide/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-959984764-man-criminal-history-killed-girlfriend-murder-suicide.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-27T16:15:32+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
+   "mw": []
+  },
+  {
+   "title": "Brittany Mahomes Calls Out Refs After Bills Loss: ‘Don’t Wanna Hear This S***’",
+   "url": "https://www.usmagazine.com/sports/news/brittany-mahomes-calls-out-refs-after-chiefs-lose-to-bills/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Brittany-Mahomes-Calls-Out-Refs-After-Thanksgiving-Loss-to-Bills.jpg",
+   "published": "2026-11-27T16:09:17+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Who Is Influencer Madison Humphrey? What to Know Amid Health Scare",
+   "url": "https://www.usmagazine.com/celebrity-news/news/who-is-madison-humphrey-amid-influencers-health-scare/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Madison-Humphrey-GettyImages-2305775362.jpg?crop=0px%2C115px%2C1333px%2C753px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-27T15:55:23+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Illness"
+   ]
   },
   {
    "title": "9 of the best and 3 of the worst outfits Meghan Markle has worn in 2026",
@@ -1492,6 +1904,21 @@
    "also": [],
    "trend_score": 0,
    "mw": []
+  },
+  {
+   "title": "Jennifer Lopez Reunites With Twins Max and Emme in Thanksgiving Photos After They Left for College",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jennifer-lopez-reunites-twins-max-154740536.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7e5740cfab121e84d18029b09224439d7ccf6ebc05cdd76686fe06f920753f51/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F3fe613d4cdc6edf73570fbcfb51235d8.jpg",
+   "published": "2026-11-27T15:47:40+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Big move"
+   ]
   },
   {
    "title": "Feid, Snoop Dogg, D’Angelo, and All the Songs You Need to Know This Week",
@@ -3723,10 +4150,12 @@
    "category": "Celebrity",
    "image": "https://media.pubninja.com/articles/brand-6/covers/1795760240841_df00891805e9.jpg",
    "published": "2026-11-27T06:57:26+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "usmagazine.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -7393,10 +7822,12 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/influencer-madison-humphrey.jpg",
    "published": "2026-11-26T15:49:44+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
    "mw": [
     "Illness",
     "Sudden"
@@ -7725,7 +8156,7 @@
    "published": "2026-11-26T14:40:39+00:00",
    "trending": true,
    "trend_term": "jumanji open world",
-   "trend_score": 500,
+   "trend_score": 0,
    "also": [],
    "mw": []
   },
@@ -10503,7 +10934,7 @@
    "published": "2026-11-26T00:31:12+00:00",
    "trending": true,
    "trend_term": "jumanji open world",
-   "trend_score": 500,
+   "trend_score": 0,
    "also": [],
    "mw": []
   },
@@ -10912,273 +11343,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/0f98d9f3565370ccece192ec06d93589db4ba6b609fc9e7e4837c63f62634744/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Ffd868052369ede1c069221b996395cee.jpg",
    "published": "2026-11-25T23:00:39+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "The 10 Best Fantasy Books in Literary History, Ranked",
-   "url": "https://collider.com/the-10-best-fantasy-books-in-literary-history/",
-   "source": "collider.com",
-   "category": "Music",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/copy-of-collider-template-2026-04-03t100921-191.jpg",
-   "published": "2026-11-25T22:52:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Hayden Panettiere’s Boyfriend’s Brother Breaks Silence Amid Backlash Over Her Death",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-boyfriend-brother-breaks-224500694.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/7f7a0f69f4db679f1af4aefb11a313fc2b4ca9d40f8215482b3b2b811610fde3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F1a0102a2d54fdcbd45cd1c3975a00742.jpg",
-   "published": "2026-11-25T22:45:00+00:00",
-   "trending": true,
-   "trend_term": "wladimir klitschko hayden panettiere probate · covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "usmagazine.com"
-   ],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Brad Pitt and Angelina Jolie settle bitter winery battle",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brad-pitt-angelina-jolie-settle-224231107.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3b341fc169bb28ee3360f7067f8ef6af24649944b6e8ccae552eb1eee7306cb2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F262c221a7a393e7275b9a8c51bc764dd.jpg_up.jpg",
-   "published": "2026-11-25T22:42:31+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Kim Kardashian’s Daughter North West, 13, Steps Out in Goth Ensemble After Saying She’s Not ‘Demonic’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kim-kardashian-daughter-north-west-224139754.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/8ef8bdf09cef8896b621e8f7fb321d60ef2e58c0ba962788069933110c97dbc0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F5bfcd8bf9ed19cc4c809f9f069171606.jpg",
-   "published": "2026-11-25T22:41:39+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Andy Taylor, Duran Duran guitarist, dies at 65",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-duran-duran-guitarist-223934462.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ce16b596a9899119190d01c66e86a5d0c07b9a24420cad6946c541855cf10a3e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fccceffe4c9cd89d5b62165f3f577781c.jpg",
-   "published": "2026-11-25T22:39:34+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "2026-27 Premiere Dates For New & Returning Series On Broadcast, Streaming & Cable",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/2026-premiere-dates-returning-series-170000967.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/b9544869f582b915ee86616ef428ffc2ca9b84df2886b02ccb046628fce0e7d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F892f10f444fc0fae4067647480c520d6.jpg",
-   "published": "2026-11-25T22:39:33+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "“The Hunting Wives”’ Jaime Ray Newman Reflects on Reaching New Heights in Her 40s: ‘You Work Your Whole Life for This’ (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/hunting-wives-jaime-ray-newman-223902511.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ff26df1e5404191cb5b160ab86156ca8b4e0b17852fa8a178ebbc5083ebd955d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F93bc99e3d9cc5a5361e8105d424f1b91.jpg",
-   "published": "2026-11-25T22:39:02+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Breaking Down the Ending of The Remarried Empress",
-   "url": "https://www.yahoo.com/entertainment/tv/reviews/articles/breaking-down-ending-remarried-empress-223346877.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/00a9d1b88e5b6f84ee0293627b7e5e7e7083530223540dca858fb5f56b18566b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2Fafe087f001bcbaa6d2442748c4ad8842.jpg",
-   "published": "2026-11-25T22:33:46+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Sudden"
-   ]
-  },
-  {
-   "title": "Duran Duran’s Andy Taylor Dies, Bandmates Pay Tribute",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/duran-duran-andy-taylor-dies-223232123.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/13e996760def7855432a0dcb13e07209d081a8ac784b0f69417057a4c06c9b11/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F6c16b862969f7cf52525035be7381b76.jpg",
-   "published": "2026-11-25T22:32:32+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Legendary supermodel's death sparks emotional tributes from fashion world",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/legendary-supermodels-death-sparks-emotional-223053899.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/752fdc4f5da06da5ed86b15b9d3d1ac3bb94a6042fe28b9bf2cfe61a45b769b1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F545947d8dccf1bb98804a6055e67abcb.jpg",
-   "published": "2026-11-25T22:30:53+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Jennifer Lopez’s Burgundy Coat Is the Ultimate Rich-Looking Layer to Copy",
-   "url": "https://www.usmagazine.com/stylish/news/jennifer-lopez-burgundy-coat-look-for-less/",
-   "source": "usmagazine.com",
-   "category": "Fashion",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/burgundy.png",
-   "published": "2026-11-25T22:30:22+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Meghan Markle Takes On Hands-On Mom Role Amid ‘Real Effort’ With British School Life",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-takes-hands-mom-223000749.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ae71939c2401214652b0697ba638faa656a4f23f4ea85ec80b95ac91c076a1e4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fe9aeeafaaacf0d4032475b4eaa040d40.jpg",
-   "published": "2026-11-25T22:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Hayden Panettiere's Final Moments, Jen Affleck Hospitalized, More Top Stories",
-   "url": "https://www.usmagazine.com/celebrity-news/news/hayden-panettieres-final-moments-and-more-top-us-stories/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Hayden-Panettieres-Final-Moments-and-More-Top-Us-Stories.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=78&strip=all",
-   "published": "2026-11-25T22:29:21+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": [
-    "Illness"
-   ]
-  },
-  {
-   "title": "5 Greatest Classic Fantasy Books To Read in the Winter",
-   "url": "https://collider.com/best-classic-fantasy-books-read-2026-holidays/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/northern-lights-book-cover.jpg",
-   "published": "2026-11-25T22:29:12+00:00",
-   "trending": true,
-   "trend_term": "winter",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Brad Pitt and Angelina Jolie Reach Settlement in Winery Case for the ‘Best Interests of Our Family’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brad-pitt-angelina-jolie-reach-222752073.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/0ab380eeba7e59e8a547135f2b8c3a960ab0d694717d3565145c935581157b23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fa08605bc3782cbaffbdb01a1e9d15bf1.jpg_up.jpg",
-   "published": "2026-11-25T22:27:52+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "King Crimson Co-Founder Michael Giles Dead at 84",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/king-crimson-co-founder-michael-222236501.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3c4bdd535eae66771bdb8b68671bb1d77dadcf784a8c462997d74b1c59a02bc7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F82cc7c82ba209ac625a79de6c927bd48.jpg",
-   "published": "2026-11-25T22:22:36+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Joan Smalls Details Candice Swanepoel Fallout, Tom Brady Romance 'Catalyst'",
-   "url": "https://www.usmagazine.com/celebrity-news/news/joan-smalls-breaks-down-candice-swanepoel-fallout-catalyst/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Joan-Smalls-Admits-Tom-Brady-Was-Catalyst-to-Candice-Swanepoel-Fallout-Details-Gaslighting-GettyImages-154304998.jpg",
-   "published": "2026-11-25T22:17:48+00:00",
-   "trending": true,
-   "trend_term": "tom brady · covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Tracee Ellis Ross' Best Shoes Through the Years [Photos]",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/tracee-ellis-ross-best-shoes-221719569.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/6ae0a0b72379132f57edee22687ebb175e58270918b86be723a5ef0c1883e21e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootwear_news_642%2F0ba0bc4453aaaac22b08679b821b5ed1.jpg",
-   "published": "2026-11-25T22:17:19+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "10 Classic Sci-Fi Books Worth Reading Again and Again",
-   "url": "https://collider.com/classic-sci-fi-books-worth-reading-again-and-again/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/children-of-dune-book-cover-crop-1976.jpg",
-   "published": "2026-11-25T21:54:12+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0,
