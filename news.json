@@ -1,15 +1,206 @@
 {
- "generated_at": "2026-11-27T01:41:37.421106+00:00",
+ "generated_at": "2026-11-27T02:53:48.945329+00:00",
  "date_us": "2026-11-26",
  "per_site": {
-  "usmagazine.com": 15,
+  "usmagazine.com": 14,
   "news.meaww.com": 1,
-  "profiles.yahoo.com": 7,
+  "profiles.yahoo.com": 5,
   "yahoo.com": 29,
   "jang.com.pk": 8,
-  "collider.com": 8
+  "collider.com": 9
  },
  "items": [
+  {
+   "title": "Netflix's Near-Perfect 8-Episode Sci-Fi Series Is a Weekend Binge Worth Revisiting",
+   "url": "https://collider.com/the-boroughs-netflix-sci-fi-weekend-binge/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/the-boroughs-netflix-art.png",
+   "published": "2026-11-27T02:36:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Julianne Hough’s Stylist Addresses Fan Backlash To Her ‘Dancing With the Stars’ Wardrobe This Season",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/julianne-hough-stylist-addresses-fan-023452972.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/3299de7c9c30c67303307b3d7c13f7aa2e0bc3ef30743943901ebf73b66d0048/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fedf82fddaef852e2da3ea7e51d543d5c.jpg",
+   "published": "2026-11-27T02:34:52+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Glen Powell's ex Gigi Paris announces engagement",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/glen-powells-ex-gigi-paris-023436831.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/df8d860ad0bb1317656b5330ac2320d91758bf25d15992c32ec9b6d271f44b3c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F2ac7f1ce54d2085d4ad1d95aa30caa46.jpg_up.jpg",
+   "published": "2026-11-27T02:34:36+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Wedding"
+   ]
+  },
+  {
+   "title": "Jen Affleck reunites with estranged husband Zac for Thanksgiving with their kids — weeks after filing for divorce",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jen-affleck-reunites-estranged-husband-022712907.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b3db699499905561a1bd71205da6fef68acfb80a9f7a52ba33173e24291d36a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Fbbcb9d46aba00160bf5190d37da7ff47.jpg",
+   "published": "2026-11-27T02:27:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Split",
+    "Big move"
+   ]
+  },
+  {
+   "title": "7 Western Movies We Actually Want to See a Remake Of",
+   "url": "https://collider.com/western-movies-want-remake/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/09/tombstone-kurt-russel.jpg",
+   "published": "2026-11-27T02:24:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "How Susan Seaforth Hayes Could Tell When Her Mom Wrote One of Her Soap Scenes",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/susan-seaforth-hayes-could-tell-022227338.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/e14f11aa885acdcb7482b96159c88f524c1b33d024b7e97ac5da076fd60fd3b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2F7caa773fa8cebb721ac7410f00240688.jpg",
+   "published": "2026-11-27T02:22:27+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "The Predator Officially Joins The Marvel Universe",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/predator-officially-joins-marvel-universe-022141976.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/26cb0bcd0624e8baa5d9db1c06eddf2d624d55171649c3eceb87dd6eff7c45d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgiant_freakin_robot_articles_628%2Ff6f52c400477a29079a4964d116e7e48.jpg_up.jpg",
+   "published": "2026-11-27T02:21:41+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Key Bruce Willis ‘Die Hard’ Prop Is Going On The Auction Block",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/key-bruce-willis-die-hard-021616459.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/b7f543370168b6e02eebbb7f4bfcbef0a81a48269886cd9272bbde40158e1425/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Fa0712f6e32136132ee3afcf0b9f5af58.jpg_up.jpg",
+   "published": "2026-11-27T02:16:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘The Floor’ Introduces New Twist & Brings Back Former Player",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/floor-introduces-twist-brings-back-020039177.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/f7c290ce98ba16bfea7ba0dfcf1c14a782ca97355e019eb8f76d172beecad929/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F6003412e9540e46ad4a0fe28b50b5262.jpg",
+   "published": "2026-11-27T02:00:39+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Netflix’s New ‘Squid Game’ Replacement Officially Premieres in 1 Month",
+   "url": "https://collider.com/takuyi-yamada-quiztopia-release-date-netflix-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-22-at-1-22-47-pm.png",
+   "published": "2026-11-27T02:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Riley Green Reveals Why He Loves Wearing His Dolly Parton Shirt as Adam Levine Calls Her an ‘Icon’ (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/riley-green-reveals-why-loves-020000221.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/1e2e429e2a60cccd7f977f7e52d48357513be808ded99acce733979b050169db/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F87bb85ee1cb09b5e19a52a327c430b68.jpg",
+   "published": "2026-11-27T02:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Melissa Gilbert Expresses “Undying Gratitude” After Timothy Busfield’s Child Sex Abuse Case Dismissed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/melissa-gilbert-expresses-undying-gratitude-015732892.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5667fc1884fcb2a28e64d3530a8bad3294c5ccc929d5d509ab66de41d49ffa62/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F717544f81ff0fd48a4e40d9d6fd3e3c1.jpg",
+   "published": "2026-11-27T01:57:32+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Kanye West and Bianca Censori are reportedly planning a second wedding",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/kanye-west-bianca-censori-reportedly-015103293.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/eaca406e4efe13e7f19c17f388ebf2f31461f00480528270028791c4eae0f7c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthegrio_yahoo_articles_946%2F4a21927e3a5c633357429ad43369c127.jpg_up.jpg",
+   "published": "2026-11-27T01:51:03+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Wedding"
+   ]
+  },
+  {
+   "title": "Courtney Love, 62, shocks fans with ‘insane’ photo showing off ‘skin glass facial’: ‘No filter’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/courtney-love-62-shocks-fans-013615133.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/b371e3d6984bed76d1849a4ee7b23a740ec4c2a5714a7fb711ab6fb071b74cf4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F9965c6737bff917fbb57189fda44135c.jpg",
+   "published": "2026-11-27T01:36:15+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Sudden"
+   ]
+  },
   {
    "title": "Melissa Gilbert Gives Thanks To Those Who “Spoke Up, Testified” In Support Of Husband Timothy Busfield",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/melissa-gilbert-gives-thanks-those-013236954.html",
@@ -1373,6 +1564,19 @@
    ]
   },
   {
+   "title": "Candace Cameron Bure Explains How She Was ‘Duped’ Before Joining ‘The View’: I Was ‘A Bit Naive’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/candace-cameron-bure-explains-she-202214767.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9d08337c370ca6cbc4659b32b00d65fa633c2b60efb85ca75ae36b010cd8c866/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fbbe4ef638cec5feb714ac8c46616fe81.jpg",
+   "published": "2026-11-26T20:22:14+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "Colin Farrell Told His Dad One ‘Little Fib’ Before He Died. It Helped Him Purge Years of ‘Resentment and Anger’",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/colin-farrell-told-dad-one-202000149.html",
    "source": "yahoo.com",
@@ -1604,10 +1808,10 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/984cd127e165af106e3e4acc07d014ad0e60d5e30e3b912a69e70ef11b35eae3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F3ccfd1073f0fd97f6ef3d41d9b8ca500.jpg",
    "published": "2026-11-26T19:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "justin timberlake",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 2000,
    "mw": [
     "Wedding"
    ]
@@ -1619,10 +1823,12 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Gisele-Bundchen-Shares-Rare-Glimpse-at-3-Kids-Husband-While-Celebrating-Goodness-on-Thanksgiving-Family.jpg",
    "published": "2026-11-26T19:26:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -1632,10 +1838,12 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/38e225c8ba1767873582a36135e1b7dba4ff77f7bd797396fe73df1334269afb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2F518fdeec4e72c9b03562c4d0da202c63.jpg",
    "published": "2026-11-26T19:23:59+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "usmagazine.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -1648,7 +1856,7 @@
    "trending": true,
    "trend_term": "jake ferguson",
    "also": [],
-   "trend_score": 500,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -1887,10 +2095,10 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/762dc889f0bed6f9838cfa5de8a3c3ed6770a61bc359c4ceeb35fb71aa664c99/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fce38af529a8a8e85d457081fe28825f9.jpg",
    "published": "2026-11-26T18:15:20+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "justin timberlake",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -1993,10 +2201,10 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Aaron-Rodgers-Former-Packers-Teammate-TJ-Lang-Calls-His-Allegations-Against-Mike-McCarthy-Despicable-GettyImages-587143328.jpg",
    "published": "2026-11-26T17:51:49+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "mike tomlin minecraft",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 200,
    "mw": []
   },
   {
@@ -2078,7 +2286,7 @@
    "trending": true,
    "trend_term": "michelle obama",
    "also": [],
-   "trend_score": 500,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -2223,7 +2431,7 @@
    "trending": true,
    "trend_term": "jesse eisenberg",
    "also": [],
-   "trend_score": 500,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -2570,9 +2778,9 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/a3a69a5561961bb2202d98f11928275d39b8d6065fb40dad01f0b07386cf737b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F35b3ee12eba979202ea1c3cdd9a49ee7.jpg",
    "published": "2026-11-26T16:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "justin timberlake",
+   "trend_score": 2000,
    "also": [],
    "mw": []
   },
@@ -3129,12 +3337,10 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/brooke-williamson2.jpg",
    "published": "2026-11-26T14:30:43+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "yahoo.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -3253,13 +3459,12 @@
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-26/76917_070956_eng.jpg",
    "published": "2026-11-26T19:10:44+05:00",
    "trending": true,
-   "trend_term": "covered by 4 sites",
+   "trend_term": "covered by 3 sites",
    "also": [
     "news.meaww.com",
-    "usmagazine.com",
-    "yahoo.com"
+    "usmagazine.com"
    ],
-   "trend_score": 4000,
+   "trend_score": 3000,
    "mw": [
     "Big move"
    ]
@@ -4301,7 +4506,7 @@
    "published": "2026-11-26T09:30:00+00:00",
    "trending": true,
    "trend_term": "morgan freeman",
-   "trend_score": 5000,
+   "trend_score": 0,
    "also": [],
    "mw": []
   },
@@ -4927,7 +5132,7 @@
    "published": "2026-11-26T05:00:00+00:00",
    "trending": true,
    "trend_term": "jesse eisenberg",
-   "trend_score": 500,
+   "trend_score": 0,
    "also": [],
    "mw": []
   },
@@ -6022,9 +6227,9 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Pittsburgh-Steelers-Head-Coach-Mike-McCarthy-Breaks-Silence-on-Shocking-Aaron-Rodgers-Allegations-Cut-GettyImages-462148758.jpg",
    "published": "2026-11-25T23:51:56+00:00",
    "trending": true,
-   "trend_term": "jj watt",
+   "trend_term": "mike tomlin minecraft",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 200,
    "mw": []
   },
   {
@@ -7105,9 +7310,9 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Aaron-Rodgers-Breaks-His-Silence-After-Steelers-Benching-Goes-Scorched-Earth-on-Unwell-Mike-McCarthy.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=62&strip=all",
    "published": "2026-11-25T19:55:28+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "mike tomlin minecraft",
+   "trend_score": 200,
    "also": [],
    "mw": []
   },
@@ -11625,326 +11830,6 @@
    "trend_score": 0,
    "also": [],
    "mw": []
-  },
-  {
-   "title": "RHOA's Porsha Williams Is Engaged to Girlfriend Sway After Dating for 1 Year",
-   "url": "https://www.usmagazine.com/celebrity-news/news/rhoas-porsha-williams-is-engaged-to-girlfriend-sway/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2283768031-RHOAs-Porsha-Williams-Is-Engaged-to-Girlfriend-Sway.jpg?crop=49px%2C84px%2C1116px%2C631px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-25T02:49:10+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": [
-    "Wedding"
-   ]
-  },
-  {
-   "title": "HBO Max Officially Revives ‘Better Call Saul’ Star’s ‘John Wick’ Replacement",
-   "url": "https://collider.com/bob-odenkirk-normal-streaming-success-hbo-max-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/hbo-max-logo-featured.jpg",
-   "published": "2026-11-25T02:45:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Kristin Cavallari Roasted After Sharing Real Reason She’s Quitting Podcast",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/kristin-cavallari-roasted-sharing-real-024500708.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e31994b25175aba3a59a172ec1167e981e9e1cc1cd28c168876020d64c5b351d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fb37ebd319d199f318a05c3c73d6846ba.jpg",
-   "published": "2026-11-25T02:45:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Big move"
-   ]
-  },
-  {
-   "title": "Taylor Sheridan Meets ‘Jurassic Park’ in the New Sci-Fi Western Officially Set for 2027",
-   "url": "https://collider.com/dinosaurs-of-the-wild-west-release-window-2027/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/dinosaurs-of-the-wild-west-1.jpg",
-   "published": "2026-11-25T02:30:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Disney Officially Decides the Fate of James Cameron’s ‘Avatar 4’",
-   "url": "https://collider.com/james-cameron-avatar-4-confirmed-disney-release-slate/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/avatar-2009-3.jpg",
-   "published": "2026-11-25T02:15:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Taylor Swift’s former classmate clarifies Ugg boots comment after scathing expose goes viral",
-   "url": "https://news.meaww.com/taylor-swifts-former-classmate-clarifies-ugg-boots-comment-after-scathing-expose-goes-viral",
-   "source": "news.meaww.com",
-   "category": "Celebrity",
-   "image": "https://media.pubninja.com/articles/brand-5/covers/1795571687882_1bca2e6a0963.jpg",
-   "published": "2026-11-25T02:14:19+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Brad Pitt’s Co-Star Says They Felt Like “A Piece Of Meat”",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/brad-pitt-co-star-says-020653197.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e14e26fff6ebe7204e1eb7036875fb96b18342d300fe3eb247f4f6df587e808b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgiant_freakin_robot_articles_628%2F128e0d896d80eae86a7fec5d2c5e4dd9.jpg_up.jpg",
-   "published": "2026-11-25T02:06:53+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "collider.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Law Roach seemingly shades Tyra Banks with 'Made By Tyra' shirt",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/law-roach-seemingly-shades-tyra-020620191.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/a20a4d3081759c0fd0fdf3d7648d682ccdd8d2c2e1a5dc5a88d60018d5e8b19b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F1c4e904464151d082a63e13cf4a5de2d.png",
-   "published": "2026-11-25T02:06:20+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Robert Pattinson’s Neo-Noir Thriller Officially Surges After James Bond Casting",
-   "url": "https://collider.com/robert-pattinson-the-batman-streaming-success-hbo-max-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/the-batman-robert-pattinson-3.jpg",
-   "published": "2026-11-25T02:01:12+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "news.meaww.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "'The Rings of Power' Director on the \"Terrifying Responsibility\" of Tackling Middle-earth's Darkest Moment",
-   "url": "https://collider.com/the-rings-of-power-season-3-episode-7-sauron-one-ring-scene-director-stefan-schwartz/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/the-lord-of-the-rings-the-rings-of-power.jpg",
-   "published": "2026-11-25T02:01:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Twilight Fans Have Been Talking About That James Bond Scene. There’s Even More To It Than We Thought",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/twilight-fans-talking-james-bond-020100122.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/6414d60f6c5165873f8061e4aa88acbe920d4d4ab991d3046691ca2da094c908/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2Fcaf03d8e1b89a0959d0f43a7a3f3b1c8.png",
-   "published": "2026-11-25T02:01:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘The Rings of Power’ Season 3 Finale Explained",
-   "url": "https://www.yahoo.com/entertainment/tv/reviews/articles/rings-power-season-3-finale-020057364.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/d79db85a9e31c705a05aacc96127d0027a0435cc39413668bbdb6de9db98544b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F012cf7ca2ccecc2569bc6c67f6d7785b.jpg",
-   "published": "2026-11-25T02:00:57+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "collider.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "John Travolta’s Son Ben Turns 16, and Fans Say He Looks Just Like His Dad",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/john-travolta-son-ben-turns-020009233.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f5bef7f17256abe56e2af06dc71314c5178a805e358a6cd5b7f0ba7301bbb589/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F536181b0fe7079ef623535b82dea4b1e.jpg",
-   "published": "2026-11-25T02:00:09+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Oscars Visual Effects Top 20 Revealed: Disney Leads With Four Titles as ‘The Odyssey,’ ‘Ramayana,’ ‘Dune: Part Three’ and ‘Wildwood’ Make the Cut (EXCLUSIVE)",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/oscars-visual-effects-top-20-015722660.html",
-   "source": "yahoo.com",
-   "category": "Awards",
-   "image": "https://s.yimg.com/lo/mysterio/api/29851e2642fd8149d8084c85d51052d3427b8ad6b8bae26a5d56d387887455d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fed62c52ffb5cfe3e86ed31ae00461381.jpg",
-   "published": "2026-11-25T01:57:22+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "After 11 Years, This ‘Doctor Who’ Episode Is Still Hailed as a Masterpiece",
-   "url": "https://collider.com/best-doctor-who-episode-peter-capaldi-heaven-sent/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/02/doctor-who-peter-capaldi.jpg",
-   "published": "2026-11-25T01:57:12+00:00",
-   "trending": true,
-   "trend_term": "battlestar galactica",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Cameron Brink’s gorgeous wedding dress revealed in rare photos",
-   "url": "https://www.yahoo.com/entertainment/articles/cameron-brink-gorgeous-wedding-dress-015707275.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/d3ce53a17a92cf466a34cdc2cc01af8030e042bc7d6026c9ce72f438e6602dba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F63c5e32e1a702462b6f38b06e4b9a3a0.jpg",
-   "published": "2026-11-25T01:57:07+00:00",
-   "trending": true,
-   "trend_term": "cameron brink",
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Wedding"
-   ]
-  },
-  {
-   "title": "‘Dancing With the Stars’ Finalist Connor Wood Has Already Won: “I Feel Really Good”",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/dancing-stars-finalist-connor-wood-015519288.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/27efc2b02294d1d43d0a74993b1aae2dd416f3e1643999cac510ba3abc8bc656/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F40c86481fdaa5a094138175bd35ca14a.jpg",
-   "published": "2026-11-25T01:55:19+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "GTA gone soft? Fans fume over game's romantic streak",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/gta-gone-soft-fans-fume-015508940.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/fad00a6ebda030aec527c0d60e0bdf78e1bae907deb2a7d287825aab991dbc45/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F9774dc79fc034dbc918803240728214f.jpg_up.jpg",
-   "published": "2026-11-25T01:55:08+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "The 10 Best Dark Fantasy Films of All Time, Ranked",
-   "url": "https://collider.com/best-dark-fantasy-movies/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/pan-s-labyrinth-2006.jpg",
-   "published": "2026-11-25T01:52:12+00:00",
-   "trending": true,
-   "trend_term": "best",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Hayden Panettiere Reportedly Left 11-Year-Old Daughter More Than $6 Million After Shocking Death",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/hayden-panettiere-reportedly-left-11-015018385.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/562aaadb3fcae1774ecda14d513094c5733842ead3950b05c6ae86a369dd6daf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F2ef2663858bd70cb276a1bbda74ee35a.jpg",
-   "published": "2026-11-25T01:50:18+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": [
-    "Death",
-    "Sudden"
-   ]
-  },
-  {
-   "title": "Julianne Hough catches attention for fringe miniskirt at ‘DWTS’ finale",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/julianne-hough-catches-attention-fringe-014911079.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/05c7626307a835d550e64b256b0475eb563dc3a00796a0f72f62352ef22f13d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2Fc312398b7294a5967e4fc0b2e817b4e7.jpg",
-   "published": "2026-11-25T01:49:11+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Patrick Stewart’s Professor X Is the ‘Conscience’ of ‘Avengers: Doomsday’ in Farewell Performance",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/patrick-stewart-professor-x-conscience-014833744.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/bb617a0334a9ea9e04da4b1a94cc6397e2aac68ab0d0a14b85450a9491bceb67/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2Fa28b2ebec4d0672d2dd89ccd765e5d1a.jpg",
-   "published": "2026-11-25T01:48:33+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Big move"
-   ]
-  },
-  {
-   "title": "The Biggest Original Movie of 2026 Officially Passes Major Streaming Milestone",
-   "url": "https://collider.com/obsession-streaming-success-apple-tv-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-17-at-9-16-13-am.png",
-   "published": "2026-11-25T01:46:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Big move"
-   ]
   }
  ]
 }
