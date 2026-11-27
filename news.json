@@ -1,15 +1,244 @@
 {
- "generated_at": "2026-11-27T20:53:39.929405+00:00",
+ "generated_at": "2026-11-27T21:53:01.513758+00:00",
  "date_us": "2026-11-27",
  "per_site": {
-  "usmagazine.com": 9,
-  "news.meaww.com": 4,
-  "profiles.yahoo.com": 2,
-  "yahoo.com": 28,
+  "usmagazine.com": 12,
+  "news.meaww.com": 3,
+  "profiles.yahoo.com": 6,
+  "yahoo.com": 27,
   "jang.com.pk": 9,
-  "collider.com": 8
+  "collider.com": 7
  },
  "items": [
+  {
+   "title": "‘Property Brothers’ Star Jonathan Scott Shares Thanksgiving Family Photo With Zooey Deschanel and Her Two Kids",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/property-brothers-star-jonathan-scott-214543980.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a90fae6500dbfb3c4769c4d9bbbdbd27d0c48de992b52ca549191bf7eb736b4b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F116dc36d9359af5951423bc7c3745e28.jpg",
+   "published": "2026-11-27T21:45:43+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "People Give Milo Manheim Flak For Not Admitting To Tangled Casting Sooner, But Wait A Hot Minute!",
+   "url": "https://www.yahoo.com/entertainment/articles/people-milo-manheim-flak-not-214500485.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4e78e20877e59df3c82c8e31d6684ee4618829d4a43809b3881dd8fadff704b5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2Fbc24e38fc882cacec8cb11c5d314b29f.jpg",
+   "published": "2026-11-27T21:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Hunting Wives’ Karen Rodriguez Teases Wanda’s Unexpected New Romance",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/hunting-wives-karen-rodriguez-teases-213409015.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/3085ac3ca6bc8c2d6fc6f8bf7fcbab223b8212095dcf8bf7192f774f4f07dae0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fd54c639db1139ea26979ca5396d9e856.png",
+   "published": "2026-11-27T21:34:09+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘The Challenge’ Alum Tyler Duckworth’s Cause Of Death Revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/challenge-alum-tyler-duckworth-cause-213204103.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/baacc1373a20b6ee587aab3d92fe713d0d390dd4bd5aa7fd7190db1fab3d1b79/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fec82292997249dd4630fed8b60006197.jpg",
+   "published": "2026-11-27T21:32:04+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "Florence Pugh Declared a Real-Life Superhero by Fans Ahead of Avengers: Doomsday, Here’s Why",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/florence-pugh-declared-real-life-213158053.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c3f3692bf9f83425bfe890ade04040729b5360e7c53d44b74d3e386c0e0e65da/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fb2686f0a51a10bb6398499813bb8ca69.jpg",
+   "published": "2026-11-27T21:31:58+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Paige DeSorbo Finally Goes Social Media Official With Boyfriend Joe D’Amelio",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/paige-desorbo-finally-goes-social-213018827.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/104cca8e876d18744959c89b8c1fea7227f10b82a3c793583e911f85554532d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fe951e20c8ff9db4dd9d10e995b48c3cf.png",
+   "published": "2026-11-27T21:30:18+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Jada Pinkett Smith Shares Thanksgiving Message of Gratitude Three Days After Fire at Will Smith’s Family Estate",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jada-pinkett-smith-shares-thanksgiving-213007734.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/acdc098e19b1a3675ad5ec39e3786b2c75f3edb4a6e82dde168f95393dc7e4b0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F2cae49e2c7a2c14d12b309fe894e956d.jpg",
+   "published": "2026-11-27T21:30:07+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Jennie Garth Grills Her Manager Over an Apparent Snub From Her 90210 Days",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennie-garth-grills-her-manager-212619247.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c29757d5d72728fef3712d7486471a5deac8d371a8aed723f252d2eb4652b686/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fffac5f73a275a0d48fe610596354d267.png",
+   "published": "2026-11-27T21:26:19+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "John Goodman Remembers Acting in College Opposite ‘Magnificent’ Kathleen Turner in a Production of “A Midsummer Night’s Dream”",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/john-goodman-remembers-acting-college-212517290.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/72695065f54ae951e515391664081a422a9640fe901677d3841431326eff509a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3883a8237041134ec4ad3cb32bd622df.jpg",
+   "published": "2026-11-27T21:25:17+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "“The Challenge ”Winner Tyler Duckworth’s Cause of Death Revealed",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/challenge-winner-tyler-duckworth-cause-212416138.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/62db656470f30659d315aecacbf687029a6c892089d93f1fc09c50ccdc3537c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F07d95470cb9ce30f861a2d073bafe3f5.jpg",
+   "published": "2026-11-27T21:24:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "Martha Stewart Calls Out the One Type of New Yorker She Can’t Stand",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/martha-stewart-calls-one-type-212251193.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/bcf22ab551f3544062b5e38f21c2d0d8d5791c4d51a4a9e70de81d8762eae160/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F4b1a6f4b5ed68ae37f1510f0c1230fbf.png",
+   "published": "2026-11-27T21:22:51+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘Godzilla Minus Zero’ Has Officially Disappeared From Over 1,000 Theaters",
+   "url": "https://collider.com/godzilla-minus-zero-removed-from-1000-theaters-box-office/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/03/godzilla-standing-in-ocean-with-battleship-in-foreground-godzilla-minus-one.jpg",
+   "published": "2026-11-27T21:20:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Candace Cameron Bure Reveals How Donald Trump Impacted ‘The View’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/candace-cameron-bure-reveals-donald-211500682.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/7f5d11d1a5dbec93207365126a8f6c31e8e84f1f08a57b968577e074aade54d2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F4ff2c97fd539b8d5b3e57c7169292ef0.jpg_up.jpg",
+   "published": "2026-11-27T21:15:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "'90 Day Fiancé' Star Sheila Mangubat Dies at 35 in Philippines",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/90-day-fianc-star-sheila-210900364.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/dfd7040e8030871b6cc5a425aef72fca7297f0369348558cb7add81c3c00bc33/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fbcd9bb1e433bfd0b117abb3deb21f15a.jpg",
+   "published": "2026-11-27T21:09:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "HBO's Forgotten 7-Part Thriller Takes Less Than 4 Hours to Binge",
+   "url": "https://collider.com/hbo-best-thriller-series-run-domhnall-gleeson-merritt-wever/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/run-domnhall-gleeson.jpg",
+   "published": "2026-11-27T21:08:22+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Marvel’s Biggest Director Is Officially Ready to Adapt ‘House of M’ After ‘Avengers: Doomsday’",
+   "url": "https://collider.com/avengers-doomsday-joe-russo-house-of-m-movie/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/avengers-doomsday-robert-downey-jr.jpg",
+   "published": "2026-11-27T21:02:15+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Big move"
+   ]
+  },
+  {
+   "title": "TV’s Best ‘Yellowstone’ Replacement Is Officially a No. 1 Free Streaming Hit",
+   "url": "https://collider.com/yellowstone-replacement-anna-pigeon-streaming-success-vudu-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/yellowstone-kevin-costner-kelly-reilly.jpg",
+   "published": "2026-11-27T21:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
   {
    "title": "How Getting a ‘Masterclass’ from Richard Gere in “Asymmetry ”Helped Prepare Diana Silvers for ‘Preppy’ (Exclusive)",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/getting-masterclass-richard-gere-asymmetry-204500941.html",
@@ -156,6 +385,19 @@
    ]
   },
   {
+   "title": "Princess Diana’s Niece Kitty Spencer Owns “Fashion History” Tied to the Spencer Family—Including a Chainmail Bag Bought in Secret",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/princess-diana-niece-kitty-spencer-202000524.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/b1152139c1ea4331133f8c68ba078e31838fddfad8f9f023d0035a9bfacf9564/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2Fb09faa2dc8fd7ed822a500080be0b47b.jpg",
+   "published": "2026-11-27T20:20:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "Wild sperm scandal erupts around top underwear model as LA woman has mental breakdown: suit",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/wild-sperm-scandal-erupts-around-201914426.html",
    "source": "yahoo.com",
@@ -195,21 +437,6 @@
    "also": [],
    "trend_score": 0,
    "mw": []
-  },
-  {
-   "title": "Kate Middleton Opens Up & Gets Candid About Her Cancer Diagnosis: ‘A Lonely Road’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-opens-gets-candid-201512709.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f2c4d09a6008b1b23fc794190438148a6b2e4647cbc92f8715a4eb408516ccc4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F8ba177e0d3c232518d49e2a3cdac6801.jpg",
-   "published": "2026-11-27T20:15:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": [
-    "Illness"
-   ]
   },
   {
    "title": "The 10 Greatest Rock Albums of the '60s, Ranked",
@@ -1106,22 +1333,6 @@
    "mw": []
   },
   {
-   "title": "Pete Davidson and ex Elsie Hewitt reunite for Thanksgiving, poke fun at co-parenting after split",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/pete-davidson-ex-elsie-hewitt-164128918.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/cdc99607cf37efaa54b95be4ac6d3317c569cfb4e957043cff5f8c4905ca9011/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F7c0fa0c0d97ea097d6b3aefe7794499a.jpg",
-   "published": "2026-11-27T16:41:28+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": [
-    "Split",
-    "Big move"
-   ]
-  },
-  {
    "title": "Monica Bellucci’s Love Affair With Fendi Continues at the Marrakech Film Festival",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/monica-bellucci-love-affair-fendi-164054046.html",
    "source": "yahoo.com",
@@ -1389,6 +1600,21 @@
    ]
   },
   {
+   "title": "Pete Davidson's Ex Elsie Hewitt Shares Hilarious 'Coparenting' Video",
+   "url": "https://www.usmagazine.com/celebrity-moms/news/pete-davidsons-ex-elsie-hewitt-has-funny-coparenting-update/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Pete-Davidson-and-Elsie-Hewitt-GettyImages-2227301303.jpg?crop=0px%2C62px%2C1679px%2C949px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-27T15:33:04+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
+   "mw": []
+  },
+  {
    "title": "13 Jaw-Dropping Before-And-Afters Of Celebs Who Seem To Be Aging Backward",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/13-jaw-dropping-afters-celebs-153102288.html",
    "source": "yahoo.com",
@@ -1415,6 +1641,19 @@
    "mw": [
     "Death"
    ]
+  },
+  {
+   "title": "Below Deck Med's Aesha Scott Breaks Silence on Pregnancy Rumors",
+   "url": "https://www.usmagazine.com/entertainment/news/below-deck-meds-aesha-scott-addresses-pregnancy-rumors/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/10/Feature-Aesha-Scott-Below-Deck-Mediterranean-Season-11.jpg?crop=0px%2C49px%2C1600px%2C904px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-27T15:29:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
   },
   {
    "title": "The Met Gala’s Most Iconic Hat Moments",
@@ -1469,6 +1708,23 @@
    "mw": []
   },
   {
+   "title": "Kate Middleton Calls Cancer 'A Lonely Road,' Found Solace in Other Patients",
+   "url": "https://www.usmagazine.com/celebrity-news/news/kate-middleton-calls-cancer-a-lonely-road-in-new-doc-clip/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Kate-Middleton-GettyImages-2306413132.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-27T15:10:28+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
+   "mw": [
+    "Illness"
+   ]
+  },
+  {
    "title": "Nathan Fillion Officially Confirms ‘Firefly’ Reboot Status",
    "url": "https://collider.com/nathan-fillion-firefly-reboot-revival-progress-update/",
    "source": "collider.com",
@@ -1480,6 +1736,21 @@
    "also": [],
    "trend_score": 0,
    "mw": []
+  },
+  {
+   "title": "Bears' Colston Loveland Breaks His Silence After Tearful Injury Against Lions",
+   "url": "https://www.usmagazine.com/sports/news/colston-loveland-breaks-his-silence-after-emotional-injury/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2296250976.jpg-colston-loveland.jpg?crop=369px%2C88px%2C1328px%2C750px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-27T15:05:56+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Accident"
+   ]
   },
   {
    "title": "Meghan Markle Pairs Sculptural Ivory Dress With $20,000 Necklace for a Peek Inside Thanksgiving Dinner",
@@ -1518,6 +1789,21 @@
    "trend_term": null,
    "also": [],
    "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "'S.W.A.T.' EP Reveals How Long Spinoff Will Run After Changes, Cancellations",
+   "url": "https://www.usmagazine.com/entertainment/news/s-w-a-t-exiles-ep-addresses-shows-future-after-season-1-finale/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/09/TCDSWEX_TZ001.jpg?crop=0px%2C152px%2C1869px%2C1055px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-27T14:54:29+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -1568,10 +1854,12 @@
    "category": "TV",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/09/Maura-Higgins.jpg?crop=0px%2C193px%2C1500px%2C848px&resize=1000%2C563&quality=40&strip=all",
    "published": "2026-11-27T14:44:37+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -1646,10 +1934,10 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Jordan-Rodgers-Addresses-Aarons-Steelers-Exit.jpg?crop=0px%2C162px%2C1867px%2C1055px&resize=1000%2C563&quality=55&strip=all",
    "published": "2026-11-27T14:37:44+00:00",
-   "trending": true,
-   "trend_term": "dk metcalf suspension",
+   "trending": false,
+   "trend_term": null,
    "also": [],
-   "trend_score": 500,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -3974,10 +4262,12 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/33b5b09af15f762698af27523ac755d7b7757524aabc3bdf5819012a8ed32b72/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fa995d2d44bb0c0c4e07bc4f4324180c7.jpg",
    "published": "2026-11-27T03:33:51+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "usmagazine.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -7434,8 +7724,8 @@
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/ink-jack-o-connell-1.jpg",
    "published": "2026-11-26T14:40:39+00:00",
    "trending": true,
-   "trend_term": "mr irrelevant",
-   "trend_score": 0,
+   "trend_term": "jumanji open world",
+   "trend_score": 500,
    "also": [],
    "mw": []
   },
@@ -8474,12 +8764,10 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/e0c245ffd102eb9c494d24c294f516fcdc6dd88da91efb79f28c3f9938cd5351/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F3502cd8e42c66bea2eee550efe870756.jpg",
    "published": "2026-11-26T10:26:54+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "usmagazine.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -10215,7 +10503,7 @@
    "published": "2026-11-26T00:31:12+00:00",
    "trending": true,
    "trend_term": "jumanji open world",
-   "trend_score": 0,
+   "trend_score": 500,
    "also": [],
    "mw": []
   },
@@ -10431,7 +10719,7 @@
    "trending": true,
    "trend_term": "dk metcalf suspension",
    "also": [],
-   "trend_score": 500,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -10895,296 +11183,6 @@
    "trend_term": null,
    "trend_score": 0,
    "also": [],
-   "mw": []
-  },
-  {
-   "title": "Freddie Mercury’s Nephew Wears His Uncle’s Sweatshirt, and a Fan Spots a Possible Match in an Old Photo",
-   "url": "https://www.yahoo.com/entertainment/articles/freddie-mercury-nephew-wears-uncle-214531878.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/cf916211031ab6654744cba9216afec606f6eb11eef98e33dead02ddfdbfeaec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F7bbb24e72a95885340f7ca858b5f2868.jpg",
-   "published": "2026-11-25T21:45:31+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Lori Loughlin Pokes Fun at Her“ Full House” Character Aunt Becky’s Weight Loss Tips",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/lori-loughlin-pokes-fun-her-214421229.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3df6e4a7097b28aa814d579877229cdb272980f9e64ef45f9a7dd5d05455a74a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fa8950e49f0a6b0f85e287a05615dde1f.jpg",
-   "published": "2026-11-25T21:44:21+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-guitarist-wave-icons-214214869.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/2faac46fbab5015dbad04f1b98e327f6e916b2486b0ab56ce0aa3518a26c1191/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa1b481b2fc32bae0c5039a4923c60e63.jpg",
-   "published": "2026-11-25T21:42:14+00:00",
-   "trending": true,
-   "trend_term": "andy taylor",
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-guitarist-duran-duran-214134962.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/5cb274e4074a4c8375f7c856c79feb41086ad157a97bd08f88bd6777c3a870bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F70f736d4e179d3e1816261a8c40e681e.jpg",
-   "published": "2026-11-25T21:41:34+00:00",
-   "trending": true,
-   "trend_term": "andy taylor",
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "TV Ratings: ‘Dancing With the Stars’ Records Another Huge Finale",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/tv-ratings-dancing-stars-records-214037136.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/e0d69d710fb07837aae52b3e3c417db932fbaef1f7bd0df0335d1b53ce11c8d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F2a15f5d9ae4a66d8c9a898253cc5832e.jpg",
-   "published": "2026-11-25T21:40:37+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Tiffani Thiessen Postpones Hip Surgery for Show Filming: ‘Steroid Shots Are Helping for Now’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/tiffani-thiessen-postpones-hip-surgery-213914954.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/a222e76e56e5e200af3cf77063b75f1718b8d66a455c5bdd7feb954c2b02a130/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F0f08d3a093992ef5fc186889bfc88cb1.jpg",
-   "published": "2026-11-25T21:39:14+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Illness"
-   ]
-  },
-  {
-   "title": "‘Dancing With The Stars’ Season 35 Finale Scores Series’ Best Performance Among Young Adults In 15 Years",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/dancing-stars-season-35-finale-213836203.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/28285089fd1017fd459101929e79d2b9921f46e00fdc5973293f019711d82729/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F30131256823c3942caac8a67dc532167.png_up.jpg",
-   "published": "2026-11-25T21:38:36+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Boy, 9, Critically Injured After Falling Out of SUV Driven by His Drunk Uncle",
-   "url": "https://www.usmagazine.com/crime-news/news/boy-in-critical-condition-fell-out-of-drunk-uncles-suv/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/boy-injured-fell-out-suv-drunk-uncle.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
-   "published": "2026-11-25T21:37:46+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": [
-    "Accident"
-   ]
-  },
-  {
-   "title": "'DWTS' Winner Ezra Frech and More Celebs Added as Guests for 2027 Live Tour",
-   "url": "https://www.usmagazine.com/entertainment/news/dwts-winner-ezra-frech-more-guests-added-to-2027-live-tour/",
-   "source": "usmagazine.com",
-   "category": "Music",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Static_Social-Instagram_1080x1350_DancingWithTheStars_2027_National_V1.jpg?crop=26px%2C73px%2C1036px%2C585px&resize=1000%2C563&quality=40&strip=all",
-   "published": "2026-11-25T21:36:48+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Brad Pitt and Angelina Jolie Settle Bitter Winery Legal Battle in Shocking Move 10 Years After Split",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brad-pitt-angelina-jolie-settle-213620365.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/bd1fb03c65b66f81f29bac0e19e83bf434b3f4e5a56a25da2026fe93dffc33a7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fcd9f54a70855f296b42e30cdb2998897.jpg",
-   "published": "2026-11-25T21:36:20+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Split",
-    "Sudden"
-   ]
-  },
-  {
-   "title": "Andy Taylor, Duran Duran Guitarist, Dies at 65 After ‘Courageous Battle’ with Prostate Cancer",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-duran-duran-guitarist-213556403.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/5d9501e6b7570cfa2a31aebd66ab0a49b30ee61db616669564a3f4950cd0151c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F0ad77d8b4209f0d6fd42584ebba2aa5c.jpg",
-   "published": "2026-11-25T21:35:56+00:00",
-   "trending": true,
-   "trend_term": "andy taylor · covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "usmagazine.com"
-   ],
-   "mw": [
-    "Death",
-    "Illness"
-   ]
-  },
-  {
-   "title": "Ted Kennedy Made Emotional Demand After Divers Discovered John F. Kennedy Jr’.s Body",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/ted-kennedy-made-emotional-demand-213537639.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/d7aee28a38d8d08b611bc473aba5bf6572476313997cda1f8f507341417ddf5c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2F3a025b7fb654d0ffd94561d69091fe1e.jpg",
-   "published": "2026-11-25T21:35:37+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jimmy Kimmel Pulls Out Pre-Blink-182 Photo of Travis Barker Dressed as a Superhero Beside Robin Williams",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jimmy-kimmel-pulls-pre-blink-213425248.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/0474357d3bd1ec79a4d575162a513e5707c2f08f408003c8fbf31a6e56d245f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F50fe1e8fa5e55256785ec8c89bc8dfb9.jpg",
-   "published": "2026-11-25T21:34:25+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "5 Perfect Mystery Books Under 100 Pages",
-   "url": "https://collider.com/perfect-mystery-books-under-100-pages/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/typical-tuesday-night-81.jpg",
-   "published": "2026-11-25T21:28:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘The Hunting Wives’ Season 2 Officially Hits Netflix Tomorrow",
-   "url": "https://collider.com/the-hunting-wives-season-2-netflix-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the_hunting_wives_n_s2_e2_00_33_15_11rc_c.jpg",
-   "published": "2026-11-25T21:12:24+00:00",
-   "trending": true,
-   "trend_term": "the hunting wives season 2 · covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Rams’ Kyren Williams Jokes About Matthew Stafford’s Glow-Up: ‘Like a Fine Wine’",
-   "url": "https://www.usmagazine.com/sports/news/rams-kyren-williams-jokes-about-matthew-staffords-glow-up/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Rams-Kyren-Williams-Jokes-About-Matthew-Stafford-Glow-Up.jpg",
-   "published": "2026-11-25T21:05:52+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brad-pitt-angelina-jolie-call-210000904.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/1a549d6d24e042ad400c88c441d05eca25e8e66caf27a862b627f6b368452ca5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F40407dd80a1d841837df45611396d546.jpg",
-   "published": "2026-11-25T21:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": [
-    "Big move"
-   ]
-  },
-  {
-   "title": "Sami Sheen Jokes About 'Screaming Fights' With Family During the Holidays",
-   "url": "https://www.usmagazine.com/celebrity-news/news/sami-sheen-jokes-about-holiday-screaming-fights-with-family/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/sami-sheen.jpg?crop=0px%2C169px%2C1200px%2C677px&resize=1000%2C563&quality=40&strip=all",
-   "published": "2026-11-25T20:54:26+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Khloe Kardashian Claims Korean Beauty Treatments 'F***ed Up' Her Face",
-   "url": "https://www.usmagazine.com/celebrity-body/news/khloe-kardashian-jokes-korean-beauty-treatments-messed-up-face/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2241866240-Khloe-Kardashian-Recalls-Messing-Up-Her-Face-With-Korean-Beauty-Treatments.jpg?crop=0px%2C115px%2C1334px%2C754px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-25T20:54:15+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Melissa Joan Hart Explains Why She Had a 'Rough Time' on 'DWTS'",
-   "url": "https://www.usmagazine.com/celebrity-news/news/melissa-joan-hart-explains-why-she-had-rough-time-on-dwts/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/TCDDAW2_EC099-melissa-joan-hart-dwts.jpg?crop=0px%2C63px%2C2000px%2C1130px&resize=1000%2C563&quality=78&strip=all",
-   "published": "2026-11-25T20:54:06+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
    "mw": []
   }
  ]
