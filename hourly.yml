@@ -1,0 +1,34 @@
+name: hourly-news
+on:
+  schedule:
+    - cron: "5 * * * *"   # every hour at minute 5
+  workflow_dispatch: {}    # lets you run it manually from the Actions tab
+permissions:
+  contents: write
+concurrency:               # never run two updates at the same time
+  group: hourly-news
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install feedparser requests beautifulsoup4
+      - run: python fetch_news.py
+      - name: Commit updated news.json
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update news $(date -u +%FT%TZ)"
+            # If someone pushed in the meantime, pull their changes first (keep our fresh news.json), then push.
+            for i in 1 2 3; do
+              if git pull --rebase -X theirs && git push; then exit 0; fi
+              sleep 5
+            done
+            exit 1
+          fi
