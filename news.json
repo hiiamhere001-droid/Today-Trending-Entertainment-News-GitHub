@@ -1,15 +1,281 @@
 {
- "generated_at": "2026-11-27T19:56:39.456501+00:00",
+ "generated_at": "2026-11-27T20:53:39.929405+00:00",
  "date_us": "2026-11-27",
  "per_site": {
   "usmagazine.com": 9,
-  "news.meaww.com": 5,
-  "profiles.yahoo.com": 7,
+  "news.meaww.com": 4,
+  "profiles.yahoo.com": 2,
   "yahoo.com": 28,
   "jang.com.pk": 9,
   "collider.com": 8
  },
  "items": [
+  {
+   "title": "How Getting a ‘Masterclass’ from Richard Gere in “Asymmetry ”Helped Prepare Diana Silvers for ‘Preppy’ (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/getting-masterclass-richard-gere-asymmetry-204500941.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/85368db0bc2f3aa149b8b6773657bb1fb45918cedd9bb9ae4954c75c1b0a8878/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F617ae2abdf5327f7b340e644a1be76df.jpg",
+   "published": "2026-11-27T20:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Robert Irwin Says Being a ‘Funcle’ to Niece Grace, 5, Is the ‘Greatest Job in My Life’",
+   "url": "https://www.yahoo.com/entertainment/articles/robert-irwin-says-being-funcle-204241429.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/67eae41b4f5b8b7a68289ee68b76ef8be4dc52581fc7203903f2ce5964613873/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fa81c4406380388a7fc2639a693ee11e1.jpg",
+   "published": "2026-11-27T20:42:41+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘I’m gonna cut you’: Azzi Fudd makes it clear she’s not interested in Taylor Swift",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/m-gonna-cut-azzi-fudd-203912382.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1df7a6d5c6916dfdaf7e60fd1f565eb163474af1b8d532ac295ac51c4a84e302/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F78691763b98fce22da787ed900be268c.png",
+   "published": "2026-11-27T20:39:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Dunesday Has Denis Villeneuve ‘Praying’ For Dune: Part 3's Success, But What Do The Numbers Say?",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/dunesday-denis-villeneuve-praying-dune-203618167.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/b7987d3e14b787628155ab7f465224ed515dd209a688e065e07e2fd1efb70814/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F91924f2ea4627a33d6c27c3cf15204f3.png",
+   "published": "2026-11-27T20:36:18+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Who Was Your Best Dressed This Week?",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/best-dressed-week-203514238.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/1cd3c834be417cfcb2eca152752eacdbe346e19988d2da2d0e3e20742c1ca5fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2Fd34802d6bf322f48e0e28ab8acb28050.jpg",
+   "published": "2026-11-27T20:35:14+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Bronwyn Newport Gives Estranged Husband Todd Bradley a Tour of Her New Salt Lake City Home: ‘It’s Time To Move On’",
+   "url": "https://www.yahoo.com/entertainment/articles/bronwyn-newport-gives-estranged-husband-203200699.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/6baff0a6340975b400fc93ca2c50dd3946cc1848bbcdd42b33fca6d7c7703ab7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frealtor_com_468%2Fcc3bbed6db2ac81cb0434bc624eaa9f3.jpg",
+   "published": "2026-11-27T20:32:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Peter Gabriel on his full moon albums, the future of AI and the end of Genesis",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/peter-gabriel-full-moon-albums-203054858.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/0e7138a76536f597c220e28ca885eae8b92a4d1f18849649f4a7b7be7a863d12/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fde4e11400f4661bce179946984bd11e2.jpg",
+   "published": "2026-11-27T20:30:54+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Gordon Ramsay Becomes a Grandfather at 60 and Wants to Be Called ‘Papa G’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/gordon-ramsay-becomes-grandfather-60-203011477.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ca0b08ad42225b9db771356cc752a0711c0ee47169e357d594dfad8169eee257/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fc56c8ebc027aed33ae6be1af541c455d.jpg",
+   "published": "2026-11-27T20:30:11+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Forget The Lord of the Rings, These 4 Books Do Epic Fantasy Much Better",
+   "url": "https://collider.com/best-books-epic-fantasy-better-than-lord-of-the-rings/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/the-lord-of-the-rings-book-cover-1955.jpg",
+   "published": "2026-11-27T20:29:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Fan Says Simu Liu Liked a ‘Zero Chemistry’ Comment About ‘Avengers: Doomsday’ Interviews",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/fan-says-simu-liu-liked-202633975.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3c24de430b820bf1e7d2cd4eafa8479851b5d972dbd6d4e102827bae7390d7ce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fbd22e5f83acbd26120fab7bee87c2f3d.jpg",
+   "published": "2026-11-27T20:26:33+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Harry Potter: Club Kid Star Has a Blunt J.K. Rowling Take After Missing Out on HBO Show",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/harry-potter-club-kid-star-202519288.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/70e4049fdaefa8aca44489045d62fb4b4f45b26364439fc6feafd121ebe897e0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F01f2605864f0028a005f4f01567e5487.jpg",
+   "published": "2026-11-27T20:25:19+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Sudden"
+   ]
+  },
+  {
+   "title": "Wild sperm scandal erupts around top underwear model as LA woman has mental breakdown: suit",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/wild-sperm-scandal-erupts-around-201914426.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/e27971e7a96966395b3facd8eccbb583ed62609dffdfb201d2e182065090bb86/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F9232db26e6ed8fa2c916952e612158dc.jpg",
+   "published": "2026-11-27T20:19:14+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Sudden"
+   ]
+  },
+  {
+   "title": "Linda Cardellini Regrets ‘Scooby-Doo’ Axing Her Boozy Striptease Scene",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/linda-cardellini-regrets-scooby-doo-201548999.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/076d2a81019084364ab3ecf69761dbf70b3ca894d5bccbf86f1c3e796adf517c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Faa2be9f255a5e01dc4f14afee85f4e81.png",
+   "published": "2026-11-27T20:15:48+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Warner Bros. Latest Misfire Officially Removed From Over 1,000 Theaters",
+   "url": "https://collider.com/cat-in-the-hat-removed-from-1000-theaters-box-office/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/warner-bro-logo.jpg",
+   "published": "2026-11-27T20:15:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Kate Middleton Opens Up & Gets Candid About Her Cancer Diagnosis: ‘A Lonely Road’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-opens-gets-candid-201512709.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f2c4d09a6008b1b23fc794190438148a6b2e4647cbc92f8715a4eb408516ccc4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F8ba177e0d3c232518d49e2a3cdac6801.jpg",
+   "published": "2026-11-27T20:15:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Illness"
+   ]
+  },
+  {
+   "title": "The 10 Greatest Rock Albums of the '60s, Ranked",
+   "url": "https://collider.com/best-1960s-rock-albums/",
+   "source": "collider.com",
+   "category": "Music",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/the-beatles-sgt-peppers-lonely-hearts-club-band-1.jpg",
+   "published": "2026-11-27T20:12:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "5 Near-Perfect Netflix Series With Less Than 20 Episodes",
+   "url": "https://collider.com/netflix-shows-near-perfect-shorter-than-20-episodes/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/black-doves-keira-knightley-1.jpg",
+   "published": "2026-11-27T20:08:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "The Hunger Games Movies Are Officially Being Eliminated From Free Streaming",
+   "url": "https://collider.com/hunger-games-franchise-leaving-tubi-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/06/gale-hawthorne-the-hunger-games-hemsworth.jpg",
+   "published": "2026-11-27T20:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Reese Witherspoon’s Forgotten 8-Part Miniseries Is a Near-Perfect Binge",
+   "url": "https://collider.com/little-fires-everywhere-hulu-reese-witherspoon-kerry-washington-weekend-binge/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/little-fires-everywhere-reese-witherspoon-1.jpeg",
+   "published": "2026-11-27T19:57:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Emma Corrin Hints at Regency Fashion at the ‘Pride and Prejudice’ Photocall",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/emma-corrin-hints-regency-fashion-195234025.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/9991e911f71c3e0cd39f07375b04264c910b0d921a1af7703307e3816bbee6a2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2F8fb1dc215a8b431fefd472ea24241040.jpg_up.jpg",
+   "published": "2026-11-27T19:52:34+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
   {
    "title": "Bradley Whitford Remembers Andre Braugher While Sharing the Broadway Stage with His Son: ‘I Miss Him’ (Exclusive)",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/bradley-whitford-remembers-andre-braugher-194500632.html",
@@ -195,6 +461,19 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/59f7725414984ce2307d6eeb51b7a15272d4b5da2bf522a82d687b560c9fa50e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Facfde7db388c921ede98b4c5438c3c8d.jpg",
    "published": "2026-11-27T19:18:18+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Keira Knightley’s Atonement dress set to fetch £100k",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/keira-knightley-atonement-dress-set-185923973.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/1458825dde02363b4b167c4154731f07dffc050e492829351f102947be3fbfe0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F4c5c61be0703a0e9699036e76a854a9d.jpg",
+   "published": "2026-11-27T18:59:23+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -1283,6 +1562,19 @@
    ]
   },
   {
+   "title": "Maura Higgins Reveals What She Gave DWTS' Mark Ballas After Season 35 Loss",
+   "url": "https://www.usmagazine.com/entertainment/news/maura-higgins-reveals-gift-for-dwts-mark-ballas-after-loss/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/09/Maura-Higgins.jpg?crop=0px%2C193px%2C1500px%2C848px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-27T14:44:37+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "Justin Timberlake Was ‘Really Reluctant’ to Open Up About Things He’s ‘Never Talked About Before’ in Tell-All Documentary",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/justin-timberlake-really-reluctant-open-144000951.html",
    "source": "yahoo.com",
@@ -1348,6 +1640,19 @@
    "mw": []
   },
   {
+   "title": "Jordan Rodgers Calls Brother Aaron's Steelers Departure 'Sad to See'",
+   "url": "https://www.usmagazine.com/sports/news/jordan-rodgers-is-sad-to-see-aaron-rodgers-steelers-exit/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Jordan-Rodgers-Addresses-Aarons-Steelers-Exit.jpg?crop=0px%2C162px%2C1867px%2C1055px&resize=1000%2C563&quality=55&strip=all",
+   "published": "2026-11-27T14:37:44+00:00",
+   "trending": true,
+   "trend_term": "dk metcalf suspension",
+   "also": [],
+   "trend_score": 500,
+   "mw": []
+  },
+  {
    "title": "Mia Farrow Pays Emotional Tribute to Close Friend Stephen Sondheim on 5 Year Anniversary of His Death",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/mia-farrow-pays-emotional-tribute-143510337.html",
    "source": "yahoo.com",
@@ -1361,6 +1666,19 @@
    "mw": [
     "Death"
    ]
+  },
+  {
+   "title": "'Virgin River' Season 8 Cast Changes Revealed After Multiple Surprise Exits",
+   "url": "https://www.usmagazine.com/entertainment/news/virgin-river-season-8-cast-changes-revealed-after-exits/",
+   "source": "usmagazine.com",
+   "category": "TV",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2025/09/T230929_ZX039.jpg?crop=639px%2C62px%2C2273px%2C1283px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-27T14:34:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
   },
   {
    "title": "Alexandra Daddario Reveals Why She Hasn’t Been Watching the New ‘Percy Jackson’ Series",
@@ -1510,6 +1828,19 @@
    "mw": []
   },
   {
+   "title": "Stars — They're Just Like Us!",
+   "url": "https://www.usmagazine.com/celebrity-news/pictures/stars-theyre-just-like-us-20131610/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Jerry-OConnell-They-Wear-Sweatpants-to-the-Grocery-Store-Just-Like-Us.jpg?crop=0px%2C0px%2C1440px%2C814px&resize=800%2C450&quality=40&strip=all",
+   "published": "2026-11-27T14:08:09+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "‘Reacher’ Built an Entire Town for Just 8 Episodes of Television",
    "url": "https://collider.com/reacher-season-1-alan-ritchson-margrave-town-built-lee-child/",
    "source": "collider.com",
@@ -1542,6 +1873,19 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/b143f17ffda6c75f6d395ceaca4c650865a097d7c29cbd54dbc7ff8614d66d84/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpurewow_185%2Fdc144cf545dcba759c702c0685992005.jpg_up.jpg",
    "published": "2026-11-27T14:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘Nobody Wants This’ Star Justine Lupe Is Pregnant, Expecting Baby No. 2 With Husband Tyson Mason",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/nobody-wants-star-justine-lupe-135058685.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/a3ecde7d703a44c30622cba195440d827d8b8d3b0bd464e311ae99c6a0742076/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fd774d2107eb789da3cbd9602aca4f075.jpg",
+   "published": "2026-11-27T13:50:58+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -1851,12 +2195,10 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/HTW1_104_050924_0024.jpg",
    "published": "2026-11-27T12:46:11+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "yahoo.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -2224,12 +2566,10 @@
    "category": "TV",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/3Up-Images-62.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-27T11:16:20+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "yahoo.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -7035,10 +7375,12 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-73198007-hulk-hogan-brooke-hogan.jpg?crop=0px%2C186px%2C1200px%2C678px&resize=1000%2C563&quality=40&strip=all",
    "published": "2026-11-26T14:55:59+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -10087,9 +10429,9 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Pittsburgh-Steelers-Head-Coach-Mike-McCarthy-Breaks-Silence-on-Shocking-Aaron-Rodgers-Allegations-Cut-GettyImages-462148758.jpg",
    "published": "2026-11-25T23:51:56+00:00",
    "trending": true,
-   "trend_term": "mike tomlin minecraft",
+   "trend_term": "dk metcalf suspension",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 500,
    "mw": []
   },
   {
@@ -10843,339 +11185,6 @@
    "also": [
     "yahoo.com"
    ],
-   "mw": []
-  },
-  {
-   "title": "Execution Survivor Christa Pike Slams Prison for Blocking Mental Health Care",
-   "url": "https://www.usmagazine.com/crime-news/news/christa-pike-prisons-mental-health-professionals/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/christa-pike-prisons-mental-health-professionals.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
-   "published": "2026-11-25T20:46:21+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Maura Higgins Could Have The Last Laugh After ‘DWTS’ Defeat With $12M Future",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/maura-higgins-could-last-laugh-204500605.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/3b34de74e3ab10dddd4d7964ff6effc03a4d16d6b778aa0a82cc7a7ec59694be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F3d8d5597269866c14398c5018609adf3.jpg",
-   "published": "2026-11-25T20:45:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Veruschka, German supermodel and 'Blow-Up' actress, dies at 87",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/veruschka-german-supermodel-blow-actress-204419079.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/4ec4b2273ae42cfc5b252724150ea78f622fa7ac09377bc77d67736dcdff79d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2Fa0b6d812995e1137d23d729286a8d509.jpg",
-   "published": "2026-11-25T20:44:19+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Desfile de Macy’s 2026: horario y cómo verlo en español",
-   "url": "https://www.yahoo.com/entertainment/articles/desfile-macy-2026-horario-y-204105589.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/418337cce649cb0520bf3a382bfdf6315e367103d2d0397167d8ca5f18dc1e35/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fes%2Fusa_today_entertainment_893%2Fe4ffe421bda1ec3e0aac3121d0f0ce97.jpg_up.jpg",
-   "published": "2026-11-25T20:41:05+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "The 35 Best Movies on HBO Max Right Now",
-   "url": "https://www.yahoo.com/entertainment/articles/best-movies-hbo-max-now-190000932.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/1250d51b04e32481ad1e13ad806b888aee6fec10c040b99596a997238cb0e8d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F4077038bfb4dbe180adb6abdc87fa3ed.jpg",
-   "published": "2026-11-25T20:41:00+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "collider.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Howard Stern’s Ex-Sidekick Artie Lange Shocks Fans After Having Nose Seemingly Reconstructed",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/howard-stern-ex-sidekick-artie-203838728.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/56e4be4d14c8bd834f806e5aae804b5e943631fe1716dcd580590499e11bbe92/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobe_458%2Fa2b808aad3292b0fb60eedb8ca7fc586.jpg",
-   "published": "2026-11-25T20:38:38+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Sudden"
-   ]
-  },
-  {
-   "title": "Macy’s Thanksgiving Day Parade Might Not Happen This Year",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/macy-thanksgiving-day-parade-might-203716225.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/a301bd0d0e5ddbd6a3d9ed263c6316a19d674ea074c27fcaf19dbd87d32fc007/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2Fddc872473f40d1a4eb6e7d4d8ad299ee.jpg",
-   "published": "2026-11-25T20:37:16+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jennifer Lopez's son Max had one very funny question about her Las Vegas look",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennifer-lopezs-son-max-had-203712749.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/519fae736db0eabbbfb4387d2bbf1876a7f43fa993fe42e1f2a6e2c9a1afb294/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F60667dfccfa34e9579e9d29dec6676a2.jpg",
-   "published": "2026-11-25T20:37:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "48 Hilarious Tweets To Get You Through Thanksgiving When You Need A Minute Or 30",
-   "url": "https://www.yahoo.com/entertainment/articles/48-hilarious-tweets-thanksgiving-minute-203604049.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/2f19c5c847f107fb0488442e23abeac1f097b6529f6e63003c3b07b9a2832473/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F667091093164f2a6adc1d89779e39607.jpg",
-   "published": "2026-11-25T20:36:04+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "An Oscar-Winning Filmmaker’s Latest Is a Miracle of a Movie",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/oscar-winning-filmmaker-latest-miracle-203510343.html",
-   "source": "yahoo.com",
-   "category": "Awards",
-   "image": "https://s.yimg.com/lo/mysterio/api/b0e54ef71e94d352bdf77651ab4eedd5713e22df4a577c5361b9b233e9149be7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fslate_773%2Fb7ed63959fc5bbe16249d802315c720d.jpg",
-   "published": "2026-11-25T20:35:10+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Netflix’s New Psychological Thriller Is Officially Streaming’s Latest Breakout Hit",
-   "url": "https://collider.com/the-body-streaming-hit-netflix-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-body-1.jpg",
-   "published": "2026-11-25T20:30:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Russell Brand’s Wife Brings Their Three Kids To Visit Him In Prison As Inmates Reportedly Shun Him",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/russell-brand-wife-brings-three-203000463.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b126eb9934e6525e474ae6272d01445a26f0931e28704201f93b9ee471f5c5c3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F2d8e1a471e5e9dd81199fc40aa270c9d.jpg",
-   "published": "2026-11-25T20:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Netflix Officially Loses All 100 Episodes of ‘Teen Wolf’ Next Week",
-   "url": "https://collider.com/teen-wolf-leaving-netflix-december-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/06/teen-wolf.jpg",
-   "published": "2026-11-25T20:29:22+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Rosamund Pike On Starring in Spiky Stage Drama ‘Inter Alia’: “I Like to Do Things That Are Provocative”",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/rosamund-pike-starring-spiky-stage-202405538.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/c13df0e9f70adabf8e8348113036be495f0a8472426b99fef5a5550c7a962cd2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Fe1d71095b1664a8925848b2590db2534.jpg",
-   "published": "2026-11-25T20:24:05+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Hayley Erbert Hough Says Watching New Documentary ‘Sparks a Little Bit of Trauma’ Following Health Crisis (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/hayley-erbert-hough-says-watching-202351818.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8c5934bf5f4339044b59b72432a7fbefbe9e64e1ea96884d3f13c2814d466323/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F73e5ea7547b7d5eadc585000e8436c80.jpg",
-   "published": "2026-11-25T20:23:51+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Illness"
-   ]
-  },
-  {
-   "title": "Legendary Supermodel Veruschka, One of Fashion's First Global Icons, Dies at 87",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/legendary-supermodel-veruschka-one-fashions-201958468.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/4958e976a21652ecd426254c9d1b670f1e0a00eaae379b5947aeea7c2e59eb7b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F183544983f2ae8c68b3140be76980eb8.jpg",
-   "published": "2026-11-25T20:19:58+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Every Book in Brandon Sanderson's 'The Stormlight Archive' Series, Ranked",
-   "url": "https://collider.com/brandon-sanderson-stormlight-archive-books-ranked/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/the-stormlight-archive-wind-and-truth.jpg",
-   "published": "2026-11-25T20:19:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Charlie Sheen and Emilio Estevez Recall ‘Epic Fight’ as Teens That Led Neighbors to Call the Police on Them",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/charlie-sheen-emilio-estevez-recall-201205248.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/2a25389c30f87c686682559808ad5cdcce92f61ef437e1eb84c961b207e71d0c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fedc24192bb7e2f312d8314c982af1d48.jpg",
-   "published": "2026-11-25T20:12:05+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Hailey Bieber Morphs Into Bella Hadid for Vogue France’s Dramatic Year-End Cover",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/hailey-bieber-morphs-bella-hadid-201013675.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/69240846defaaa571161cd1c2ab861f8816591d48ce287bd956b4e324ff333ac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2F584e8ec5ebe97e24cf512ec510f51051",
-   "published": "2026-11-25T20:10:13+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Veruschka, supermodel who appeared in “Casino Royale”, dies at 87",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/veruschka-supermodel-appeared-casino-royale-200726646.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/cf5ad556f700490b52f165fe87412a118454858f7b24f975db70a9d05615cc24/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2Ff04b1a1fc0f8e1050cd9a44811c07639.jpg",
-   "published": "2026-11-25T20:07:26+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Scott Caan Thought He Got a Prank Text. It Was Actually David Fincher Wanting Him in 'Cliff Booth'",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/scott-caan-thought-got-prank-200521379.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/0082f0e0b8d0a9cb74cd74edce6b949c1f1313b12dd2ebb007dded790cecedf8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F401c4a57416afeba63707331c0555b0d.png",
-   "published": "2026-11-25T20:05:21+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
-   "title": "'Married at First Sight' Alum Ryan De Nino's Cause of Death Revealed",
-   "url": "https://www.usmagazine.com/celebrity-news/news/married-at-first-sights-ryan-de-ninos-cause-of-death-at-40/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Former-Married-at-First-Sight-Star-Ryan-De-Ninos-Cause-of-Death-Revealed.jpg?crop=0px%2C367px%2C1478px%2C836px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-25T20:02:55+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": [
-    "Death",
-    "Wedding"
-   ]
-  },
-  {
-   "title": "Hunter Schafer Breaks Down the Meaning Behind 'Blade Runner 2099's Final Scenes",
-   "url": "https://collider.com/blade-runner-2099-finale-meaning-michelle-yeoh-hunter-schafer/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/blade-runner-2099-hunter-schafer-michelle-yeoh.jpg",
-   "published": "2026-11-25T20:00:12+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "10 Years Later, ‘Two and a Half Men’ Star Officially Returns to CBS",
-   "url": "https://collider.com/cupertino-cast-jon-cryer-images-cbs-return/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/3259915_cupo_s1_1264b-1.jpg",
-   "published": "2026-11-25T20:00:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
    "mw": []
   }
  ]
