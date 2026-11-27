@@ -1,15 +1,307 @@
 {
- "generated_at": "2026-11-27T14:52:16.219196+00:00",
+ "generated_at": "2026-11-27T15:57:04.395106+00:00",
  "date_us": "2026-11-27",
  "per_site": {
   "usmagazine.com": 13,
   "news.meaww.com": 5,
-  "profiles.yahoo.com": 7,
-  "yahoo.com": 26,
-  "jang.com.pk": 8,
-  "collider.com": 9
+  "profiles.yahoo.com": 9,
+  "yahoo.com": 28,
+  "jang.com.pk": 9,
+  "collider.com": 8
  },
  "items": [
+  {
+   "title": "Justin Timberlake Refuses to Sing Backstreet Boys Song During ‘Tonight Show’ Mash-Up: ‘Sacrilegious!’",
+   "url": "https://www.yahoo.com/entertainment/music/articles/justin-timberlake-refuses-sing-backstreet-155011545.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/a868c73f89439b3f3403057949ef2c03ad4fe9a0f3c871be6569750eab6638aa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2Fc98548ddf7496789a465984ff66dc6b3.jpg",
+   "published": "2026-11-27T15:50:11+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Kevin Pietersen in TV series 'Panchayat': What to expect and where to watch new season",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/kevin-pietersen-tv-series-panchayat-155001693.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/0321ca090e338dd2c51f876e3bb52ad61ed6aadba590b7f1dd3e85a277a91ea1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F75a36197bbd78ebd32a9b1b75f8168fe",
+   "published": "2026-11-27T15:50:01+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Fans rip 'despicable' NBC over cutting Goo Goo Dolls halftime show",
+   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/fans-rip-despicable-nbc-over-154906359.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/8a259a3f8091812b9dac4f8939b94b3325022bb55eaf97710b0d6a7d6c6d41d7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F4205a63dd1747fe7af67d201020f5333.jpg",
+   "published": "2026-11-27T15:49:06+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Tyson Fury Schizophrenia Scene Removed From Netflix Doc After Wife Walks Back Claim He Has Condition",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/tyson-fury-schizophrenia-scene-removed-154746499.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/8f84c7ba4e772e8a299a7f32db6dfed7c46f939681e3482d12a80dfbe236bb3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fa2646c212e213d1d5f206cccf972c53b.jpg_up.jpg",
+   "published": "2026-11-27T15:47:46+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Feid, Snoop Dogg, D’Angelo, and All the Songs You Need to Know This Week",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/feid-snoop-dogg-d-angelo-154602264.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/8c49836102d8abd96627e5d7a6c92e420399b20a1e7291136b95826419e1b0a1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F12e5573c35c414d6a3dc6ea862e46481.jpg",
+   "published": "2026-11-27T15:46:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Nicole Scherzinger, Thom Evans confirm split in emotional statement: 'Difficult'",
+   "url": "https://jang.com.pk/en/76971-nicole-scherzinger-thom-evans-confirm-split-in-emotional-statement-difficult-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-27/76971_084509_eng.jpg",
+   "published": "2026-11-27T20:45:04+05:00",
+   "trending": true,
+   "trend_term": "nicole scherzinger",
+   "also": [],
+   "trend_score": 200,
+   "mw": [
+    "Split"
+   ]
+  },
+  {
+   "title": "Arthur Conti Was Booked This Year With Roles in ‘Carrie’ and ‘Ebenezer.’ Now He’s Looking to Get “a Little Strange”",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/arthur-conti-booked-roles-carrie-154500764.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9b50f40e2bf3d8cee1242343225f65b3be0b0c07725ca3df4724cbea09531ada/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Fe3d7eac64e00f072d2fa7d51b6290eb6.jpg",
+   "published": "2026-11-27T15:45:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Janis Ian wrote about being 17. The letters that came back told her who had been listening.",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/janis-ian-wrote-being-17-154156091.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/bbcdf68f07f7ac88e3bf6175aafda95cbbfb539781852d37eca381c4d25bddd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fupworthy_219%2Fa059e75f435d2bfb54e7f5f0f77e3884.jpg_up.jpg",
+   "published": "2026-11-27T15:41:56+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Jason Alexander Reveals the ‘Seinfeld’ Spinoff He Pitched After the Show Ended",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/jason-alexander-reveals-seinfeld-spinoff-154101626.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/24590d85029748b34288da422f2c1fb28564a8ca634760df9e87a66e502c528e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fd61e4bbef5abffee2b7a5c8c43f34590.jpg",
+   "published": "2026-11-27T15:41:01+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘Star Blazers’ Officially Returns in 2027 With First-Ever Blu-ray Release of 51 Classic Episodes",
+   "url": "https://collider.com/star-blazers-51-episodes-blu-ray-release-2027/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/star-blazers-space-battleship-yamato.jpg",
+   "published": "2026-11-27T15:38:21+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Kate Middleton's Rumored Rift With Sister Pippa Is Getting Harder To Ignore",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middletons-rumored-rift-sister-153608637.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/614c553e779409009acad458cf8f6c36c031cdf198666468e03a8653c7df1024/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2F5dfd0033f8a8dc6bee1edb6cf562ca5a.jpg",
+   "published": "2026-11-27T15:36:08+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "How Grimes bonds with new boyfriend over AI safety, ’60s girl groups and anime in quirky new romance",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/grimes-bonds-boyfriend-over-ai-153550061.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/877089888d995a3cd3331054b73f9d047ef1d52778be6fe9e00ddbb9ec13c2f7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Fb26b9939d66bdb565b8b3ae452fbb808.jpg",
+   "published": "2026-11-27T15:35:50+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘The Batman: Part II’ Set Video Officially Sparks Major Character Death Theories",
+   "url": "https://collider.com/the-batman-part-2-set-video-funeral-character-death-theories/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/mcdbatm_wb060-1.jpg",
+   "published": "2026-11-27T15:35:15+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "13 Jaw-Dropping Before-And-Afters Of Celebs Who Seem To Be Aging Backward",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/13-jaw-dropping-afters-celebs-153102288.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/8d4a7ee6b5d2c5dcda50b9ebbe223f5e902dfd5364323b4ec84c8d556ffcd4cd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2Fa116c2db62144c5b44047c554680b920.jpg",
+   "published": "2026-11-27T15:31:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Former Buzzcocks Drummer Phil Barker Dead at 65",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/former-buzzcocks-drummer-phil-barker-153013227.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/482abab07bda40dbcf38d69392eafb99b4b1dcbb4ff5ecd23c60ec27e65c92ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2Fe6e371ba09fdc62d993db54f18bfd95e.jpg",
+   "published": "2026-11-27T15:30:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "The Met Gala’s Most Iconic Hat Moments",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/met-gala-most-iconic-hat-152700376.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/34c547d0049a51aaa8da73dd1fde07708f332cc04c3926e08cb8d35c12d8fa9f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffcce_216%2Fca4063b24a3dc86d377941d53c7b4524.jpg",
+   "published": "2026-11-27T15:27:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Prince Harry & Meghan Markle ‘Daring’ Prince William To Remove Their Titles, Claims Source",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-daring-152417695.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/37d784f789e6bb8e668d92d862fcdfded29ad389584b48ed0e71cd662f8f5865/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F2cdb66eb45bf9c4c3e2fa7722393ffa2.jpg",
+   "published": "2026-11-27T15:24:17+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Dwayne Johnson Recalls Life-Changing Thanksgiving with His Mom When He Was 15: ‘Our Lives Changed’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/dwayne-johnson-recalls-life-changing-152225808.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e413198a886bd491bdc6a5095d3096f7ec71a40f47b3970e39e8d0dfb9333d6a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F9817566c501a23e119e9d1890b4b6cb7.jpg",
+   "published": "2026-11-27T15:22:25+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Prince William Once Said That This Unexpected Situation Is What “Cemented” His Love for Kate Middleton",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-once-said-unexpected-151843047.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8a1f333b57ceedd59fd992ad3d6b5d76ab5b822a815d336d4fe03168b2584f0e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F1dbaf5bf4f4815938863e9eb2393bc99.jpg",
+   "published": "2026-11-27T15:18:43+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Nathan Fillion Officially Confirms ‘Firefly’ Reboot Status",
+   "url": "https://collider.com/nathan-fillion-firefly-reboot-revival-progress-update/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/firefly-cast-nathan-fillion.jpg",
+   "published": "2026-11-27T15:07:42+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Meghan Markle Pairs Sculptural Ivory Dress With $20,000 Necklace for a Peek Inside Thanksgiving Dinner",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/meghan-markle-pairs-sculptural-ivory-150452759.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/af13718ef1817a02e0a87012dcd90158c65b8357afc7f0d1083910a52ab8fa09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F1e57f88e060306a9b9447d865c2b4af3.jpg",
+   "published": "2026-11-27T15:04:52+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Amy Poehler’s New Peacock Series Brings Back One Very Specific ‘Parks and Rec’ Tradition",
+   "url": "https://collider.com/dig-peacock-antonia-thomas-fina-strazza-geraldine-viswanathan/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/dig-antonia-thomas-fina-strazza-geraldine-viswanathan-interview.jpg",
+   "published": "2026-11-27T15:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
   {
    "title": "“Little House ”Star Patrick Labyorteaux Recalls the Time Mark Harmon Literally Gave Him the Shirt Off His Back While Filming “Prince of Bel-Air”",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/little-house-star-patrick-labyorteaux-144543114.html",
@@ -58,6 +350,19 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/f85e639ae740c3ee20447449d568daebf9ce01ec0b6373c17089148a4571a397/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fd46cce7cc95af0a1db5cfa71496423dd.jpg",
    "published": "2026-11-27T14:40:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Pamela Anderson wears the ultimate feminine neckline - and zero makeup",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/pamela-anderson-wears-ultimate-feminine-143930875.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/0629e88dcd0e9b04d770f65c0816159e044c582c1614f7ed56941505e3b81157/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Ffe05da30d3267b96033cb3660e3c76e3.jpg",
+   "published": "2026-11-27T14:39:30+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -1303,6 +1608,21 @@
    "mw": []
   },
   {
+   "title": "DWTS' Brandon Armstrong Shows Off Cut After Being Hit by Ezra's Prosthetic",
+   "url": "https://www.usmagazine.com/entertainment/news/dwts-brandon-armstrong-shows-cut-from-prosthetic-leg-mishap/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/183942_EM103126.jpg",
+   "published": "2026-11-27T09:34:35+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
+   "mw": []
+  },
+  {
    "title": "Kim Kardashian Slammed for Having 5 Nannies for 4 Kids: ‘Neglectful Mom’",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/kim-kardashian-slammed-having-5-093156284.html",
    "source": "yahoo.com",
@@ -1608,6 +1928,21 @@
    "mw": []
   },
   {
+   "title": "Kanye West and Wife Bianca Censori Are Renewing Their Wedding Vows Next Month, Relative Says",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/kanye-west-wife-bianca-censori-082115906.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f70398a7f87ecc4ab25ae574d2173eda7504f9df7a52968e6c353ffeee27db86/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fa05158d7674a8dd24277065a247ced0d.jpg",
+   "published": "2026-11-27T08:21:15+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Wedding"
+   ]
+  },
+  {
    "title": "‘True Family’: Nile Rodgers Remembers Duran Duran’s Andy Taylor",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/true-family-nile-rodgers-remembers-081110345.html",
    "source": "yahoo.com",
@@ -1682,7 +2017,7 @@
    "trending": true,
    "trend_term": "cardi b",
    "also": [],
-   "trend_score": 200,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -1785,12 +2120,10 @@
    "category": "Streaming",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2304891265Donald-Trump-Jr-Fumes-After-Netflix-Posts-Steamy-Promo-on-Thanksgiving.jpg",
    "published": "2026-11-27T06:51:58+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "yahoo.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -1969,7 +2302,7 @@
    "mw": []
   },
   {
-   "title": "Dolly Parton’s Niece Pays Homage to Late Country Star on 1st Holiday Since Her Death",
+   "title": "Dolly Parton’s Niece Pays Homage to Late Country Star on 1st Thanksgiving Since Her Death",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/dolly-parton-niece-pays-homage-053502283.html",
    "source": "profiles.yahoo.com",
    "category": "Celebrity",
@@ -2805,7 +3138,7 @@
    "mw": []
   },
   {
-   "title": "Bachelor Nation’s Cassie Randolph Is Pregnant, Expecting Baby No. 1 With Husband Brighton Reinhardt",
+   "title": "‘Bachelor’ Alum Cassie Randolph Is Pregnant, Expecting Baby No. 1 With Husband Brighton Reinhardt",
    "url": "https://www.yahoo.com/entertainment/celebrity/articles/bachelor-nation-cassie-randolph-pregnant-010201489.html",
    "source": "profiles.yahoo.com",
    "category": "TV",
@@ -11223,7 +11556,7 @@
    "published": "2026-11-25T16:13:32+00:00",
    "trending": true,
    "trend_term": "cardi b",
-   "trend_score": 200,
+   "trend_score": 0,
    "also": [],
    "mw": []
   },
@@ -11316,367 +11649,6 @@
    "mw": [
     "Split"
    ]
-  },
-  {
-   "title": "Bill Maher Makes Blunt Confession About Relationship Status & Love Life",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/bill-maher-makes-blunt-confession-155544001.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8b8445152d94eaca35727e975b9f9f17ff14835fb28709eefc4cd042c9905bbc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F48b23abf899d5d30352dbeb5eb77caf7.jpg",
-   "published": "2026-11-25T15:55:44+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "The actor who played the Fonz couldn’t easily read the scripts. He found his own way through.",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/actor-played-fonz-couldn-t-155509209.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f6624b5469c4c9ce6ef6eadf7382dd601cd60008b9a80da723fa10ddf56f4327/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fupworthy_219%2Fda4048f25d9656aa468a2e744aea7a2c.jpg_up.jpg",
-   "published": "2026-11-25T15:55:09+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "I’m Rolling My Eyes At Claims That Ezra Frech Losing His Prosthetic Won Him Dancing With The Stars",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/m-rolling-eyes-claims-ezra-155440422.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/6890e3f94d74e563d740a89938bc66872a5ee841530216de747001ba9142f8b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F50fd4900b4aca1b6f209d4b59816b9d2.jpg",
-   "published": "2026-11-25T15:54:40+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "A New Azzedine Alaïa Retrospective Goes Beyond the Bandage Dress",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/azzedine-ala-retrospective-goes-beyond-155402316.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/bd5ceb276a6ef0da20f7b83454105279c8b03894f8d32393613d59e5ee81f9f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2F71688e33a24b3bce86bca302a4b772aa.jpg",
-   "published": "2026-11-25T15:54:02+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Pregnant Jen Affleck Shares Hospital Pic, Thought Baby Was Coming Early",
-   "url": "https://www.usmagazine.com/celebrity-moms/news/jen-affleck-shares-hospital-pic-amid-early-labor-concerns/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Jen-Affleck-IG.jpg?crop=0px%2C848px%2C1080px%2C609px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-25T15:51:44+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "A Deep Dive Into Bono’s Wife Ali Hewson & Their Family",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/deep-dive-bono-wife-ali-154616858.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ce5664a4508bb7a10e5007813641f3b161090722233c4f56df3883f6d50d53ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2F37bae60c74111531cf4bc8a27497825f.jpg",
-   "published": "2026-11-25T15:46:16+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Geico unites brand icons in holiday ad mixing human craft, nostalgia",
-   "url": "https://www.yahoo.com/entertainment/articles/geico-unites-brand-icons-holiday-154600811.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ccda8e72756c7415c6ab1919d4d082f3c4e87dddde33db6e17cd72a5d22b7670/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketing_dive_116%2F4f7a1744ea560e25ecdd5673c5344b77",
-   "published": "2026-11-25T15:46:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Meghan Markle's unexpected holiday plans revealed after turbulent time",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markles-unexpected-holiday-plans-154556149.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9ac71bcbb1a1b26d791e139240b8689437d7cac06d84294d35473271c5a77727/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F8a5c8909508f39c9ab212d5efe259207.jpg",
-   "published": "2026-11-25T15:45:56+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Noah Beck's Sister Accused of Grooming and Sexual Misconduct by 2nd Student",
-   "url": "https://www.usmagazine.com/celebrity-news/news/noah-becks-sister-haley-accused-of-grooming-and-sexual-misconduct-by-2nd-student-seeking-7-million/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Noah-Beck-Sister-Haley-Accused-of-Grooming-and-Sexual-Misconduct-by-2nd-Student.jpg?crop=0px%2C253px%2C1440px%2C814px&resize=1000%2C563&quality=40&strip=all",
-   "published": "2026-11-25T15:45:03+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Caitlin Clark stuns in $998 designer dress at Fever teammate Lexie Hull’s wedding",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/caitlin-clark-stuns-998-designer-154500398.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/b4446c28a5e10e881c8abb3e46025609b454db79e2815fa3aac883ea39341d8b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhitc_articles_832%2Fb77a340675c8b64479fccc6970e85a11.jpg",
-   "published": "2026-11-25T15:45:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Wedding"
-   ]
-  },
-  {
-   "title": "Celebrities at the Ferragamo’s Rodeo Drive Dinner",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/celebrities-ferragamo-rodeo-drive-dinner-154438806.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/4bb06411ae9b6940c707bc26a0061801740027bf38768c58b43d94b6986958d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fred_carpet_fashion_awards_237%2Ff7982977ab5883fc18469274bb69c744.jpg_up.jpg",
-   "published": "2026-11-25T15:44:38+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘Hunger Games’ Producer Admits ‘Mockingjay’ Should Have Been One Movie",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/hunger-games-producer-admits-mockingjay-154348187.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/976f7394ff660486a764b35890f761b88d7a668a6e0e3cfccc81f6fa36b39e16/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Ffbefb56c6b6b0f6dc7405087771b5cc1.jpg",
-   "published": "2026-11-25T15:43:48+00:00",
-   "trending": true,
-   "trend_term": "mockingjay part 1",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Candace Cameron Bure Addresses Distance From Mary-Kate and Ashley Olsen",
-   "url": "https://www.usmagazine.com/entertainment/news/candace-cameron-bure-explains-mary-kate-ashley-olsen-distance/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2025/06/ashleymarykate.jpg",
-   "published": "2026-11-25T15:37:41+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "How Dolly Parton spared family 'pain' amid health battle",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/dolly-parton-spared-family-pain-153733488.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3db1a1fff2db69f50225d00e2596ad7e29af06443ce5c8d29132c39b1d5d3a82/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F062c5ca137c8803be8be155d312342c8.jpg",
-   "published": "2026-11-25T15:37:33+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Vanity Fair's Taylor Swift article, explained: The Regina George comparison, Ugg boots and Easter eggs",
-   "url": "https://www.yahoo.com/entertainment/celebrity/article/vanity-fairs-taylor-swift-article-explained-the-regina-george-comparison-ugg-boots-and-easter-eggs-225217887.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e1188e40f26b52eabfe87150b0bf4ac45c3278ceca6598253a54bd4a4572078a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-taylor-swift-article_1759.jpg",
-   "published": "2026-11-25T15:33:21+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Katy Perry and Justin Trudeau’s Airport Style Is Exactly What You’d Expect it to Be",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/katy-perry-justin-trudeau-airport-153020012.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/245384dd1cbe8485e0a1e670b6038cd29623407fd581e2e6d2df46f8ef0fb60a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2Fec3e9c4b0b9f816b5994c05825b1a71d.jpg",
-   "published": "2026-11-25T15:30:20+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘Abbott Elementary’ Officially Won’t Return in 2026",
-   "url": "https://collider.com/abbott-elementary-season-6-january-2027-return/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/abbott-elementary-season-6-poster-1.jpeg",
-   "published": "2026-11-25T15:30:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "'The X-Files' Meets 'ALF' in Netflix's Forgotten 44-Episode Sci-Fi Series",
-   "url": "https://collider.com/resident-alien-x-files-meets-alf-sci-fi-series/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/a-scene-from-resident-alien-1.jpg",
-   "published": "2026-11-25T15:24:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jimmy Kimmel Shares the One Guest Whose Presence Was ‘Like a Religious Experience’: ‘I Get It Now’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jimmy-kimmel-shares-one-guest-152142082.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/6772e3aebd60cf2dba715192a040d0ec10f0a245f77699205197bdad3559ff51/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb0579647074925ee4f117a08b4fd0196.jpg",
-   "published": "2026-11-25T15:21:42+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Miley Cyrus to Accept CNN Heroes Legacy Award to Dolly Parton",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/miley-cyrus-accept-cnn-heroes-151945938.html",
-   "source": "yahoo.com",
-   "category": "Awards",
-   "image": "https://s.yimg.com/lo/mysterio/api/398363070a9ba0071c27e2ba5ec315fe182006f402484d59c415fdcc7079b443/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fbcdfaec45cef8edd118ff021a6e9461e.jpg_up.jpg",
-   "published": "2026-11-25T15:19:45+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
-   "title": "Pittsburgh Steelers Announce Dramatic Aaron Rodgers News Amid Struggles",
-   "url": "https://www.usmagazine.com/sports/news/steelers-announce-aaron-rodgers-benching-amid-struggles/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2301947902.jpg-aaron-rodgers.jpg?crop=0px%2C41px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
-   "published": "2026-11-25T15:13:09+00:00",
-   "trending": true,
-   "trend_term": "jj watt",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Queen kicks off historic four-day Colombia visit with major royal milestone",
-   "url": "https://jang.com.pk/en/76871-queen-kicks-off-historic-four-day-colombia-visit-with-major-royal-milestone-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-25/76871_081146_eng.jpg",
-   "published": "2026-11-25T20:11:59+05:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Big move"
-   ]
-  },
-  {
-   "title": "47 Years Later, David Boreanaz’s ‘Rockford Files’ Reboot Officially Replaces Key Character",
-   "url": "https://collider.com/david-boreanaz-rockford-files-brandon-t-jackson-angel/",
-   "source": "collider.com",
-   "category": "TV",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/jim-rockford-david-boreanaz-walking-beside-car-wearing-sunglasses-the-rockford-files.jpg",
-   "published": "2026-11-25T15:00:12+00:00",
-   "trending": true,
-   "trend_term": "rockford files reboot",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "How Nara Smith Crafted Her Style From Scratch",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/nara-smith-crafted-her-style-150000763.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/2b5b9a70785326216302da93af0a8c8555ad3f80029b8492190a9f4b2d05b635/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fharper_s_bazaar_391%2Fd8103ad124ecfd42eea9d0d60fd306ba.jpg",
-   "published": "2026-11-25T15:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jenn Tran Tells Sam Hartman ‘Good Luck’ as Next “Bachelor” Star: ‘You Are in for a Roller Coaster’ (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/jenn-tran-tells-sam-hartman-150000804.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/a7de1e1e22115fccdeda46a7a499e0e364b7290339622f660c56528768baae56/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F2c3be64e4ef05b505c3ac7590ea50241.jpg",
-   "published": "2026-11-25T15:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "'Dancing With the Stars' crowns mirror ball winner: Finale recap and latest updates",
-   "url": "https://www.yahoo.com/entertainment/tv/live/dancing-with-the-stars-crowns-mirror-ball-winner-finale-recap-and-latest-updates-044656350.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/0f87ef7ec8b2254e5bcdc2e3499a56a09ab98d4ae77dd93908efe800853de1d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-dwts_5810.jpg",
-   "published": "2026-11-25T14:58:36+00:00",
-   "trending": true,
-   "trend_term": "mirror",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "All the Details Behind Lara Raj's 21st Birthday Makeup",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/details-behind-lara-rajs-21st-145412732.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/1a3206d8323c3701cf8465d5e2fea2b0dba4adf0801ba3ea812e74c200dc93f0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fteen_vogue_128%2F60e629f7bdd20a949250863aa461db60.jpg",
-   "published": "2026-11-25T14:54:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
   }
  ]
 }
