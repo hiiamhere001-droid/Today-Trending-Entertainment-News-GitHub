@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T01:34:35.246523+00:00",
+ "generated_at": "2026-11-27T01:36:48.454237+00:00",
  "date_us": "2026-11-26",
  "per_site": {
   "usmagazine.com": 15,
@@ -10,6 +10,19 @@
   "collider.com": 8
  },
  "items": [
+  {
+   "title": "Melissa Gilbert Gives Thanks To Those Who “Spoke Up, Testified” In Support Of Husband Timothy Busfield",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/melissa-gilbert-gives-thanks-those-013236954.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5b41935d51d80858248477c3d75ba0e1343580272e1d3b37ccbb801fea6a9d11/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F6f424f4e535c0de7a764a836278c81a3.jpg",
+   "published": "2026-11-27T01:32:36+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
   {
    "title": "'Outlander's 2-Part Spin-Off Officially Returns for Season Finale in 1 Day",
    "url": "https://collider.com/outlander-blood-of-my-blood-season-2-finale-release-date-november-2026/",
@@ -1593,12 +1606,10 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Gisele-Bundchen-Shares-Rare-Glimpse-at-3-Kids-Husband-While-Celebrating-Goodness-on-Thanksgiving-Family.jpg",
    "published": "2026-11-26T19:26:12+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "yahoo.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -11932,19 +11943,6 @@
    "published": "2026-11-25T01:38:08+00:00",
    "trending": false,
    "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jack Nicholson’s Son Ray Shares the Surprising Story Behind His Famous Father’s Hollywood Break",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jack-nicholson-son-ray-shares-013551543.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/77d211145ff89387ae08aacce1eeadfe043dfc679f5a506938c3bf2184ebe9b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2Faab0e412cc52c87baa20d26d19f0912e.jpg",
-   "published": "2026-11-25T01:35:51+00:00",
-   "trending": true,
-   "trend_term": "father",
    "trend_score": 0,
    "also": [],
    "mw": []
