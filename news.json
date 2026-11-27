@@ -1,15 +1,277 @@
 {
- "generated_at": "2026-11-27T08:59:47.909859+00:00",
+ "generated_at": "2026-11-27T10:02:41.509400+00:00",
  "date_us": "2026-11-27",
  "per_site": {
-  "usmagazine.com": 12,
+  "usmagazine.com": 13,
   "news.meaww.com": 5,
-  "profiles.yahoo.com": 5,
-  "yahoo.com": 29,
+  "profiles.yahoo.com": 6,
+  "yahoo.com": 28,
   "jang.com.pk": 6,
   "collider.com": 10
  },
  "items": [
+  {
+   "title": "Milla Jovovich’s Sci-Fi Cult Classic Officially Leaves Netflix in 4 Days",
+   "url": "https://collider.com/milla-jovovich-resident-evil-retribution-leaving-netflix-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/06/resident-evil-retribution_vprudm-1.jpg",
+   "published": "2026-11-27T10:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Kate Middleton expresses delight as she announces new role in surprise update",
+   "url": "https://jang.com.pk/en/76944-kate-middleton-expresses-delight-as-she-announces-new-role-in-surprise-update-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-27/76944_023952_eng.jpg",
+   "published": "2026-11-27T14:40:00+05:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Emily Wilson, a Translator of Twists and Turns",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/emily-wilson-translator-twists-turns-093616579.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/5aa460bb1efdc2af6d8a5da0217e2da6792c14f2834bbf40861594fddc4da30c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_bulwark_articles_507%2Fdde5174d30060a9116585eccb0833217.jpg",
+   "published": "2026-11-27T09:36:16+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Kim Kardashian Slammed for Having 5 Nannies for 4 Kids: ‘Neglectful Mom’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/kim-kardashian-slammed-having-5-093156284.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9060ea84f62d8a232621967bd460a758ae8f2c3e951d454160608dc3ea509903/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2Fc6906b0adca2c3754c28b26dfff0ef7c.jpg",
+   "published": "2026-11-27T09:31:56+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Robert Downey Jr.’s Doctor Doom Officially Returns for New Marvel Release",
+   "url": "https://collider.com/avengers-doomsday-doctor-doom-citizen-limited-edition-watch/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/screenshot-2026-11-24-at-12-58-47.png",
+   "published": "2026-11-27T09:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Prince Harry Reportedly Has Jeff Bezos Playing A ‘Key Role’ In His Return To Royal Fold But Must Avoid Antagonizing Royal Family",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-reportedly-jeff-bezos-093000912.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f754d197dd8d73e9a69141a9801d173ffb3d292d5e4a2e54c69e48e04eb5e309/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F42b5fa3ee35902a701e6775078cb2eda.jpg",
+   "published": "2026-11-27T09:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Dua Lipa’s Stringy Lace Dress Gets an Almost $40K Bulgari Upgrade",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/dua-lipa-stringy-lace-dress-092519890.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/2a97e153a8b76ebb7ef81705f75b3ef1b705e9e10d5ac5a4486403c2e8389697/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2F9e272f58c4bf724ed80194828c5422c1.jpg",
+   "published": "2026-11-27T09:25:19+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "RECLab 2026: New Films From ‘Alcarràs,’ ‘Romería’ Producers Bound for a Key New Spanish Talent Forum",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/reclab-2026-films-alcarr-romer-092015392.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/9024b63b33726871d1dc3ce2fcfe68962f5d6785b6a295a572c49908954f36ed/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F58182a33fd6a6e86f6c5ca6548a4abba.jpg",
+   "published": "2026-11-27T09:20:15+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘High Fidelity’ Director Stephen Frears Still Teases Jack Black: ‘I Told Him, You Owe All This to Me!’",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/high-fidelity-director-stephen-frears-092000777.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/97d6421efcd7929f331e75dfa40694be60286c545985f3bc8062989c2afe82a7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fdd00c3e0202c8fea3c2fee958a003dc1.jpg_up.jpg",
+   "published": "2026-11-27T09:20:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Kate Middleton Gets Hands-On With Charcoal Art During Scotland Visit",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middleton-gets-hands-charcoal-091940684.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/28a11e6431ede63c7d81445dd46a498a5618f90f35b7d98be7eb2ffbddf9fc9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F0e473f5bd14870e72f49c18ef35415c8.jpg",
+   "published": "2026-11-27T09:19:40+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Meghan Markle Offers a Peek at First Thanksgiving Since UK Return",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-offers-peek-first-091931559.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4248321ca44384edba26407f194abf5ca58cedeebd41e281f8cd212a12408e39/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F12feaf6ae89a458ba49582fc7e21bbce.jpg",
+   "published": "2026-11-27T09:19:31+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Florence Pugh & Sarah Paulson Make Thanksgiving a Day of Service",
+   "url": "https://www.yahoo.com/entertainment/articles/florence-pugh-sarah-paulson-thanksgiving-091328610.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c900b409e991767cb5f4f83c61cfcb385afa52ebbe39bd1e6354833722f89f3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F772499bdd2ad1ceea1f51f655b8dbbcb.jpg",
+   "published": "2026-11-27T09:13:28+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Melania Trump Serves Thanksgiving Chic in Sleeveless Dior Blazer Dress",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/melania-trump-serves-thanksgiving-chic-091317690.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/214b56449df24d281c9f011c18bda81a577f01aa195ec323dcd266bba2f5da44/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F1627a00804eb56a057ec9e0fc88b546e.jpg",
+   "published": "2026-11-27T09:13:17+00:00",
+   "trending": true,
+   "trend_term": "white",
+   "also": [],
+   "trend_score": 1000,
+   "mw": []
+  },
+  {
+   "title": "Charles Spencer's wife breaks silence on British citizenship months after wedding",
+   "url": "https://jang.com.pk/en/76943-charles-spencers-wife-breaks-silence-on-british-citizenship-months-after-wedding-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-27/76943_021204_eng.jpg",
+   "published": "2026-11-27T14:10:21+05:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Wedding"
+   ]
+  },
+  {
+   "title": "Mike Leigh Reminds The World Why He Doesn’t Work With Hollywood Stars",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/mike-leigh-reminds-world-why-091001776.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/15ceba3fba6db26a23709c3eeed2d641fd1926f28747693fdd226bbfe4198a0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F69e79b4addf119bf9844fddc766c4c6f.jpg",
+   "published": "2026-11-27T09:10:01+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Melania Trump Serves Thanksgiving Chic in Sleeveless Dior Blazer Dress",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/melania-trump-serves-thanksgiving-chic-090849178.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/caadef2905abb8b4ffaf26408e2496b2fe00c6747528c75562767b9265449a40/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2F9be305c89c7b0c1f95c187e6c60cc4f7.jpg",
+   "published": "2026-11-27T09:08:49+00:00",
+   "trending": true,
+   "trend_term": "white",
+   "also": [],
+   "trend_score": 1000,
+   "mw": []
+  },
+  {
+   "title": "Prince Harry & Meghan Markle Could Soon Have This ‘Bond’ Star as Neighbor — Source",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-meghan-markle-could-090804297.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/b59826f0b0bcaea5cb05ca8d064ff3be9ed0d569e5aa952654e7bf6c77bf530c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fec360929ae3efe448e45876461bf527c.jpg",
+   "published": "2026-11-27T09:08:04+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Royal Photographer Points To Bigger Purpose Behind Prince Harry’s UK Return",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/royal-photographer-points-bigger-purpose-090318333.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/1ec2d38666acef14d63258d9fe8ac4718e967e05a432e37f08d697ac88e4c06e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F49655131eefa39b2fa086637a2004b56.jpg",
+   "published": "2026-11-27T09:03:18+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Prince Harry’s Potential US Trip Could Offer a ‘Welcome Distraction’ — Source",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-potential-us-trip-090212574.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4ebf5a847e381f3f442f7c1362c518473f9fa00f6efa0bb3626f043eea8bcaf4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F8fd8900e52d6fb64229e932b64293778.jpg",
+   "published": "2026-11-27T09:02:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘Fallout’ Officially Returns With Massive New Release Ahead of Season 3",
+   "url": "https://collider.com/fallout-gunnar-vault-33-brotherhood-of-steel-lucky-38-collection/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/fallout-season-3-walton-goggins.jpg",
+   "published": "2026-11-27T09:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
   {
    "title": "John Farnham’s Family Gives Rare Update on Legendary Singer’s Health",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/john-farnham-family-gives-rare-084322325.html",
@@ -840,6 +1102,21 @@
    "mw": []
   },
   {
+   "title": "Taylor Swift Seemingly Skips Chiefs' Thanksgiving Day Game Against Bills",
+   "url": "https://www.usmagazine.com/sports/news/is-taylor-swift-at-the-chiefs-bills-thanksgiving-day-game/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-1951168229.jpg-taylor-swift-buffalo-.jpg?crop=707px%2C170px%2C1049px%2C592px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-27T02:53:55+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
+   "mw": []
+  },
+  {
    "title": "Miami Art Week 2026: The Whom You Know List, Part 2 — Cultural Capital",
    "url": "https://www.yahoo.com/entertainment/articles/miami-art-week-2026-whom-025001486.html",
    "source": "yahoo.com",
@@ -879,6 +1156,19 @@
    "mw": []
   },
   {
+   "title": "Melissa Gilbert Says She’s ‘Grateful’ for Those Who Stood by Her Amid Timothy Busfield Allegations",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/melissa-gilbert-says-she-grateful-023509778.html",
+   "source": "profiles.yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/2c7a93dad01d8faf709c4fb03b2fb4743c0b8d6e6063febae5938f58008e7689/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F0636290b37d600a972839904a67f70ae.jpg",
+   "published": "2026-11-27T02:35:09+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "Julianne Hough’s Stylist Addresses Fan Backlash To Her ‘Dancing With the Stars’ Wardrobe This Season",
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/julianne-hough-stylist-addresses-fan-023452972.html",
    "source": "yahoo.com",
@@ -905,6 +1195,21 @@
    "mw": [
     "Wedding"
    ]
+  },
+  {
+   "title": "Southern Charm’s Austen Kroll and Allie Newman’s Relationship: What to Know",
+   "url": "https://www.usmagazine.com/entertainment/news/southern-charms-austen-kroll-and-allie-newmans-relationship/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Inside-Southern-Charm-Austen-Kroll-and-Allie-Newmans-Relationship-NUP_210350_01512.jpg",
+   "published": "2026-11-27T02:30:43+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
+   "mw": []
   },
   {
    "title": "Jen Affleck reunites with estranged husband Zac for Thanksgiving with their kids — weeks after filing for divorce",
@@ -1076,10 +1381,12 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/5b41935d51d80858248477c3d75ba0e1343580272e1d3b37ccbb801fea6a9d11/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F6f424f4e535c0de7a764a836278c81a3.jpg",
    "published": "2026-11-27T01:32:36+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "usmagazine.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -3367,10 +3674,10 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/5a437c00258e67bb3e7674e052cba3e23c7ebdb7c222482837c00e4847d7228b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F1845ce9d95edc87fa09279471a17da5a.jpg",
    "published": "2026-11-26T17:15:00+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "white",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 1000,
    "mw": []
   },
   {
@@ -4365,12 +4672,10 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-26/76917_070956_eng.jpg",
    "published": "2026-11-26T19:10:44+05:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "usmagazine.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": [
     "Big move"
    ]
@@ -9659,7 +9964,7 @@
    "published": "2026-11-25T16:08:52+00:00",
    "trending": true,
    "trend_term": "justin bieber · covered by 2 sites",
-   "trend_score": 2200,
+   "trend_score": 2000,
    "also": [
     "yahoo.com"
    ],
@@ -11123,7 +11428,7 @@
    "published": "2026-11-25T11:17:53+00:00",
    "trending": true,
    "trend_term": "justin bieber",
-   "trend_score": 200,
+   "trend_score": 0,
    "also": [],
    "mw": []
   },
@@ -11345,218 +11650,6 @@
     "Wedding",
     "Sudden"
    ]
-  },
-  {
-   "title": "Disney Officially Brings Back Captain Jack Sparrow for New ‘Pirates of the Caribbean’ in 2027",
-   "url": "https://collider.com/pirates-of-the-caribbean-captain-jack-sparrow-disney-immersive-adventure-2027/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/copy-of-collider-template-2026-11-24t135524-615.jpg",
-   "published": "2026-11-25T10:01:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Your guide to the D.C. area's holiday concerts, light displays and family fun",
-   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/guide-d-c-areas-holiday-100000354.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/0566bf18ae5d698734c9cdc1e3a43d45c966cb497ce1f58b8a0ab47097c17aad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwashington_post_entertainment_articles_637%2F2315184fcaa6468e33c8771937f793fb.jpg",
-   "published": "2026-11-25T10:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Your favorite holiday events left the Kennedy Center. Here's where they are now.",
-   "url": "https://www.yahoo.com/entertainment/music/festivals/articles/favorite-holiday-events-left-kennedy-100000722.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/18b98a0c5cf9c5db8c29b2e0bab3114dfc6fbf1926452bdea6804e588e58407e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwashington_post_entertainment_articles_637%2Fdaf68f7265c365cb466763ef64a9d2e9.jpg",
-   "published": "2026-11-25T10:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "9 Celebrity Couples Who Met on Blind Dates",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/9-celebrity-couples-met-blind-100000917.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/97f156308227e3c0eaa184bdb0d0bda6a2f85ba32a902b8b558ad349eb89f3ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fe6cd832743778d664932dc8588fe299d.jpg",
-   "published": "2026-11-25T10:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "29 Trivia Nuggets From Pop Culture History About TV For Wednesday, November 25th",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/29-trivia-nuggets-pop-culture-100000722.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/c61bc5d55ce6e58b74edfd1b4fa9309d13deae2652ffd30b81c793468c66af1d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcracked_901%2F39f3b6b2f18d77753f39f1676d067b82.jpg",
-   "published": "2026-11-25T10:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Connor Wood Joked About ‘Villain’ Status Before ‘DWTS’ Finale: ‘They Think I Voted Their Favorite Off’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/connor-wood-joked-villain-status-095045322.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3eb6917647a2f5a86cacd54b4247c3b2a7e5a3d6a7002cdc5a1191d6e1b36705/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fd749716f1dd3d73cc3312c16984ac982.jpg",
-   "published": "2026-11-25T09:50:45+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Travis Barker Says Phil Collins Suggested They ‘Do Something Together’ Following Rock Hall Induction Ceremony",
-   "url": "https://www.yahoo.com/entertainment/music/articles/travis-barker-says-phil-collins-094832098.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/7a1078fbec18afee698468ebcbe7256c99789c01a11d724ab173aa98472c08fb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F5e31d5ae8bd9055030929e644208ccef.jpg",
-   "published": "2026-11-25T09:48:32+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Ashutosh Gowariker Wants IFFI Goa to Be a First-Stop Festival for Filmmakers, Rules Out ‘Lagaan’ Sequel",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/ashutosh-gowariker-wants-iffi-goa-094610698.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/256ce8a72cf0e2ec330eb7a2b3b9d85fedfdf3226736b34447f7c51244692ba0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F4d33e19845b27aaee307d8df6c50ced7.jpg_up.jpg",
-   "published": "2026-11-25T09:46:10+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Meghan Markle ‘Desperately Wishes’ for One Thing Amid Father’s Controversy — Source",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-desperately-wishes-one-093427278.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/c43636838a8a387276c5dfc4b5f8c21222b3fd3e94e432cb058f7babd08dcdd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F6c3fd285b7859dc8dfd97af51664da72.jpg",
-   "published": "2026-11-25T09:34:27+00:00",
-   "trending": true,
-   "trend_term": "father",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Travis Barker Brings Wife Kourtney Kardashian & Son Along for Late-Night TV Appearance",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/travis-barker-brings-wife-kourtney-093424149.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/0c318c738eaa4d51a3dacff45fe57fef1ec1c762fc8255c710dc802e5b821808/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F09c1f46c54fce3ad3b407f1a77408e0a.jpg",
-   "published": "2026-11-25T09:34:24+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "usmagazine.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Miley Cyrus’ Dad Billy Didn’t Need Words To Describe Her ‘Beautiful’ Wedding",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/miley-cyrus-dad-billy-didn-093235884.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/3d3b00aa3033a32e5db072317d71b8c5fa2d831045b8a1d6034d05d31d5b880d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F77b301ac0efa667e360dea02c5a24c2d.jpg",
-   "published": "2026-11-25T09:32:35+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Wedding"
-   ]
-  },
-  {
-   "title": "Stop telling us what we already know about Taylor Swift | Opinion",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/stop-telling-us-already-know-093126875.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f64eb1796fdb3436a16f067a4eb2642f932f5dc4302801862a8335222e16f62e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_opinion_532%2F2da1af0d1baa535d17bea9ca28cb57bf.jpg",
-   "published": "2026-11-25T09:31:26+00:00",
-   "trending": true,
-   "trend_term": "regina george",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Meghan Markle ‘Desperately Wishes’ for One Thing Amid Father’s Controversy — Source",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-desperately-wishes-one-093125054.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/07849dfffbfd30faeed426b785c60033bc5ad6a87600c423744da5cdc7701ee2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fb55ba3a206994b16b710cdfe2e19eaac.jpg",
-   "published": "2026-11-25T09:31:25+00:00",
-   "trending": true,
-   "trend_term": "father",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Prince William’s Alleged Royal Title Plan Could Be Designed To Protect His Heir — Author",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-william-alleged-royal-title-092456992.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/49f968754a811c621cc04f9a0e1ef7484980ee7582d27be2a52c86fd9524e83a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F9caead6b6ff342edb7359255d3adf9a5.jpg",
-   "published": "2026-11-25T09:24:56+00:00",
-   "trending": true,
-   "trend_term": "prince",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Taylor Swift Goes Heavy on Checks in $1K Burberry Micro Miniskirt for Fall",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/taylor-swift-goes-heavy-checks-090702351.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/66b5c64c241b636312f451da739034a841c88f8749ea65832184c3e7cdbdc725/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2Fc8e2a8d5c208a2ba8c158eb2ce3a6140.jpg",
-   "published": "2026-11-25T09:07:02+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Patrick Stewart Was ‘Struggling With His Health’ on ‘Avengers: Doomsday’ Set, Tribute Planned",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/patrick-stewart-struggling-health-avengers-090115145.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/5d47f72ef358f2eed04aadd5c216eadf9d2193e6612aef1e6dbc14b30c10f71c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F116465ff04464ae93c345825d348c8e9.jpg",
-   "published": "2026-11-25T09:01:15+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
   }
  ]
 }
