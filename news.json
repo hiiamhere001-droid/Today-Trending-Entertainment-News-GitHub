@@ -1,15 +1,167 @@
 {
- "generated_at": "2026-11-27T05:01:39.968507+00:00",
+ "generated_at": "2026-11-27T06:00:43.679940+00:00",
  "date_us": "2026-11-27",
  "per_site": {
   "usmagazine.com": 13,
-  "news.meaww.com": 1,
+  "news.meaww.com": 3,
   "profiles.yahoo.com": 5,
-  "yahoo.com": 29,
+  "yahoo.com": 27,
   "jang.com.pk": 8,
   "collider.com": 10
  },
  "items": [
+  {
+   "title": "Taylor Swift’s guitar teacher defends hit piece writer, says positive comments ‘died in editing room’",
+   "url": "https://news.meaww.com/taylor-swifts-guitar-teacher-defends-hit-piece-writer-says-positive-comments-died-in-editing-room",
+   "source": "news.meaww.com",
+   "category": "Celebrity",
+   "image": "https://media.pubninja.com/articles/brand-5/covers/1795752319013_52db0bed1739.jpg",
+   "published": "2026-11-27T05:57:40+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "The Perfect ‘Hunger Games’ Cast if the Movie Were Made in 2026",
+   "url": "https://collider.com/hunger-games-cast-made-today-2026/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/11/the-hunger-games-jennifer-lawrence.jpg",
+   "published": "2026-11-27T05:52:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Kate Middleton's Best Shoe Moments in 2026, So Far [PHOTOS]",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kate-middletons-best-shoe-moments-053040714.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/7f890214400e6669a9e758d4b26e3884d7055324f9b99f13e7d0470b5eabca96/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffootwear_news_642%2Fd15d1926c16d9f8ada58ff3ee7b39a29.jpg",
+   "published": "2026-11-27T05:30:40+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Ridley Scott’s 116-Minute Sci-Fi Masterpiece 'Alien' Is the Perfect Watch Before It’s Cut From Netflix",
+   "url": "https://collider.com/ridley-scott-alien-cut-from-netflix/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/08/alien-lambert-deaths-xenomorph-2-copy.jpg",
+   "published": "2026-11-27T05:28:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Obsessed Fan Beaten to Death After Breaking Into YouTuber’s Home",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/obsessed-fan-beaten-death-breaking-052629700.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/29f0964e64568171fc2875c4fb086a180950092ac49e522f11ca622019e01df7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F411d1bcde6bfefb24e298918a366cc13.jpg",
+   "published": "2026-11-27T05:26:29+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death",
+    "Sudden"
+   ]
+  },
+  {
+   "title": "Jennifer Lopez’s Kids Leaving for College Helped Her Set Priorities Straight",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennifer-lopez-kids-leaving-college-052252275.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9d5c20d1e5097533bdea3c4357d54685b9111bb488ab3b27ffe5559a758b13ee/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F153ff8f8e3d2dc168333b88146e8e802.jpg",
+   "published": "2026-11-27T05:22:52+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Big move"
+   ]
+  },
+  {
+   "title": "Jennifer Lopez’s Kids Leaving for College Helped Her Set Priorities Straight",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennifer-lopez-kids-leaving-college-052218173.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/97af8b1fafb107dc29fe94bf0291eaeeb5a259b9105f635f7c24b5121da1c11b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmomtastic_536%2F675d806d36e5983db672918eacdb1873.jpg",
+   "published": "2026-11-27T05:22:18+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Big move"
+   ]
+  },
+  {
+   "title": "Kanye West And Bianca Censori’s Reported Vow Renewal Comes After Years Of Relationship Speculation",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/kanye-west-bianca-censori-reported-051000561.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8a7896d70797c89046ce2cfa128a6b9667a8d2bea7d343f4bc9031ff3f6aaaf7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fa9f24d17b8e355806b1f129abb33a284.jpg",
+   "published": "2026-11-27T05:10:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "7 Masterpiece Christmas Books Better Than ‘A Christmas Carol’",
+   "url": "https://collider.com/books-better-than-a-christmas-carol/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/a-christmas-carol.jpg",
+   "published": "2026-11-27T05:07:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Khloé Kardashian Reveals What Travis Barker Told Her About Kourtney’s Distance From Family: ‘I Am Not the Reason’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/khlo-kardashian-reveals-travis-barker-050401759.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/baef4264c0741f44364ac7dfebeb654ae260a3c653a45532278f2cf69b2cde65/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2F887e997f91410fd5eeb250ef59469403.jpg",
+   "published": "2026-11-27T05:04:01+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Fashion Awards 2026: Yohji Yamamoto, Sandra Choi Among Honorees, Ncuti Gatwa to Host",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/fashion-awards-2026-yohji-yamamoto-050100648.html",
+   "source": "yahoo.com",
+   "category": "Awards",
+   "image": "https://s.yimg.com/lo/mysterio/api/a92c2a9e6bc2cc2d93f4275778b8b5ece19c9179aebed12bcd90ced8999ca765/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F3c5d5e05475037c0ea951330a6a5a734.jpg",
+   "published": "2026-11-27T05:01:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
   {
    "title": "33 Years Later, the Coldest Quote in Action Thriller History Still Hits Hard",
    "url": "https://collider.com/the-fugitive-best-quote-action-thriller-still-hits-2026/",
@@ -22,6 +174,21 @@
    "also": [],
    "trend_score": 0,
    "mw": []
+  },
+  {
+   "title": "Celebrity deaths in 2026: Remembering the famous people we lost this year",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/celebrity-deaths-2026-remembering-famous-182709219.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/8c2ae679ebf6cb55a5779e69b7f61c64f8c6c58335602c9572f2757ee5a9ce84/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F7bbf89274a2d54d5e7168f890ddca44d.jpg",
+   "published": "2026-11-27T04:39:54+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
   },
   {
    "title": "Prince Harry And Meghan Cause ‘Extraordinary’ Shift As They Launch Rival Media Operation That Could Steal The Royals’ Spotlight",
@@ -382,6 +549,19 @@
    "mw": []
   },
   {
+   "title": "RJ Mitte's Family Shares Heartfelt Tributes on Their First Thanksgiving Without Him",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/rj-mittes-family-shares-heartfelt-020529489.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/de20f39f66efcc95e6721d36b27e17eebc317062a16f35172caa08527439f775/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2Fbe410cbb5bebeae121e3ca62a4e54e95.jpg",
+   "published": "2026-11-27T02:05:29+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "‘The Floor’ Introduces New Twist & Brings Back Former Player",
    "url": "https://www.yahoo.com/entertainment/tv/articles/floor-introduces-twist-brings-back-020039177.html",
    "source": "yahoo.com",
@@ -641,10 +821,10 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/100669bf4a4bc1f095806cf00582909c7cedbb4869543d489418b29f3d819d19/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcinemablend_388%2F59c8fe8eebac13675efc90d3d2fb8f5a.jpg",
    "published": "2026-11-27T00:45:00+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "andy richter",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 200,
    "mw": []
   },
   {
@@ -911,10 +1091,12 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/1518caa8bb3fd3f53d99565ada711924b9e84ad767dc5a0034a507b5d0d409d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F2be7c8f986260404b6175a12d57e6e8e.jpg",
    "published": "2026-11-26T23:26:09+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "news.meaww.com"
+   ],
+   "trend_score": 2000,
    "mw": [
     "Big move"
    ]
@@ -2071,9 +2253,9 @@
    "image": "https://s.yimg.com/lo/mysterio/api/984cd127e165af106e3e4acc07d014ad0e60d5e30e3b912a69e70ef11b35eae3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F3ccfd1073f0fd97f6ef3d41d9b8ca500.jpg",
    "published": "2026-11-26T19:30:00+00:00",
    "trending": true,
-   "trend_term": "justin timberlake",
+   "trend_term": "jessica biel",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 1000,
    "mw": [
     "Wedding"
    ]
@@ -3069,8 +3251,8 @@
    "image": "https://s.yimg.com/lo/mysterio/api/a3a69a5561961bb2202d98f11928275d39b8d6065fb40dad01f0b07386cf737b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F35b3ee12eba979202ea1c3cdd9a49ee7.jpg",
    "published": "2026-11-26T16:30:00+00:00",
    "trending": true,
-   "trend_term": "justin timberlake",
-   "trend_score": 0,
+   "trend_term": "jessica biel",
+   "trend_score": 1000,
    "also": [],
    "mw": []
   },
@@ -3463,12 +3645,10 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-73198007-hulk-hogan-brooke-hogan.jpg?crop=0px%2C186px%2C1200px%2C678px&resize=1000%2C563&quality=40&strip=all",
    "published": "2026-11-26T14:55:59+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "yahoo.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -3965,7 +4145,7 @@
    "published": "2026-11-26T13:00:00+00:00",
    "trending": true,
    "trend_term": "omaha basketball",
-   "trend_score": 200,
+   "trend_score": 0,
    "also": [],
    "mw": []
   },
@@ -6368,7 +6548,7 @@
    "published": "2026-11-26T00:30:00+00:00",
    "trending": true,
    "trend_term": "omaha basketball",
-   "trend_score": 200,
+   "trend_score": 0,
    "also": [],
    "mw": []
   },
@@ -11349,213 +11529,6 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/0dc7a3ed984fddfc6ff8c4236c5994b28cbb0e006937959b6d2c2bd1dc4af1c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2F8d4013b5fdeb86980383fabe41594a68.jpg",
    "published": "2026-11-25T06:12:13+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jennifer Lopez Gives Fur-Trimmed Marine Serre Dress a Sheer Twist in NYC",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jennifer-lopez-gives-fur-trimmed-055235139.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/06dd69a2451c30cc04c8b9282d5c9cf8bf2ddf463fc6c8db1aa264c578977bb1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F137990d8f75cd20e62ff6038c1def4a8.jpg",
-   "published": "2026-11-25T05:52:35+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jennifer Lopez Gives Fur-Trimmed Marine Serre Dress a Sheer Twist in NYC",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/jennifer-lopez-gives-fur-trimmed-054859715.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/2cfd98599f3d2ddc19fac9cbe1fea53625834ae57185a3e7b9215de43e139584/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2Fc6e566c5102ead8e47ee26ac6f5620fa.jpg",
-   "published": "2026-11-25T05:48:59+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jenelle Evans Tearfully Hits Back at Claims She’s ‘Faking a Disability’",
-   "url": "https://www.usmagazine.com/celebrity-news/news/jenelle-evans-hits-back-at-claims-shes-faking-a-disability/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2300404873-Jenelle-Evans-Hits-Back-at-Claims-Shes-Faking-a-Disability.jpg?crop=109px%2C111px%2C1176px%2C665px&resize=1000%2C563&quality=55&strip=all",
-   "published": "2026-11-25T05:41:55+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Glee Star Questions Decision To Film Cory Monteith’s Tribute — “It Was Too Soon”",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/glee-star-questions-decision-film-053809517.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/248e5301c50c7059c6f622c2970321cca511dd1a863dd9559fd7d7aa28f85783/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F6394ace40e2c6ca5a10d99b525899d41.jpg",
-   "published": "2026-11-25T05:38:09+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Ethan Klein Apologizes for Affair, Calls ‘H3 Podcast’ Ending ‘Entirely My Fault’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/ethan-klein-apologizes-affair-calls-053632435.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/0de065e18e2b60418f68a2d7b997fef27dbdc2d56c393689405841bd228d9b77/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F775a4839954ed4b471dfa45d575953e5.jpg",
-   "published": "2026-11-25T05:36:32+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "usmagazine.com"
-   ],
-   "mw": []
-  },
-  {
-   "title": "Amanda Seyfried Reveals ‘You Can See Everything’ Script Required ‘Five-Factor Authentication App’ to Access",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/amanda-seyfried-reveals-see-everything-053539506.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/ad36021748a770e02d8792329b0b5196c5b866fd928ffb1e701c066d00f3e5e6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Ff2cb3d8777232aa804535147cc0e396c.jpg",
-   "published": "2026-11-25T05:35:39+00:00",
-   "trending": true,
-   "trend_term": "amanda seyfried you can see everything",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Prime Video's 'The Mummy' Replacement 'Masters of the Universe' Is Officially a Streaming Hit",
-   "url": "https://collider.com/masters-of-the-universe-the-mummy-streaming-prime-video-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/masters-of-the-universe-alison-brie.jpg",
-   "published": "2026-11-25T05:35:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Pete Edochie, vetern Nigerian actor dies at 79: Cause of death revealed",
-   "url": "https://jang.com.pk/en/76840-pete-edochie-vetern-nigerian-actor-dies-at-79-cause-of-death-revealed-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-25/76840_103313_eng.jpg",
-   "published": "2026-11-25T10:34:00+05:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "yahoo.com"
-   ],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "‘Dancing With the Stars’ Crowns Season 35 Champion",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/dancing-stars-crowns-season-35-053204498.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/209d9026d8eda83051aa95d908c75718d08dc6bfe71583a896d1b020b84cf120/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F8c2386b4bfc8121c28d04fb85d86d9a9.jpg",
-   "published": "2026-11-25T05:32:04+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "How to watch historic 100th Macy's Thanksgiving Day Parade",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/watch-historic-100th-macys-thanksgiving-052923994.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/4f7ecba66033672a1b8c4cd049737e48372f61364992be1397a331f1d9767953/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_enquirer_natl_articles_358%2Fe3d13879672f9ce71a6f80ee1c35000e.jpg",
-   "published": "2026-11-25T05:29:23+00:00",
-   "trending": true,
-   "trend_term": "philadelphia thanksgiving day parade · covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "usmagazine.com"
-   ],
-   "mw": [
-    "Big move"
-   ]
-  },
-  {
-   "title": "Ben Stiller first met Owen Wilson after watching him bomb an audition: ‘He was so cardboard’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/ben-stiller-first-met-owen-052848808.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ab0b2315d8923a2b1b8a714b934aad04558a3da22d6bbca0d58bda8232825eb8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fentertainment_weekly_785%2F39547c88ae19050b42d60346c2d44aed.jpg",
-   "published": "2026-11-25T05:28:48+00:00",
-   "trending": true,
-   "trend_term": "ben stiller",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "8 Saddest ‘Calvin and Hobbes’ Comic Strips of All Time, Ranked",
-   "url": "https://collider.com/saddest-calvin-and-hobbes-comic-strips-all-time-ranked/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/07/calvin-and-hobbs-movie-never-happened-feature.jpg",
-   "published": "2026-11-25T05:28:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Julianne Hough and Adrian Williams’ Short-Lived Romance Ends Hours After Relationship News Went Public",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/julianne-hough-adrian-williams-short-052548808.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9b4fba97fd47ae498179601620ccc1085b381eb067da38c3c42d3f3f35c40898/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F28d6161e2553a682d9bb40cb59dae9a7.jpg",
-   "published": "2026-11-25T05:25:48+00:00",
-   "trending": true,
-   "trend_term": "peloton",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "The Official Chronology and Reading Order of Brandon Sanderson's Cosmere",
-   "url": "https://collider.com/cosmere-reading-order-brandon-sanderson-fantasy-books/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/rhythm-of-war-cover-art.jpg",
-   "published": "2026-11-25T05:07:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Matthew McConaughey says one of his 'greatest strengths' is also one of his 'greatest weaknesses'",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/matthew-mcconaughey-says-one-greatest-050146085.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b01792e992d8d02f864b36067a25dade0dd13c1e8b674e1d53da6db18ec9d9cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F51011d7817514cb4cbb42cf48d16c431.jpg",
-   "published": "2026-11-25T05:01:46+00:00",
    "trending": false,
    "trend_term": null,
    "trend_score": 0,
