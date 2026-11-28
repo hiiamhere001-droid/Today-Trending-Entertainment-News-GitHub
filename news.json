@@ -1,15 +1,210 @@
 {
- "generated_at": "2026-11-28T09:50:37.749122+00:00",
+ "generated_at": "2026-11-28T10:48:46.489271+00:00",
  "date_us": "2026-11-28",
  "per_site": {
-  "usmagazine.com": 14,
+  "usmagazine.com": 13,
   "news.meaww.com": 3,
-  "profiles.yahoo.com": 7,
-  "yahoo.com": 27,
+  "profiles.yahoo.com": 8,
+  "yahoo.com": 26,
   "jang.com.pk": 9,
   "collider.com": 10
  },
  "items": [
+  {
+   "title": "It’s Officially the End of an Era for The Karate Kid on Netflix",
+   "url": "https://collider.com/the-karate-kid-movies-leaving-netflix-december-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/imgi_1_mv5bndixotfkngutytcwmi00nduzlwflndktzmnizgm1mdzmntyyxkeyxkfqcgc-_v1_.jpg",
+   "published": "2026-11-28T10:40:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "34 Christmas Fails That Have Me Laughing So Hard My In-Laws Are Concerned",
+   "url": "https://www.yahoo.com/entertainment/articles/34-christmas-fails-laughing-hard-103102434.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/709ff644113233ef3a9cd9c016c78e4c5d8a893544419f8b53556f258be467ee/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F2186d2169d5f40c32da942ae444bae28.jpg",
+   "published": "2026-11-28T10:31:02+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "10 Photos of John F. Kennedy Jr. on Vacation, from Hyannis Port to Switzerland",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/10-photos-john-f-kennedy-103000854.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/bd3710781a58bf4b29438f36f2fdbdb635fe9506cc56638cba2edd550e8a0c0a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F435d11a5b6c251fdfb8ac572ee92138e.jpg",
+   "published": "2026-11-28T10:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Here's a Free & Easy Way To Watch the 100th Macy's Thanksgiving Day Parade Live Without Cable",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/heres-free-easy-way-watch-103000728.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/0f6dac7c09c23481affda32d4560b25c15a5870bfd64eb4c24089e872c2b0bd5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_ecomm_265%2Fb5c2719542a9f3d059811c5d169fe824.jpg",
+   "published": "2026-11-28T10:30:00+00:00",
+   "trending": true,
+   "trend_term": "what time does the macy's parade start",
+   "also": [],
+   "trend_score": 5000,
+   "mw": []
+  },
+  {
+   "title": "How Golf in the Philippines Became a Symbol of American Imperialism",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/golf-philippines-became-symbol-american-103000801.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/903e7d043ea93b2de21d6dfe92f906ff271f848d3d037ec506609d9d8bcdb51c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_nation_cheapism__451%2F8023e8b7f87999b400564a4cc6b86cd7",
+   "published": "2026-11-28T10:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "How to watch the 2026 Macy's Thanksgiving Day Parade with Sling",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/watch-2026-macys-thanksgiving-day-102816333.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/1a50dc5f761a139aa324bcd78597b09bb36bfd4d7b451601394f6c47c09f119a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_affiliate_609%2Fe6b25e9955a3cb717397bbb65cef7350.jpg",
+   "published": "2026-11-28T10:28:16+00:00",
+   "trending": true,
+   "trend_term": "what time does the macy's parade start",
+   "also": [],
+   "trend_score": 5000,
+   "mw": []
+  },
+  {
+   "title": "‘Will Trent’ Creator’s New Mystery Series Is Officially Taking Over the World",
+   "url": "https://collider.com/karin-slaughter-the-good-daughter-streaming-success-peacock-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/wt.jpg",
+   "published": "2026-11-28T10:21:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Anya Taylor-Joy Officially Returns to Sci-Fi in 3 Weeks With Major New Release",
+   "url": "https://collider.com/anya-taylor-joy-dune-part-three-release-date-december-2026/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/anya-taylor-joy.jpg",
+   "published": "2026-11-28T10:21:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "10 Classic Sci-Fi Shows That Still Feel Like the Future",
+   "url": "https://collider.com/classic-sci-fi-shows-feel-like-future/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/wil-wheaton-denise-crosby-levar-burton-jonathan-frakes-patrick-stewart-gates-mcfadden-michael-dorn-marina-sirtis-and-brent-spiner-in-star-trek-the-next-generation.jpg",
+   "published": "2026-11-28T10:18:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "TODAY's Sheinelle Jones stuns in strapless bikini as she soaks up the sun on dreamy boat",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/todays-sheinelle-jones-stuns-strapless-100423787.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/b82ae9d15bda346c45de141a013a991301a024c44fd64733c8e1c0f262752dfe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F0c635f64ff7336733123fc2a2cf4a746.jpg",
+   "published": "2026-11-28T10:04:23+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Toos van der Valk’s 1982 Abduction Was Organized by a Massive Criminal Network. Here’s What Happened to Her Kidnappers",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/toos-van-der-valk-1982-100300208.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/9c4de9f2a97533fae73661b855c636ee93bed9ebda24ddc8efb058493d59ac7c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F25073dd17897b721853383246171f5c5.jpg",
+   "published": "2026-11-28T10:03:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Guy Fieri's unrecognizable new look has fans doing a double take: 'Is that you?'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/guy-fieris-unrecognizable-look-fans-100039530.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/6580622744cd5e94d7aa1afd446f7dce2fd5803b01b72a9532fa256646a87a53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F1ff9fc11f0b143294852dcf83efb834d.jpg",
+   "published": "2026-11-28T10:00:39+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Disney+‘s New Christmas Fantasy Is Officially Streaming Now",
+   "url": "https://collider.com/dasher-disney-plus-christmas-special-streaming-november-28/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/disney-1.jpg",
+   "published": "2026-11-28T10:00:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Inside the Lifeboat Bribery Allegations of Wealthy“ Titanic” Survivor Whose Ring Just Sold at Auction for $183,000",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/inside-lifeboat-bribery-allegations-wealthy-100000046.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/66d8c8a7435078bb451b0e60a7ae2d7563473b3fe3727867fbda0e1f1ba73060/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fdfb695ccb729f3451664b1a88e47787a.jpg",
+   "published": "2026-11-28T10:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Nigeria's acting legend who was loved across Africa and beyond",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/nigerias-ultimate-hard-man-become-012051368.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/46729ab97bac7d9a2f77e064fda1bc9e04316da7ad956c302498dfb8a5bdfec1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2c22a9930c2fd51387c1d870cdeb7f18.jpg",
+   "published": "2026-11-28T09:41:25+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
   {
    "title": "Netflix’s 4-Part Heist Thriller Officially Revived on Streaming",
    "url": "https://collider.com/omar-sy-lupin-streaming-success-netflix-november-2026/",
@@ -37,19 +232,6 @@
    "mw": []
   },
   {
-   "title": "Nigeria's acting legend was loved across Africa and beyond",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/nigerias-ultimate-hard-man-become-012051368.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/46729ab97bac7d9a2f77e064fda1bc9e04316da7ad956c302498dfb8a5bdfec1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2c22a9930c2fd51387c1d870cdeb7f18.jpg",
-   "published": "2026-11-28T09:18:24+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
    "title": "Guy Ritchie’s ‘MobLand’ Officially Takes a Major Step Toward Season 3",
    "url": "https://collider.com/tom-hardy-mobland-season-3-now-filming-release-window-2027/",
    "source": "collider.com",
@@ -61,21 +243,6 @@
    "also": [],
    "trend_score": 0,
    "mw": []
-  },
-  {
-   "title": "What happened to actress Courtney Stodden? Inside her life now 15 years after hugely controversial marriage",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/happened-actress-courtney-stodden-inside-090000701.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/4e557f1a96f35ff334fe01ff05c94648c1deca8ce5b6817a68b2906dac8276d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fdf5c7b1211c47a68af94cbbcec7fe42e.jpg",
-   "published": "2026-11-28T09:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": [
-    "Wedding"
-   ]
   },
   {
    "title": "Prince George tracks emotional mother Princess Kate on Flightplan during impressive milestone",
@@ -103,6 +270,21 @@
    "trend_score": 0,
    "mw": [
     "Sudden"
+   ]
+  },
+  {
+   "title": "What happened to actress Courtney Stodden? Inside her life now 15 years after hugely controversial marriage",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/happened-actress-courtney-stodden-inside-090000701.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4e557f1a96f35ff334fe01ff05c94648c1deca8ce5b6817a68b2906dac8276d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fdf5c7b1211c47a68af94cbbcec7fe42e.jpg",
+   "published": "2026-11-28T09:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Wedding"
    ]
   },
   {
@@ -880,10 +1062,12 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2283628432Carrie-Underwood-Shares-How-She-Stays-Healthy-While-Juggling-Career-and-Kids.jpg",
    "published": "2026-11-28T02:46:25+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -1337,10 +1521,10 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/80a94755c737f9c4bc78f2ce7df9da4b6c9fdc4249b9042625046a04aa83c381/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F5867e47c9e6779accf7c94449adcc3dd.jpg",
    "published": "2026-11-28T00:34:45+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "what time does the macy's parade start",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 5000,
    "mw": []
   },
   {
@@ -2599,7 +2783,7 @@
    "trending": true,
    "trend_term": "jobs",
    "also": [],
-   "trend_score": 200,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -9227,10 +9411,10 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/8472adba7f7aec8609aee20b9dc3b32070e8174db009f4a9db07c676e9ae85dd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F03141ad2372113217c2d02268d08504f.jpg",
    "published": "2026-11-26T18:41:55+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "what time does the macy's parade start",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 5000,
    "mw": [
     "Sudden"
    ]
@@ -9506,10 +9690,10 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/b68637214fede06f3e82105246bceef791bcd1a33e32f4c9754065ed53ce5156/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Faa087192a67e379e0c7c7a2a23a3152b.jpg",
    "published": "2026-11-26T17:44:43+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "what time does the macy's parade start",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 5000,
    "mw": [
     "Sudden"
    ]
@@ -10556,7 +10740,7 @@
    "published": "2026-11-26T14:32:00+00:00",
    "trending": true,
    "trend_term": "jobs",
-   "trend_score": 200,
+   "trend_score": 0,
    "also": [],
    "mw": []
   },
@@ -10929,8 +11113,8 @@
    "image": "https://s.yimg.com/lo/mysterio/api/30538f0ea15f91a6348465110ad6239599c2a18edb3df9f64f9be8ecd55951d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_big_lead_articles_114%2F84cee3b574c839d33b0f7ef0a9f43b7f.jpg",
    "published": "2026-11-26T13:00:00+00:00",
    "trending": true,
-   "trend_term": "omaha basketball",
-   "trend_score": 0,
+   "trend_term": "what time does the macy's parade start",
+   "trend_score": 5000,
    "also": [],
    "mw": []
   },
@@ -10941,9 +11125,9 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/f354bc47c16e1c7d1433e08f40398de6a5288e9302e264e05246837182c87716/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F8a18d9ebc15fe74fafecb4a0a6ab95b1.jpg",
    "published": "2026-11-26T13:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "what time does the macy's parade start",
+   "trend_score": 5000,
    "also": [],
    "mw": []
   },
@@ -11164,9 +11348,9 @@
    "category": "Fashion",
    "image": "https://s.yimg.com/lo/mysterio/api/8449c69c8dfc2425427db98b4551265a6e232c29957bcb835678f4dd4b9dfdb9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff19daef795bda6ce976cefc28aa112d6.jpg",
    "published": "2026-11-26T11:45:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "what time does the macy's parade start",
+   "trend_score": 5000,
    "also": [],
    "mw": []
   },
@@ -11459,194 +11643,6 @@
    "trend_score": 0,
    "also": [],
    "mw": []
-  },
-  {
-   "title": "Ariana Grande clarifies she 'will be very visible' during break from spotlight",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/ariana-grande-clarifies-she-very-104255973.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f394f1b3a3010b571bf2cd0483d6dad14ece5092937f621c60aefe82da16579f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F1b06e0c344fbb92861b9a0b82069fe45.jpg_up.jpg",
-   "published": "2026-11-26T10:42:55+00:00",
-   "trending": true,
-   "trend_term": "ariana grande",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Brad Pitt and Angelina Jolie settle dispute over French winery",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brad-pitt-angelina-jolie-settle-232934344.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/35e969d95222198805f31f79f2fd14980f772a4eb48784f12d9a476980b7a405/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fad3312c6efcacf6c26aafb814794c9d0.jpg_up.jpg",
-   "published": "2026-11-26T10:41:40+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Meghan Markle Makes Friends at Archie and Lilibet’s New U.K. School as Prince Harry Stays Reserved, Insider Reveals",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-makes-friends-archie-103503219.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/2575cbf598e6de038ad6bc2b0877b56357bff50d3a77f677f6e365f3a7705529/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2F9a0b130aaf43e71d028574cba3a04b8b.jpg",
-   "published": "2026-11-26T10:35:03+00:00",
-   "trending": true,
-   "trend_term": "prince",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "'You Can See Everything': Three remarkable hours with a con artist",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/see-everything-three-remarkable-hours-103340714.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/fc44e5076caea4cae3727aa988dcecdb4e667fc8d77652cf4d023889a0dbab29/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0094bc817b29a5c62c9692839f73f8af.jpg",
-   "published": "2026-11-26T10:33:40+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "HBO’s Harry Potter Officially Goes LEGO in First Images",
-   "url": "https://collider.com/hbo-harry-potter-lego-set-images/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/harry-potter-7.jpg",
-   "published": "2026-11-26T10:30:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘Summer House’ Alum Paige DeSorbo Debuts Boyfriend Joe D’Amelio on Social Media",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/summer-house-alum-paige-desorbo-102654160.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e0c245ffd102eb9c494d24c294f516fcdc6dd88da91efb79f28c3f9938cd5351/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F3502cd8e42c66bea2eee550efe870756.jpg",
-   "published": "2026-11-26T10:26:54+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
-   "title": "Former Disney Boss Bob Iger ‘Got ABC Employee Pregnant’ During Affair, New Book Claims",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/former-disney-boss-bob-iger-102421148.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/77eb729e98c194719736276698b33e528250e21de8db020129fce8bc01873150/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F71cf099d78dd5d84043c13b0384c03c8.jpg_up.jpg",
-   "published": "2026-11-26T10:24:21+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Andy Taylor: Duran Duran's livewire guitarist who was a true Wild Boy",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-duran-durans-livewire-222234192.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/dafd419de75b08156aaaa75596f4a1603a57dbc76e7f43b9a5a4453caf1d1d66/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F22a13805517889e72536b90789c5ffaa.jpg",
-   "published": "2026-11-26T10:18:52+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Tate McRae Tops Micro Shorts With Cozy Adidas Crewneck Sweatshirt",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/tate-mcrae-tops-micro-shorts-101619267.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/0ebef4aaa96d4952cab277322776b2c0f764578712a64912cdb5750abfe34cd2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2Fe4d8005fee22648aec989243eec29334.jpg",
-   "published": "2026-11-26T10:16:19+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Katey Sagal Became a Mom at 52 Through Surrogacy: What Late-in-Life Parents Say About It",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/katey-sagal-became-mom-52-100637714.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/6377e34687b601ec1475f69b45b8f1cc3638c5ce17400eddd6ed5556448dfdb9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2F4a99bf9a7a551c1a625c4302cc81c1dd.jpg",
-   "published": "2026-11-26T10:06:37+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Forget Bosch, Titus Welliver’s Neo-Noir Crime Thriller Is Still His Best Performance 17 Years Later",
-   "url": "https://collider.com/titus-welliver-bosch-replacement-gone-baby-gone/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/tcdbosc_ec023-1.jpg",
-   "published": "2026-11-26T10:04:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘Georgie and Mandy’s First Marriage’ Season 3 Officially Recruits a Disney Legend",
-   "url": "https://collider.com/georgie-and-mandys-first-marriage-season-3-episode-9-first-look-john-ratzenberger-guest-star/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/3247558_gamfm_s3_wb_0131b-1.jpg",
-   "published": "2026-11-26T10:00:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Wedding"
-   ]
-  },
-  {
-   "title": "Meghan Markle Reportedly Feels King Charles Is Shunning Her And Prince Harry ‘Like They Don’t Exist’ As Latest Move With Kate Middleton’s Brother ‘Feels So Savage’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-reportedly-feels-king-100000755.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/a193fe26eaf515e09a6350e356ccfe3dd425f0a56117181e8e34b700571126ba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fe2478f0240f246d3ff265e7b46fd3809.jpg",
-   "published": "2026-11-26T10:00:00+00:00",
-   "trending": true,
-   "trend_term": "prince",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Kanye West and Bianca Censori set to renew wedding vows - report",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/kanye-west-bianca-censori-set-045000037.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/61c2d1cdd96de535897a7beb9f1fd695a63e8b47661838638182bf5a67af702d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fa4cc1d5ae8fcc7552624557c15773e78.jpg_up.jpg",
-   "published": "2026-11-26T09:51:23+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "trend_score": 2000,
-   "also": [
-    "usmagazine.com"
-   ],
-   "mw": [
-    "Wedding"
-   ]
   }
  ]
 }
