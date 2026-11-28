@@ -1,15 +1,95 @@
 {
- "generated_at": "2026-11-28T05:55:35.182860+00:00",
+ "generated_at": "2026-11-28T07:04:28.881840+00:00",
  "date_us": "2026-11-28",
  "per_site": {
-  "usmagazine.com": 14,
-  "news.meaww.com": 2,
+  "usmagazine.com": 13,
+  "news.meaww.com": 3,
   "profiles.yahoo.com": 8,
   "yahoo.com": 27,
-  "jang.com.pk": 9,
+  "jang.com.pk": 8,
   "collider.com": 10
  },
  "items": [
+  {
+   "title": "The Killers’ Dave Keuning Says He Survived a Major Stroke: ‘By Some Miracle I Am Fine’",
+   "url": "https://www.yahoo.com/entertainment/music/articles/killers-dave-keuning-says-survived-063229070.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/2d46a00b34b989434988248c7c2cc8ab8f2b43f4b751cae1e87be8049351d889/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2Fdc53116d5556a88d37bab6e369448f36.jpg",
+   "published": "2026-11-28T06:32:29+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Illness"
+   ]
+  },
+  {
+   "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/indian-tamasha-queen-whose-fans-005018370.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/3cc48ef15a600e2cef6147b84fea7868bc7e5ba06eea4b664ee91db0d5bb9e0b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F54d90a4f5b9a66b5883587dffee5182e.jpg",
+   "published": "2026-11-28T06:24:41+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Scooby-Doo star Linda Cardellini, 51, shares details of deleted scene",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/scooby-doo-star-linda-cardellini-060924206.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ed39959e8d71ebf6d9875d04f1bb2520b2b12850d605d324dd12be674a08061b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F4e677fa1b7637503a4c057cef752f046.jpg",
+   "published": "2026-11-28T06:09:24+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "12 leading men from the 1980s that everyone swooned over – here's what they look like today",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/12-leading-men-1980s-everyone-060000753.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0dc7712ca3096ee3b7d3804a601cc7cd0e9c86810d16d8254834f2dfb6ac4252/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F677c6fb2c52c52ff020ca90097a42cdb.png",
+   "published": "2026-11-28T06:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Alan Boyd, Radio 2 producer who helmed Friday Night is Music Night and Terry Wogan’s breakfast show",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/alan-boyd-radio-2-producer-060000918.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/4e1e1d49dd632f9dc60c563fc79653caae568d033bd04dcb695c62688ac45011/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F57294e578e1e94bf75dc79154d268701.jpg",
+   "published": "2026-11-28T06:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘Dallas’ Star Victoria Principal Shares Difficult News, and Fans Rally Around Her",
+   "url": "https://www.yahoo.com/entertainment/articles/dallas-star-victoria-principal-shares-055314325.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/0a580ada7a5b01e0462bf4a54dfe9d3bd5588b46524a96bb05ea61c373fab401/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcloser_weekly_articles_556%2F8e45f6f0357ff9a174e89cb742a07e31.png",
+   "published": "2026-11-28T05:53:14+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
   {
    "title": "Norovirus confirmed as cause of Caribbean Princess outbreak affecting 268",
    "url": "https://jang.com.pk/en/77003-norovirus-confirmed-as-cause-of-caribbean-princess-outbreak-affecting-268-news",
@@ -108,6 +188,19 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/7436fbc3e4f3bbdc93332916fd4764325abea5a40b449dfa6f6026bd1edb4532/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F7939147d22c533ddce78642fa447e693.jpg_up.jpg",
    "published": "2026-11-28T04:59:08+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Gypsy-Rose Blanchard Says Nick Lee Is ‘Not My Boyfriend’ Amid Dating Rumors",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/gypsy-rose-blanchard-says-nick-045216649.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/200ef4972d49e74864eb97fa509058d2dc7d89bdb6de90736493c9439fc850d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjust_jared_884%2F8b07aa9f657a36fa291794831224cb7c.jpg_up.jpg",
+   "published": "2026-11-28T04:52:16+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -832,19 +925,6 @@
    "mw": []
   },
   {
-   "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/indian-tamasha-queen-whose-fans-005018370.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/3cc48ef15a600e2cef6147b84fea7868bc7e5ba06eea4b664ee91db0d5bb9e0b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F54d90a4f5b9a66b5883587dffee5182e.jpg",
-   "published": "2026-11-28T00:50:18+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
    "title": "One Thing About Prime Video’s Clashing Through The Snow Really Upset Fans (Myself Included)",
    "url": "https://www.yahoo.com/entertainment/tv/articles/one-thing-prime-video-clashing-004500618.html",
    "source": "yahoo.com",
@@ -890,6 +970,19 @@
    "category": "Music",
    "image": "https://s.yimg.com/lo/mysterio/api/80a94755c737f9c4bc78f2ce7df9da4b6c9fdc4249b9042625046a04aa83c381/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2F5867e47c9e6779accf7c94449adcc3dd.jpg",
    "published": "2026-11-28T00:34:45+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "William Shatner Reacts to ‘Halloween’ Director John Carpenter Calling Him a ‘Piece of S***’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/william-shatner-reacts-halloween-director-003355070.html",
+   "source": "profiles.yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/d6ce94c8673ea59c69dea34c9be3227c4097a1768ec81abdbecc32e4edd00b08/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F4f59a007c1299f6c8fe6f2aa9808ce5a.jpg",
+   "published": "2026-11-28T00:33:55+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -1083,6 +1176,19 @@
    "mw": []
   },
   {
+   "title": "Rumer Willis and Bruce's Photo, Guy Fieri Rocks Natural Grays, More Top Stories",
+   "url": "https://www.usmagazine.com/celebrity-news/news/rumer-willis-rare-photo-with-bruce-and-more-top-us-stories/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Rumer-Willis-Rare-Photo-With-Bruce-Guy-Fieri-Embraces-Natural-Hair-Color.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=78&strip=all",
+   "published": "2026-11-28T00:01:29+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "Richard Madden Officially Returns to Netflix With New Thriller Landing This Week",
    "url": "https://collider.com/richard-madden-netflix-trinity-december-premiere-date/",
    "source": "collider.com",
@@ -1132,6 +1238,21 @@
    "trend_term": null,
    "also": [],
    "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Ian Somerhalder’s Shirtless Photo Grabs the Attention of Costar Paul Wesley",
+   "url": "https://www.usmagazine.com/celebrity-body/news/ian-somerhalders-shirtless-thirst-trap-heats-up-the-internet/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/ian-somerhalder-shirtless.jpg?crop=0px%2C292px%2C1200px%2C677px&resize=1000%2C563&quality=86&strip=all",
+   "published": "2026-11-27T23:42:14+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -1197,10 +1318,12 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/da61557b91fea33ff10c3f102fc5377d5d5679103915caffd765fa0f1d1c3ea9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F2e69b9d4bfc391fab0b40303f70d65d7.jpg",
    "published": "2026-11-27T23:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "usmagazine.com"
+   ],
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -1226,7 +1349,7 @@
    "trending": true,
    "trend_term": "jim caviezel",
    "also": [],
-   "trend_score": 500,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -1997,12 +2120,10 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/HUNTING_201_Unit_07061RC.jpg",
    "published": "2026-11-27T21:00:42+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "yahoo.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": [
     "Death",
     "Sudden"
@@ -2188,10 +2309,10 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/ca0b08ad42225b9db771356cc752a0711c0ee47169e357d594dfad8169eee257/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fc56c8ebc027aed33ae6be1af541c455d.jpg",
    "published": "2026-11-27T20:30:11+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "gordon ramsay",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 500,
    "mw": []
   },
   {
@@ -3142,10 +3263,10 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/4e4887c82bf4b421e2f517d566bf31d2ac84919fa0d89ea00384a73998a6a921/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2F3080758d9449993a4b0820da7d2482fc.jpg",
    "published": "2026-11-27T17:39:35+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "gordon ramsay",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 500,
    "mw": []
   },
   {
@@ -5382,10 +5503,10 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/4ddc2ad5ddb66459cc9d1cb3553f1682c522a8301732d3a801017dc4378dfdc0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fc6065db9c883ae731db972cb9d52251f.jpg",
    "published": "2026-11-27T10:14:52+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "gordon ramsay",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 500,
    "mw": []
   },
   {
@@ -6940,10 +7061,10 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/d24a43ac4a227e1dd548bdcf61f4b542b00426c16dcf75d1c9d818d9c8734b79/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fb91d01b6ea67ce79fc790b220542b6ce.jpg",
    "published": "2026-11-27T01:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "gordon ramsay",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 500,
    "mw": []
   },
   {
@@ -8229,10 +8350,10 @@
    "category": "TV",
    "image": "https://s.yimg.com/lo/mysterio/api/886086bf61d427d6e6b6fdb3f50f33063378b0016efb7dbf614186237625fd46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fbd9a53168c98a0a607d71ba83ab4f6ec.jpg",
    "published": "2026-11-26T20:30:26+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "gordon ramsay",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 500,
    "mw": []
   },
   {
@@ -9876,11 +9997,11 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/06/Gordon-Ramsay-GettyImages-624646710.jpg?crop=0px%2C59px%2C2000px%2C1130px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-26T15:12:29+00:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
+   "trend_term": "gordon ramsay · covered by 2 sites",
    "also": [
     "yahoo.com"
    ],
-   "trend_score": 2000,
+   "trend_score": 2500,
    "mw": []
   },
   {
@@ -10201,10 +10322,10 @@
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-26/76917_070956_eng.jpg",
    "published": "2026-11-26T19:10:44+05:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "gordon ramsay",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 500,
    "mw": [
     "Big move"
    ]
@@ -10807,10 +10928,12 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/958af6cc916454ec58ab3ec43181375b2822ea0768b218f509f874b1fa4e1375/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fb8f98c8f93fd58ff2c13535399b7a9c3.jpg",
    "published": "2026-11-26T11:23:40+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "trend_score": 2000,
+   "also": [
+    "news.meaww.com"
+   ],
    "mw": []
   },
   {
@@ -11541,192 +11664,6 @@
    "trend_term": null,
    "also": [],
    "trend_score": 0,
-   "mw": []
-  },
-  {
-   "title": "Kate and William ‘discuss’ major Royal roles for Archie, Lilibet ‘sidelining’ Harry, Meghan",
-   "url": "https://jang.com.pk/en/76895-kate-and-william-discuss-major-royal-roles-for-archie-lilibet-sidelining-harry-meghan-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-26/76895_115924_eng.jpg",
-   "published": "2026-11-26T12:00:29+05:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
-   "title": "Former LSU Star Livvy Dunne Turns Heads During Unexpected Moment With Paul Skenes",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/former-lsu-star-livvy-dunne-070000884.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/be69b88fd9c24008bca3a0a292361365ea04ddd86840d22fe21195da4a1e2284/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsec_country_157%2Fd71eb78eae3e734591e1719deaf3dddf.jpg",
-   "published": "2026-11-26T07:00:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘Chhota Bheem’ Creator and ‘Black Warrant’ Publisher Weigh Book-to-Screen Economics at WAVES Film Bazaar",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/chhota-bheem-creator-black-warrant-064845607.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/94f4c90143ad07e9553839931eb320821a492947b7f67f01ef5f80a861fe31f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F6a935b8c51eaef8bf45fe80aa8781044.jpg_up.jpg",
-   "published": "2026-11-26T06:48:45+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Julianne Hough’s Celia Kritharioti Micro Minidress is Giving ‘Tinker Bell’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/julianne-hough-celia-kritharioti-micro-064629557.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/42b2cba561dc205028f33444fde7bc8e6c7832ad32785453e397f42fdddf639f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ffda5301c18dbb30b39c0211e2fadb60e.jpg",
-   "published": "2026-11-26T06:46:29+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘South Park’ Lampoons ‘GTA VI,’ AI and Chinese Spies in Latest Episode",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/south-park-lampoons-gta-vi-063713441.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/f56c02459df1de165d5e66f8d3c4a8b7a2e03f3a7f647078aa29d528499ae58c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2Fc0c3024d1d84b5bbdc45892fe1c988bc.jpg",
-   "published": "2026-11-26T06:37:13+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘Paper Tiger’ features a strong cast in a tale of a Jewish-American family and the Russian mob",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/paper-tiger-features-strong-cast-063601902.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/568f20d7d522b8b8137b48ac3a0fa459aab48470259e57d5ddc571a36971c66d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F3326fc0f6cadba7655643a0c91478fe8.jpg",
-   "published": "2026-11-26T06:36:01+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Inde Navarrette Goes Red-Hot in Slinky Affection BLVD Skirt & Sky-High Heels",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/inde-navarrette-goes-red-hot-063319746.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/6e1ce9d9d29faca4eba9bbb64e97d67f55d9f41842e3ae8ef26e7385b7ec0337/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ffec36f72337596ca00d8837b4520a347.jpg",
-   "published": "2026-11-26T06:33:19+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Andy Taylor Was Full of Surprises: Six Deep-Dive Career Moments",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/andy-taylor-full-surprises-six-062753422.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/50679fe39890150cbe29257661425c57b3c114310b4f58d523a667aaaf9ace6c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbillboard_547%2F7ba7f5a74119c35c3d2858023fa2c1e0.jpg",
-   "published": "2026-11-26T06:27:53+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "JioStar Brings Star Plus, Colors and Five More Indian TV Channels to Fubo in the U.S.",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/jiostar-brings-star-plus-colors-062720506.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/f8952edd66a0aabe1b1db8befb899eab73799b60b74383e53064fbfa5ffad79b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fcdc810820d3dfd2e89a2c94546e68e59.jpg_up.jpg",
-   "published": "2026-11-26T06:27:20+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Veruschka, one of world’s first supermodels, dies at 87",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/veruschka-one-world-first-supermodels-062720547.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/dbc0e300b3f5b3cd8ddc0921ca81d54a36af0cd9e81389dc65dbf2be9f6d1f01/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fa38288141615f53e45b8decc85423582.jpg_up.jpg",
-   "published": "2026-11-26T06:27:20+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "Sarah Michelle Gellar Reveals the Christmas Tradition She’s Passing Down to Her Kids",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/sarah-michelle-gellar-reveals-christmas-062342408.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/dc71352d74e917177f8328dbfb94c293044ae2c53cb1991a7671535787962058/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2F5505a7a509c77d594d6ac8ada99beb53.jpg",
-   "published": "2026-11-26T06:23:42+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "New play celebrates pioneering women of science",
-   "url": "https://www.yahoo.com/entertainment/articles/play-celebrates-pioneering-women-science-061805739.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/77713611c19e22f71fb61f5703fd6fd4067cf73096b169ed6f29c815aa179540/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ffb3bc6d7dd5c9f6e9a402585cc22a56e.png",
-   "published": "2026-11-26T06:18:05+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Lana Del Rey Rocks Custom Crystal 'GTA VI' Birkin at Launch Party",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/lana-del-rey-rocks-custom-060740898.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/5bf852dba0c84e650b7b4bed44851c9af649a5136ab3c7e454a2e8f614c904ab/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F916df9da019e95d3e752484a07eade72.jpg",
-   "published": "2026-11-26T06:07:40+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Inde Navarrette’s Fiery Red Affection BLVD Cutout Top Gets a Hairy Twist",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/inde-navarrette-fiery-red-affection-055742268.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/6cc70fa1e8255605cb430ae3236c4045f292278bf87e11176334f202c42bafb3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2F9bb76807ea205b0288b0ec266c837e1b.jpg",
-   "published": "2026-11-26T05:57:42+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
    "mw": []
   }
  ]
