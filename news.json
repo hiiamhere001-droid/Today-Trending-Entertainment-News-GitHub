@@ -1,15 +1,270 @@
 {
- "generated_at": "2026-11-28T14:00:21.719824+00:00",
+ "generated_at": "2026-11-28T14:45:57.498293+00:00",
  "date_us": "2026-11-28",
  "per_site": {
-  "usmagazine.com": 15,
+  "usmagazine.com": 14,
   "news.meaww.com": 3,
   "profiles.yahoo.com": 9,
-  "yahoo.com": 27,
+  "yahoo.com": 29,
   "jang.com.pk": 10,
   "collider.com": 10
  },
  "items": [
+  {
+   "title": "The 10 Most Unwatchable Movies of 2026, Ranked",
+   "url": "https://collider.com/most-unwatchable-2026-movies-ranked/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-mandalorian-and-grogu-2026.jpg",
+   "published": "2026-11-28T14:41:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Former Disney Channel Star Joey Bragg Announces Engagement to Girlfriend Emma Detamore",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/former-disney-channel-star-joey-143342854.html",
+   "source": "yahoo.com",
+   "category": "Streaming",
+   "image": "https://s.yimg.com/lo/mysterio/api/2823cdd81fbba5474c8f19444141b04e27ba7d22a2743868589ee3cc3a6501f8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F9265bec4e8b80ef80ce6450f457611c2.jpg",
+   "published": "2026-11-28T14:33:42+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Wedding"
+   ]
+  },
+  {
+   "title": "Ridley Scott’s New Sci-Fi Series Is Officially Being Review-Bombed on Rotten Tomatoes",
+   "url": "https://collider.com/blade-runner-2099-rotten-tomatoes-audience-score/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/ridley-scott-on-set-of-gladiator-2.jpg",
+   "published": "2026-11-28T14:31:13+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Scott Caan Says He and Casey Affleck Are ‘100 Percent In’ for Ocean’s 14",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/scott-caan-says-casey-affleck-143020856.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/f4bb122f44f96d0b9d4c3c15ed41da47c3d9557d42651399a5cf756377f2a4c3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F385304d7b16522d161bb4feaff06b171.jpg",
+   "published": "2026-11-28T14:30:20+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Whitney Leavitt Wants Husband Conner to ‘Feel Comfortable’ with Her Romantic Roles: ‘Always the Conversation’ (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/whitney-leavitt-wants-husband-conner-143000871.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/d701193c16d7c1bc24bcdef0692a16246e9489042c39d151548ffc572629bade/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb6aa7238239dc75107f0c602ce86257c.jpg",
+   "published": "2026-11-28T14:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Tom Brady Love Triangle Allegedly Costs Joan Smalls A Modeling Gig As Feud With Candice Swanepoel Deepens",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/tom-brady-love-triangle-allegedly-143000067.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/cd50e729a35cd726df6aece97612c480b4b4d3a785f59b3a5962fecceb593c58/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2Fca289cd76a102b79630d467012cf9a53.jpg",
+   "published": "2026-11-28T14:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Macy’s Thanksgiving parade gets underway after 2-day delay with lineup ‘90 to 95%’ intact",
+   "url": "https://www.yahoo.com/entertainment/articles/macy-thanksgiving-parade-gets-underway-134313117.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f9d4ffa6c736d7410a1911735c6439b83984dba1601088ee1c9f73d2ad9bcc85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F9c32780242145eedcfef5f3df9a9cb08.jpg",
+   "published": "2026-11-28T14:25:38+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "“I Want to Stop Time” – Andy Roddick’s Wife Brooklyn Decker Shares Rare Emotional Message as Daughter Stevie Turns 9",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/want-stop-time-andy-roddick-142527302.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/205cd53938635db76a7d2baeda925ada2ac5186a2b2a6cfb8c3201459f70bdc5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcollege_football_network_979%2F0d2ab9d7d8e316ee3dc829fc09c2c2b4.jpg",
+   "published": "2026-11-28T14:25:27+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Watch the Action-Packed Final Trailer for 'Avengers: Doomsday'",
+   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/watch-action-packed-final-trailer-142400915.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/ba7d05ae817311196d7e583bbc1fda5bcb6a4528ff6ba0ff35ca1518cba78521/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fe7569699df207282befbee6c9ea6a809.jpg_up.jpg",
+   "published": "2026-11-28T14:24:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Jodie Foster Reflects on Her Bond with Her Manager Mom: ‘She Was My Whole World’ (Exclusive)",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jodie-foster-reflects-her-bond-142000644.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/ffa6bee7198610fc68375711a32321d434dee67b1b1e23bea466003872f53daa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fa3e624dbb125e016ab890ea996cf13b0.jpg",
+   "published": "2026-11-28T14:20:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘Rent,’ ‘Wicked’ and ‘Hamilton’ stars unite for rare Broadway spectacle at 100th Macy’s Thanksgiving Day Parade",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/rent-wicked-hamilton-stars-unite-141807544.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/6bdd80ac2c9763129b70a09986202e3eee23ae0aabe6b09f1f0054e33334c6f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F3fd8a1e5c54567f9f58e6f039f0b723a.jpg",
+   "published": "2026-11-28T14:18:07+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Bill Maher Reveals Best President of His Lifetime & Compares Him to Donald Trump",
+   "url": "https://www.yahoo.com/entertainment/tv/articles/bill-maher-reveals-best-president-141711831.html",
+   "source": "yahoo.com",
+   "category": "TV",
+   "image": "https://s.yimg.com/lo/mysterio/api/c531b7bdda5ae0446e3a8be6851edc3799871c5725292d2dc06a7c52b5cfe113/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftv_insider_639%2Fc8530d04f9daa9d5c4b1ea32b384e76d.jpg",
+   "published": "2026-11-28T14:17:11+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Pedro Pascal makes shocking confession about his upcoming film 'Behemoth!'",
+   "url": "https://jang.com.pk/en/77028-pedro-pascal-makes-shocking-confession-about-his-upcoming-film-behemoth-news",
+   "source": "jang.com.pk",
+   "category": "Movies",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-28/77028_071126_eng.jpg",
+   "published": "2026-11-28T19:11:24+05:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Sudden"
+   ]
+  },
+  {
+   "title": "10 Best Books of the Past 100 Years",
+   "url": "https://collider.com/best-books-past-100-years/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/05/screenshot-2025-05-28-at-1-08-39-pm.jpg",
+   "published": "2026-11-28T14:06:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Gayle King Will Take Time Off CBS Mornings After Son-in-Law Virgil Miller’s Death",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/gayle-king-time-off-cbs-140028499.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/68cc8b7ba6365ed7e9699503bebc89f94d30e4b0283f3c0c60557dc0fbb2d513/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F198982c2edee9db248c53d81faa1aa26.jpg",
+   "published": "2026-11-28T14:00:28+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
+   "title": "Hilary Duff Got Revenge on a Friend's Ex and It Involved a Can of Wieners and a Front Lawn",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/hilary-duff-got-revenge-friends-140000954.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/6b8a5b4bd866b1b8be42526264e51ae9120901e229f8998f5f94a43ead8df686/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpurewow_185%2F0d6ef68da7a9cfbbaa13148dc680d11e.jpg_up.jpg",
+   "published": "2026-11-28T14:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Jennifer Lopez Opens Up About Her Thanksgiving Movie Ritual With Her Mother That Influenced Her Career Path",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennifer-lopez-opens-her-thanksgiving-140000812.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/c804acd9ea8b7aa99d328b8b1c530314ae6730c6339ca3a40e4351ce5145a1b3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2F72fc94d1b0f4930e9a351f272eaf4ed0.jpg",
+   "published": "2026-11-28T14:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Princess Catherine: ‘Cancer Does Change You’ — Inside Her Darkest Days and Journey to ‘Live Life Fully’",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/princess-catherine-cancer-does-change-140000631.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/6242d930dd9b4fc247e8570aa68554dc963bb7d5846150b2d402fa23a26005e4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F489ac820b6c6cea6b96a5de132ce678a.jpg",
+   "published": "2026-11-28T14:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Illness"
+   ]
+  },
+  {
+   "title": "Alabama Barker stuns in micro shorts – but it's her new hair that leaves fans with 'no words'",
+   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/alabama-barker-stuns-micro-shorts-135207016.html",
+   "source": "yahoo.com",
+   "category": "Fashion",
+   "image": "https://s.yimg.com/lo/mysterio/api/9a14a07b174a9b0f891a4efbb999cda0f839cf690fc03c7aa6cddd0eba7a84f9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F9ee0f0399916d7b0fd65f983b5b7b4bd.jpg",
+   "published": "2026-11-28T13:52:07+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
   {
    "title": "Inside Kate Middleton’s ‘very personal reason’ to unveil her cancer journey in ‘Heal’",
    "url": "https://jang.com.pk/en/77025-inside-kate-middletons-very-personal-reason-to-unveil-her-cancer-journey-in-heal-news",
@@ -910,7 +1165,7 @@
    "trending": true,
    "trend_term": "savannah guthrie mom",
    "also": [],
-   "trend_score": 1000,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -936,7 +1191,7 @@
    "trending": true,
    "trend_term": "al roker",
    "also": [],
-   "trend_score": 1000,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -988,7 +1243,7 @@
    "trending": true,
    "trend_term": "today show",
    "also": [],
-   "trend_score": 200,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -2409,7 +2664,7 @@
    "trending": true,
    "trend_term": "al roker",
    "also": [],
-   "trend_score": 1000,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -10278,7 +10533,7 @@
    "trending": true,
    "trend_term": "al roker",
    "also": [],
-   "trend_score": 1000,
+   "trend_score": 0,
    "mw": [
     "Sudden"
    ]
@@ -11373,7 +11628,7 @@
    "published": "2026-11-26T15:26:07+00:00",
    "trending": true,
    "trend_term": "al roker",
-   "trend_score": 1000,
+   "trend_score": 0,
    "also": [],
    "mw": []
   },
@@ -11513,302 +11768,6 @@
    "trend_term": null,
    "trend_score": 0,
    "also": [],
-   "mw": []
-  },
-  {
-   "title": "David Harbour And Lily Allen Dragged Into Netflix Star’s Explosive Lawsuit",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/david-harbour-lily-allen-dragged-144500292.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/6157e7b3aebbdfe33e7b46cf8b6804bd264bf0a7bfcd81791de8fe3aaf954df9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F774b701ebde4b7ff0f9f17305a49fd03.jpg_up.jpg",
-   "published": "2026-11-26T14:45:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Sudden"
-   ]
-  },
-  {
-   "title": "Win Tickets to Our Screening of 'Ink' and Q&A With Danny Boyle",
-   "url": "https://collider.com/ink-screening-danny-boyle-netflix-q-and-a/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/ink-jack-o-connell-1.jpg",
-   "published": "2026-11-26T14:40:39+00:00",
-   "trending": true,
-   "trend_term": "jumanji open world",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Woman whose 'real-life ghost story' inspired TV series reveals scariest encounter",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/woman-whose-real-life-ghost-132753838.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/b0323ba132b6f9758ffa28f47065cdcfbfa9e7e75bfeb601b899fa39c49453b2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff72c053d00d418a0adce2ae185985cd0.jpg",
-   "published": "2026-11-26T14:39:18+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "French actor Gérard Depardieu to stand trial on rape charge, lawyer says",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/french-actor-g-rard-depardieu-143721754.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/827af93399bc1d561e604d6fe9b418b81bb6386fe81af008dbc14d2f0fbbab23/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5162b184941c2902f0ae70fdc5e81ddb.jpg",
-   "published": "2026-11-26T14:37:21+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘Dark’ Creators Revisit Eerie German Forests in First ‘Sonnental’ Teaser",
-   "url": "https://www.yahoo.com/entertainment/movies/trailers/articles/dark-creators-revisit-eerie-german-143330300.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/2c5ca053f0d6e63320deabc5cf822cf24a27148941e9a6fdcbfd39de30358650/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2Fbc64e5c388f039bf7ce02d0dca685c9a.jpg",
-   "published": "2026-11-26T14:33:30+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Inside Meghan Markle’s ‘homemade holiday’ plans as she and Prince Harry celebrate first Thanksgiving back in Britain",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/inside-meghan-markle-homemade-holiday-143255105.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/874ddea4ec36b9881c267f015919f282bbadfac1d1f12d485aa6d806bb86d59f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F5c5ad2782919cd2720b8afb60ef8d000.jpg",
-   "published": "2026-11-26T14:32:55+00:00",
-   "trending": true,
-   "trend_term": "prince harry",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Inside the Radio City Rockettes’ Surprising Jobs Offstage",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/inside-radio-city-rockettes-surprising-143200686.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/880cfdbfd9ce64e701b4c780d1d236851e50c1fab83376bd787835f953742756/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F51409f2581ebda80a72a182439f50718.jpg",
-   "published": "2026-11-26T14:32:00+00:00",
-   "trending": true,
-   "trend_term": "jobs",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Khloé and Kim Kardashian feared they'd 'deformed' their faces after beauty treatment",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/khlo-kim-kardashian-feared-theyd-083150625.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/4714b8687dffafe038a7dbeefb96f4172f763a1f202cc5fbcd56ce1579525c1a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F718639036c5151f159b03838e22ac6e2.jpg_up.jpg",
-   "published": "2026-11-26T14:31:19+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Brooke Williamson Previews Her Delicious Thanksgiving Feast With Bobby Flay",
-   "url": "https://www.usmagazine.com/celebrity-news/news/brooke-williamson-previews-thanksgiving-meal-with-bobby-flay/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/brooke-williamson2.jpg",
-   "published": "2026-11-26T14:30:43+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
-   "title": "23 Hilariously Bad Translations That Leave Us With Questions",
-   "url": "https://www.yahoo.com/entertainment/articles/23-hilariously-bad-translations-leave-143025665.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/71a1e2cc9b0c1357e60b98a06229ebe368437ff22c1e9eba0b939fe7e87e093d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fknow_your_meme_909%2F54525aeb530b4322a47f3e7987cb7d22.jpg",
-   "published": "2026-11-26T14:30:25+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Florence Pugh Is Officially Eyeing the Biggest Box Office Day in History in 3 Weeks",
-   "url": "https://collider.com/florence-pugh-avengers-doomsday-dune-part-three-box-office-december-2026/",
-   "source": "collider.com",
-   "category": "Movies",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/dune-part-3-florence-pugh.jpg",
-   "published": "2026-11-26T14:30:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Big move"
-   ]
-  },
-  {
-   "title": "Brenda Song Reveals The ‘Hard’ Part About Working For Disney",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/brenda-song-reveals-hard-part-143000556.html",
-   "source": "yahoo.com",
-   "category": "Streaming",
-   "image": "https://s.yimg.com/lo/mysterio/api/12cddc63a076968d2b0d7fed40e3f9be90672b327645da50e54eb82bfc334cba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F0066412ace0285af1e647d33577205d1.jpg",
-   "published": "2026-11-26T14:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Charlotte Dobre Makes A Compelling Case For Real Names On YouTube Comments",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/charlotte-dobre-makes-compelling-case-142827757.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/9250a1ebc2b161f8f68f007db137be73ff37fc9fef706a69ad577c0bcc980253/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2Fd25a0d9f222f66072a7974585075b8e2.jpg",
-   "published": "2026-11-26T14:28:27+00:00",
-   "trending": true,
-   "trend_term": "youtube tv",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Prince Harry Is Back in U.K. to ‘Make Peace’ with King Charles and Prince William, Says Veteran Royal Photographer",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-harry-back-u-k-142439590.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/307dd3c8cf72ad294ec47dbf2b26690456ddeb0acfdbffa7e0081e56add7be3d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F6632dafe55f6e2704cfbe835423e93ff.jpg",
-   "published": "2026-11-26T14:24:39+00:00",
-   "trending": true,
-   "trend_term": "prince harry",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "'Steven Universe' voice actor comes out as transgender",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/steven-universe-voice-actor-comes-142344632.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/d89abf5bbbee9532a36efeb922fc232dbb6a64f0379f7bfdfc2a5fe987f17b3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F2f1c721896453a0b01e5bf85a320e76d.jpg",
-   "published": "2026-11-26T14:23:44+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jordyn Woods-Towns Explains How ‘Hard Things’ Made Married Life with Karl-Anthony Towns ‘Real Easy’ (Exclusive)",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jordyn-woods-towns-explains-hard-142000696.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/d16fdb1ca4cccf1716de6e30258113180f03071c1ced12a1697f0af54200990f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fd49e088edc63ce9cba5745a14b3a5010.jpg",
-   "published": "2026-11-26T14:20:00+00:00",
-   "trending": true,
-   "trend_term": "karl anthony towns",
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Wedding"
-   ]
-  },
-  {
-   "title": "Katy Perry shows off major transformation in cheeky bathtub photo",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/katy-perry-debuts-major-change-123541525.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/ee90ec0304836e4a71e9679b6ac68cc32bc27dbf51ee39de40698b757b7ab8a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fe3862c8f8183759df144d84f6b8a87ef.jpg",
-   "published": "2026-11-26T14:15:44+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Holly Ramsay, Adam Peaty welcome baby girl, reveal daughter's adorable name",
-   "url": "https://jang.com.pk/en/76917-holly-ramsay-adam-peaty-welcome-baby-girl-reveal-daughters-adorable-name-news",
-   "source": "jang.com.pk",
-   "category": "Celebrity",
-   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-26/76917_070956_eng.jpg",
-   "published": "2026-11-26T19:10:44+05:00",
-   "trending": true,
-   "trend_term": "gordon ramsay",
-   "also": [],
-   "trend_score": 0,
-   "mw": [
-    "Big move"
-   ]
-  },
-  {
-   "title": "Gérard Depardieu Rape Case Sent To Trial In Criminal Court After Actor Loses Appeal",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/g-rard-depardieu-rape-case-140359705.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8f4a3efacc1feebcce34f194f38b922ddd458a4adb5b36243e0dbf5acc8b45c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Ff2742b9e742d9ceb080aa73c9766763c.jpg",
-   "published": "2026-11-26T14:03:59+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
-   "title": "‘Home Alone’ Gets Major Reveal 36 Years Later as Macaulay Culkin Prepares for Reboot",
-   "url": "https://collider.com/home-alone-macaulay-culkin-catherine-ohara-storyline-fatherhood/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/home-alone.jpg",
-   "published": "2026-11-26T14:00:12+00:00",
-   "trending": true,
-   "trend_term": "macaulay culkin",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "'Blade Runner 2099' Stars Break Down the Prime Video Series' Biggest Finale Twists",
-   "url": "https://collider.com/blade-runner-2099-finale-matthew-needham-lewis-gribben-dimitri-abold/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/blade-runner-2099-dimitri-abold-lewis-gribben-matthew-needham-interview.jpg",
-   "published": "2026-11-26T14:00:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Big move"
-   ]
-  },
-  {
-   "title": "'Real Housewives' Stars Reveal Costars They're Grateful for This Thanksgiving",
-   "url": "https://www.usmagazine.com/entertainment/news/real-housewives-reveal-the-costars-theyre-thankful-for/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/2305196829-dorit-kemsley-thanksgiving.jpg",
-   "published": "2026-11-26T14:00:04+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
    "mw": []
   }
  ]
