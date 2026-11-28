@@ -1,22 +1,171 @@
 {
- "generated_at": "2026-11-28T08:17:22.616681+00:00",
+ "generated_at": "2026-11-28T09:50:37.749122+00:00",
  "date_us": "2026-11-28",
  "per_site": {
   "usmagazine.com": 14,
   "news.meaww.com": 3,
-  "profiles.yahoo.com": 8,
+  "profiles.yahoo.com": 7,
   "yahoo.com": 27,
-  "jang.com.pk": 8,
+  "jang.com.pk": 9,
   "collider.com": 10
  },
  "items": [
   {
-   "title": "Kate Middleton, Pippa Middleton feud rumours resurfaces after documentary absence",
+   "title": "Netflix’s 4-Part Heist Thriller Officially Revived on Streaming",
+   "url": "https://collider.com/omar-sy-lupin-streaming-success-netflix-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/06/netflix.jpg",
+   "published": "2026-11-28T09:40:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "'We've released our debut album - nearly 40 years after it was recorded'",
+   "url": "https://www.yahoo.com/entertainment/music/new-albums/articles/weve-released-debut-album-nearly-225427009.html",
+   "source": "yahoo.com",
+   "category": "Music",
+   "image": "https://s.yimg.com/lo/mysterio/api/70ae616b184cf3a9e091bd5f2e883a6e4baf36d8ffa1954ff55b8b82d953c764/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F17560ba240fbaaf3f5eef47ebc74a459.jpg",
+   "published": "2026-11-28T09:31:57+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Nigeria's acting legend was loved across Africa and beyond",
+   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/nigerias-ultimate-hard-man-become-012051368.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/46729ab97bac7d9a2f77e064fda1bc9e04316da7ad956c302498dfb8a5bdfec1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2c22a9930c2fd51387c1d870cdeb7f18.jpg",
+   "published": "2026-11-28T09:18:24+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Guy Ritchie’s ‘MobLand’ Officially Takes a Major Step Toward Season 3",
+   "url": "https://collider.com/tom-hardy-mobland-season-3-now-filming-release-window-2027/",
+   "source": "collider.com",
+   "category": "TV",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/mobland-tom-hardy-1.jpg",
+   "published": "2026-11-28T09:01:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "What happened to actress Courtney Stodden? Inside her life now 15 years after hugely controversial marriage",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/happened-actress-courtney-stodden-inside-090000701.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/4e557f1a96f35ff334fe01ff05c94648c1deca8ce5b6817a68b2906dac8276d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fdf5c7b1211c47a68af94cbbcec7fe42e.jpg",
+   "published": "2026-11-28T09:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Wedding"
+   ]
+  },
+  {
+   "title": "Prince George tracks emotional mother Princess Kate on Flightplan during impressive milestone",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/prince-george-tracks-emotional-mother-090000672.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/f8a0582d600701bc0a95cdff8f38eca7176c18c2aa166a80c30484096513cf10/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Ff1c7a27585e090af605a9ba2555a41fb.jpg",
+   "published": "2026-11-28T09:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Hong Min-gi's ex-girlfriend goes missing after accusing actor of violence: What we know",
+   "url": "https://jang.com.pk/en/77012-hong-min-gis-ex-girlfriend-goes-missing-after-accusing-actor-of-violence-what-we-know-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-28/77012_015847_eng.jpg",
+   "published": "2026-11-28T14:00:00+05:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Sudden"
+   ]
+  },
+  {
+   "title": "Indonesian Drama ‘Alpa (Absence)’ Explores a Son’s Descent Into Extremism at JAFF Future Project",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/indonesian-drama-alpa-absence-explores-085027147.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/44b0a34d719e346962185e3708f17701e8785ddfd09683a26beedcd635d66049/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F5e5593ea1219efbbc34916d4dfc44a9f.jpg_up.jpg",
+   "published": "2026-11-28T08:50:27+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Jen and Zac Affleck Set Aside Divorce to Reveal Gender of 4th Child in Heartwarming Family Moment",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/jen-zac-affleck-set-aside-084118498.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/5fb564ec73ed8d2cde8c72d361be53a37195a5944b3192713e22c154225af931/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2Ffbf21ddda2b1135c9a8f5be97f72ee64.jpg",
+   "published": "2026-11-28T08:41:18+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Split"
+   ]
+  },
+  {
+   "title": "Kate Middleton's unseen choreography behind polished Buckingham Palace photo",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/kate-middletons-unseen-choreography-behind-083000704.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/c7f30278ae957b830fff682eb40d4ccc9653d90dbf8ef30c6f96b5adbf269713/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fb19ddc450f70559b2b9d2afa712fe951.jpg",
+   "published": "2026-11-28T08:30:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Kate Middleton, Pippa Middleton feud rumours resurface after documentary absence",
    "url": "https://jang.com.pk/en/77011-kate-middleton-pippa-middleton-feud-rumours-resurfaces-after-documentary-absence-news",
    "source": "jang.com.pk",
    "category": "Celebrity",
    "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-28/77011_011534_eng.jpg",
    "published": "2026-11-28T13:16:41+05:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘The Hunchback, Soul of Paris’ Review: Quasimodo Gets an Origin Story, for Some Reason",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/hunchback-soul-paris-review-quasimodo-081435671.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/f8f7e71fd95dfe7336f38ab1cf425cf3fc0ed813bb0f6b767da8dfc60d9e6385/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F5a4876433fc3c9d6bed765edb81b980f.jpg_up.jpg",
+   "published": "2026-11-28T08:14:35+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -645,6 +794,21 @@
    ]
   },
   {
+   "title": "Celebrity Deaths of 2026: WWE's Bronson Reed and More",
+   "url": "https://www.usmagazine.com/celebrity-news/pictures/celebrity-deaths-of-2026-grateful-deads-bob-weir-and-more-stars-we-lost/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Bronson-Read-Dead-Celebrity-Deaths-2026.jpeg?crop=515px%2C632px%2C806px%2C457px&resize=1000%2C563&quality=40&strip=all",
+   "published": "2026-11-28T03:15:32+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": [
+    "Death"
+   ]
+  },
+  {
    "title": "Isaiah Rashad Says He Felt 'Kind of Depressed' After Tour",
    "url": "https://www.yahoo.com/entertainment/music/concerts/articles/isaiah-rashad-says-felt-kind-031502567.html",
    "source": "yahoo.com",
@@ -703,6 +867,19 @@
    "category": "Movies",
    "image": "https://s.yimg.com/lo/mysterio/api/09457b354a8fc7d1ec7ac1931283b30a957714e20ddeada23bb49a6cabcb760b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F288b0df41ac6aff218a826cda869b467.jpg",
    "published": "2026-11-28T03:00:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Carrie Underwood Shares How She Stays Healthy While Juggling Her Career and Kids",
+   "url": "https://www.usmagazine.com/celebrity-body/news/carrie-underwood-shares-her-health-and-fitness-secrets/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/GettyImages-2283628432Carrie-Underwood-Shares-How-She-Stays-Healthy-While-Juggling-Career-and-Kids.jpg",
+   "published": "2026-11-28T02:46:25+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -1066,19 +1243,6 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/c5cb34052c4d0d567c6460a3cf41878cb0e95a76556057e58637565f24d52614/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2Fffd9411ab93fa15f568639f9a1e330da.jpg",
    "published": "2026-11-28T01:22:02+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
-   "title": "Nigeria's 'ultimate hard man' who become an online meme",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/nigerias-ultimate-hard-man-become-012051368.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/46729ab97bac7d9a2f77e064fda1bc9e04316da7ad956c302498dfb8a5bdfec1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2c22a9930c2fd51387c1d870cdeb7f18.jpg",
-   "published": "2026-11-28T01:20:51+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -1978,7 +2142,7 @@
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/food-network-favorite-guy-fieri-222048117.html",
    "source": "yahoo.com",
    "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/5a5027fe1eb1ea2976698f9de54a7d4ffd83ca2c4fe73810eb70030f94012965/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2Fc6e9c3d0030ed97c2cdcc188faa08e5e.jpg",
+   "image": "https://s.yimg.com/lo/mysterio/api/20034d06487176b356fbd8798315963900895a64980b38bdc70b22ff93b24ff9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpage_six_articles_559%2F79486ce0a9b3eab1601df25f34bc2502.jpg",
    "published": "2026-11-27T22:20:48+00:00",
    "trending": false,
    "trend_term": null,
@@ -2432,10 +2596,10 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/What-Did-Karen-Read-Do-for-Work-Her-Job-Before-2-Murder-Trials.jpg?crop=2px%2C51px%2C1996px%2C1127px&resize=1000%2C563&quality=40&strip=all",
    "published": "2026-11-27T20:36:57+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "jobs",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 200,
    "mw": []
   },
   {
@@ -2526,7 +2690,7 @@
    "trending": true,
    "trend_term": "gordon ramsay",
    "also": [],
-   "trend_score": 500,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -2606,11 +2770,11 @@
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Amy-Schumer-Shows-Off-New-Bangs-Channels-Sabrina-Carpenter.jpg?crop=0px%2C0px%2C2000px%2C1131px&resize=1000%2C563&quality=86&strip=all",
    "published": "2026-11-27T20:19:58+00:00",
    "trending": true,
-   "trend_term": "covered by 2 sites",
+   "trend_term": "sabrina carpenter · covered by 2 sites",
    "also": [
     "yahoo.com"
    ],
-   "trend_score": 2000,
+   "trend_score": 2100,
    "mw": []
   },
   {
@@ -3480,7 +3644,7 @@
    "trending": true,
    "trend_term": "gordon ramsay",
    "also": [],
-   "trend_score": 500,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -5720,7 +5884,7 @@
    "trending": true,
    "trend_term": "gordon ramsay",
    "also": [],
-   "trend_score": 500,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -7278,7 +7442,7 @@
    "trending": true,
    "trend_term": "gordon ramsay",
    "also": [],
-   "trend_score": 500,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -8567,7 +8731,7 @@
    "trending": true,
    "trend_term": "gordon ramsay",
    "also": [],
-   "trend_score": 500,
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -10216,7 +10380,7 @@
    "also": [
     "yahoo.com"
    ],
-   "trend_score": 2500,
+   "trend_score": 2000,
    "mw": []
   },
   {
@@ -10390,9 +10554,9 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/880cfdbfd9ce64e701b4c780d1d236851e50c1fab83376bd787835f953742756/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F51409f2581ebda80a72a182439f50718.jpg",
    "published": "2026-11-26T14:32:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "jobs",
+   "trend_score": 200,
    "also": [],
    "mw": []
   },
@@ -10540,7 +10704,7 @@
    "trending": true,
    "trend_term": "gordon ramsay",
    "also": [],
-   "trend_score": 500,
+   "trend_score": 0,
    "mw": [
     "Big move"
    ]
@@ -11483,323 +11647,6 @@
    "mw": [
     "Wedding"
    ]
-  },
-  {
-   "title": "Hailey Bieber Goes Sheer in Dolce & Gabbana Fur Cardigan Dress in Bahamas",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/hailey-bieber-goes-sheer-dolce-094506995.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/5f1c83ef98e7372a186e40e89e59e0a6f00cf0e414a2329c7fb4e475ec6c8c43/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F60195da033f50f6e16a50ad50e56de1c",
-   "published": "2026-11-26T09:45:06+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
-   "title": "‘Steps’ Director Alyce Tzue On “Punk Rock” Inspirations For ‘Cinderella’ Reimagining",
-   "url": "https://www.yahoo.com/entertainment/movies/articles/steps-director-alyce-tzue-punk-094500811.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/985ac4a36d969a06a08a6f087efe634dea991703c534b391a506b4c64136d3a3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2Fc551185474a59b6a6416ce5022b9167c.png",
-   "published": "2026-11-26T09:45:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Hailey Bieber Goes Sheer in Dolce & Gabbana Fur Cardigan Dress in Bahamas",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/hailey-bieber-goes-sheer-dolce-094448455.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/3ffc8128bb66cc817d65baf6770ed72d7e33653ec16e5d198e23b713f0789a99/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2F3c310142edb5bdfb965d171c2ab974e3.jpg",
-   "published": "2026-11-26T09:44:48+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Katy Perry’s De La Vali Corset Micro Minidress Gets a Sheer Lacy Upgrade",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/katy-perry-la-vali-corset-093547188.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/11e5e51b5669ef4559e2a85b811c09b0642c6c451261bd520a0cfedfc38c7748/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ffdeda5a96e1b40f88273cbc57e41fcf0.jpg",
-   "published": "2026-11-26T09:35:47+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "18 New TV Characters Who Made Their Shows Way Better",
-   "url": "https://www.yahoo.com/entertainment/articles/18-tv-characters-made-shows-093402585.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/cbba076260b94472b1e240db6c61139076b97e6c5290ceaf18da620988dcc62e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F49ab5fe69f72ff5f7690bfa5c35b9cf6.gif",
-   "published": "2026-11-26T09:34:02+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Katy Perry & Justin Trudeau Go Full Couple Mode in Intimate Europe Photos",
-   "url": "https://www.yahoo.com/entertainment/articles/katy-perry-justin-trudeau-full-093302128.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/6093513fc547b17c349161b6bb1e28c523954c8587d57ab212d64cfd32f41c50/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F5c69d135183c1070519a77ecb423e43c.jpg",
-   "published": "2026-11-26T09:33:02+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Harriet Phillips quietly bends royal style rule for new patronage",
-   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/harriet-phillips-quietly-bends-royal-093000108.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/8ea5cc285a278801d8e5186b2c710d570ec84219dd96c8a92d61994c04e29548/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F8a10cde828a1b35546c7067a828a8e6d.jpg",
-   "published": "2026-11-26T09:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Morgan Freeman Accused Of Turning His Back On Grandchildren Facing Homelessness",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/morgan-freeman-accused-turning-back-093000960.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b909879be7e08bf5400cedde8090f1439d9885c71ce8e69e97178ed00c553a54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F71082a2cecb2e6ba4517f7aaaf5d2b2a.jpg_up.jpg",
-   "published": "2026-11-26T09:30:00+00:00",
-   "trending": true,
-   "trend_term": "morgan freeman",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Angelina Jolie and Brad Pitt settle long-running legal battle over French winery",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/angelina-jolie-brad-pitt-settle-092635973.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/048e72dd90487c7e7768c2f6c922feedf3b03a1096600e45dafe90941db60c00/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fdd97db5cd1350266ddb2d3e46d1e3905.jpg_up.jpg",
-   "published": "2026-11-26T09:26:35+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jennifer Lopez Says That Watching One Movie Every Thanksgiving Inspired Her Career",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jennifer-lopez-says-watching-one-092200155.html",
-   "source": "yahoo.com",
-   "category": "Movies",
-   "image": "https://s.yimg.com/lo/mysterio/api/7965e2f5bb46e04278d03ea3c2213d19f97201bc6421b6d3bd835c7d207e5030/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb5cd43c73f746331d962c73c79a60eb6.jpg",
-   "published": "2026-11-26T09:22:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Simone Ashley Blooms in Gucci by Tom Ford Cherry Blossom Micro Minidress",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/simone-ashley-blooms-gucci-tom-091358812.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/4ed395e2fa645dfd80556563226687e4e5cb7119866cae0c4606f4b9a30754be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2F94f68fa5b91bacf3e97f41e9c3549374.jpg",
-   "published": "2026-11-26T09:13:58+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Hailee Steinfeld Shares Personal Message Before Bills Thanksgiving Game",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/hailee-steinfeld-shares-personal-message-091141640.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ab820c7d541b0447f4b74417cc3062c798283d32a448e6249ca6431f898fa89c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fe3d0202b5632bcd7a7b4c15788dd6921.jpg",
-   "published": "2026-11-26T09:11:41+00:00",
-   "trending": true,
-   "trend_term": "hailee steinfeld",
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Kourtney Kardashian’s Toddler Son Loves Matching Shoes With Dad Travis",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/kourtney-kardashian-toddler-son-loves-090801826.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/3744b0d559cfd25859633b6e1f7a63708ea49f9e78555cf7be5e2f256055de5d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmomtastic_536%2Fdfca5d6729fa2eeb09b5e84286fd64a8.jpg",
-   "published": "2026-11-26T09:08:01+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Rihanna Shares Unfiltered Moments With Her Kids From Savage X Fenty Shoot: ‘Behind the Scenes With the Actual Gifts’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/rihanna-shares-unfiltered-moments-her-090522710.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/f246473939643290bf081c57026bfa6a06f15efd18efd57c79a098c3525e57fb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2F189717b4166207e089b5704a999d8338.jpg",
-   "published": "2026-11-26T09:05:22+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Hoda Kotb Addresses Macy’s Thanksgiving Day Parade Being Postponed for 1st Time in History",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/hoda-kotb-addresses-macy-thanksgiving-084622864.html",
-   "source": "profiles.yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/9fa5e34ac597c36288846a9453c0e5c85ab6b283b10c3bf9e1caaa86a9b6a2de/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fb9c7b5be93dc3bab822d2864d7084951.jpg",
-   "published": "2026-11-26T08:46:22+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": [
-    "Sudden"
-   ]
-  },
-  {
-   "title": "BBC Radio 1's Big Weekend 2027 heads to Brighton",
-   "url": "https://www.yahoo.com/entertainment/music/festivals/articles/bbc-radio-1s-big-weekend-084311212.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/64a3aa262c1bebd6c2ae95776c0088547e4c60336adff40ef7fa360611bbcf5e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0eaa66664d4b4a28661366a3cc840127.jpg",
-   "published": "2026-11-26T08:43:11+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Olivia Jade Keeps It Playful for F1 in Louis Vuitton Micro Minidress & Boots",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/olivia-jade-keeps-playful-f1-084054384.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/6c2ff8726052408ba73f7cad1f292c573d7f2e98c30607eaeadecd160908c0ce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_fashion_spot_348%2F57d57583a347de58a4fddd5e10097a43.jpg",
-   "published": "2026-11-26T08:40:54+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Meghan Markle’s As Ever Faces Another AI Row Over $148 Holiday Gift",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/meghan-markle-ever-faces-another-083000521.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/630e0abebc3079558a0fa32bbe22a1324ca369e7b8eb2e4167eeb7465fd42168/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F19a130cfee3e75affd5696215565e2d1.jpg",
-   "published": "2026-11-26T08:30:00+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Joe Rogan Warns Donald Trump Can’t ‘Keep Winning’ as Public Frustration Grows",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/joe-rogan-warns-donald-trump-082915618.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/992e0346d8f68ff77957d7c1ee7fbdf32c39b20c91516e840b514ff2910f69bf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F5be4d213c61d7fc02296c1554913513d.jpg",
-   "published": "2026-11-26T08:29:15+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Céline Dion shares emotional Thanksgiving message: 'My heart is filled with gratitude'",
-   "url": "https://www.yahoo.com/entertainment/music/concerts/articles/c-line-dion-shares-emotional-082827925.html",
-   "source": "yahoo.com",
-   "category": "Music",
-   "image": "https://s.yimg.com/lo/mysterio/api/83ffd59fd7cc37b78ac4f487e89d0d10cdc5e322492317f0845ca298e452dea3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2F7d5edd3b6624ef0d90375d915a86778f.jpg_up.jpg",
-   "published": "2026-11-26T08:28:27+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Joe Rogan Warns Donald Trump Can’t ‘Keep Winning’ as Public Frustration Grows",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/joe-rogan-warns-donald-trump-082744693.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b83e9bb650208db65277e9018c0c052f854b52475cd0ac931c475e60c0578ae6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F2283026e0cf03bcd4f452a8e569c8812.jpg",
-   "published": "2026-11-26T08:27:44+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Duran Duran pays tribute to guitarist Andy Taylor, dead at 65 after battle with prostate cancer",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/duran-duran-pays-tribute-guitarist-082433233.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/24655cf44d5e7385aaad21b1a1aad20e40ce8f2f222c00f3ae9795cbbbb06d24/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F9fbcb9a1660cdde6b03045ca4cfad80f.jpg_up.jpg",
-   "published": "2026-11-26T08:24:33+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death",
-    "Illness"
-   ]
-  },
-  {
-   "title": "Brooklyn Beckham Takes Control of His Name Amid Family Feud: ‘Bribe Me Into Signing Away the Rights to My Name’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/brooklyn-beckham-takes-control-name-082331355.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f53c34741592cb906cdb5fe0701beca9db4e0cb0e77ac40ef8ef3de06e302647/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2Fe2c3c1d356ccb517f3707be6e6d34924.jpg",
-   "published": "2026-11-26T08:23:31+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Sia Speaks Out After Reaching Custody Agreement With Estranged Husband: ‘My Focus Remains on Being a Loving Parent’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/sia-speaks-reaching-custody-agreement-081813725.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/ea83ebee3f18bd0ef0a733c90ff40cf2ca96afe8fe0339e8d9a509044d4f7b4f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparenting_patch_articles_990%2F23f49611d7825970b1abddb55524a12b.jpg",
-   "published": "2026-11-26T08:18:13+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
   }
  ]
 }
