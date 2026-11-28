@@ -1,15 +1,145 @@
 {
- "generated_at": "2026-11-28T04:56:42.244488+00:00",
- "date_us": "2026-11-27",
+ "generated_at": "2026-11-28T05:55:35.182860+00:00",
+ "date_us": "2026-11-28",
  "per_site": {
-  "usmagazine.com": 15,
+  "usmagazine.com": 14,
   "news.meaww.com": 2,
-  "profiles.yahoo.com": 10,
+  "profiles.yahoo.com": 8,
   "yahoo.com": 27,
-  "jang.com.pk": 8,
+  "jang.com.pk": 9,
   "collider.com": 10
  },
  "items": [
+  {
+   "title": "Norovirus confirmed as cause of Caribbean Princess outbreak affecting 268",
+   "url": "https://jang.com.pk/en/77003-norovirus-confirmed-as-cause-of-caribbean-princess-outbreak-affecting-268-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-28/77003_104542_eng.jpg",
+   "published": "2026-11-28T10:40:34+05:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Kate Middleton in tears over George, Charlotte, Louis voice messages in new doc",
+   "url": "https://jang.com.pk/en/77005-kate-middleton-in-tears-over-george-charlotte-louis-voice-messages-in-new-doc-news",
+   "source": "jang.com.pk",
+   "category": "Celebrity",
+   "image": "https://jang.com.pk/assets/uploads/english_news/2026-11-28/77005_103707_eng.jpg",
+   "published": "2026-11-28T10:30:05+05:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "‘Pride and Prejudice’ Star Reveals ‘Gorgeous’ Personal Message From Ex Mr. Darcys",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/pride-prejudice-star-reveals-gorgeous-052940205.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/67d69bd242fb7d44d8e977b2e25ba5b63acc1287132720359834b6afa78eaa6a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthewrap.com%2Ff842ab86d1d118611d0c77493747a1de.jpg",
+   "published": "2026-11-28T05:29:40+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "34 Years Later, Clint Eastwood's Best Quote Is Still the Greatest in Western Movie History",
+   "url": "https://collider.com/best-western-quote-all-time-clint-eastwood-unforgiven/",
+   "source": "collider.com",
+   "category": "Movies",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/05/clint-eastwood_aline-levasseur_shane-thomas-meier_unforgiven-1992.jpg",
+   "published": "2026-11-28T05:23:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Jon Bernthal’s 132-Minute Crime Thriller 'The Accountant 2' Is the Perfect Watch Before It’s Cut From Hulu",
+   "url": "https://collider.com/jon-bernthal-accountant-2-cut-from-hulu-november-2026/",
+   "source": "collider.com",
+   "category": "Streaming",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/04/the-accountant-2.jpg",
+   "published": "2026-11-28T05:08:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Indonesian Cinema’s Next Chapter Is Reaching the World ‘Without Losing Our Cultural Identity,’ Says JAFF Market Director Linda Gozali",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/indonesian-cinema-next-chapter-reaching-050709045.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/1475fab2a196fa2edd3680db1d4f6786e60511c700d8dba6f91de111004edae3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F3095545cb9c1f109d05e48d2ad62c062.jpg_up.jpg",
+   "published": "2026-11-28T05:07:09+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Before The Lord of the Rings, Tolkien Wrote an Epic Christmas Saga for His Kids",
+   "url": "https://collider.com/jrr-tolkien-christmas-stories-before-lord-of-the-rings/",
+   "source": "collider.com",
+   "category": "Celebrity",
+   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/tolkien-father-christmas-letters.jpg",
+   "published": "2026-11-28T05:05:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Southeast Asian Cinema’s Global Rise Needs Long-Term Backing to Last, Says JAFF Chief Ifa Isfansyah",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/southeast-asian-cinema-global-rise-045908144.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/7436fbc3e4f3bbdc93332916fd4764325abea5a40b449dfa6f6026bd1edb4532/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F7939147d22c533ddce78642fa447e693.jpg_up.jpg",
+   "published": "2026-11-28T04:59:08+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "William Shatner, 95, apologizes to filmmaker after convention snub",
+   "url": "https://www.yahoo.com/entertainment/celebrity/articles/william-shatner-95-apologizes-filmmaker-045115083.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/3b7957c4447415778cdb51f8e6131091d9b7957db3e05acc1528ed5747d39178/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fc8dc40ec9fe89a1c01b3f031c9f2ab11.jpg",
+   "published": "2026-11-28T04:51:15+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "France Knights ‘Autobiography,’ ‘Tiger Stripes’ Producer Yulia Evina Bhara at JAFF Market",
+   "url": "https://www.yahoo.com/entertainment/movies/articles/france-knights-autobiography-tiger-stripes-045055439.html",
+   "source": "yahoo.com",
+   "category": "Movies",
+   "image": "https://s.yimg.com/lo/mysterio/api/ee0e93b09b88852633774178f2446a084e6744a481d2e6a4740ae77c89518948/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2F450c5cb1922c2b29d27e9f0fe23c1594.jpg_up.jpg",
+   "published": "2026-11-28T04:50:55+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
   {
    "title": "7 Dystopian Books To Read if You Love 'The Hunger Games: Sunrise on the Reaping'",
    "url": "https://collider.com/dystopian-books-like-hunger-games-sunrise-on-the-reaping/",
@@ -329,6 +459,19 @@
    "mw": []
   },
   {
+   "title": "The Heartbreaking Story Behind Rudolph the Red-Nosed Reindeer’s Creation in 1939",
+   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/heartbreaking-story-behind-rudolph-red-023800046.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/6055535ffe0afdaa21fa1f293ffa0bd486d481f53395bf95e389a5710b961079/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F435301454f8c16cfef5d86d9e8fe4085.jpg",
+   "published": "2026-11-28T02:38:00+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
    "title": "‘Star Trek’ Star Jonathan Frakes Says This Warning Sign Led to Bladder Cancer Diagnosis",
    "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/star-trek-star-jonathan-frakes-023751059.html",
    "source": "yahoo.com",
@@ -363,6 +506,19 @@
    "category": "Streaming",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/aidan-turner-the-diplomat-netlix.jpg",
    "published": "2026-11-28T02:30:12+00:00",
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
+   "mw": []
+  },
+  {
+   "title": "Meghan Markle Shares Her Favorite Easy Holiday Snack: Honey-Roasted Spiced Nuts",
+   "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/meghan-markle-shares-her-favorite-023000189.html",
+   "source": "yahoo.com",
+   "category": "Celebrity",
+   "image": "https://s.yimg.com/lo/mysterio/api/e2a729a215da8883c4341a33713e4c9580c83d7b6c9a48aa66482e09b244397b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F94d2c99d8a54089c0af73cc1be058b6c.jpg",
+   "published": "2026-11-28T02:30:00+00:00",
    "trending": false,
    "trend_term": null,
    "also": [],
@@ -745,7 +901,7 @@
    "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/vera-wang-77-wears-glittering-003030398.html",
    "source": "yahoo.com",
    "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/c5a506dbde12b908ee297cf778f6c95c3e36680d82f0c67ec8724b51f25eccc9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F44cc0e43d169f5dc3211fe5b51273be4.jpg",
+   "image": "https://s.yimg.com/lo/mysterio/api/3e7e976f7fb651ceea957d0825aa6e011625a3be6ca417880ac78139b8feef0f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F3be34be7c56f3a04e6b33a1f91266cd4.jpg",
    "published": "2026-11-28T00:30:30+00:00",
    "trending": false,
    "trend_term": null,
@@ -1067,10 +1223,10 @@
    "category": "Movies",
    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/ghost-soldier-jim-caviezel.jpg",
    "published": "2026-11-27T23:16:12+00:00",
-   "trending": false,
-   "trend_term": null,
+   "trending": true,
+   "trend_term": "jim caviezel",
    "also": [],
-   "trend_score": 0,
+   "trend_score": 500,
    "mw": []
   },
   {
@@ -1267,6 +1423,24 @@
    ]
   },
   {
+   "title": "Man Arrested After He Shot Coworker, Claimed It Was a 'Freak Accident'",
+   "url": "https://www.usmagazine.com/crime-news/news/man-arrested-for-shooting-coworker-said-it-was-accident/",
+   "source": "usmagazine.com",
+   "category": "Celebrity",
+   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/man-shot-coworker-freak-accident.jpg?w=1000&h=563&crop=1&quality=86&strip=all",
+   "published": "2026-11-27T22:47:18+00:00",
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "yahoo.com"
+   ],
+   "trend_score": 2000,
+   "mw": [
+    "Accident",
+    "Sudden"
+   ]
+  },
+  {
    "title": "Gary Sinise Reveals What He Found In Son’s Journals After His Death",
    "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/gary-sinise-reveals-found-son-224500591.html",
    "source": "yahoo.com",
@@ -1301,10 +1475,12 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/744e5a87e5fb40054413b8f8c99a0c0db1b9b802485b31c2c7f19fcf2bb0088c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F895739fc95f18395dd28b0b0fbd958f3.jpg",
    "published": "2026-11-27T22:40:26+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
+   "trending": true,
+   "trend_term": "covered by 2 sites",
+   "also": [
+    "news.meaww.com"
+   ],
+   "trend_score": 2000,
    "mw": [
     "Illness"
    ]
@@ -1921,12 +2097,10 @@
    "category": "Celebrity",
    "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/What-Did-Karen-Read-Do-for-Work-Her-Job-Before-2-Murder-Trials.jpg?crop=2px%2C51px%2C1996px%2C1127px&resize=1000%2C563&quality=40&strip=all",
    "published": "2026-11-27T20:36:57+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "yahoo.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -2584,12 +2758,10 @@
    "category": "Celebrity",
    "image": "https://s.yimg.com/lo/mysterio/api/6e3a2b5891cd675aabbfad1d24cad64411492b5b15fb876aff89448643f6ef5f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2Fca7bb14d0cf80c956b2b88d601be35c4.jpg",
    "published": "2026-11-27T18:36:53+00:00",
-   "trending": true,
-   "trend_term": "covered by 2 sites",
-   "also": [
-    "usmagazine.com"
-   ],
-   "trend_score": 2000,
+   "trending": false,
+   "trend_term": null,
+   "also": [],
+   "trend_score": 0,
    "mw": []
   },
   {
@@ -11553,153 +11725,6 @@
    "published": "2026-11-26T05:57:42+00:00",
    "trending": false,
    "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "U2 Pays Tribute to Dolly Parton with Icon’s Final Recording During Thanksgiving Eve Halftime Show Performance",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/u2-pays-tribute-dolly-parton-055215583.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/f1a3f1bf961086979744f48e9baab3ac28d5b45ed6cbef1fbd0c434b0564e30d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fe86f5fbe80342441a260f8b055f07596.jpg",
-   "published": "2026-11-26T05:52:15+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": [
-    "Death"
-   ]
-  },
-  {
-   "title": "John Travolta gets emotional reflecting on his 'beautiful career' after Lifetime Achievement Award",
-   "url": "https://news.meaww.com/john-travolta-gets-emotional-reflecting-on-his-beautiful-career-after-lifetime-achievement-award",
-   "source": "news.meaww.com",
-   "category": "Awards",
-   "image": "https://media.pubninja.com/articles/brand-5/covers/1795668352944_39fb7acbdb00.jpg",
-   "published": "2026-11-26T05:48:37+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
-   "title": "'The Voice' Star Josh Sanders Arrested on Suspicion of DWI, Making Threats",
-   "url": "https://www.usmagazine.com/crime-news/news/the-voices-josh-sanders-arrested-on-suspicion-of-dwi-threats/",
-   "source": "usmagazine.com",
-   "category": "Celebrity",
-   "image": "https://www.usmagazine.com/wp-content/uploads/2026/11/Josh-Sanders-Arrested-on-Suspicion-of-DWI-e1795669613118.jpg",
-   "published": "2026-11-26T05:43:48+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": [
-    "Sudden"
-   ]
-  },
-  {
-   "title": "Daniella Karagach Reveals What Caused Ezra Frech’s Ear to Start Bleeding During the “Dancing With the Stars” Finale",
-   "url": "https://www.yahoo.com/entertainment/tv/articles/daniella-karagach-reveals-caused-ezra-054344699.html",
-   "source": "yahoo.com",
-   "category": "TV",
-   "image": "https://s.yimg.com/lo/mysterio/api/70366e9adefba16505d46be5273678cc8704d0069b2870152927b62984b6ef2f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F10117824e6f0dd4c353f6352f412a69d.jpg",
-   "published": "2026-11-26T05:43:44+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Sofia Vergara, 54, makes glamorous return to hometown in jaw-dropping sheer gown",
-   "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/sofia-vergara-54-makes-glamorous-053844986.html",
-   "source": "yahoo.com",
-   "category": "Fashion",
-   "image": "https://s.yimg.com/lo/mysterio/api/7a4ca64b848a2caf33105ec268e500a5689d23d727c0301a2b1c04053c7b3500/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Ffeef88e9f4d3030f5b952534353d6550.jpg",
-   "published": "2026-11-26T05:38:44+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "John Wayne’s 119-Minute Western Thriller 'The Searchers' Is a Start-to-Finish Masterpiece",
-   "url": "https://collider.com/john-wayne-the-searchers-western-streaming-november-2026/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/05/the-searchers.jpg",
-   "published": "2026-11-26T05:26:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "9 Books From the 2010s That Are Officially Classics Today",
-   "url": "https://collider.com/books-2010s-officially-classics-today/",
-   "source": "collider.com",
-   "category": "Celebrity",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/pachinko-book-cover.jpg",
-   "published": "2026-11-26T05:05:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "‘Glee’ Star Jenna Ushkowitz Calls Out ‘Curse’ Speculation After Losing Castmates: ‘We Lost Friends’",
-   "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/glee-star-jenna-ushkowitz-calls-050056022.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/b2efdff5079579f07ce8612cb6b581c3e7fbc7b7a807b42388107303ab31ecef/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fc8fa5f1f57cfe5e889859baec8d820b8.jpg",
-   "published": "2026-11-26T05:00:56+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Khloe Kardashian Claims Travis Barker Told Her He ‘Never Sees’ Wife Kourtney Kardashian",
-   "url": "https://www.yahoo.com/entertainment/celebrity/articles/khloe-kardashian-claims-travis-barker-050041720.html",
-   "source": "profiles.yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/e93aa37f1210bf05bb1fec97154399ae39015049d018c502f83065c73ce2b335/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus_magazine_896%2F5464a0f0c3a9331b63a79199965f254e.jpg",
-   "published": "2026-11-26T05:00:41+00:00",
-   "trending": false,
-   "trend_term": null,
-   "also": [],
-   "trend_score": 0,
-   "mw": []
-  },
-  {
-   "title": "‘Yellowstone’ Meets ‘Desperate Housewives’ in Netflix’s Ambitious 2-Season Thriller",
-   "url": "https://collider.com/yellowstone-desperate-housewives-replacement-series-hunting-wives-netflix/",
-   "source": "collider.com",
-   "category": "Streaming",
-   "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the_hunting_wives_n_s2_e2_00_33_15_11rc_c.jpg",
-   "published": "2026-11-26T05:00:12+00:00",
-   "trending": false,
-   "trend_term": null,
-   "trend_score": 0,
-   "also": [],
-   "mw": []
-  },
-  {
-   "title": "Jesse Eisenberg Says Fans Aren’t Crazy With Him Because ‘There’s No Sexuality to My Work’: Life Is ‘Different’ When People ‘Want to Sleep With’ You",
-   "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/jesse-eisenberg-says-fans-aren-050000201.html",
-   "source": "yahoo.com",
-   "category": "Celebrity",
-   "image": "https://s.yimg.com/lo/mysterio/api/8646f9d998d2b7b3282e4fcd9a8cbe8b61b4c28765edef52fd67816df3984092/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvariety.com%2Fc29a79da44aebcc300551731bae73b60.jpg",
-   "published": "2026-11-26T05:00:00+00:00",
-   "trending": true,
-   "trend_term": "jesse eisenberg",
    "trend_score": 0,
    "also": [],
    "mw": []
